@@ -1,5 +1,5 @@
 .env
 .idea/
 .env/
-model/store
+data/processed/train_embedding.txt
 __pycache__/
