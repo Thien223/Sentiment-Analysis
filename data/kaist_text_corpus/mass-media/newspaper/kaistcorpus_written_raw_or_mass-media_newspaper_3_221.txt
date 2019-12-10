@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_221.txt </filename>
+<title> 조선일보  </title>
+<author> 김기훈(기자)</author>
+<date> 93.06.11</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0789CSM930611
+{김기훈}
+「6공실세」 측근에 “마역무마” 1억원/영화배우 임지연씨
+◎90년… 송인영씨에※ 미녀와 마약, 돈, 그리고 권력…. 9일
+서울지검 북부지청 특수부에서 맞닥뜨린 이 네단어가 잔잔한 파문을 일으키고
+있다. 마약의 일종인 필로폰 투약 혐의로 검찰의 수배를 받던 84년
+미스코리아 태평양화학이자 영화배우 림지연씨(30). 임씨에게 수배해제를
+알선해주겠다며 1억1천7백만원을 받아 꿀꺽한 혐의로 북부지청에 의해
+쇠고랑을 찬 전국제문화전략연구�%
+</tdmsfiletext>

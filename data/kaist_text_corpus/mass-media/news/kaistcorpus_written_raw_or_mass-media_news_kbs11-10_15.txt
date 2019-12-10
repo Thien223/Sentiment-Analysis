@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-10_15.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.11.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+학생체벌 중등교사 항소심서 무죄
+
+
+⊙황수경 앵커 :
+          서울 지방법원 형사항소 6부는 오늘 성적이 저조하다면서 아이스하키채를
+잘라만든 매로 자신이 가르치는 김모군을 때려서 디스크에 걸리게 했다는 이유로
+불 구속 기소돼서 1심에서 벌금 백만원을 선고받은 서울 모중학교 체육교사 배모
+피고인에게 원 심을 깨고 무죄를 선고했습니다. 
+</tdmsfiletext>

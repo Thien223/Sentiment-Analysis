@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-14_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.14 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.06</kdc>
+<tdmsfiletext>
+서울 장안동 상공 UFO 촬영
+
+서울 장안동 상공에서 UFO 즉 미확인 비행물체가 사진으로 촬영됐 습니다.
+서울 장평중학교 1학년인 김동혁군이 지난 8월24일 장안동 근린공원에서
+촬영한 이 사진에는 느린속도로 비행중인 접시형 UFO와 UFO 위쪽으로
+증기가 뿜어져 나오는 이른바 베이터 현상이 잘 나타나 있습니다.
+
+
+</tdmsfiletext>

@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-11_9.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.11 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+UN백과사전 '독도는 일본땅' 오기
+
+한국 해양대 사회과학연구소 객원 연구원인 허정기氏는 지난 94년에 발행된
+유엔 백과사전에 독도가 다께시마로 지칭돼있고 일본영해 12마일 안에 있으나
+한국 경찰의 경비초소가 설치돼서 분쟁이 잦은 섬으로 설명하고 있다고
+주장했습니다. 
+</tdmsfiletext>

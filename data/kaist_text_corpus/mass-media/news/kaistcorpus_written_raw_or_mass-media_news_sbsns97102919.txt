@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102919.txt </filename>
+<title> SBS 뉴스</title>
+<author> </author>
+<date> 1997.10.29 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+만3천여종의 국화 품평회
+요즘 활짝 핀 국화꽃이 가을 분위기를 더하고 있습니다. 오늘 경기도 수원에서는 국화꽃의 자태와 향기를 겨루는 품평회가 있었습니다. 
+
+2천여평의 시험포를 가득 메운 꽃, 색깔과 모양은 다르지만 종류는 모두 한가지, 국화꽃입니다. 
+국화꽃의 종류는 모두 만3천여종, 오늘은 가장 빼어난 꽃을 뽑는 최초의 품평횝니다. 
+
+오늘 품평회에서는 국화품종 2가지를 교배해 만든 B1-44와 B1-45가 선발돼 앞으로 정식 품종으로 개발절차를 거치게 됐습니다. 
+한국에서 육종된 국화는 현재 '봉안'과 '태양' 두 품종이 밖에없지만 화훼연구소는 오는 2010년까지 우리기술로 육종한 우수 국화를 40종 정도 개발할 계획입니다. 
+에스비에스 송호금입니다. 
+</tdmsfiletext>

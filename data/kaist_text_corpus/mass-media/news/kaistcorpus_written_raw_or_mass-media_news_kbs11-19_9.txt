@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-19_9.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.18 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"북한군 대좌 미국 망명"
+
+
+⊙류근찬 앵커 :
+          해외의 북한대사관에서 무관으로 근무하던 46살 최구화 북한 대좌가
+오늘 밤 미국으로 망명했다고 일본의 시사 격주간지 사피오지 최신호가
+보도했습니 다. 최 대좌는 올봄 이집트 주재 북한대사 장승길씨 가족의
+망명에 앞서서 미국으로 망 명했다고 이 사피오지는 전했습니다. 
+
+
+</tdmsfiletext>

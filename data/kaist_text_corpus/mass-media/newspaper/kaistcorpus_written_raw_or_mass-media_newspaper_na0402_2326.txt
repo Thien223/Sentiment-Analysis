@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2326.txt </filename>
+<title> 조선일보  </title>
+<author> 김호연(기자)</author>
+<date> 93.10.15</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2378CSM931015    
+［건강메모］                                                                  
+｛김호연｝                                                                    
+관절：３／민간요법은  통증­염증  근본치료  못해（건강메모）                  
+  인체에는  ６８개  관절이  골고루  분포되어  있다．  이  때문에  가끔 
+병적인  상태인  관절통이나  관절염이  나타난다．  관절이  붓고  아프고  후끈후끈 
+달아오르면서  아침에  관절이  뻣뻣해지면  이는  단순한  관절통이  아니라 
+관절염  증상이다．※  관절염이  진행되면  전신쇠약과  피로가  오며  관절  불구가 
+되기도  한다．  때로는  자연치유되기도  한다．  이  경우  많은  사람들은 
+과잉치료를  받거나，  관절염을  과소평가하여  큰  손해를  보는  일이  허다하다．※ 
+특히  고양이  고기，  희귀동물의  뼈，  특수한  종류의  풀잎이나  나뭇가지 
+등  특정  음식물을  통한  민간요법은  일시적  효험이  있더라도  절대 
+근본치유책이  되지  못한다．  뜸  침술  기타  한방제들의  사용도  이  범주를  크게 
+벗어나지  못한다．〈김호연·가톨릭의대  교수·내과〉※                           
+
+</tdmsfiletext>

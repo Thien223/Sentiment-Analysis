@@ -1,0 +1,25 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102804.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+뉴욕:사상최대 폭락
+미국 뉴욕 증권시장의 주가가 현지시간으로 27일, 사상 가장 큰폭으로 떨어졌습니다. 
+김진원특파원이 보도합니다. 
+
+뉴욕증시는 27일, 주가가 다우존스지수로 554.26포인트가 내려가는 대 폭락사태가 일어났습니다. 
+10년전 주가 대 폭락때 도입된 제도에 따라 하루에 거래도 두차례나 중단됐습니다. 
+이번 뉴욕증시 주가 폭락은 블랙먼데이라고 명명된 지난 87년 10월 19일의 508포인트보다 낙폭이 더 컸습니다. 
+그러나 하락률은 이번에는 7.26%였고, 지난 87년에는 23%에 달해서 10년전 당시보다 충격은 조금 덜했습니다. 
+
+미국 정부는 증시폭락에 깊은 관심을 보이면서도 경제기반이 탄탄하다는 점을 들어 일시적인 현상으로 분석하고 있습니다. 
+
+미국 언론들은 증시폭락사태를 톱뉴스로 보도하면서, 갑자기 태풍이 휘몰아친 형국이라며 이번 10월 27일 뉴욕증시를 스토미 먼데이로 블렀습니다. 
+뉴욕에서 sbs김진원입니다.
+</tdmsfiletext>

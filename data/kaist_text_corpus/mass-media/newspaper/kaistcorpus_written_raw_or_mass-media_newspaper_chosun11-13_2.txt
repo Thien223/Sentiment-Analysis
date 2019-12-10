@@ -1,0 +1,64 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-13_2.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-13_2.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.13 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.02</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[판도변화 조짐] "이회창이 추월한다" 대선길 비상 , 11-13.hwp/Titleend
+Inf/조선일보, 1997년 11월 13일 /Infend
+Text/ 
+     11/13(목) 19:05 
+
+
+
+
+                     금융개혁안 표결앞두고 '갈등' 
+
+                     국회 재경위는 13일 오전 법안심사 소위를 열고 금융개혁
+                     관련 13개 법안을 표결에 부쳐 신한국당 수정안을 다수안으로
+                     채택, 전체회의에 상정했다. 
+
+                     이에 따라 재경위는 14일 오전 10시 전체회의를 열어
+                     수정안을 표결처리하며, 재경위에서 통과되면 17일쯤 본회의
+                     의결을 거쳐 최종 확정된다. 
+
+                      관련기사
+                        [중앙은 제도-금융감독체계]50년만에 '대변혁' 예고 
+
+
+                     민주당과 국민신당도 신한국당 수정안에 대해 찬성의사를
+                     표시, 특별한 상황 변동이 없는한 통과가 확실시되고 있다. 
+
+                     그러나 한국은행(은행감독원 포함)과 보험감독원, 증권감독원
+                     등 3개 금융감독기관은 {신한국당 수정안은 정부원안을
+                     개악시킨 변칙안}이라며 반발, 이날 전직원의 총사퇴를
+                     결의했다. 
+
+                     한국은행과 보감원 전 직원들은 이날 오후 비상총회를 열어
+                     {개악된 금융개혁안은 국민경제에 전혀 도움이 되지
+                     않는다}고 주장하고, 사표 연명제출 운동을 벌이기 시작,
+                     상당한 후유증이 예상된다. 
+
+                     한은 직원들은 성명서에서 {재경원이 관치금융을
+                     영속화하려는 음모를 현실화하고 있다}며 {한은 본점과
+                     신한국당사에서 벌이고 있는 농성을 계속하는 등 모든 수단을
+                     동원해 통과를 저지하겠다}고 밝혔다. 
+
+                     이날 국회 8인 소위에서 신한국당과 민주당 소속 5명은
+                     통합에 찬성했고 국민회의와 자민련 3명은 반대했다. <
+                     최구식-예병일기자 > 
+
+/Textend 
+</tdmsfiletext>

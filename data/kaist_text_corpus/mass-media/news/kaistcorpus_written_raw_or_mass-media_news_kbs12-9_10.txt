@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-9_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.09 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+언론인 근검절약 솔선 다짐
+
+한국 프레스센터는 오늘 저녁 서울 광화문 프레스 센터 국제회의실 에서
+언론인 송년의 밤을 열었습니다. 언론인과 사회 각계인사 등 2백여명이
+참석한 오늘 송 년회 밤 행사에서 언론인들은 IMF 위기를 빠른 시일안에
+벗어나기 위해서는 언론의 사명이 더욱 중요하다면서 언론인들이 먼저
+근검절약 등 경제살리기에 나설 것을 다짐했습니다. 
+</tdmsfiletext>

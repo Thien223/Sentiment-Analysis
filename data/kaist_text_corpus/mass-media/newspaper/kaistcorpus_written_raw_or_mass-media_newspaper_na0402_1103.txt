@@ -1,0 +1,24 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_1103.txt </filename>
+<title> 조선일보  </title>
+<author> 이경희(기자)</author>
+<date> 93.07.12</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.1111CSM930712    
+｛이경희｝                                                                    
+담배  못끊어도  금연효과는  상당／수지침：６（건강메모）                      
+  한국에서도  폐암이  증가하고  있다고  한다．  반갑지  않은  소식이다． 
+그러나  폐암  증가의  원인이  흡연  때문인  것으로  알려진  만큼  많은 
+애연가들이  각성해야  할  시점이라고  생각한다．  수지침은  담배를  끊게  할  수는 
+없어도  상당한  금연효과를  거둘  수  있다．  흡연시  대표적으로  나타나는 
+증상은  가래，  기침，  호흡곤란인데  이  증상만  없애도  폐암을  줄이는  효과가 
+있지  않을까  하는  생각이  든다．  그림에서와  같이  Ａ１９，  ２０，  ２１에 
+수지침을  놓으면  이런  증상들이  현저히  감소한다．  궁극적으로는  담배를 
+끊는  것이  좋을  것이다．〈이경희·서울  한도한의원장·의학박사〉※           
+
+</tdmsfiletext>

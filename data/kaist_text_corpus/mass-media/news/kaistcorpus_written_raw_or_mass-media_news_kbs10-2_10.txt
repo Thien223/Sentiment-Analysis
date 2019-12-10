@@ -1,0 +1,26 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-2_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+쌍방울 개발 부도위기 모면
+
+
+
+⊙황수경 앵커 :
+          쌍방울 그룹의 쌍방울 개발이 어제 신한은행 서초지점에 돌아온 어음
+50억원을 막지 못해서 1차 부도를 냈으나 오늘 아세아종금이 1주일간의
+만기를 연장해주 기로 해서 가까스로 최종 부도를 면했습니다. 한편,
+쌍방울그룹은 6개월안에 야구단과 이리 골프장 등을 팔아서 1,500억원을
+마련하고, 현재 무주리조트에 건설중인 골프장과 리조트의 회원권을 팔아서
+2,700 억원을 확보하는 등 자구계획을 마련하기로 했습니다. 
+
+
+
+</tdmsfiletext>

@@ -1,0 +1,31 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_4_29.txt </filename>
+<title> 조선일보  </title>
+<author> 박종관(기자)</author>
+<date> 93.06.23</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0902CSM930623
+[생활속의환경운동]
+{박종관}
+술한잔 정화에 물 천ℓ 필요(생활속의 환경운동:81)
+◎음식찌꺼기 등 BOD 엄청나게 높아※ 물고기가 살 수 있으려면
+물속의 생물화학적 산소요구량(BOD)이 5PPM이하라야 한다는게
+전문가들의얘기다. 그런데 우리가 하수구로 흘려보내는 생활하수의 평균
+BOD농도는 5백PPM. 이를 5PPM이하로 정화시키려면 버린 양의
+1백배만큼의깨끗한 물을 보태야한다는 계산이 나온다. 음식찌꺼기일 경우는 문제가
+더욱 심각해진다. 가령 라면국물의 BOD는 2만5천PPM. 라면국물
+2백㏄를 물고기가 살 수 있을만큼 희석시키는데 1천ℓ의 물이 필요하게
+된다. 우유의 BOD 농도도 7만8천PPM이나 된다. 더욱 우리가
+간과하기 쉬운 것은 술이다. 정종의 BOD 농도는 20만, 소주의 BOD는
+30만PPM이 넘는 것이다. 20㏄짜리 작은 술잔 하나를 정화시키려면
+거의 1천ℓ의 물이 필요한 것이다. 술자리를 끝낼 때마다 한번쯤
+생각해볼
+문제다.〈박종관기자〉※
+
+
+</tdmsfiletext>

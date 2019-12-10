@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_171.txt </filename>
+<title> 조선일보  </title>
+<author> 강효상(기자)</author>
+<date> 93.06.08</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0739CSM930608
+{강효상}
+「율곡」비리/「검은 뭉칫돈」 루트찾기 박차
+◎도입결정 라인 “성역없는 추적”/“무기가격 올려라” 압력도 확인※
+「율곡사업」(군전력증강사업)에 대한 감사원의 특별감사가 막바지를 향해
+숨가쁘게 치닫고 있다. 주로 무기선정 및 관리상의 문제점을 파악하는
+2국중심의 「율곡팀」은 3단계 특별감사시한인 오는12일을 1주일 남기고
+실무자들에 대한 확인서작성에 피치를 올리고 있다. 5국의 암행감찰반은
+무기선정과정에서의 뇌물수%
+</tdmsfiletext>

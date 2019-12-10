@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-1_9.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.12.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+유엔국제 기후협약 총회 개막
+
+유엔국제기후협약 제3차 총회가 오늘 일본 교또에서 열렸습니다. 세 계
+167개 회원국 대표들이 참석한 가운데 오늘부터 열흘간 일정으로 열리는
+이번 총회에서는 지구온난화를 막기 위해서 이산화탄소의 배출을
+어느정도에서 규제할 것인가에 대해서 집중 적으로 논의될 예정입니다. 
+
+</tdmsfiletext>

@@ -1,0 +1,23 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_6_224.txt </filename>
+<title> 조선일보 </title>
+<author> </author>
+<date> 93.09.09</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.1841CSM930909
+[신상품]
+어린이영어교육비디오-굿모닝하니(신상품)
+ KBS영상사업단은 만화, 컴퓨터 그래픽, 인형극, 야외및
+스튜디오제작 등 다양한 멀티 미디어 방식으로 제작한 어린이 영어교육
+비디오테이프「굿모닝 하니」를 최근 내놓았다. 만화영화 6편, 영어노래 15곡,
+영어 이야기 등을 보면서 생활영어를 배우도록 했다.1세트(8개)
+24만원.  또 KBS 1TV 「TV유치원­하나 둘 셋」을 재구성한 비디오
+테이프 시리즈 제2탄※이 나왔다.1세트 15만6천원.
+02(781)8484※
+
+</tdmsfiletext>

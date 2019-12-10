@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-10_16.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+'KBS일요스페셜'좋은 프로그램상
+
+한국방송공사가 제작한 KBS일요스페셜 생물자원시대 종이 유출되고 있다가
+오늘 오후 대한 YWCA연합회에서 좋은 텔레비전 프로그램 대상을 받았습니다.
+
+</tdmsfiletext>

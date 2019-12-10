@@ -1,0 +1,25 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-29_13.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.29  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+부산 아시안게임 마스코트.휘장 확정
+
+
+⊙황수경 앵커 :
+          2002년 부산 아시안게임의 마스코트와 휘장이 확정됐습니다. 휘장은
+부산을 나타내는 영문 이니셜 P자를 중심으로 태극무늬와 바다의 푸른
+물결을 표현했고, 갈 매기로 결정된 마스코트는 붓터치와 굵은 먹선을
+사용해서 한국 고유의 순수하고 깨끗한 이 미지를 나타냈습니다 
+
+
+영상취재
+<서울의 가을> -서울 서초구 예술의 전당- 
+
+</tdmsfiletext>

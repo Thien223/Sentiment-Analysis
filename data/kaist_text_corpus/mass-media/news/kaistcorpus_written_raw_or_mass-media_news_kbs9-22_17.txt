@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-22_17.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.22  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+대선보도감시 연대회의 결성
+
+전국 언론노동조합 연맹은 오늘 오후 서울 프레스센터에서 대통령 선거
+보도감시 연대회의를 결성하고 언론의 선거보도의 문제점과 개선책에 관해서
+논의했습 니다. 참석자들은 이 자리에서 언론사별로 선거보도 준칙을 만들어서
+추측보도와 선정성 보 도를 자제하도록 촉구했습니다. 
+
+</tdmsfiletext>

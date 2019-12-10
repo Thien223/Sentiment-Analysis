@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-30_11.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.30 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+"이혼 재산분할시 증여세 부과 위헌"
+이혼을 하면서 부부 공동의 재산을 분할할 때 증여세를 부과하는 것 은
+위헌이라는 헌법재판소의 결정이 나왔습니다. 
+
+
+
+</tdmsfiletext>

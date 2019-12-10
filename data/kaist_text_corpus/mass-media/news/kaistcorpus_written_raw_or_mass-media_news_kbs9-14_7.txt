@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-14_7.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.14  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+손상필, 세계선수권대회 금메달
+
+
+
+⊙이한숙 앵커 :
+          폴란드 브로즈로프에서 열린 세계 레슬링 선수권대회 그레꼬로망형 68㎏급
+결승전에서 우리나라의 손상필 선수가 일방적인 공격을 퍼부으며 러시아의
+알렉산드 라 티비아코프를 6대1로 물리치고 금메달을 따냈습니다. 
+</tdmsfiletext>

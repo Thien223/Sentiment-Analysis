@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_151.txt </filename>
+<title> 조선일보  </title>
+<author> 김성구(기자)</author>
+<date> 93.06.04</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0719CSM930604
+{김성구}
+무역시장 「환경장벽」 높아진다/미­유럽 등 오염방지기준 높여
+◎「리우」이후 선진국들 규제­감시※○환경안보 신조어도※ 금세기
+최대의환경축제인 리우회의가 막을 내린게 작년 6월14일.※ 만 1년이 된
+요즘도 무대만 바뀌었을 뿐, 환경문제는 여전히 전세계적 핫이슈가 되고
+있다.※ 동­서냉전체제가 무너진 이후, 환경이 정치­군사문제를
+앞지르고약방의 감초처럼 빠짐없이 국제회의의 중요 의제로 등장하고 있는
+것이다.※ 더구�
+</tdmsfiletext>

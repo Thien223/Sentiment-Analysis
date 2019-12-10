@@ -1,0 +1,22 @@
+<language> korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-6_7.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.6  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+오는 10일 정기국회 소집 공고
+
+
+
+⊙황수경 앵커 :
+          국회는 오늘 제185회 정기국회 소집을 공고했습니다. 오는 10일 시작되는
+이번 정기국회는 15대 대선일정과 맞물려서 여야가 법정회기 백일에서
+한달정도를 줄 이기로 함에 따라 65일에서 70일 정도의 단축 국회가 될
+전망입니다. 
+
+</tdmsfiletext>

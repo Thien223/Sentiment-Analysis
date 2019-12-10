@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-20_13.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+스카우트 의원연맹 명예총재 추대
+필리핀 마닐라에서 열리고 있는 제2차 세계 스카우트 의원연맹 총회 에서 연맹
+창설자이며 현 총재인 신한국당 김종호 의원이 명예총재겸 종신 이사로
+추대됐습 니다. 김종호 의원은 이 자리에서 세계 스카우트 의원연맹이 2천년대를
+향한 세계 청소년들 의 활동에 정책적인 비전을 제시할 수 있도록 노력하자고
+말했습니다. 
+</tdmsfiletext>

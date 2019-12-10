@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-6_16.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.06 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.06</kdc>
+<tdmsfiletext>
+삼성, 세계 최고속 4메가 S램 개발
+
+
+
+⊙황수경 앵커 :
+          삼성전자는 현존하는 S램 가운데 가장 속도가 빠른 4메가 S램을
+개발했다고 밝혔습니다. 이 제품은 세계 최초로 4메가비트급 고용량 S램에서
+10나노초라는 초 고속을 실현했으며 대기 전류를 기존의 10㎃에서 1㎃로
+줄인 에너지 절약형이라고 삼성전자 는 설명했습니다.
+
+
+</tdmsfiletext>

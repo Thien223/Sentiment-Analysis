@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_1230.txt </filename>
+<title> 조선일보  </title>
+<author> 박재영(기자)</author>
+<date> 93.07.21</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.1245CSM930721    
+［생활속의환경운동］                                                          
+｛박재영｝                                                                    
+여름철  실온  ２８도가  적당（생활속의  환경운동：８８）                      
+◎에어컨사용때  바깥과  ５도차  이하로※  날씨가  더워지면서  에어컨  사용이 
+늘고  있다．  에어컨의  소비전력은  선풍기의  ３０배다．  또  여름철의  실내 
+적정온도는  생각보다  다소  높은  섭씨  ２８도다．  바깥온도와  ５도이상 
+차이가  나면  어지럼증을  느끼는  냉방병에  걸릴  가능성이  높다는  보고도 
+있다．  차량운전자의  경우도  예외는  아니다．  특히  차량은  공간이  좁아 
+에어컨을  조금만  틀어도  실내온도는  금세  ２０도  이하로  떨어진다．※  또 
+에어컨의  필터를  한달에  한번  정도는  정기적으로  청소해  주어야  냉방효율도 
+높아지고  건강에도  좋다．  에어컨은  꼭  필요한  경우에만  껐다  켰다하며  사용할 
+필요가  있다．  또  일정시간  사용한  후에는  창문을  열어  환기를 
+시켜주어야  한다．〈박재영기자〉※                                                     
+
+</tdmsfiletext>

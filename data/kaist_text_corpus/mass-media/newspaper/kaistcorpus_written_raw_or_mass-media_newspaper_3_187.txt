@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_187.txt </filename>
+<title> 조선일보  </title>
+<author> 구성재(기자)</author>
+<date> 93.06.09</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0755CSM930609
+[중동새강자터키]
+{구성재}
+「탈냉전」 3개대륙 접점을 가다(중동 새 강자 터키:중)
+◎관료­정계결탁 카지노­마약­밀수 등 영업/자금동원 발판 이란계
+헤즈볼라 거느려/이슬람화 반대인사 2년간 테러 6백건… 치안 최대위협※
+【앙카라=구성재기자】 터키 사람들은 회교 근본주의에 대해 내놓고 이야기
+하지 않는다. 교수이건 전직 군장교이건 혹은 직장인들이건 간에 이들은
+이 문제에 대해 입을 다문다. 다만 『터키는 종교의 자유가 있다』고
+�%
+</tdmsfiletext>

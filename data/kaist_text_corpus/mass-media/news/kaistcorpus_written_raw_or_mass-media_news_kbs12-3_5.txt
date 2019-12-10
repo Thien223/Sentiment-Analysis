@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-3_5.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.12.03 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+4자회담 본회담 대표단 확정
+
+남북한과 미국 중국이 참석한 가운데 오는 9일부터 스위스 제네바에 서
+열리는 4자회담 본회담 대표단이 확정됐습니다. 우리측 수석대표에는 이시영
+현 프랑스 주재 대사가 임명됐으며 북한측 수석대표에는 김계관 외교부
+부부장 미국측 수석대표에는 스 텐리로스 국무부 차관보 그리고 중국측
+수석대표에는 탕자쉬엔 외교부 부부장이 각각 선정됐 습니다. 
+
+</tdmsfiletext>

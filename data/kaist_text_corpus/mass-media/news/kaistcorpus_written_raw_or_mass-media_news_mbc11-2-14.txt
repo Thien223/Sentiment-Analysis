@@ -1,0 +1,17 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_mbc11-2-14.txt </filename>
+<title> MBC뉴스데스크  </title>
+<author> </author>
+<date> 1997.11.2  </date>
+<publisher> MBC  </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+"부상 최용수 UAE전 못 뛴다." 
+
+◆ 권재홍 앵커 : 
+월드컵 대표팀의 간판 스트라이커인 최용수 선수가 부상이 심해서 아랍에미리트와의 최종전에 뛰기 힘들 것으로 보입니다. 어제 경기에서 일본 수비수 아키타와 충돌해서 코뼈가 부러진 최용수는 최소한 3주 정도의 안정이 필요하다는 진단을 받았습니다.
+
+</tdmsfiletext>

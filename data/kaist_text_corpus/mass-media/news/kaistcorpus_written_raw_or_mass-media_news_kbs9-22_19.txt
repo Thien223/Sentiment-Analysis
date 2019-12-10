@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-22_19.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.22  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.06</kdc>
+<tdmsfiletext>
+한솔PCS, 통화료 인하
+
+PCS사업자인 한솔 PCS는 다음달 전국 상용서비스를 앞두고 오늘 개 통
+축하행사를 열고 자사 PCS의 통화료를 당초 10초에 20원에서 18원으로 내리는
+대신 월 기본료는 당초 만5천원에서 만7천원으로 상향 조정했다고
+발표했습니다. 
+
+
+</tdmsfiletext>

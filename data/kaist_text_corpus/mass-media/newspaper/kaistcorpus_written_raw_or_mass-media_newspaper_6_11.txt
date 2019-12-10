@@ -1,0 +1,15 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_6_11.txt </filename>
+<title> 조선일보 </title>
+<author> </author>
+<date> 93.08.24</date>
+<publisher> </publisher>
+<kdc> 070.08</kdc>
+<tdmsfiletext>
+[NA0402.1609CSM930824
+
+
+</tdmsfiletext>

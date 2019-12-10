@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_3002.txt </filename>
+<title> 조선일보  </title>
+<author> 김형석(기자)</author>
+<date> 93.12.23</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2958CSM931223    
+［건강메모］                                                                  
+｛김형석｝                                                                    
+뼈：８／등뼈­대퇴골  골절되기  쉬워（건강메모）                              
+  뼈는  아주  단단한  조직이지만  힘이  작용하는  방향에  따라  아주  쉽게 
+부러질  수  있다．  특히  칼슘성분이  부족해지는  노년기에는  아주  약한 
+힘에도  부러지는  일이  흔하다．  이때  골절이  잘  생기는  곳은  등뼈의 
+중간부분이나  대퇴골（허벅지뼈）의  골반쪽이다．※  대퇴골의  골절은  뼈가  여러 
+조각으로  나뉘어지는  것이  보통이나  등뼈  골절은  뼈가  외부로부터  압박을  받아 
+위­아랫방향으로  상처를  입는  것이  대부분이다．  등뼈  골절은  본인이 
+통증을  심하게  느끼지  못하는  경우도  많다．※  따라서  항상  넘어지지  않게 
+조심하되  넘어지더라도  이  부위에  이상을  느끼면  바로  병원을  찾아야  할 
+것이다．〈김형석·서울위생병원  의무원장·정형외과〉※                         
+
+</tdmsfiletext>

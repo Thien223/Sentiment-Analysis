@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_110.txt </filename>
+<title> 조선일보  </title>
+<author> 김용옥(기자)</author>
+<date> 93.06.01</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0677CSM930601
+[동학백년]
+{김용옥}
+최시형의 사상과 고민(동학 백년:9)
+◎해월은 혁명아닌 천도통한 개혁 추구/수운이후 30년간 거대조직
+구축/종교적 비전 강조… 폭력엔 신중/「동학란」 중심 기술 때문에
+동학오해/전봉준은 민중문제 해결 「조직」에 비중… 입장 달라   이번 주
+「동학백년」에는 김용옥 전고려대교수가 보낸 「해월 최시형의 사상과
+고민」이라는 제목의 특별기고를 싣습니다.※ 그는 해월 최시형의 일대기를 다룬
+영화 「개벽」의 시나리오%B
+</tdmsfiletext>

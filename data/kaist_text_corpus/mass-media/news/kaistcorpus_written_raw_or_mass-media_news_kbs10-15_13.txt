@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-15_13.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.15 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+전국 민속예술 경연대회 개막
+제38회 전국 민속예술 경연대회가 오늘 전북 익산시 공설운동장에서
+개막됐습니다. 첫날인 오늘은 개회식에 이은 마상무예 격구의 시연을
+시작으로 충청북도의 습니다. 
+
+
+
+
+</tdmsfiletext>

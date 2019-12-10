@@ -1,0 +1,17 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_4_188.txt </filename>
+<title> 조선일보  </title>
+<author> 김창기(기자)</author>
+<date> 93.07.08</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.1064CSM930708
+{김창기}
+
+
+
+</tdmsfiletext>

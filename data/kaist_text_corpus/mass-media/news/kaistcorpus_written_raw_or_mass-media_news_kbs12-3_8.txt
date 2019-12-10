@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-3_8.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.12.03 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+'YMCA좋은 프로'KBS일요스페셜
+
+
+⊙황수경 앵커 :
+          대한 YMCA 연합회는 오늘 YMCA가 뽑은 좋은 텔레비전 프로그램
+대상으로 한국방송공사가 제작한 KBS 일요스페셜 생물자원시대 종이
+유출되고 있다를 선정 했습니다. 
+</tdmsfiletext>

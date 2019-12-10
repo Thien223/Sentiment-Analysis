@@ -1,0 +1,5 @@
+.env
+.idea/
+.env/
+model/store
+__pycache__/

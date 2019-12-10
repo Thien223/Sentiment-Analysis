@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_181.txt </filename>
+<title> Á¶¼±ÀÏº¸  </title>
+<author> ±èÈ«(±âÀÚ)</author>
+<date> 93.06.08</date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+[NA0402.0749CSM930608
+{±èÈ«}
+¡°Á¤º¸Åë½ÅÈ°¿ë ±³Åë·® ÁÙÀÎ´Ù¡±/Â÷´ë½Å ÆÑ½Ã¹Ð¸® ¾²¸é ¹éºÐÀÌ»ó Àý¾à
+¡Ý»çÈ¸ÆíÀÍ ¼­¿ï ³â8¹é17¾ï¿ø¡Ø Á¤º¸Åë½ÅÀÇ È°¿ëÀÌ ±³Åë·®À» ÁÙÀÎ´Ù´Â
+¿¬±¸°á°ú°¡ ³ª¿Í ÁÖ¸ñÀ» ²ø°í ÀÖ´Ù. ¼­¿ï½Ã¸³´ë ¿øÁ¦¹«±³¼ö(°ÇÃàÇÐ°ú)´Â
+ÃÖ±Ù ¡¸ÆÑ½Ã¹Ð¸® ÀÌ¿ë½ÇÅÂ¸¦ Áß½ÉÀ¸·Î º» Åë½Å°ú ±³ÅëÀÇ »ó°ü°ü°è¡¹¶ó´Â
+³í¹®¿¡¼­ ¡º´Ü¼øÇÑ Åë½Å±â±â¿¡ ºÒ°úÇÑ ÆÑ½Ã¹Ð¸®°¡ ±× ÅëÇà´ëÃ¼ È¿°ú¸¸
+°í·ÁÇÏ´õ¶óµµ »ó´çÇÑ »çÈ¸Àû ÆíÀÍÀ» ¹ß»ý½ÃÅ°°í ÀÖ´Ù¡»°í °á·ÐÁþ°í ¡ººÒÇÊ¿äÇÑ
+ÅëÇ%E
+</tdmsfiletext>

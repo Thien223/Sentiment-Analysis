@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2796.txt </filename>
+<title> 조선일보  </title>
+<author> 김형석(기자)</author>
+<date> 93.11.28</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2850CSM931128    
+［건강메모］                                                                  
+｛김형석｝                                                                    
+잦은술，피순환  차단  뼈괴사  유발／뼈：３（건강메모）                        
+  매일  마시는  술은  뼈에  치명적인  영향을  미치는  수가  있다．의사로서 
+가끔  경험하는  일이지만  ５０대  전후에  다리를  움직이거나  걸으려고  할  때 
+고관절부위에  둔한  통증이  심해져  병원을  찾는  사람들이  있다．  진찰을 
+해보면  이  부위의  뼈가  괴사되고  있는  경우다．  이들은  대개  하루의 
+스트레스를  술로  해소해  보려고  매일  저녁  반주를  들었다는  사람들이  많다．※ 
+사람들은  술  하면  일차적으로  혈액순환을  좋게  해주는  것으로  알고 
+있다．  사실은  뼈의  혈액순환을  차단하여  뼈를  괴사시키는  작용을  한다．  이 
+경우  여러가지  치료를  해보지만  결국  인공삽입물로  대체하는  것이 
+대부분이다．〈김형석·서울  위생병원  의무원장·정형외과〉※                           
+
+</tdmsfiletext>

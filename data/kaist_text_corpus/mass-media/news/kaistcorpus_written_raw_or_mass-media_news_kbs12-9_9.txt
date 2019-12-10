@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-9_9.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.09 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"경수로 근로자 부재자 투표 적절 조치"
+
+경수로 기획단의 관계자는 오늘 북한이 신포 금호지구 경수로 건설 현장에
+나가있는 한국 건설자들의 대선 부재자 투표를 허용하지 않겠다고 주장한데
+대해서 투표가 이뤄질 수 있도록 적절한 조치를 취하고 있다고 말했습니다. 
+</tdmsfiletext>

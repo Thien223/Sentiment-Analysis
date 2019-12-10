@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-6_5.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.8.6  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+정태수씨 변호인 사임계 제출
+
+정태수 한보그룹 총회장의 옥중로비 의혹을 불러일으킨 필담메모를 작성한
+정씨의 변호인 허종훈 변호사가 오늘 서울 지방법원과 고등법원에 한보 관련
+사건 재 판부에 사임계를 제출했습니다. 허 변호사는 메모지 유출 경위가
+어떠하든 본의 아니게 일부 인사의 명예를 손상시킨 만큼 도의적인 책임을
+느끼고 사임한다고 밝혔습니다.
+</tdmsfiletext>

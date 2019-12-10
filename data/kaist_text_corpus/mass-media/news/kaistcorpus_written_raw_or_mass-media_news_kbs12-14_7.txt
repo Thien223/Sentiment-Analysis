@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-14_7.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.14 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+신원.청구그룹, 조직 축소 단행
+
+신원그룹은 오늘 4천여명의 직원 가운데 20%를 감축하고 임원의 수 도 30%나
+줄이는 등 강도높은 구조조정을 단행했습니다. 또 청구그룹도 주식회사 청구
+등 건설관련 3개사를 통합하고 임원 26%와 전체 조직 35%를 각각 축소하는
+내용의 조직개편과 임원인사를 단행했습니다. 
+
+</tdmsfiletext>

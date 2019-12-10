@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_139.txt </filename>
+<title> 조선일보  </title>
+<author> 김창기(기자)</author>
+<date> 93.06.03</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0707CSM930603
+{김창기}
+김치­산나물 치아건강에 좋다
+◎침 산성화 완충… 섬유질많아 닦아주는 역할도/단 음식 피하고
+어릴때우유­멸치 많이 먹어야※ 「치아가 건강하려면 김치를 꼭 먹어라.」
+6월9~15일은 대한치과의사협회(회장 김정균)가 지정한 구강보건주간.
+치과의사들은 어떤 음식을 먹느냐에 따라 구강보건도 큰 영향을 받는다고
+지적한다.※ 구강보건에서 금기시하는 식품은 설탕이 섞인 것들이다.
+대표적인 식품은 젤리, 캐러멜, 엿, 딸기잼, 비스킷 등%C
+</tdmsfiletext>

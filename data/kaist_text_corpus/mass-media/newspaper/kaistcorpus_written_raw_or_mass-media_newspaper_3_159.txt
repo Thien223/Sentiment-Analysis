@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_159.txt </filename>
+<title> 조선일보  </title>
+<author> 최준석(기자)</author>
+<date> 93.06.05</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0727CSM930605
+{최준석}
+독서 첫작품 소방서건물 완성/이라크 여성건축가 하디드
+◎모더니즘방식 적용… “이론용 설계” 종지부※ 드로잉과 페인팅만
+해오던 세계적인 여성 건축가 자하 하디드가 그의 첫 건축물을 완성,
+화제다. 이라크태생으로 현재 런던에서 활동하는 하디드(42)는 최근 독일
+라인주 베일시 공장지대에 비트라 가구회사의 의뢰로 모더니즘양식의
+소방서건물을 최근 선보였다고 뉴욕 타임스 매거진은 전한다.※ 70년대
+건축학도때부터 천재성을 인�
+</tdmsfiletext>

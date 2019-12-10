@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_211.txt </filename>
+<title> 조선일보  </title>
+<author> 임형균(기자)</author>
+<date> 93.06.10</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0779CSM930610
+{임형균}
+“6월이면 눈물바람”/고 이한열군 어머니
+◎“개혁바람에 「한이 한」도 풀리기를”※ 6년 세월도 어머니의
+눈물을멎게 할 수는 없었다. 지난 87년 민주화의 기틀을 마련한 6월항쟁
+6주년 기념행사를 하루 앞둔 9일 오후2시. 연세대 민주광장에서 열린
+당시 항쟁의 주역 이한렬군의 추도식에 참석한 이군의 어머니
+배은심씨(53)의 눈가는촉촉히젖어있었다.※ 경찰이 쏜 최루탄에 맞아 숨진 이군이
+물러나라고 외치던 군사정부도 이제 역사 뒤편으로 %B
+
+</tdmsfiletext>

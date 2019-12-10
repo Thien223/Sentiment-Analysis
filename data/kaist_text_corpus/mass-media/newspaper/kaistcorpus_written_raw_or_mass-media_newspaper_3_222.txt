@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_222.txt </filename>
+<title> 조선일보  </title>
+<author> 최준석(기자)</author>
+<date> 93.06.12</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0790CSM930612
+{최준석}
+신세대 꽃다발/상자­한지­마로 포장 독특한 분위기
+◎가지끝에 플라스틱 물대롱… 꽃수명 연장※ 꽃다발이 다양해졌다.
+셀로판지로 장미꽃 한 송이를 돌돌 말거나 여러 송이를 철사로 묶은 뒤
+알루미늄박지로 손잡이 부분을 싸던 꽃다발은 구식. 요즘은 안에 담긴 꽃이
+들여다보이는 플라스틱 꽃상자나 은은한 분위기를 주는 한지나 마로 감싼
+꽃다발이 선물용으로 나오는 등 꽃의 포장재와 포장법이 크게 변하고
+있다.젊은이들이 몰리는 서�%
+</tdmsfiletext>

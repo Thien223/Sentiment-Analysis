@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-20_9.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+국회 개혁 입법 특위 25일 첫 회의
+정치자금법과 선거법 등의 개정을 논의하기 위한 국회 정치개혁입법
+특별위원회가 여야 합의로 다음주에 첫 회의를 열고 공식 가동에 들어갑니다.
+여야 3당 총무 들은 오늘 오후 국회의장실에서 회동을 갖고 오는 25일 오전
+10시에 정치개혁 입법 특별위원 회 제1차 회의를 열기로 합의했습니다. 
+
+
+</tdmsfiletext>

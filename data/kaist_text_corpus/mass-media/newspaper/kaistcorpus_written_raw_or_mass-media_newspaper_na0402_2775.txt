@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2775.txt </filename>
+<title> 조선일보  </title>
+<author> 김형석(기자)</author>
+<date> 93.11.26</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2827CSM931126    
+［건강메모］                                                                  
+｛김형석｝                                                                    
+뼈：２（건강메모）                                                            
+◎운동으로  골다공증  예방을※  척추부위에  묵직한  통증을  느끼고，  자주 
+피곤해하는  중년  여성이  많다．  대개가  운동부족에서  비롯된  증상들인데 
+많은  주부들이  이를  골다공증이라고  나름대로  판단하고  전문의  처방없이  약을 
+복용하고  있는  것을  볼  수  있다．※  골다공증은  여성호르몬의  감소  등 
+여러  원인이  있지만  특히  운동부족은  폐경기의  여성들의  골다공증을 
+악화시킨다．  그렇다고  진단없이  함부로  약을  남용하는  것은  부작용을  고려할  때 
+좋은  방법이  아니다．  요즘은  골밀도를  측정하는  기계가  있으므로  정확히 
+진단하고  치료를  해야  한다．※  걷기，  조깅  등  뼈에  적절히  힘을  주는 
+운동은  가장  중요하고  기본적인  골다공증  예방법임을  명심해야 
+한다．〈김형석·서울위생병원  의무원장·정형외과〉※                                     
+
+</tdmsfiletext>

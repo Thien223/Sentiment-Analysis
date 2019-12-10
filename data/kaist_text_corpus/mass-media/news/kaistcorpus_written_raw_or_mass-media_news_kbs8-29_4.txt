@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-29_4.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.29 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+서울 개최
+
+
+⊙류근찬 앵커 :
+          국제 디자인계의 올림픽이라 불리는 세계 디자인 단체총회가 오는 2001년
+서울에서 열립니다. 지난 23일부터 케나다 토론토에서 열린 제20차 세계 디자인
+단체 총회에서 무기명 비밀투표 결과, 우리나라의 서울이 브라질의
+니오데자네이루를 물리치고 제 22차 총회유치에 성공했다고 통상산업부가
+밝혔습니다. 
+</tdmsfiletext>

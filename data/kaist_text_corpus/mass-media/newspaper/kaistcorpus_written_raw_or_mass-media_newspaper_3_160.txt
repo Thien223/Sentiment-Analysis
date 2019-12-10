@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_160.txt </filename>
+<title> 조선일보  </title>
+<author> 이가림(기자)</author>
+<date> 93.06.05</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0728CSM930605
+{이가림}
+몽상적 철학자­상상력의 낭만주의자/가스통 바슐라르
+◎“몽상은 창조적 상상력의 원천”/심리속 물­불­공기­흙 4원소
+「물질성」 강조/불 「신비평」 이론적 토대제공※ 『아침부터 내 책상 위에
+쌓인 책 앞에서 독서의 신에게 이 독자로 하여금 책들을 탐독하게
+해주십사하고 기도를 드린다. 오늘도 우리에게 일용할 굶주림을
+주시고….』※○60년대부터 소개※ 이렇듯 일용할 빵으로서의 책들이 나날의 식탁에
+차려지기를 기도하던 �
+</tdmsfiletext>

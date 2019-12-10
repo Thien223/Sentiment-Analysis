@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-10_15.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+北 주민 KBS에 격려 편지
+
+드라마 진달래꽃 필때까지의 제작과 관련한 북한의 KBS 폭파위협과 관련해서
+한 북한 주민이 위협에 굴하지 말고 방송을 계속해 달라는 격려편지를 KBS에
+보내 왔습니다. 남포시에 산다는 이 북한 주민은 북한을 탈출하는 친구를
+통해서 전달한 서신에서 상당수의 북한 주민들이 몰래 KBS 사회교육방송을
+들으면서 조국의 통일에 밝은 미래를 그 리면서 살고 있다고 말했습니다. 
+
+</tdmsfiletext>

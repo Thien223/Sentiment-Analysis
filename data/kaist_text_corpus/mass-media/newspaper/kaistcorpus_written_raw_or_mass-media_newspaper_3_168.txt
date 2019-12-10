@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_168.txt </filename>
+<title> 조선일보  </title>
+<author> 박선이(기자)</author>
+<date> 93.06.06</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0736CSM930606
+[아가미안해]
+{박선이}
+맞벌이시대… 탁아시설을 위한 현장특집(“아가,미안해…”:17)
+◎직장탁아소 삼부유아원/점심시간 엄마­아이 즐거운 만남/무료로
+유치원교육 겸하기도/“주부들 입사지원 많아 인력난 해소”※ 연간 1천
+1백만달러(한화 약 88억원)어치 등산 배낭을 만들어 수출하는 삼부
+봉제주식회사 안산 공장. 고즈넉하던 공장이 매일 낮 1시면 엄마 손을 붙잡고
+놀러나온 어린이들로 왁자지껄한 놀이터로 바뀐다.※ 근로자
+1백80여명의이
+</tdmsfiletext>

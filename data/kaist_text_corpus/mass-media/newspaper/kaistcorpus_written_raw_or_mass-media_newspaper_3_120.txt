@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_120.txt </filename>
+<title> 조선일보  </title>
+<author> 김영수(기자)</author>
+<date> 93.06.02</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0687CSM930602
+{김영수}
+「김 대통령 취임 100일」/중국,면밀히 분석
+◎“부패척결 성과­군부반응 주목”/집권당내 계파 갈등 증폭
+겹쳐/경제가 “열쇠”… 한­중외교 긍정적/지방색 문제는 근본적인 해결 어려워※
+【홍콩=김영수기자】 중국 국무원 외사판공실은 최근
+「김영삼총통(대통령)의 취임과 한반도정세」라는 내부문건을 통해 김영삼정권출범이후의 성과와
+문제점을 분석하면서 김영삼대통령이 「반부패선언」으로 시작한
+한국병척결을완성시키
+</tdmsfiletext>

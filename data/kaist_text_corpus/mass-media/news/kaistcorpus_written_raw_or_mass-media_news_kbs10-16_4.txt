@@ -1,0 +1,27 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-16_4.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.16 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.06</kdc>
+<tdmsfiletext>
+"테크노 파크 조기착수" 지시
+
+
+⊙류근찬 앵커 :
+          김영삼 대통령은 오늘 오전 청와대에서 국가 과학기술 자문회의를
+주재하고 민간주도의 기술혁신을 뒷받침할 수 있도록 빠른 시일안에
+기술혁신의 하부구조를 확충하라고 내각에 지시했습니다. 김영삼 대통령은
+이를 위해서 과학기술정보유통체제의 확 립과 첨단연구시설의 공동이용
+활성화 그리고 지역경제발전에 기여할 테크노파크 조성사업의 조기착수
+등을 당부했습니다. 국가과학기술자문회의는 오늘 보고에서 민간중심의
+산업기술 혁신체제의 강화와 과학기술 연구의 세계화 등 기술혁신 3대
+전략을 제시했습니다.
+
+
+
+</tdmsfiletext>

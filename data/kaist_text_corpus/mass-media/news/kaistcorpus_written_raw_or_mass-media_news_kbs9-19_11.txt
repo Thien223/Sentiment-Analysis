@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-19_11.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.19  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+만화산업 육성 금융지원 확대
+문화체육부는 오늘 건전한 만화산업의 육성을 위해서 장기저리의 금 융지원을
+확대하고 작품성이 뛰어난 국내 창작 만화에는 250만원의 창작지원금을
+지급하는 등 만화산업 육성을 위한 금융과 재정지원을 확대한다고 밝혔습니다. 
+
+</tdmsfiletext>

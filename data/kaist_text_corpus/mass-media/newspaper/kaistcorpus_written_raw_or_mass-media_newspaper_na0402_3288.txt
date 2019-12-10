@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_3288.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.01.26</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.3244CSM930126    
+［생활속의환경운동］                                                          
+매니큐어를  추방합시다（생활속의  환경운동：１１）                            
+◎주성분  인체에  유해…  올리브유로  대용※  손톱에  칠하는  매니큐어와  그 
+제거제인  아세톤은  유독한  화학약품의  묽은  혼합물로서  주요성분은  무서운 
+페놀，  톨루엔，  포름알데히드，  크실렌  등  모두  인체에  해로운 
+것들이다．  특히  크실렌같은  화학약품을  장기적으로  접촉하면  신경계통이  손상을 
+입는다．  이  때문에  전문가들은  이같은  화학약품이  피부에  닿지  않도록 
+조심하라고  충고한다．  손톱은  직접  공기와  접촉을  해야  아름다움과  건강을 
+유지할  수  있다．  그러므로  공기와  손톱의  접촉을  막는  매니큐어는  여러모로 
+백해무익이다．  하지만  불행하게도  자연  대용품은  없다．  다만  손톱의 
+각질을  부드럽게  하는  물질로  올리브유（유）가  있다．  올리브유를  １주일에 
+한번씩만  바르면  부드러운  손톱을  간직할  수  있다．※                       
+
+</tdmsfiletext>

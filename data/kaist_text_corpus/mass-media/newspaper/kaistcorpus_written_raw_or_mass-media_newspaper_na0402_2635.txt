@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2635.txt </filename>
+<title> 조선일보  </title>
+<author> 김호연(기자)</author>
+<date> 93.11.10</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2694CSM931110    
+［건강메모］                                                                  
+｛김호연｝                                                                    
+관절：９／아침마다  허리  뻐근…  규칙적  운동을（건강메모）                  
+  ２０대  가량의  젊은  남자가  겨우내  아침에  일어날  때마다 
+허리（엉치）가  뻐근하고  아프다고  호소하면  「강직성  척추염」일  가능성이  있다． 
+강직성  척추염은  인체의  특정  유전자와  어떤  병원체와의  상호작용에  의해 
+발병하는  것으로  알려져  있어  환자  가족중에  이  병과  유사한  질병을  앓고있는 
+경우가  많다．※  때로는  요통이  심해지기  전후  발목이나  발뒤꿈치， 
+가슴뼈，  무릎  등에  발작적으로  관절염이  오기도  한다．※  이  병은  염증이 
+있을  때는  적극적인  약물투여를，  염증이  가라앉은  후에는  규칙적인  운동이 
+필요하다．  관절과  근육，  인대가  정상적인  기능을  유지하려면  온몸뻗기， 
+허리운동，  발목과  무릎  등의  관절운동을  꾸준히 
+해야한다．〈김호연·가톨릭대의대  교수·내과〉※                                                         
+
+</tdmsfiletext>

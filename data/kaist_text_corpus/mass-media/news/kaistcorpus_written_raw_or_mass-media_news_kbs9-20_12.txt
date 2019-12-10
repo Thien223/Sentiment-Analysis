@@ -1,0 +1,16 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-20_12.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.20  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+'아침마당', 이달의 좋은 프로그램 선정
+
+KBS 제1 텔레비전의 아침마당 그 사람이 보고싶다가 방송위원회가 선정하는
+이달의 좋은 프로그램으로 뽑혔습니다. 
+</tdmsfiletext>

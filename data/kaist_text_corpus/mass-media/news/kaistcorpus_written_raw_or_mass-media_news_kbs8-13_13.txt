@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-13_13.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.13 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+한총련 폭력시위 주도 8명 실형
+서울지법 북부지원은 오늘 한총련 제5기 출범식에 참석해서 폭력시 위를 주도한
+서울 모대학교 2학년 조 모씨 등 8명에게 징역 2년6개월의 실형을 선고하고 참
+여 정도가 가벼운 서울 모대학 3학년 남 모씨 등 27명에 대해서는 징역
+2년6개월에서 6개월 의 집행유예와 2백에서 3백만원의 벌금형 그리고 사회봉사
+명령을 선고했습니다. 
+
+</tdmsfiletext>

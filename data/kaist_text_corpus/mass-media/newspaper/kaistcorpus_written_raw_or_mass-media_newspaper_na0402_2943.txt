@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2943.txt </filename>
+<title> 조선일보  </title>
+<author> 김성구(기자)</author>
+<date> 93.12.16</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2999CSM931216    
+［생활속의환경운동］                                                          
+｛김성구｝                                                                    
+우유마사지  자제합시다（생활속의  환경운동：９８）                            
+◎５백㏄  정화에  물  １만ℓ  필요…  로션  활용을※  요즘  여성들이 
+목욕탕에서  피부보호를  위해  각종  마사지를  하는게  대단한  유행이다．  촉촉한 
+피부를  위한  우유와  야자유마사지，  백색의  피부를  위한  야쿠르트마사지， 
+피부에  탄력을  주기  위한  야채마사지…．  그러나  이런  「피부  특효제」는 
+환경에는  대단히  해를  끼치는  물질들이다．※  물의  오염도를  나타내는 
+ＢＯＤ（생물화학적  산소요구량）가  야쿠르트의  경우  １０만ＰＰＭ，  우유는 
+１０만３천ＰＰＭ에  달한다는  국립환경연구원의  조사가  있다．  ５백㏄  우유를 
+물고기가  살  수  있을  정도로  희석시키기  위해선  １만ℓ의  깨끗한  물이 
+필요하다．  전문가들은  피부관리에  대해，목욕후  몸전체에  로션을  발라주는  것 
+만으로도  충분하다고  말한다．〈김성구기자〉※                                   
+
+</tdmsfiletext>

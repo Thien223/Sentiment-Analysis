@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-22_16.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.06</kdc>
+<tdmsfiletext>
+디지털 TV용칩 세트 세계 최초 개발
+
+엘지전자는 차세대 텔레비전인 디지털 TV의 핵심 칩들을 세계 최초 로
+개발했다고 발표했습니다. 엘지전자는 지난 90년부터 천억원의 연구개발비를
+들여서 디지 털TV용 칩 세트를 개발함에 따라 앞으로 2,010년까지 460조원
+규모로 추정되는 세계 디지털 TV 시장을 선점할 수 있게 됐다고 밝혔습니다.
+
+
+
+
+</tdmsfiletext>

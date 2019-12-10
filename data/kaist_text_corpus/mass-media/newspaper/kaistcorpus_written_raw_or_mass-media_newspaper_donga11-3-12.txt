@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga11-3-12.txt </filename>
+<title> 동아일보</title>
+<author> </author>
+<date> 1997.11.03 </date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+［여성동아 １１월호］「동네장사 베스트１０」 소개
+읽을 거리가 풍성한 여성동아 11월호가 나왔다.
+동네장사로 성공한 사람들의 경험담과 전문가에게서 들어본 「동네장사 베스트10」을 부업특집으로 소개했다.
+권중부록에서는 최근 주부들의 관심을 끌고 있는 퀼트를 이용한 실내 장식법과 이를 배울 수 있는 곳도 함께 안내했다. 집안 분위기를 확 바꿔주는 오디오수납장과 TV받침대 등 소품가구을 싸게 살 수 있는 곳에 대한 정보도 담았다.
+파경의 어려움을 이겨내고 6개월만에 브라운관에 돌아온 채시라의 「직격 해명」과 내년 4월에 아기 엄마가 되는 고현정씨, 대학교수와 세번째 결혼식을 올린 소설가 공지영씨, 소록도에서 나환자 돌보는 신한국당 이회창대표 아들 이정연씨 등의 인터뷰가 눈길을 끈다.
+맛깔스런 별미 김치 담그는 방법 31가지와 초겨울 밑반찬 만드는 법을 선보인 별책부록도 마련했다.
+
+</tdmsfiletext>

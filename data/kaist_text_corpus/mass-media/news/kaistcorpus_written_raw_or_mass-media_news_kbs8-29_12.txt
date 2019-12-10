@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-29_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.29 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+7월 여행수지 적자 사상 최대
+지난달의 여행수지가 여름 휴가철을 맞아 해외 여행객들이 늘면서 월중
+사상최대인 4억 달러의 적자를 기록했습니다. 한국은행의 집계결과 무역수지의
+경우 올 들어 7월까지의 적자가 62억9천만 달러로 지난해 보다 11억천만 달러
+감소했지만 여행수지 등 무역외 수지 적자는 오히려 1억3천만 달러가 늘어나
+전체 경상수지 적자는 지난해 보다 8.6%가 줄어든 111억 달러를 기록했습니다. 
+</tdmsfiletext>

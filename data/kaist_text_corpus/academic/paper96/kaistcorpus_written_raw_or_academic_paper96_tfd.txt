@@ -1,0 +1,499 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_academic_paper96_tfd.txt </filename>
+<title> 외부형태 특성을 중심으로 한 한국산 수수꽃다리속 식물의  분류학적 연구 </title>
+<author> 강기호 </author>
+<date> 1994 </date>
+<publisher> 서울대학교 </publisher>
+<kdc> TM526.9 </kdc>
+<tdmsfiletext>
+  I. 緖  論
+
+     수수꽃다리屬(Genus Syringa , 英名; Lilac) 식물은 물푸레나무科(Oleaceae)에 속하는 낙엽관목 또는 소교목으로서, 유럽의 남동부와 아시아에 분포한다(Krusmann, 1986; Fiala, 1988).  수수꽃다리의 어원은 그리이스語 Syringx이며 Pipe를 만들었기 때문에 붙여진 이름이다(Rehder, 1927; Bailey, 1949; Fernald, 1950; 上原敬二, 1972). 
+    전세계에 분포하고 있는 Syringa속 식물은 23-30종으로 알려져 있으며(陳嶸, 1937; Rehder, 1960; Krusmann, 1986; Fiala, 1988), 이의 대부분이 중국과 한반도 등 동아시아에 집중되어 있다. 이 밖에 동유럽에 2종(S. vulgaris Linnaeus, S. josikaea Jacquin f. ex Reichenbach)이 국소적으로 존재하고, 히말라야 산맥지역에  S. emodi Wallich ex Royle가 분포하고 있을 뿐이다(Fiala, 1988). 우리나라에는 약 5종이 수평적으로는 제주도 및 남부지방을 제외한 전국에 자생하며 수직적으로는 산록부에서 해발 2,300m까지 자란다(Mori, 1922; 정, 1926; Uyeki, 1940, 이, 1947).  따라서 Syringa속 식물은 전세계적으로 그 분포가 제한되어 있고 거의 우리나라 전역에 분포하고 있으므로 한반도의 식물상을 논할 때 빠져서는 안될 중요한 식물이다. 특히 본 속의 식물이 중국 동북부에 가장 많은 종이 분포하며 우리나라는 그 주변에 속하면서 황해(Yellow Sea) 등 지리적 격리로 인해 종의 분화가 이루어진 것으로 보여 2종류 이상의 고유종이 존재하므로서 그 중요성이 크다고 할 수 있다.       
+    Syringa속 식물은 관상용으로 아주 뛰어나서 전 세계 사람들의 사랑을 받고 있다. 중국과 일본에서는 오래전 부터 정원수로 심고 있으며(Makino, 1965; 陳嶸, 1937), 유럽에서는 16세기부터 자색꽃과 백색꽃 
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Fig.1 Distributional Map of Syringa in the world
+
+품종을 개발하였고, 18세기 중반부터는 Syringa의 고향이라고 할 수 있는 아시아로 진출하여 새로운 종을 밝히고 이를 채집 또는 채종하여 선발, 유전자 조작, 타종과의 교잡등을 통하여 화관변이, 겹꽃, 왜성, 단풍, 화관크기, 화관의 줄무늬, 개화기 등에서 끊임없이 새로운 품종들을 만들고 이들을 The International Lilac Society에서 발간한 Lilac Checklist를 통해서 등록을 하고 있다. 그리하여 현재 S. vulgaris L.하나의 종으로부터 생긴 품종이 2,000종류를 넘을 것이라고 추정되고 있다(Fiala, 1988).
+    Syringa속 식물은 대부분 관목이기 때문에 정원수로서 크기가 적당하고 수형 또한 아름다우며 잎의 질감이 곱고 꽃이 밀집하여 다발로 형성되고 개화기간도 한달 정도로 길 뿐만 아니라 꽃색도 백색, 자색, 청색, 홍색 등 다양하여 정원수로서 가장 많이 심겨지는 나무 중의 하나이다. 향기 또한 옛날부터 사람들의 많은 사랑을 받아왔는데, 우리나라에서는 향궤, 향낭등에 넣어 향기를 즐겼으며, 목욕제로서 쓰기도 하였다고 한다(최, 1992). 오늘날에는 이를 이용한 방향제, 샴푸, 담배 등을 만들고 있
+다. 수피는 치통과 건위제로서 사용되었고(村田     , 1931), 초봄의 어린 잎은 차로써 사용되었다고 한다(陳嶸, 1937). 또한 목재는 곱고, 단단하여 조각재로 이용하거나 말뚝이나 지주, 묘비, 연장을 만드는데 사용하였다 한다(최, 1992; Makino, 1965).  
+    개화는 4개의 기간으로 나누어지는데 series Syringa는 4월 중-하순, series Pubescentes는 5월 초-중순, series Villosa 5월 말-6월 중순, Subgenus Ligustrina는 6월 말-7월 초에 연속적으로 피어 봄을 대표하는 관상수로 될 만하다. 
+    상기에서 살펴본 바와 같이 Syringa속 식물의 다양한 용도와 분포상 중요한 측변에도 불구하고 우리나라에서는 이에 대해서 연구된 바가 거의 없다. 특히 우리나라의 Syringa속 식물의 대부분이 외국인에 의해서 발표되었고, 'Miss Kim'은 우리나라에서 채집해 간 것을 가지고 개랑하여 만든 것으로서 우리나라 뿐만 아니라 전세계에 수출되고 있다. 우리나라 Syringa속 식물의 연구는 1895년 Sontag이 채집해 간 것을 Palibin이 기재한 것이 최초이며 그 후 Nakai에 의해서 주로 연구, 발표되었다. 1921년 조선삼림식물편까지 Nakai에 의해 발표된 한국산 Syringa속 식물은 8종 6변종 3품종이었다. 그 이후 장형두는 국내 및 일본의 각 표본관에 소장되어 있는 표본을 관찰하고 한국산 Syringa속 식물을 4종류로(박, 1949), 이(1966, 1986)는 4종 4변종 6품종으로 분류하였다. 이 외에도 학자에 따라 4종에서 16종까지 다양하게 분류하여 논란이 많은 분류군이다. 이처럼 학자에 따라 많은 차이를 보이는 것은 Syringa속 식물의 다양한 변이 때문이라고 할 수 있으며 따라서 Syringa속 식물의 체계적이고 종합적인 논의를 통한 재분류가 절실히 필요한 실정이다. 
+   본 연구는 한국산 Syringa속 식물의 외부형태적 형질과 화분의 형질을 측정 분석함으로써 정확한 종의 한계를 설정하며, 각 분류군의 기재를 재검토하여 종간의 유연관계를 논하는데 그 목적이 있다. 
+
+   II. 硏究史
+    
+    Syringa속이 포함되어 있는 물푸레나무과의 계통학적 위치는 일반적으로 물푸레나무목 또는 용담목의 물푸레아목으로 취급되고 있다. Huchinson의 체계에서는 용담목을 3개의 목으로 세분하여 마전목에 마전과와 물푸레나무과를 분류한 반면(Wilson, 1959), Tournay와 Lwalree의 체계에서는 물푸레나무과와 Buddleyaceae, Menyanthaceae를 Ligustrales으로 분류하였다(Cronquist, 1981). 물푸레나무과는 발생학적 특징(태좌)과 2개의 수술, 그리고 내사부를 가지지 않는다는 점에서 용담목과 다르며 4개의 화관열편과 정제화관은 현삼목과 다르다. 그리고 면역학적 연구에서는 용담목과 현삼목을 잇는 중간위치를 점유하고 있다(李 등, 1991).
+      
+    물푸레나무과는 북반구 온대와 열대에 22-30속 400-600종이 분포하고 있는 것으로 알려져 있으나, 주로 아시아와 말레이지아에 집중 분포하고 있다.  과내 분류군의 계통학적 체계는 배주의 위치와 종자 그리고 열매의 종류에 따라 2개의 아과(Oleoideae, Jasminoideae)와 7개의 족(Fraxineae, Oleineae, Jasmineae, Fontanesieae, Forsythieae, Schrebereae, Myxopyreae)으로 구분된다(Heywood, 1985). 세포학적 연구에서는 기본적 염색체 수가 11, 13, 14인 것과 23, 24인 group으로 나누어지는데 염색체 수가 23인 group은 Oleoideae에 속하고 11, 13, 14인 group은 Jasminoideae에 해당한다(Darlington et al., 1945; Wilson, 1959).  이 중 Syringa속은 n=23으로서 물푸레아과(Oleaoideae), 정향나무족(Oleineae)에 속한다.
+    Syringa속(Syringa Linnaeus. 1753. Sp. Pl.)은 국제 식물 명명규약에 의해 보존되며 기준종은 유럽 남동부에 분포하는 S. vulgaris Linnaeus이다(Komarov, 1927).  
+    속 내 분류체계의 연구에서는 Rehder(1927, 1949)가 Eusyringa, Ligustrina 두개의 아속과 Villosae, Vulgares 두개의 절(Series) 또는 Pubescentes, Pinnatifolia를 포함한 4개의 절로 나눈 반면, Nakai(1921)는 우리나라에 분포하는 종을 대상으로 화서가 달리는 모양과 통부의 길이에 대한 수술의 길이로써 3개의 Section으로 나누었으며 다음과 같다. 
+    Section  Ligustrina  화서는 전년도 가지에 액생하고 화관의 통부는 
+                         짧고 수술은 길어 밖으로 나온다. 
+    Section  Villosae    화서는 새가지 끝에 달리고 꽃은 잎과 같이 
+                         피고 꽃의 향기가 강하다.
+    Section Vulgares     화서는 전년도 가지 끝에 액생하고 꽃이 잎 
+                         보다 먼저 또는 같이 핀다. 
+그리고 1952년에는 Genus Ligustrina를 설정하였지만 이후 다른 학자들은 이 체계를 인정하지 않았다. 하지만 최근에는 일반적으로 화관통의 길이와 꽃받침의 길이, 수술의 길이로써 아속을 구분하고 화서가 나오는 위치, 잎과 화서의 털, 기공의 유무, 꽃의 향기, 잎의 모양으로 Series를 구분한 다음과 같은 Janes Pringle의 체계가 타당성을 인정 받고 있다(Fiala, 1988). 
+ Subgenus  Syringa K. Koch    화관통은 꽃받침보다 훨씬 길고 꽃밥은
+                              화관통 안에 있다.  
+  Series  Villosae Schneider  화서가 정생하고 기부에 잎을 낸다.
+  Series  Pubescentes Lingel. 잎은 다소 연모로 덮여있고 종종 기부에
+                              많고 전체적 느낌이 부드럽다. 
+                              꽃은 약간 작고 열편이 6mm정도이다. 
+                              꽃밥은 청색, 황색, 보라색이고 열매는
+                              피목이 있다. 
+  Series  Vulgaris Rehder     잎은 털이 없고 잎 양면에 기공이 있다. 
+                              꽃은 너비가 1.2cm에 이르고, 꽃밥은 
+                              황색이다. 
+  Series  Pinnatifolia        잎이 우상이다. 
+ Subgenus Ligustrina K.Koch   화관통부는 짧고 꽃받침보다 길지 않
+                              으며 화관열편보다도 짧다. 꽃밥은 황색.
+                              수술은 길게 나와 있으며 꽃은 creamy
+                              white에서 백색이다. 
+
+    한국산 Syringa속 식물에 대한 최초의 보고는 1895년 러시아인 A. Sontag이 서울 탑동에서 S. patula Nakai를 채집한 것을 Palibin(1900)이 잎 뒷면의 털을 특징으로 삼아 Ligustrum patulum Palibin이라고 명명한 것이 효시이다(Palibin, 1900). Komarov(1907)는 만주식물지에서 한국산으로 S. villosa Komarov, S. velutina Komarov의 두 종을 기록하고, 이 중에서 S. velutina Komarov를 한국 특산종으로 설정하였다. Leveille(1910)는 1906년 Faurie가 금강산에서 채집한 것을 잎이 피침형인 것을 특징으로 S. fauriei Lev. 신종으로 발표하였다. 
+    한국산 Syringa속의 분류체계를 종합적으로 논의한 Nakai는 1908년 부터 1917년까지 S. amurensis var. genuina Maximowicz, S. japonica Maxim. et Decne., S. dilatata Nakai, S. palibiniana Nakai, S. formosissima Nakai를 발표하였고, 1918년에는 조선삼림수목예보 제 10을 Bot. Mag. Tok. 제 31권에 싣고 S. japonica Maxim. et Decne.를 S. amurensis var. japonica(Maxim.) Fr. et Sav.로  분류하고, S. japonica for. bracteata Nakai, S. micrantha Nakai, S. kamibayashii Nakai, S. venosa Nakai, S. venosa var. lactea, S. hirsuta var. formosissima Nakai를 새롭게 기재하였다. 1921년에는 조선삼림식물편 제 10권에서 한국산 Syringa속 식물 8종 6변종 3품종의 분류체계와 종의 검색표, 라틴기재, 그리고 정밀한 삽도를 첨부하였으며 이 중 9종류를 한국 특산으로 설정하였다. 그리고 S. kamibayashii Nakai는 S. palibiniana var. kamibayashii Nakai로, S. hirsuta Nakai는 S. robusta Nakai로, S. formosissima var. hirsuta Nakai및 S. formosissima Nakai는 S. formosissima Nakai와 S. formosissima  var. hirsuta Nakai로 각각 동정하였으며 S. robusta for. subhirsuta Nakai와 S. robusta for. glabra Nakai를 새롭게 설정하였다. 1926년 Nakai는 S. micrantha Nakai를 이명으로, S. patula Nakai를 정명으로  처리했다. 이는 Palibin(1900)이 Ligustrum patulum Palibin으로 명명한 것을 Ligustrum 속이 아닌 Syringa속으로 귀속시켜 정명으로 한 것이다. Mori(1922)는 한국산 Syringa속 식물을 8종 6변종으로 정리하고 이의 분포지와 용도를 간략하게 기록하면서 5종을 특산종으로 보았다. 정 등(1937)은 8종 4변종의 국명을 최초로 기록하였다. Uyeki(1940)는 한국산 Syringa속 식물을 9종 6변종으로 정리하였으며 그 가운데 특산종을 5종류로 보고 그 분포지를 기록했다. 그리고 S. formosissima Nakai와 S. formosissima var. hirsuta Nakai를 S. wolfii Schneider, S. wolfii var. hirsuta (Schneid.) Hatusima의 이명으로 처리했다. 정(1943)은 한국산 Syringa속 식물을 8종 9변종 2품종으로 분류하고 특산종을 5종으로 설정하였다. 그리고 이의 이명, 기재, 분포도, 삽도를 첨부하여 Nakai 이후 한국인 최초의 식물지였으나 Nakai의 분류체계를 대부분 인용한 것이었다. 박(1949)은 한국과 일본에 소장된 한국산 Syringa속 식물의 석엽표본을 관찰하고 이를 4종류로 분류한 장형두의 의견을 쫒아 한국의 Syringa속 식물을 S. amurensis Rupr., S. oblata var. dilatata Rehder, S. velutina Komarov, S. wolfii Schneid. 4종류로 분류하였다. 이것은 외국 분류체계와 거의 일치하며 특히 1926년 Rehder가 S. dilatata Nakai를 S. oblata의 변종으로 처리한 것을 최초로 채택하였다. 이후 이러한 분류체계는 李 등(1963)에 의하여 일부 받아들여지기는 하였지만 일반적으로 채택되지는 못하였다.  
+  1952년 Nakai는 자신의 분류체계를 총정리하면서 6종 7변종 4품종으로 정리하고 Syringa 속을 Syringa 속과 Ligustrina 속으로 나누어 설정하여 S.amurensis Maxim. et Decne.을 Ligustrina reticulata Nakai으로,  S. amurensis var. genuina Maxim.을 Ligustrina reticulata var. Mandshurica Nakai으로, S. fauriei Lev.를 L. fauriei Nakai로 바꾸었지만 이러한 분류체계는 이후의 학자들에게 인정되지 않았다. 이(1963) 등은 한국산 Syringa 속을 3종 2변종으로 분류하고 이의 염색체 수, 향명, 용도를 간략하게 병기하였으며, 이(1966)는 4종 4변종 5품종으로 정리하면서 기존의 S. velutina의 변종으로 var. kamibayashii, var. venosa를, 품종으로서 꽃이 백색인 것을 for. lactea로 처리하였다. 
+   이러한 국내 학자에 의한 분류는 외국학자에 의한 분류체계(3종 1변종(McKelvey, 1928), 3종 3변종(Rehder, 1949; Baily, 1976; krusmann, 1986))와 비교해 볼 때 종의 수나 학명의 사용에 있어서 차이가 많고, 고유종에 대해서도 학자에 따라 2종에서 13종류까지 다양하게 분류하는 등 논란이 되어왔다(김 등, 1991; 이, 1983; 정, 1943, 1957, 1970). 따라서 Syringa속의 분류에 관한 체계적인 연구가 절실히 필요한 실정이다. 
+
+    화분의 표벽은 탄소원자에 비해 산소원자를 훨씬 적게 포함하고 있는 Pollenine이라는 특수한 물질로 구성되어 있어서 토양미생물에 의해 오랫동안 분해되지 않고 보존되어 화분학(Palenology), 식물생태학, 고고학, 고기후학, 고생물학 등의 학문분야와 의학, 약학, 농학 석탄, 석유탐사 등 응용분야에 많은 기여를 하고 있다(장, 1985). 특히 화분은 현미경의 발달과 함께 분류학에 등장하여 고생물학과 진화에 대한 정보를 제공해 줄 뿐만 아니라 분류에 있어서도 기존의 체계를 지지하거나 기존의 체계를 바꾸었다(이 등, 1991). 화분의 형태는 일찌기 1671년 Nshemia Grew, 1687년 Malpighi에 의해 관찰된 이래 1800년대에 Bauer, Fisher, van Hohl, Fritzsche 등에 의해 활발히 연구되었다. 최초로 집대성된 것은 Wodehouse(1935) 및 Ertman(1951)에 의해서이다(이, 1978). 우리나라에서 화분에 대한 연구는 1970년대 후반부터 본격화되어 현재 활발히 진행중에 있다. 
+   Syringa속 식물의 화분은 李(1982)가 한국산 물푸레나무과의 화분분류학적 연구에서 한국산 Syringa속 식물 7종류를 관찰하여 긴잎개회나무(S. amurensis var. longifolia Nakai)와 털개회나무(S. velutina Komarov)가 三弱孔溝型(tricolpolate)이고 나머지는 三溝型(tricolpate)으로 차이가 있고 나머지는 별 차이가 없음을 밝힌 바 있다. 
+
+
+III. 材料 및 方法
+
+   1. 供試 材料
+
+    본 연구는 한국에서 자생하고 있는 Syringa속 식물을 관련문헌과 각 대학의 표본 소장목록을 통하여 채집대상지를 선정하고 1992년 5월부터 1993년 6월까지 홍릉, 광릉, 서울대학교 농업생명과학대학 부속 수목원, 관악산 수목원, 관악산과 계방산, 오대산, 태백산, 소백산, 충북 괴산, 계룡산, 덕유산, 지리산, 울릉도에서 시료를 수집하였으며(Table 1), 그 이외에 서울대학교 농업생명과학대학 표본관(HAS), 서울대학교 자연대학 표본관(SNU), 성균관대학교 표본관(SKK)의 표본을 관찰하였다. 채집된 시료는 석엽표본과 액침표본(FAA)으로 제작하였으며 서울대학교 농업생명과학대학 표본관(HAS)에 보관하였다. 
+    관찰화분은 완전히 개화한 꽃의 약(anther)을 채취하여 음건시킨 후 이를 잘게 부수어 망사로 거른 화분립이나 표본관에서 채취한 화분립을 사용하였다. 
+
+
+
+
+
+
+
+
+
+   2. 硏究 方法
+
+    1) 外部形態 特性 調査 
+
+       본 연구를 위해 제작한 석엽표본과 각 대학의 석엽표본을 대상으로 소지에서는 색, 피목, 털을 조사하였고, 잎에서는 길이와 폭, 길이에 대한 폭의 비, 모양, 엽연의 털, 엽선모양, 엽저모양, 앞면의 털, 뒷면의 털, 앞, 뒷면의 색을 조사하였다. 화서가 나오는 위치와 화축의 털, 그리고 소화경의 털을 조사했으며, 꽃에서는 화통의 길이와 폭, 열편의 길이와 폭, 꽃받침의 길이와 폭, 수술대 길이, 암술대 길이, 화통에 대한 열편의 비, 화통에 대한 꽃받침의 비, 화통에 대한 수술대의 비, 꽃밥의 길이, 꽃받침의 털을 조사하였다. 열매에서는 길이와 피목 그리고 색을 조사하였다. 
+     측정에 있어 털의 밀도는 密, 中, 疎로 구분하였고, 잎, 엽병, 화통, 열매, 종자는 0.1cm까지, 그리고 포엽, 화경, 꽃받침, 화통, 열편, 암, 수술은 0.05cm까지 측정하였다. 측정시료는 각 분류군 별로 산지를 고려하여 10-12점을 선정하고 각 표본당 5반복 즉, 50-60반복을 실시하였다. 단, 자생지 채집의 어려움으로 수수꽃다리는 35반복, 버들개회나무는 15반복으로 하였다.  
+    잎의 단면 관찰은 Glutaraldehyde(5%) + Paraformaldehyde(5%) PBS(0.2M, pH 7.2, sucrose, CaCl2로 1차 고정하고 PBS(0.1M, pH 7.2)로 3회 세척, 2차 고정 후 3회 세척을 하였다. 탈수는 Acetone/Ethanol 50%, 70%, 80%, 90%, 100%(3번)를 각각 15분 간격으로 교체시켰으며 embedding은  Acetone:Epon의 비를 1:3, 1:1, 3:1, Epon 100%(3번)를 1시간씩 실시하였다. 그 후 60℃ oven에서 48시간 embedding시키고 sectioning은 trimming을 한 후 ultramicrotome과 유리칼로 1 m 두께로 절단하여 영구프레파라이트를 제작하여 광학현미경에서 40 - 100배로 관찰하였다.     
+    
+    2) 花粉特性 調査
+
+    화분립은 초산분해 과정을 거쳐 영구프레파라이트를 만들어 광학현미경 400배에서 관찰, 측정하였으며 초산분해 과정과 영구 프레파라이트를 만드는 과정은 다음과 같다. ① 페트리디쉬에 1.0ml의 빙초산을 넣은 후 pipet을 이용하여 tube(1.5ml)로 화분을 옮긴다. ② tube에 초산분해혼합액(Acetic Anhydride: H2SO4)을 1.0ml정도 넣고 hood하 중탕으로 10분간 끓인 다음 수 분간 냉각시킨다. ③ 다시 1분동안 1,500rpm으로 원심분해 시킨후 상층액(초산분해 혼합액)을 따라 낸다. ④ 다시 빙초산을 tube에 넣은 후 원심분리 시키고 상층액을 따라 낸다. ⑤ 증류수를 넣은 후 10분간 놓아두었다가 원심분리시켜 상층액을 따라낸다. ⑥ 다시 빙초산과 증류수를 넣은 후 10분간 놓아두었다가 원심분리시킨 후 가만히 여과지에 따른다. ⑦ 봉으로 화분을 slide glass 위에 옮겨놓고 canada balsam으로 함몰시킨 후 cover glass를 덮고 관찰한다.  
+    화분에 대한 용어는 이와 이(1991)에 따랐다. 
+
+    3) 分類群의 記載 및 類緣關係
+
+    종의 기재는 관찰, 측정, 분석된 결과를 토대로 하고 기존의 문헌을 종합, 검토하여 이루어졌고 검색표, 분포를 첨가하였다. 
+    종간의 유연관계는 SPSS PC+ hierarchial cluster analysis program을 사용하여 본 연구에서 관찰되었던 형태적인 특성과 화분의 특성을 함께 분석하였으며 cluster 분석을 위해 36개의 형질의 특징을 변수로 하여 각 형질의 구분이 뚜렷한 것에 '0', '1', '2', '3'의 점수를 각각 주었다. 예를들면 잎의 길이에 대한 폭의 비의 경우 1.21인 S. oblata var. dilatata Rehder는'0'을, 1.80-1.85인 S. patula Nakai와 S. reticulata Hara는'1', 2.15인 S. wolfii Schneider는 '2', 그리고 3.35인 S. fauriei Lev.는 '3'을 각각 주었다. 
+
+ IV. 結果 및 考察
+
+   1. 外部 形態學的 特性
+
+     1) 性狀, 小枝, 皮目 
+
+    Syringa속 식물은 관목 또는 소교목으로서, 일반적으로 정향나무아속(Subgenus Syringa)에 속하는 것은 관목, 개회나무아속(Subgenus Ligustrina)에 속하는 것은 소교목으로 볼 수 있다. 따라서 우리나라에 자생하고 있는 Syringa속 중 관목성은 털개회나무(1-4m), 수수꽃다리(3-5m), 꽃개회나무(4-6m)이고 교목성은 들정향나무(7-10m)와 버들잎개회나무(5-6m)이다(Fiala, 1988; Makino, 1965; Nakai, 1921; 이, 1989). 본 연구결과 개회나무아속 식물은 대부분 主幹이 뚜렷하고 6m 이상까지 자라고, 정향나무아속 식물은 뿌리 근처에서 많은 줄기가 갈라지고 4-5m에 달했다.  
+   Syringa속 식물의 소지 특성은 분류기준으로 될 만큼 뚜렷하지는 않고종에 따라 조금씩 차이를 보였다. 들정향나무의 소지는 벚나무처럼 옆으로 벗겨지고 광택이 나며, 꽃개회나무는 황회색으로서 잘 휘어지는 특성을 보였다. 털개회나무는 회갈색이고 가늘고, 수수꽃다리는 암갈색이고 굵었다. 피목은 들정향나무와 꽃개회나무가 크고 뚜렷하며, 수수꽃다리와 털개회나무는 뚜렷하지 않았다. 버들잎개회나무는 소지가 황록색이고 광택이 나며 피목이 거의 보이지 않았다. 
+
+
+
+     2) 잎의 特性
+
+    Syringa속 식물의 잎은 단엽이며 가장자리가 밋밋한 전연(entire)이나, 우상으로 갈라지는 특징을 가진 S. pinnatifida Wats.는 우리나라에 자생하지 않는다. 
+    잎의 길이(leaf length)는 일반적으로 두개의 그룹으로 나누어지며 버들잎개회나무, 꽃개회나무, 수수꽃다리는 8cm 이상이고, 들정향나무와 털개회나무는 7cm 이하로서 작은 편에 속하였다. 잎의 폭(width)은 수수꽃다리가 6-8cm로서 뚜렷이 구분되고 나머지는 2-6cm 정도로서 개체에 따라 차이가 심하고 종에 따라서는 뚜렷한 차이를 보이지 않았다.    
+    잎의 길이에 대한 폭의 비(leaf length/width)는 버들잎개회나무가 3.35로 뚜렷이 구분되고, 꽃개회나무가 2.15, 들정향나무, 털개회나무가 1.80-1.85, 그리고 수수꽃다리가 1.21로 뚜렷이 구분되었다. 따라서 잎의 길이에 대한 폭의 비는 식별형질로 유용하였다. 잎의 모양(leaf shape)은 수수꽃다리가 광난형 또는 아심장형, 들정향나무는 난형 및 광난형, 꽃개회나무는 타원형, 버들잎개회나무는 피침형의 특징을 가지고 있었다. 그러나 털개회나무의 잎은 타원형, 난형, 도란형, 아원형에 이르는 다양한 모양을 가지고 있어, Nakai(1921)가 잎이 거의 둥근 것을 S. palibiniana var. kamibayashii Nakai라고 분류하였으나 개체간, 개체내의 다양한 변이를 보여져 변종설정이 타당하지 않다고 생각된다. 엽선(leaf apice)은 꽃개회나무가 예두이고 나머지는 점첨두, 엽저(leaf base)의 모양은 꽃개회나무와 버들잎개회나무는 예저, 털개회나무와 들정향나무는 원저, 그리고 수수꽃다리는 절저 또는 아심장저로서 구분되었다. 따라서 잎의 모양은 한국산 Syringa속 식물을 분류하는데 유용한 형질로 판단되었다.  
+    잎 뒷면의 털의 밀도와 유무는 변이가 매우 심하다. 꽃개회나무는 없는 것에서 기부에만 있는 것, 1/2정도 있는 것, 전체에 밀생하는 것까지 다양하고, 털개회나무는 앞면에 털이 대부분 있지만 없는 것도 있고, 뒷
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Fig. 2  Variations in leaf length and width of Syringa in Korea.
+    1. S. wolfii Schneid.  2. S. patula Nakai  3. S. oblata var.
+    dilatata Rehder   4. S. reticulata Hara  5. S. fauriei Lev. 
+
+면에 굵은 단모가 기부에만 있는 것, 1/2까지 있는 것, 전체에 밀생하는 있는 것이 있다. S. reticulata(Blume) Hara와 S. retidulata var. amurensis(Rupr.) Pringle는 잎 뒷면의 기부에 털이 있느냐, 없느냐가 중요한 분류기준이 되고 있으나, 연구결과 개체내, 개체간 변이가 심하고 연속적이었다. 
+    Nakai(1918)는 주맥이 깊게 함몰되어 있고 울릉도에 자라는 것을 S. venosa Nakai로 설정하였으나, 정(1970)이 1965년 계룡산에서 채집한 표본을 S. venosa Nakai로 동정한 바 있고, 본 연구결과 주맥의 깊이는 지역적인 차이는 인정되지 않고 개체에 따라 미묘한 차이를 보였다. 따라서 주맥의 깊이로서 종을 나누는 것이 타당하지 않다고 사료된다.    
+    본 연구결과 주맥의 모양은 종에 따라 다양함을 볼 수 있었다. 수수꽃다리는 전혀 주맥의 함몰이 없으며, 들정향나무는 넓고 약간 함몰되었다. 꽃개회나무는 V자로 뾰족하고 깊게 굴곡이 졌고, 털개회나무는  모양처럼 밑이 둥글며 약간 뒤틀려 있었다. 그리고 버들잎개회나무는 완전히 함몰하여 거의 자루처럼 생겼다(Fig.3). 따라서 주맥의 함몰모양은 종을 식별하는 하나의 기준으로 유용하다고 할 수 있다. 
+   기타 잎의 특징으로는 꽃개회나무가 뒷면이 회백색이고 나머지는 밝은 녹색이고, 수수꽃다리는 엽연에 털이 없으며 약간 파상으로 되어있다. 
+   엽병은 수수꽃다리가 2.7cm로서 뚜렷한 차이를 보이고, 들정향나무는(1.5cm), 꽃개회나무(1.2cm), 털개회나무(0.9cm), 버들잎개회(0.7cm) 순이었다. 엽병의 털은 잎의 털과 밀접한 관련이 있는 것으로 나타났으며 수수꽃다리, 들정향나무, 버들잎개회나무는 털이 없고, 꽃개회나무는 있거나 없고, 털개회나무는 대부분이 존재하나 가끔씩 없는 것도 있었다. 
+
+
+    잎의 특성에 의한 한국산 Syringa속 식물의 검색표 
+
+ 1. 잎이 피침형이다.                                S. fauriei Lev.
+ 1. 잎이 타원형, 난형, 또는 광난형이다.                           2
+    2. 잎이 타원형, 뒷면이 회록색이다.           S. wolfii Schneid.
+    2. 잎이 난형, 광난형이고 뒷면이 밝은 녹색이다.                3
+  3. 잎이 절저 또는 심장저이며 엽병이 2-3cm이다.                  
+                                     S. oblata var. dilatata Rehder
+  3. 잎이 원저이며 엽병은 1 - 2cm이다.                            4
+    4. 주맥이 넓고 깊게 함몰되지 않는다          S. reticulata Hara
+    4. 주맥이 좁고 깊게 패었다.                     S. patula Nakai
+
+
+     3) 花序와 꽃의 特性
+
+    Syringa속 식물은 원추화서로서 전년도 가지에 액생하느냐, 새가지에 정생하느냐가 절(series)을 나누는 하나의 기준이 되고 있으며, 우리나라에 자생하는 Syringa속 식물중에는 꽃개회나무가 새가지에 정생하고 나머지는 전년도 가지에 액생한다. 
+    S. wolfii Schneid.와 S. wolfii var. hirsuta Hatus., S. velutina Komarov와 S. velutina var. venosa T. Lee는 화축, 소화경 및 꽃받침의 털의 유무로써 분류하고 있으나, 전자의 경우 이(1989)는 중간형이 많음을 시사하였으며, 본 연구결과도 털이 없는 것에서부터 밀모까지 연속적이며 분포지역이 일치하였다. 후자의 경우도 연속적이며 분포지의 차이를 볼 수 없었다.        
+    화관통부의 길이와 화관통부에 대한 수술의 길이는 Syringa속 식물의 아속을 결정하는 가장 중요한 분류형질이다. 화관통부의 길이는 털개회나무아속은 대부분 1cm 이상, 개회나무아속은 0.25cm 이하로서 뚜렷이 구분되며, 수수꽃다리(1.58cm), 꽃개회나무(1.15cm), 털개회나무(0.92cm), 들정향나무(0.23cm), 버들잎개회나무(0.12cm)로서 종을 분류하는 유용한 형질이 될만 하다고 생각된다. 또한 수술은 화관통부의 2/3지점에 부착되어 있으며, 수술대가 화관통부 밖으로 나오는 것은 개회나무아속이고, 화관통부 내부에 있는 것은 정향나무아속으로 분류할 수 있다. 
+    화관통부의 길이에 대한 꽃받침 길이의 비는 정향나무아속의 경우 4이상이고, 개회나무아속의 경우는 1.2-1.5로서 뚜렷히 구분되었다. 또한 종에 따라서도 수수꽃다리(7.5), 털개회나무(5.1), 꽃개회나무(4.4), 개회와 버들잎개회나무는 1.2-1.5로서 차이가 많아 종을 분류하는 형질으로도 유용하다고 생각된다. 열편의 크기에 있어서는 수수꽃다리가 가장 크고(길이 0.73cm, 너비 0.48cm), 나머지는 큰 차이를 보이지 않았다. 열편의 모양은 꽃개회나무와 털개회나무는 끝이 뾰족하고 안으로 굽지만 수수꽃다리와 들정향나무, 그리고 버들잎개회나무는 끝이 둥글고 거의 굽지 않는다. Table 3과 같이 화관통부에 대한 열편의 길이도 정향나무아속은 1이상, 개회나무아속은 1이하로서 구분되고, 종에 따라서도 뚜렷이 분리되어 분류형질로서 유용하다고 판단된다. 암, 수술의 길이는 수수꽃다리, 꽃개회나무, 털개회나무, 들정향나무, 버들잎개회나무 순이었으며 분류형질로서 유용하지는 않았다.  
+    꽃색은 들정향나무, 버들잎개회나무는 노란색을 띤 흰색(creamy white)이지만 수수꽃다리는 자색, 자홍색, 꽃개회나무는 자홍색, 털개회나무는 자홍색, 홍색, 연한홍색, 거의 백색에 이르는 다양한 색을 가지고 있다.  
+    기타 특징으로는 일반적으로 Syringa속 식물은 단모를 가지는데 비해 수수꽃다리는 화서와 꽃받침에 선모를 가지는 특징이 있었다.   
+    따라서 화서 및 꽃의 특성은 기존의 분류체계에서 아속(Subgenus), 절(series), 그리고 종(species)을 구분하는 가장 중요한 형질로 삼고 있으며, 본 연구에서도 각 분류군을 설정하는 가장 중요한 형질이 될수 있음을 확인하였다.   
+
+  화서와 꽃의 특징에 의한 한국산 Syringa속 식물의 검색표
+
+ 1. 수술이 화관통부 밖으로 나온다.                                2
+ 1. 수술이 화관통부 안에 있다.                                    3
+   2. 화관통부의 길이가 0.15cm이하이다.             S. fauriei Lev.
+   2. 화관통부의 길이가 0.2cm이상이다.           S. reticulata Hara
+  3. 화서와 꽃받침에 선모가 있다.    S. oblata var. dilatata Rehder
+  3. 화서와 꽃받침에 단모가 있다.                                 4
+    4. 화서는 새가지에 정생한다.                 S. wolfii Schneid.
+    4. 화서는 전년도 가지에서 액생한다.             S. patula Nakai
+
+
+     4) 열매 및 種子의 特性
+
+    Syringa속 식물의 열매는 삭과로서 2개의 열편을 갖고 돌기(wart)가 있는 특징이 있다. 열매와 종자의 크기는 들정향나무가 각각 2.0cm, 1.6cm이고, 나머지는 1.0-1.3cm, 0.8-1.1cm 정도로서 구분되었다. 열매의 모양은 수수꽃다리가 타원형이고, 나머지는 장타원형 또는 피침형이었다. 열매의 끝은 꽃개회나무, 들정향나무, 버들잎개회나무가 둔두, 털개회나무는 둔두 또는 첨두이며, 수수꽃다리는 예리한 점첨두의 특징이 있다. 열매의 색은 수수꽃다리와 버들잎개회나무가 암갈색으로 광택이 나는 특성이 있으며 들정향나무와 꽃개회나무는 갈색, 털개회나무는 갈색에서 암갈색까지 다양하다. 돌기는 털개회나무가 가장 많고 뚜렷하며, 들정향나무와 버들잎개회나무는 조금 있거나, 뚜렷하지 않다. 꽃개회나무는 거의 없고 수수꽃다리는 전혀 없다. 종자의 날개는 개체에 따라 차이가 있지만 대체적으로 수수꽃다리와 들정향나무는 종자의 날개 길이가 길이와 폭 방향으로 0.1cm정도이고, 나머지 종류은 길이방향은 0.1cm, 폭 방향은 0.05cm정도였다.       
+
+   열매와 종자의 특성에 의한 한국산 Syringa속 식물의 검색표
+
+ 1. 열매가 2cm정도로 대형이다.                  S. reticulata Hara
+ 1. 열매가 1- 1.5cm정도이다.                                     2
+   2. 열매에 돌기가 뚜렷하고 많다.                  S. patula Nakai
+   2. 열매에 돌기가 뚜렷하지 않고 적거나 없다.                    3
+ 3. 열매가 타원형이고 첨두이다.      S. oblata var. dilatata Rehder
+ 3. 열매가 장타원형 또는 피침형이고 둔두이다.                     4
+  4. 열매의 색이 황갈색이다.                     S. wolfii Schneid.
+  4. 열매의 색이 암갈색이다.                        S. fauriei Lev.
+
+   2. 花粉의 特性
+
+     Syringa속 식물의 화분은 Fig. 7과 같이 극축길이 25-42 m, 적도면 지름 23-41 m로서 중립(medium)에 속하고(Erdtman, 1972), 극쪽에서 보면 원형, 적도면에서 보면 원형, 약장구형 또는 아장구형으로서 이(1982)의 결과와 거의 일치하였다. 발아구에 있어서는 이(1982)는 S. amurensis var. longifolia Nakai와 S. velutina Komarov가 三弱孔溝型으로 밝힌 바 있으나, 본 연구에서는 수수꽃다리만 三弱孔溝型(tricolporoidate)으로 나타났고 나머지 분류군은 三溝型(tricolpate)으로 나타났다. 이러한 차이는 광학현미경에 의한 발아구를 정확히 볼 수 없었다는 점과 시료 준비과정의 오차 때문이라고 판단되며, 앞으로 주사전자현미경에 의해 미세구조가 연구되어야 하겠다.  
+     화분의 극축 길이는 털개회나무와 버들잎개회나무가 다른 종보다 다소 길었고, 적도면의 길이는 들정향나무가 가장 컸다. 극축의 길이에 대한 적도면 길이의 비는 화분의 형태를 결정짓는 요소이며, Table 5와 같이 수수꽃다리는 1.20으로서 아장구형(Subprolate)이고, 나머지 4종류는 1.07 - 1.12 정도로서 약장구형(Prolate-spheroical)이었다. 발아구에 있어서는 들정향나무와 버들잎개회나무는 溝가 넓고 깊었으며, 꽃개회나무는 넓지만 깊지 않았다. 수수꽃다리는 좁고 깊으나 털개회나무는 좁지만 깊지 않았다. 발아공은 수수꽃다리만 약한 孔溝를 가지고 있었다. 
+    화분표벽의 무늬는 망상(Reticulate)맥이 뚜렷하지만 종간의 차이는없었다. 
+
+
+
+3. 分類群 記載
+
+   1) 屬의 記載
+
+      Syringa Linnaeus 
+
+     ① Linnaeus, Gen. Pl. 5th ed. 9(1754); Nakai, Fl. Kor. II. 88-91(1911); Nakai, Fl. Syvl. Kor. 10:41-60(1921);  Rehder, Manual of Cult. Trees and Shurbs. 751-757(1927); Chung et al.., Comm. Nam. Kor. Pl. 134-135(1937); Lee, Arb. Kor. 261-265(1947); Rehder, Biblogr. Cult. Trees 564-569(1949); Nakai, Synopt. 31:91-92(1952); Lee, Illust. Woody Pl. of Kor. 332-334(1966); Krusmann, Manual of Cult. Broad-leafed Trees and Shurbs III:374-385(1986); Fiala, Lilacs. Gen. Syringa. 266(1988)
+
+     ② Korean name : 수수꽃다리속 
+
+     ③ Type specimen : Syringa vulgaris L.
+
+    낙엽 관목이거나 소교목. 대부분 줄기에 피목이 발달한다. 잎은 대생, 단엽, 전연이지만 갈라지는 것도 있다. 탁엽은 없고 엽병은 있다. 잎은 피침형, 타원형, 난형, 광난형이고 예두, 점첨두, 예저, 원저, 아심장저이고 대부분 엽연과 잎의 뒷면에 털이 있다.   
+   원추화서는 액생하거나 정생하며 작은 꽃들이 빽빽이 달린다. 꽃은 통부와 4개의 열편으로 나누어지며 화관은 홍색, 자색, 홍자색, 백색 등 다양하고 꽃받침은 짧고 잔모양으로서 4개로 갈라진다. 암술은 1개, 수술은 2개로서 화관통 2/3지점에 달리며 화관통 안에 있거나 밖으로 나와 있다. 상위자방이며 2실이고 각실에 2개의 배주가 있다. 열매는 삭과, 포배개열이며, 각 실에 2개의 종자가 들어있다. 열매에 돌기가 있는 것이 많으며, 종자는 편평하고 날개가 있으며 배유는 육질이다. 
+   화분은 극축길이 25-42 m, 적도면 지름 23-41 m로서 극쪽에서 보면 원형이고 적도면에서 보면 弱長溝型 또는 亞長溝型이다. 발아구는 三溝型, 또는 三弱孔溝型이다. 
+
+     ④ 종의 검색표
+
+1. 화관통부은 열편보다 길고 수술은 화관통부 안에 있다.                                                            Subgen. Syringa K. Koch
+  2. 화서는 새가지에 정생한다.                  S. wolfii Schneider
+  2. 화서는 전년도 가지에 액생한다.                               3 
+    3. 화관통부은 1.5cm 정도이고 열편은 둔두이다.                 
+                                     S. oblata var. dilatata Rehder
+    3. 화관통부은 1cm 정도이고 열편은 예두이다.      S. patula Nakai 
+1. 화관통부은 열편보다 짧고 수술은 화관통부 밖으로 나온다.         
+                                          Subgen. Ligustrina K.Koch 
+ 4. 잎은 피침형이다.                                S. fauriei Lev.
+ 4. 잎은 난형, 광난형이다.                       S. reticulata Hara 
+
+   2) 種의 記載
+
+    (1) S. wolfii Schneider
+
+     ① Uyeki, Woody Pl. and their distrib. in Tyosen. 91(1940); Rehder, Biblogr. Cult. Trees 564-569(1949); Park, Enum. Kor. Pl. 192(1949); Lee, Illu. Woody Pl. of Kor. 333-334(1966); Krusmann, Manual of Cult. Broad-leafed Trees and Shurbs III:380(1986); Fiala, Lilacs. the Genus Syringa 80-81(1988).
+
+
+     ② Synonyms
+       S. formosissima Nakai, Bot. Mag. Tok., 31:105(1917), et
+          32:132-133(1918), et Fl. Sylv. Kor. 10:56(1921); Mori,
+          Enum. Pl. Kor. 288(1922); Chung et al., Comm. Nam. Kor.
+          Pl. 135(1937); Chung, Kor. Fl. I. 443(1957)
+       S. hirsuta var. formosissima Nakai, Bot. Mag. Tok.
+          32:133(1918)
+       S. hirsuta Nakai, Bot. Mag. Tok., 32:132(1918)
+       S. robusta for. subhirsuta et for. glabra Nakai, Fl. Sylv.             Kor. 10:58(1921); Chung, Kor. Fl. I. 447(1957)
+       S. formosissima var. hirsuta Nakai, Fl. Sylv. Kor.  
+          10:56(1921); Mori, Enum. Pl. Kor. 288(1922); Chung et
+          al., Comm. Nam. Kor. Pl. 135(1937), Chung, Kor. Fl. I.
+          444(1957)
+       S. robusta Nakai, Fl. Sylv. Kor. 10:57(1921); Mori, Enum.
+          Pl. Kor. 288(1922) 
+       S. wolfii var. hirsuta(Schneid.) Hatusima, Uyeki, Woody Pl.
+          and their distrib. in Tyosen. 91(1940) 
+  
+     ③ Korean name: 꽃개회나무(정 등, 1937; 정, 1943, 1957, 1965;
+        박, 1963; 이, 1966), 꽃정향나무(김 등, 1988)
+ 
+    본 식물은 낙엽관목으로서 4-6m에 이르고 소지에 피목이 있다. 잎은 대생하며, 타원형 또는 긴타원형. 예두 또는 짧은 점첨두. 예저 또는 넓은 예저. 표면에는 털이 없고 뒷면은 털이 거의 없는 것도 있으나 대부분 맥 위에 털이 있거나 전체에 털이 있다. 주맥은 깊게 V자로 패었으며 뒷면은 회록색이다. 잎의 길이는 6-11cm, 폭은 3-5cm로서 엽연에는 연모가 있다. 엽병은 길이  1-1.5cm정도로서 잎이 흘러내리는 경우가 있다.    
+   꽃은 6월 중순부터 7월 초에 피고 원추화서는 새가지 끝에 달리고 길이 15-25cm로서 털이 있고 소화경은 3mm정도이다. 포엽은 2-3cm가 되는 것부터 2mm까지 다양하며 털이 없거나 잔털이 있다. 화관은 자홍색, 또는 홍색이고 통부는 길이 0.9-1.5cm이고 열편은 2-4mm로서 끝이 안으로 꺾여 있으며 완전히 젖혀지지 않는다. 수술은 화관통부보다 짧고 암술은 5mm정도이다. 
+    열매는 1.1-1.3cm로서 9월에 익는다. 모양은 둔두이고 황갈색이며 피목은 거의 없다. 종자는 0.7-1.1cm이며 날개가 있다.  
+    화분의 크기는 32-36 m, 29-31 m으로서 弱長溝型이고 三溝型이다.  
+
+     ④ 분     포
+
+       수평적인 분포는 소백산 이북. 수직적으로는 남한지역의 경우 1,200-1,800m에서 자란다. 
+   
+      ⑤ 관찰 표본
+    강원도; 금강산(Jul. 31, 1933, 도봉섭, 심학진)SNU, 금강산(Jul. 24, 1934, 도봉섭)SNU, 설악산(Jun. 1, 1966, Sep. 25, 1966, 이창복, 조무연)HAS, 설악산(Sep. 5, 1986, 이상태, 정영재, Jul. 26, 1984, 이상태, May 2, 1982, 김무열, 홍석표)SKK, 점봉산(May 26, 1966, 이창복, 조무연, Aug. 1, 1979, 이창복, Aug. 1, 1983, 이창복 등, Jun. 20, 1992, 이유미)HAS, 점봉산(Jun. 24, 1987, 이상태, 정영재)SKK, 오대산(Aug. 18, 1963, 이창복 등)HAS, 점봉산(Jun. 14, 1986, 이상태 등)SKK,  향로봉(JUn. 18, 1967, 정영호)SNU, 대암산(Sep. 28, 1969, 강영무)SNU, 소백산(Jun.3, 1975, Jul. 7, 1975, 최홍근, 안진흥)SNU, 소백산(Jul.14, 1990, 정영재 등)SKK, 태백산(Jul. 23, 1964, 이창복 등)HAS,  계방산(Jul. 24, 1981, 이창복 등)HAS
+    함경도; 일월산(Jun. 23, 1923 ?)SNU, 관모봉(Jul. 16, 1936, Jul. 21, 1936, 도봉섭)SNU, 길주(Aug. 8, 1924, ?)SNU, 월전고원(Jul. 15, 1934. 도봉섭, 심학진)SNU  
+
+    ⑥ 분류학적 의견 
+
+    본 종은 1910년 Schneider가 보고하여 설정된 종으로서 우리나라에서는 1917년 Nakai가 중국의 S. villosa보다 피목이 발달하며 원추화서가 쳐지고 개화기가 7-8월로 늦은 점을 들어 새로운 종으로 발표를 하였다. 1921년 Nakai는 화서가 강하게 직립하는 것을 S. robusta Nakai로 설정하고, 맥 위의 잔털이 있는 것을 S. robusta for. subhirsuta Nakai, 털이 없는 것을 S. robusta for. glabra Nakai로 분류하였다. 또한 소화경과 꽃받침의 털이 많은 것을 S. formosissima var. hirsuta Nakai로 분류하였다. 그러나 Uyeki(1940), 이(1966) 등은 화서가 강하게 직립하거나 약간 휘어지는 것이 유전적인 요소보다는 환경적인 영향에 의해서 분류형질로서 타당하지 않다고 보고 이를 S. formosissima Nakai에 통합처리하였고 본 연구결과도 이를 지지하였다. 그러나 화서와 소화경 및 꽃받침의 털, 그리고 화관통부의 길이에 의해 S. formosissima Nakai와 S. formosissima var. hirsuta Nakai 두종으로 정리하였으나 이는 다시 S. wolfii Schneid.와 S. wolfii var. hirsuta Hatus.으로 동종이명 처리되었다. 그러나 Lee(1966)는 중간형이 많음을 시사했고, 장형두는 한국과 일본에 소장되어 있는 석엽표본을 관찰한 결과 두 종의 차이가 없음을 발표하였다. 본 연구결과 S. wolfii Schneid.와 S. wolfii var. hirsuta Hatus.를 분류한 형질인 소화경과 꽃받침의 털은 변이가 연속적이고 종의 분포역이 동일하였다. 또한 화관통부의 길이 역시 소화경, 꽃받침의 털과 무관할 뿐만 아니라 8-11mm, 15-18mm로 뚜렷이 구분되지 않고 12-15mm를 갖는 개체가 많았다. 따라서 S. wolfii var. hirsuta Hatus.는 기본종에 통합처리하는 것이 타당하다고 생각한다. 
+   국명은 대부분의 문헌에서 꽃개회나무라고 기재되어 있으나, 이 등(1988)은 꽃정향나무로 표기하였다.       
+
+
+    (2) S. patula Nakai
+
+    ① Chung et al., Comm. Nam. Kor. Pl. 135(1937); Uyeki, Woody Pl. and their distrib. in Tyosen. 91(1940); T. Lee, Arb. Kor. 264(1947);  Bailey, Hortus 3th ed. 1091(1976); Krusmann, Manual of Cult. Broad-leafed Trees and Shurbs III:377(1986); Fiala, Lilacs 48-64(1988)
+
+    ② Synonym
+
+       Ligustrum patulum Palibin, Consp. Fl. Kor. 2:10(1900)
+       S. velutina Komarov; Nakai, Fl. Sylv. Kor. 10:51-52(1921)
+          Rehder, Biblogr. Cult. Trees 565-566(1949); Lee, Illu.
+          Woody Pl. of Kor. 333(1966)
+       S. palibiniana Nakai, Bot. Mag. Tok 27:32(1913), et Fl.
+          Sylv. Kor. 10:53(1921)
+       S. micrantha Nakai, Bot. Mag. Tok 32:109(1918), Fl. Sylv.
+          Kor. 10:51(1921)
+       S. kamibayashii Nakai, Bot. Mag. Tok 32:109(1918)
+       S. venosa Nakai, Bot. Mag. Tok 32:130(1918); Fl. Sylv.
+          Kor. 10:55(1921)
+       S. venosa var. lactea Nakai, Bot. Mag. Tok 32:131(1918)
+       S. palibiniana Nakai, Fl. Sylv. Kor. 10:53(1921)
+       S. palibiniana var. lactea Nakai, Fl. Sylv. Kor.                   10:52(1921)
+       S. palibiniana var. kamibayashii Nakai, Fl. Sylv. Kor.               10:52(1921)
+       S. velutina var. kamibayashii T. Lee, Illust. Woody Pl.
+          of Kor. 333(1966)
+       S. velutina var. venosa T. Lee in Lee, Illu. Woody Pl. of
+          Kor. 333(1966)
+       S. debelderii Clark et Fiala in Gen. Syringa 48(1988)
+
+    ③ Korean name: 털개회나무(정 등, 1937; 이, 1947; 정, 1943,
+          1957, 1965; 이, 1966)
+
+   낙엽관목으로서 4m까지 자라며 분지가 많이 된다. 줄기에는 피목이 뚜렷하고 회백색이다. 어린가지는 가늘며 털이 있거나 없다. 잎은 길이 4-7cm, 너비 2-4cm정도로서 타원형, 난형, 넓은 난형, 난상타원형, 아원형. 예두 또는 점첨두이며 원저, 예저. 표면은 털이 있거나 없다. 뒷면은 기부에 밀생하거나 전체에 밀생한다. 주맥은  자 처럼 좁고 깊게 패었으며 엽연은 털이 있다. 꽃은 5월에 피고 화서는 전년도 가지에 액생한다. 원추화서는 길이 5-20cm 정도로 다양하며 화축 및 소화경에 털이 있거나 없다. 화관은 홍색, 연한 홍색, 백색에 이르는 변이가 심하고 화관통부의 길이는 0.7-1.1cm. 열편은 긴삼각형으로서 끝부분은 안으로 꺾였으며 밖으로 말리는 것도 있다. 수술은 화관통부 안에 있다. 열매는 9월에 익으며 1.1-1.5cm로서 점첨두. 갈색 또는 암갈색이며 돌기가 뚜렷하고 많다.      화분의 크기는 26-32 m, 25-30 m으로서 弱長溝型이고 三溝型이다.  
+
+
+    ④ 분     포
+
+  수평적으로는 경남, 전남으로부터 함경북도까지 분포하며, 수직적으로도 남한의 경우 500-1,800m까지 분포한다. 북한에는 100-2,300m까지 분포하는 것으로 기재되어 있다(정과 이, 1965). 
+
+     ⑤ 참고 표본
+
+    강원도; 금강산(Jul. 28, 1933, Aug. 11, 1943, 도봉섭, 심학진, Aug. 9, 1940, ?)SNU, 점봉산(May 26, 1966, 이창복, 조무연, Aug. 1, 1979, 이창복)HAS, 소금강(Sep. 16, 1971, May 30, 1984, 이창복)HAS, 설악산(Jul. 31, 1957, Jul. 30, 1958, 이창복)HAS, 설악산(May 31, 1966, Jun. 2, 1966, 이창복, 조무연)HAS, 설악산(Aug. 1, 1962, 정태현, May 2, 1982, 김무열, 홍석표)SKK, 오대산(Sep. 14, 1985, 이창복, Aug. ?, 1958, 이창복, 최명행)HAS, Jun. 14, 1986, 이상태 등)SKK, 향로봉(May 27, 1968, 정영호)SNU, 대암산(Jul. 4, 1967, 정영호, 강영무)SNU, 태백산(Jun. 23, 1923, 정태현)SKK    
+    경기도; 관악산(Jun. 5, 1965, 이창복, 조무연)HAS, 관악산(May 20, 1991, 이은정)SKK, 관악산(Jun. 28, 1981, 남상근, Sep. 21, 1979, 강희창)SNU, 북한산(Jun. 19, ?, 이창복 등)HAS, 북한산(Jun. 4, 1933, 도봉섭, 심학진, Aug. 29, 1931, May 4, ?, 도봉섭)SNU, 북한산(Jun.12, 1934, 주태길, Sep. 10, 1961, 이우철)SKK, 수리산(?, 1977, 이창복 등)HAS, 용문산(Oct. 10, 1959, 정태현)SKK, 용문산(Jun. 16, 1984, 김현)SNU, 광릉(May 28, 1933, 심학진)SNU, 백운산(Jun. 13, 1963, 이창복)HAS, 소요산(Jun. 31, 1955, 정태현)SKK 
+    충청북도; 속리산(Jun. 9, 1962, 이창복)HAS, 월악산(Aug. 9, ?, 이창복)HAS
+    충청남도; 주흘산(May 17, 1988, 김창기, 최진희)SKK, 계룡산(?, 1965, 정태현)SKK   
+    경상북도; 울릉도(Jun. 3, 1917, Nakai, Jul. 30, 1966, 이창복, 조무연, Jul. 29, 1961, Aug. 27, 1976, 이창복)HAS, 울릉도(Jul. 17, 1937, Jul. 17, 1939, jul. ?, 1942, 도봉섭, 심학진)SNU, 울릉도(Aug. 3, 1957, 정태현, Aug. 21, 1956, 양인석)SKK, 상주(?, 1958, 이창복, 손성호)HAS, 일월산(Jun. 21, 1923, ?)HAS    
+    경상남도; 지리산(Jul. 18, 1961, Jul. 4, 1982, Jul. 15, 1976, Jun. 29, 1984, Aug. 4, 1960, 이창복, May 23, 1964, Aug. 1, 1963, 이창복 등)HAS, 지리산(May 9, 1987, 옥정현)SKK, 지리산(Aug. 6, 1934, 도봉섭, 심학진, Sep. 28, 1934, 정태현)SNU, 부산(Jul. 14, 1964, 이창복 등)HAS, 양산 달음산(Jul. 15, 1981, 정영호)SNU 
+    함경북도; 대택(Aug. 13, 1942, ?)SNU, 명천군 상길면(Aug. 22. 1924, 近藤忠, 呂調鉉)SNU 
+    함경남도; 혜산진(Jun. 24, 1935, ?)SNU, ?(May 26, 1943, 도봉섭, 심학진)SNU
+    평안남도; ?(May 14, 1943, 도봉섭, 심학진)HAS
+    황해도; ?(May 26, 1924, ?)SNU
+
+
+    ⑥ 분류학적 의견
+
+    본 종은 1895년 Sontag이 서울 탑동에서 채집한 것을 1900년 Palibin이 Syringa속이 아닌 쥐똥나무속(Ligustrum patulum Palibin)으로 발표한 것이 최초의 기재였다. 그 후 Komarov(1903)는 한국 북쪽에서 채집한 것을 S. velutina Komarov으로 명명했지만 이 둘의 차이는 S. velutina Komarov가 잎 앞면에 털이 약간 있고, 포엽이 기록되지 않았다는 것 분이었다. 따라서 Nakai(1926)는 Ligustrum patulum Palibin을 S. patula Nakai로 재동정하였다. 이후 학자들도 두 종을 동일한 종으로 보는 데는 일치하고 있으나 정명을 S. velutina Komarov로 하는 학자(Chung, 1943; Rehder, 1949; Lee, 1966)와 S. patula Nakai를 정명으로 하는 학자(Uyeki, 1940; Bailey, 1976; Krusmann, 1986; Fiala, 1988)로 나누어지며, 시간이 지날수록 S. patula Nakai를 정명으로 사용하고 있는 경향이다. 본 연구 결과에서도 잎 앞면의 털은 맥 안에 아주 드물게 존재하거나 뚜렷이 구분되지 않으며, 포엽은 전 개체에서 발견되어 두 종은 동종이명임이 확인되었다. 1918년 부터 1952년까지 Nakai는 주맥이 약간 들어가며 뒷면 기부에만 털이 있는 것을 S. palibiniana Nakai, 이에 비해 잎이 넓고 열매의 끝이 둥근 것을 S. palibiniana var. kamibayashii Nakai, 잎이 가늘고 긴 것을 S. palibiniana var. longfolia Nakai, 꽃이 백색으로 피는 것을 S. palibiniana var. lactea Nakai로 분류하였다. 또한 울릉도에 자생하며 엽맥이 더 깊고 앞면에 털이 없으며 뒷면 기부에만 털이 있는 것을 S. venosa Nakai로 신종 발표하면서 한국 특산으로 설정하였다. 또한 이의 변종으로서 흰색 꽃이 피는 것을 S. venosa var. lactea Nakai로 기재하였다. 그러나 한국 및 일본에 소장된 한국산 Syringa속 석엽표본을 관찰한 장형두는 이들을 동종이명 처리해야 한다고 주장하였다. 李(1966)는 이를 S. velutina Komarov를 기본종으로 하고 잎이 아원형이고 주맥이 약간 들어가는 것을 var. kamibayashii T.Lee, 꽃이 백색으로 피는 것을 for. lactea T.Lee, 그리고 잎 뒷면에 털이 약간 있거나 없고 주맥이 깊게 들어가는 것을 var. venosa T.Lee, 백색 꽃이 피는 것을 for. lactea T.Lee로 재분류하였다. 
+    본 연구 결과 잎의 모양은 그 변이가 심하여 한 개체내에서도 타원형, 난형, 원형의 다양한 모양의 잎이 개체간, 개체내에서 존재하고 있었으며 잎 뒷면의 털은 거의 존재하지 않는 것부터 주맥의 기부에만 존재하는 것, 그리고 전면에 존재하는 것까지 연속적으로 관찰되었다. 주맥의 깊이는 잎의 단면을 절단하여 관찰해 본 결과 뚜렷한 차이를 발견할 수 없고 개체에 따라 약간씩 차이가 있었다. 꽃이 백색인 것은 관찰 결과 개체 내에서 홍색이 기부에 약간씩 남아있는 것이 많고 개체에 따라 색이 연속적인 변이를 나타내므로 독립된 분류군으로 보기가 힘들다고 판단된다.                
+    1977년 미국립 수목원의 Robert와 Jelena de Belder가 설악산에서 채집한 본 속 식물을 Arnold Arboretum과 미국립 수목원에 키우면서 왜성이고, 잎이 작으며 가지가 약하고 잔가지가 많음. 그리고 화서가 작고 열매의 크기가 1-1.4cm인 것을 그 특징으로 S. debelderi Clark et Fiala로 발표하였다. 그러나 이러한 특성은 S. patula Nakai와 다르지 않으며, 환경적인 영향에 의하여 다소 왜성의 형태가 되었을 것으로 보인다.
+   국명은 암개회나무, 털개회나무, 정향나무, 섬개회나무, 흰개회나무, 흰섬개회나무, 둥근정향나무 등의 이름이 있으나 학명의 특징이 '털이 퍼져있는' 뜻이므로 털개회나무로 하는 것이 타당하다.
+
+
+     (3) S. oblata var. dilatata Rehder
+
+     ① Park, Enum. Kor. Pl. 192(1949); Rehder, Biblogr. Cult.
+        Trees 565-566(1949); Lee et al., Nom. Pl.163(1963); Fiala,
+         Lilac 59-61(1988)              
+
+     ② Synonym
+
+         S. amurensis sensu Nakai, Fl. Kor. II p.90(1911)
+         S. dilatata Nakai, Fl. Syvl. Kor. 10:50(1921); Chung et
+            al., Comm. Nam. Kor. Pl. 135(1937); Uyeki, Woody Pl.
+            and their distrib. in Tyosen. 91(1940); T. Lee, Arb.
+            Kor. 263(1947)
+         S. oblata var. donaldii Clark and Fiala, Lilac 61(1988)  
+
+     ③ Korean name : 수수꽃다리(정 등, 1937; Uyeki, 1940;
+       정,1943, 1957; 이, 1947, 1966; 박, 1949), 개똥나무(정, 1943)
+
+    낙엽관목으로서 3-4m정도 자라며 분지가 많다. 소지에 피목 및 털이 없으며 굵다. 잎은 광난형, 난형, 아심장형으로서 길이 7-10cm, 5.5cm -8.5cm이지만 15cm이상에 이르는 것도 있다. 예두, 점첨두. 아심장저,또는 절저. 표면은 짙은 녹색이고 혁질이며 뒷면은 담녹색. 양면에 털이 없으며 엽연은 굴곡이 지며 털이 없다. 
+   꽃은 4월 말부터 5월 중순까지 피며 화서는 전년도 가지에 액생한다. 화서 및 꽃받침에는 腺毛가 있으며 화관통부은 길이 1.3-1.9cm로서 길며 호리호리하다. 열편은 4-6mm로서 타원형이고 안으로 거의 굽지 않는다. 꽃색은 자홍색이며 수술은 화관통부 안에 있다. 
+   열매는 타원형이며 첨두. 암갈색이며 광택이 난다. 종자는 날개가 뚜렷하며 7-9mm이다.      
+   화분의 크기는 30-36 m, 25-30 m로서 亞長溝型이며, 三弱孔溝型이다. 
+     ④ 분     포
+      수평적으로는 황해도, 평안도에 자라며 금강산에서도 채집되었다고 한다(Fiala, 1988). 우리나라 특산. 
+
+      ⑤ 참고 표본
+
+    황해도; 서흥(Jul. 15, 1933, Sep. 23, 1933, May 5, 1934, May 24, 1936, 도봉섭, Sep. 17, 1933, 도봉섭, 심학진)SNU, 서광(Aug. 3, 1939, ?)SNU 
+    경기도; 광릉수목원(Jul. 29, 1956, 이창복, 이창근, Sep. 14, 1980, 이창복, 정상모, Sep. 20, 1959, 이창복, 이정우, Sep. 22, 1960, 이창복, 이복섭)HAS, 광릉수목원(Jul. 23, 1960, 정태현, Jul. 27, 1958, 정태현)SKK
+
+    ⑥ 분류학적 의견
+
+    본 종은 1911년 Nakai에 의해 최초 S. amurensis sensu Nakai로 동정되었으나 1918년 S. dilatata Nakai로 재동정하면서 한국 특산종으로 취급되었다. 그 이후 1926년 Rehder는 잎이 12cm에 이르고 긴 점첨두. 보통 기부가 심장형이고 거의 털이 없음. 그리고 화서는 빽빽하지 않고 화관통은 가늘며 10-12mm이고 한국 북부에 자생함을 특징으로 S. oblata var. dilatata Rehder로 분류하였다. 그러나 Nakai와 우리나라 대부분의 학자들은 이를 따르지 않고, 박(1949)과 이와 안(1963), 그리고 외국의 학자들은 이를 인정하였다.   
+    본 연구에서는 S. oblata Lindley의 확증표본을 관찰하지 못하였지만 기재문을 비교한 결과 잎의 길에 대한 폭의 비, 화관통부의 길이와 너비 등에서 차이를 보였다. 이러한 정향형질의 차이로써 독립된 종을 설정하는 것은 다소 무리가 있고 변종처리하는 것이 타당할 것으로 사료된다. 그러나 S. oblata var. dilatata Rehder와 S. oblata Lindley의 많은 표본들을 비교하여 정확한 분류를 할 필요가 있다고 생각한다.    
+    1979년 미국 산림청의 Donald Egolf가 설악산에서 채집한 본 속 식물을 자람이 빠르고 잎이 매우 크며 더욱 혁질. 가을의 단풍이 짙은 흑자색에서 옅은 홍색이라는 점을 특징으로 S. oblata var. donaldii Clark et Fiala로 발표하였다. 그러나 수수꽃다리의 관찰 표본 중에 잎의 길이 16.8cm, 폭 10.5cm에 이르는 것이 있고, 기타 특징들도 수수꽃다리의 특징과 별로 차이가 없었다. 그러나 지금까지 수수꽃다리의 분포가 평안도와 황해도에 국한되어 있고, 국내 학자들에 의해서 설악산에서 채집된 적이 없어, 앞으로 S. oblata var. donaldii Clark et Fiala의 정확한 채집위치와 확증표본을 관찰, 논의되어야 할 것이다. 
+
+     (4) S. reticulata (Blume) Hara
+
+     ① Rehder, Manual of Cult. Trees and Shurbs. 757(1927); Ohwi, 
+        Fl. of Jap. 942(1961); Lee and Ahn, Nom. Pl. Kor. 164(1963)          ; Lee, Bibl. Woody Pl. of Kor. 332(1966); Bailey, Hortus
+        3th ed. 1091(1976); Fiala, Lilac 83-86(1988)         
+
+     ② Synonym
+         Ligustrum patulum Palibin, Nakai, Fl. Kor. II:88(1911)
+         S. amurensis Rupr., Nakai, Fl. Kor. II:90(1911), et Fl.
+            Sylv. Kor. 10:45(1921); Park, Enum. Kor. Pl. 192(1949);
+            Rehder, Biblogr. Cult. Trees 569(1949) 
+         S. amurensis var. genuina Maximowicz , Nakai, Fl. Sylv.
+            Kor. 10:47(1921); Lee, Arb. Kor. 262(1947);
+         S. amurensis var. japonoca Fr. et Sav., Lee, Arb. Kor.
+            262(1947); Rehder, Biblogr. Cult. Trees 569(1949)
+         S. japonica Max. ex Decne., Nakai, Fl. Kor. II:90(1911)
+         S. reticulata var. mandshurica Hara, Lee, Bibl. Woody Pl.
+            of Kor. 332(1966)
+         L. reticulata Nakai, Synopt. 91(1952) 
+         S. amurensis for. bracteata Nakai, Fl. Sylv. Kor.
+            10:45(1921); T. Lee, Arb. Kor. 262(1947)
+         S. amurensis var. koreana Nakai, Kamamoto, Ill. for. Fl.
+            Kor. 608(1943); T. Lee, Arb. Kor. 262(1947)
+         S. amurensis for. longifolia Nakai, Kamamoto, Ill. for.
+            Fl. Kor. 608(1943); T. Lee, Arb. Kor. 262(1947)
+
+     ③ Korean name : 들정향나무(정, 1957, 1970), 정향나무(정, 1943
+           ; 이와 안, 1963), 참산회나무(1988), 돌개회나무(이, 1947,
+           1966, 1989)
+
+     낙엽 소교목으로서 7-10m 까지 자란다. 수피는 피목이 뚜렷하며 광택이 나고 옆으로 벗겨진다. 잎은 광난형, 난형, 난원형이며 점첨두, 예두이며 원저, 아심장저이다. 잎의 뒷면은 엷은 녹색이며 털이 없거나 주맥 기부에 짧은 털이 있다. 꽃은 6월 말부터 7월에 피며, 전년도 가지 끝에 액생한다. 원추화서는 15-25cm로서 크림색 또는 백색의 꽃이 빽빽하게 달리고 포엽이 발달하기도 한다. 화서 및 꽃받침은 털이 없고 화관통부은 2-3mm로서 열편보다 짧으며 수술은 화관통부 밖으로 나와 있다. 열매는 황갈색이며 크기는 2cm정도이고 둔두이다. 종자는 날개가 뚜렷하며 1.6cm정도이다. 
+    화분은 31-36 m, 29-34 m으로서  弱長溝型이고 三溝型이다. 溝가 넓고 길다.. 
+
+     ④ 분      포
+   수평적으로 경남, 전남에서 부터 함경도까지 분포하며 남한에서는 해발 1,800m까지 자생한다. 
+    
+     ⑤ 관찰 표본
+
+    강원도; 설악산(May 25, 1966, Jul. 31, 1957, May 30, 1966, Sep. 15, 1965, 이창복, 조무연)HAS, 설악산(Oct. 4, 1983, Aug. 8, 1987, 이상태, Aug. 27, 1982, 이상태, 김무열 등)SKK, 평창(?, 1970, 이창복, 김태욱)HAS, 횡계(Aug. 8, 1970, 이창복)HAS, 태백산(Jul. 23, 1964, 이창복 등)HAS, 태백산(May 31, 1991, 장윤희)SKK, 가리왕산(Aug. 9, 1990, 정영재 등)SKK, 향로봉(Jun. 18, 1967, 정영호)SNU, 대암산(Jul. 4, 1967, 정영호, 강영무)SNU
+    충청북도; 도솔봉(Jun. 14, 1963, 이창복 등)HAS, 괴산 송덕리(Aug. 26, 1965, 이창복, 조무연)HAS     
+    경상남도; 지리산(Jul. 7, 1961, Jul. 4, 1982, 이창복, Jul. 28, 1963, 이창복 등)HAS 
+    전라남도; 백운산(Sep. ?, 1959, 이창복)HAS 
+
+     ⑥ 분류학적 의견
+
+  본 종은 일본에서 채집한 본속 식물을 1850년 Blume이 잎 뒷면의 맥이 그물처럼 되어 있는 것을 특징으로 Ligustrum reticulatum Blume으로 명명하였으며, 1857년 Ruprecht는 아무르 지방에서 채집한 본속 식물을 S. amurensis Rupr.로 발표하였다. 이후 후자는 S. amurensis var. genuina Maxim. 또는 Ligustrina amurensis var. mandshurica Maxim.으로, 전자는 S. amurensis var. japonica Fr et Sav., Ligustrina amurensis var. japonica Maxim., 그리고 Ligustrina reticulata Nakai으로 분류되기도 하였다. 우리나라 최초의 문헌은 Flora Koreanum(Nakai, 1911)으로서 S. amurensis Rupr.와 S. japonica Maxim.가 기재되었고, 두 종의 가장 큰 차이는 잎 뒷면 기부의 털의 유,무이고 열매의 크기, 수고 그리고 분포를 분류기준을 삼기도 한다. 이후 Nakai는 화서에 포엽이 많이 달린 것을 S. amurensis for. bracteata Nakai, 잎 뒷면에 미모가 있는 것을 S. amurensis var. koreana Nakai, 그리고 잎이 장타원형인 것을 S. amurensis for. longifolia Nakai로 분류하였다. 그러나 한국과 일본에 소장되어 있는 Syringa속 식물의 석엽표본을 관찰한 장형두는 상기의 모든 분류군이 S. amurensis Rupr. 하나로 통합될 수 있음을 시사하였고, 이(1966)는 Nakai의 분류체계에서 S. japonica Maxim.는 S. reticulata Hara의 동종이명으로 처리하고, S. amurensis Rupr.는 S. reticulata var. mandshurica Fr. et Sav.의 동종이명으로 처리하였다. 또한 기타 변종 및 품종은 모두 품종으로 처리하였다.그러나 이와 안(1963), 그리고 Rehder(1949), Ohwi(1961), Bailey(1976), Krusmann(1986) 등 외국 학자들은 S. reticulata Hara와 S. reticulata var. mandshurica Fr. et Sav. 두 종류만을 인정하고 있다. 그리고 일본의 大井次三郞(1978)과 Fiala(1988)은 이 둘의 중간형이 많음을 밝혀 형질의 연속성을 인정했다.      본 연구의 결과 잎 뒷면의 털은 어린 잎에서 차츰 없어지는 경향을 보이고, 수고의 경우 모두 10m에 이르고 있으며 열매의 길이도 모두 2cm에 이르고, 열매의 돌기에 있어서 차이를 발견할 수 없었다. 또한 분포역 있어서도 여러 문헌을 고찰해 본 결과 거의 일치하는 것으로 나타났다. 포엽의 경우는 특별히 발달한 개체가 있으나 Syringa속 식물의 대부분이 포엽이 작은 것에서 부터 발달하는 것까지 다양하며 개체 내에서도 그 크기가 다양하였다. 따라서 상기 분류군의 분류형질이 미묘하거나 연속적인 변이를 보여 S. reticulata Hara에 통합처리하는 것이 타당하다고 사료된다. 
+    본 종의 국명 사용은 돌개회나무, 들정향나무, 정향나무, 참산회나무 등의 이름이 있으나 현재 들정향나무, 돌개회나무가 가장 많이 사용되고 있고 옛부터 '野丁香'이란 이름이 널리 쓰여 들정향나무로 부르는 것이 타당하다고 생각한다. 
+
+
+     (5) S. fauriei Leveille
+     ① Nakai, Fl. Kor. II: 509(1911), et Fl. Sylv. Kor. 10:45   
+       (1921); Mori, Enum. Pl. Kor. 288(1922); Chung et al., Comm.
+        Nam. Kor. Pl. 135(1937); Uyeki, Woody Pl. Distb. 90(1940) 
+        Kamamoto, Ill. for. Fl. Kor. 609(1943); Lee, Arb. Kor. 262
+        (1947), Dendro. 287(1986)
+
+     ② Synonym
+
+         S. reticulata var. fauriei T. Lee, Dendro. 287(1986) 
+
+     ③ Korean name : 버들잎개회나무(이, 1986), 버들개회나무(정 등,
+                   1937; 이, 1947 ) 
+
+
+    5-6m정도 자라고 수피는 갈색이고 피목이 산재한다. 소지는 황록색이고 광택이 난다. 잎은 피침형으로서 6-12cm, 2-4cm. 점첨두, 예저. 표면은 녹색이고 털이 없으며 뒷면은 맥위 또는 전면에 털이 산생한다. 엽연은 털이 있고 주맥은 좁고 깊게 자루처럼 패었으며 2차맥은 거의 분지하지 않는다. 꽃은 5월 말부터 6월에 피고 화관통부은 1mm, 열편은 2mm정도로 소형이다. 화서는 액생하며 털이 없다. 수술은 화관통부 밖으로 나오고 꽃밥은 1mm정도로 작다. 열매는 암갈색이고 피목이 뚜렷하지 않으며 둔두이다. 화분은 28-34 m, 26-31 m로서 弱長溝型, 發芽溝는 三溝型으로서 溝가 넓고 깊다.   
+
+     ④ 분      포
+
+        최초 금강산에서 채집되었으나 최근 계방산에서 채집되었다. 
+        우리나라 특산으로 추정됨 
+
+     ⑤ 참고 표본
+
+    강원도; 계방산(May 27, 1983)HAS 
+
+     ⑥ 분류학적 의견
+ 
+    본 종은 1906년 Faurie가 금강산에서 채집한 것을 1910년 Leveille가 잎이 피침형인 특징을 들어 S. fauriei Lev.로 발표하였다. 그 후 박(1949), 이(1966) 등에 의해 S. reticulata Hara로 동정되었으며 이(1986)는 S. reticulata var. fauriei T. Lee로 분류하였다. 
+   본 연구의 결과 잎의 모양은 피침형으로서 형태가 안정되어 있고 엽병이 짧으며 주맥 및 측맥이 뚜렷이 함몰되어 있다. 또한 2차맥이 거의 분지되지 않는 점, 그리고 열매의 크기가 0.8-1.2cm로서 작다는 점이 뚜렷한 차이를 보였다. 따라서 여러가지 형질에서 S. reticulata Hara와 차이가 뚜렷하고 안정되어 있으므로 독립된 종 S. fauriei Lev.로 보는 것이 타당하다고 생각된다.                  
+    국명의 사용은 버들잎개회나무와 버들개회나무가 있는데, 잎이 버들잎처럼 피침형으로 생겨서 붙여진 이름이므로 버들잎개회나무라고 하는 것이 타당하다고 생각된다.  
+
+
+    4. 種의 類緣關係
+
+    한국산 Syringa속 식물의 외부형태적 특성과 화분 특성에 의한 유집분석은 36개의 형질에 대해 Table 7과 같이 state를 결정하여 coding하였다(Table 8). 이 결과는 기존의 분류체계와 완전히 일치하였다.
+    Fig. 8에서 나타난 바와 같이 가장 먼저 분리된 것은 기존의 분류체계에서 같은 아속으로 알려진 털개회나무, 꽃개회나무, 수수꽃다리 group과 들정향나무, 버들잎개회나무 group으로 분지되었다. 정향나무아속에서는 꽃개회나무가 먼저 분지되었고, 털개회나무와 수수꽃다리가 늦게 분지되어 이들이 근연관계가 가까운 종으로 나타났다. 개회나무아속에서는 들정향나무와 버들잎개회나무가 분지한 거리가 먼 것으로 볼 때 버들잎개회나무가 들정향나무 변종이 아닌 하나의 독립된 종으로 보는 것이 타당하리라 판단된다. 이는 외부형질 분석의 결과와도 일치하고 있다. 
+
+
+     V. 綜合考察 
+
+    
+    한국산 Syringa속 식물은 Nakai(1921)가 8종 6변종 3품종, 정(1957)은 8종 9변종 2품종, 박(1949)은 4종류, 이(1963)는 3종 2변종, 이(1966)는 4종 4변종 5품종으로 언급하였고, 외국에서는 McKelvey(1928) 3종 1변종, Rehder(1949), Baily(1976), Krusmann(1986)은 3종 3변종으로 분류하여 학자에 따라 4종류에서 19종류까지 다양하였으나 본 연구의 결과 4종 1변종 5종류로 정리되었다.
+    분류군의 검토에 있어서 유용한 형질은 잎의 길이에 대한 폭의 비, 잎 뒷면의 털, 화통의 길이, 화통의 길이에 대한 꽃받침의 길이의 비, 화통의 길이에 대한 열편 길이의 비, 화통의 길이에 대한 수술 길이의 비, 열매의 모양 및 색 등이었다. 
+    Nakai는 1917년 부터 화서가 직립함과  화서 및 꽃받침의 털의 多少로서 S. formosissima Nakai, S. formosissima var. hirsuta Nakai, S. robusta Nakai, S. robusta for. subhirsuta Nakai, S. robusta for. glabra Nakai를 설정하였으나 이(1966)는 화서의 직립성은 뚜렷한 분류형질로 보기 어려워 S. formosissima Nakai, S. formosissima var. hirsuta Nakai를 각각 S. wolfii Schneid., S. wolfii var. hirsuta Hasus.로 동종이명 처리면서 두 종류로 분류하였다. 본 연구 결과 화서의 직립성은 환경인자에 의한 특성으로 보이고, 화서 및 꽃받침의 털, 그리고 화통의 길이는 그 변이의 연속성적이고 분포가 동일하며 뚜렷한 차이를 발견하지 못하여 상기의 분류군을 S. wolfii Schneid.로 통합처리하였다. 
+    Nakai는 1918년 부터 1921년 사이에 잎의 모양과, 잎 뒷면 털의 다소, 그리고 주맥의 깊이로 S. micrantha Nakai, S. palibinianaa Nakai, S. palibiniana var. longifolia Nakai, S. palibiniana var. kamibayashii Nakai, S. palibiniana var. lactea Nakai, S. venosa Nakai, S. venosa var. lactea Nakai를 설정하였으나, 1926년에는 Palibin(1900)의 Ligustrum patulum Palibin을 S. patula Nakai로 귀속시키고 S. micrantha를 동종이명으로 처리했다. 李(1966)는 S. patula Nakai, S. palibiniana Nakai를 S. velutina Komarov의 동종이명으로 처리하고, 잎이 둥근 것을 S. velutina var. kamibayashii T.Lee, 맥이 많이 들어가고 울릉도에 자생하는 것을 S. velutina var. venosa T.Lee, 그리고 꽃이 백색인 것을 for. lactea T.Lee로 처리하였다. 본 연구의 결과 기재문과 표본을 관찰에서 S. velutina Komarov는 S. patula Nakai의 동종이명임을 확인하였고, 주맥의 깊이와 잎의 모양에 의하여 설정한 S. palibiniana Nakai, S. palibiniana var. longifolia Nakai, S. palibiniana var. kamibayashii Nakai는 잎이 개체내, 개체간에 변이가 심하고, 변이가 연속적일 뿐만 아니라 지역적으로도 차이가 없어 모두 S. patula Nakai의 동종이명으로 처리하였다. 또한 백색의 꽃은 개체내에서도 그 변이가 심하고, 화관통부의 기부에 홍색이 남아있는 개체가 많았다. 따라서 백색품종을 기본종 S. patula Nakai에 통합하였다. 
+    수수꽃다리는 Nakai(1917) S. oblata Lindley보다 가지가 작고, 소화경이 짧으며 열매가 1-1.2cm로서 작다는 것을 특징으로 S. dilatata Nakai로 기재하였고, Rehder(1926)는 잎의 길이에 대한 폭의 비, 화관통부가 길고 연약함, 화서의 빽빽함등에서 차이를 특징으로 S. oblata var. dilatata Rehder으로 처리하였다. 본 연구에서는 S. oblata Lindley의 확증표본은 구하지 못하였지만 각 문헌의 기재문을 비교한 결과 열매는 S. oblata Lindley와 차이가 없으며, 잎의 길이와 폭의 비, 화관통부가 길고 연약함, 화서의 빽빽함등에서 차이를 보였다. 이러한 정향형질의 차이로써 독립된 종을 설정하는 것은 다소 무리가 있고 변종처리하는 것이 타당할 것으로 사료된다. 그러나 차후 S. oblata var. dilatata Rehder와 S. oblata Lindley의 많은 표본들을 비교하여 정확한 분류를 할 필요가 있다고 생각한다. 이 종은 황해도, 평안도, 금강산 등에서만 발견되었으므로 우리나라 특산으로 볼 수 있다. 
+    Nakai는 Flora Koreana(1911)에서 S. amurensis Rupr.와 S. japonica Maxim.를 한국산으로 기재하고, 전자는 후자에 비해 잎 뒷면 기부에 털이 없음과 열매가 크고, 만주지방에 자라는 것을 특징으로 하였다. 그리고 이의 변종으로 화서에 포엽이 많이 달린 것을 S. amurensis for. bracteata Nakai, 잎 뒷면에 미모가 있는 것을 S. amurensis var. koreana Nakai, 그리고 잎이 장타원형인 것을 S. amurensis for. longifolia Nakai로 분류하였다. 그러나 이후 여러 학자들은 상기의 변종에 대해 통합을 주장하였고, 본 연구에서도 잎 뒷면의 털과 열매의 길이, 열매의 돌기, 잎의 모양, 포엽에 있어서 변이가 심하며, 뚜렷한 차이를 발견하지 못했으며 다른 형질에서도 같은 것으로 판단되어 모두 S. reticulata Hara에 포함시켰다. 
+    S. fauriei Lev.는  잎이 피침형인 것을 특징으로 설정돤 종으로서, Nakai(1921)와 정 등(1957)에 의해 독립된 종으로 기록되어 왔다가 일부 학자들에 의해 S. reticulata Hara로 처리되었다. 그러나 李(1986)는 잎이 피침형인 특성을 들어 S. reticulata var. fauriei T.Lee로 설정하였다. 본 연구의 결과 잎이 피침형이고, 주맥이 뚜렷이 함몰되며, 2차맥이 거의 분지하지 않는 점, 소지의 색이 황록색이며, 열매의 크기가 작고, 암갈색으로 S. reticulata Hara와 뚜렷한 차이가 있었다. 따라서 이는 하나의 독립된 종으로 볼 수 있다고 판단되어 S. fauriei Lev. 처리하였다.      화분의 측정 결과 크기는 각 분류군 사이에 뚜렷한 차이가 없었고 극축의 길이에 대한 적도면의 지름의 比에서는 S. reticulata Hara, S. fauriei Lev., S. patula Nakai, S. wolfii Schneid.는 弱長球型, 그리고 S. oblata var. dilatata Rehder는 亞長球型으로서 대별되었다. 그리고 S. reticulata Hara와 S. fauriei Lev.는 溝가 깊고 넓었다.    
+    본 연구에서 조사한 형질 중 분류에 유의한 형질 36개를 유집분석(Clustering)한 결과 기존의 분류체계와 일치하였다. 정향나무아속에서는 S. wolfii Schneid.가 먼저 분리되었으며, S. patula Nakai와 S. oblata var. dilatata Rehder은 유연관계가 가장 깊은 것으로 나타났다. 개회나무아속에서는 S. reticulata Hara와 S. fauriei Lev.는 분지한 거리가 멀게 나타났는데 이는 S. fauriei Lev.가 독립된 하나의 종이라는 것을 뒷받침해 준다. 
+
+ 
+
+
+               감사의 글
+ 
+ 본 논문이 있기 까지 음으로 양으로 도와 주시고 염려해 주신 모든 분들께 먼저 감사의 말씀을 전합니다. 
+ 지도교수로서 항상 아낌없는 지도편달을 해 주신 김태욱 교수님께 깊은 감사를 드립니다. 바쁘신 와중에도 심사를 맡아 세심한 지도를 해 주신 이돈구 교수님, 이경준 교수님, 그리고 항상 애정을 가지고 지켜봐주신 우보명교수님, 현정오 교수님, 윤여창 교수님, 김성일 교수님, 정주상 교수님께 감사를 드립니다. 
+ 논문을 수행함에 있어 계획에서부터 완성에 이르기까지 지원을 아끼지 않으시고 진정한 학문의 자세를 몸소 보여주신 이유미 박사님, 전승훈 박사님께 대한 고마움을 말로 표현할 수가 없습니다. 늘 곁에서 좋은 의견과 많은 도움을 준 전정일 후배, 모든 일에 적극적인 박찬열 후배, 학문에 대한 열정을 가진 김선희 후배, 그리고 자연환경보전연구실원과 산림자원학과 대학원 선후배들께도 감사를 드립니다. 
+ 오늘의 제가 있기까지 끝없는 희생과 사랑으로 뒷받침해주신 부모님과 누님들의 은혜에 깊이 감사드리며 이 논문을 바칩니다. 그리고 항상 염려해주시고 성원을 아끼지 않으신 聘父母님께 감사드리며, 뜻을 함께 하며 힘찬 첫걸음을 내딛는 아내와 이 기쁨을 나누고 싶습니다.   
+
+</tdmsfiletext>

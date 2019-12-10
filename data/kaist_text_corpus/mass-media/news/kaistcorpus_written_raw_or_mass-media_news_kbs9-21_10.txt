@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-21_10.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.21  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"노동1호 실전배치 확인"
+
+
+⊙이한숙 앵커 :
+          일본 NHK는 오늘 사정거리가 천㎞에 달하는 북한의 노동1호 미사일이
+북한 평안도 지방 군부대에 배치된 사실이 미국의 군사위성에 의해 최초로
+확인됐다고 보 도했습니다. NHK는 일본의 방위청 관계자들이 노동1호의
+실전배치 사실 여부를 확인하고 있는 중이라고 전했습니다. 
+
+에어쇼 도중 경비행기 추락
+
+오늘 미국 텍사스 산마르코에서 열린 에어쇼에서 곡예비행을 하던 잃고
+추락했다고 전했습니다. 
+</tdmsfiletext>

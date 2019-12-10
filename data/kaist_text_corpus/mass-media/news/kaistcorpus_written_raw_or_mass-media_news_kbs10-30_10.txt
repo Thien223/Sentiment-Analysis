@@ -1,0 +1,26 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-30_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.30 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"TV대선토론회 선거운동 아니다"
+
+
+⊙황수경 앵커 :
+          서울 고등법원 민사20부는 오늘 민주국민연합의 대통령 후보로 선출된
+이병호 변호사가 KBS와 MBC SBS를 상대로 낸 대선후보 토론회 TV 방영금지
+가처분 청 구 신청에 대해서 이유 없다며 기각했습니다. 재판부는
+결정문에서 이씨는 방송국에서 유력 정당 대통령 후보를 초청해서 토론회를
+개최하고 방영하는 것은 사전선거운동이라고 주장하 지만 토론회 자체가
+특정 후보를 당선 또는 낙선시키기 위한 선거운동으로 보기에는 어렵다 고
+발표했습니다. 
+
+
+
+</tdmsfiletext>

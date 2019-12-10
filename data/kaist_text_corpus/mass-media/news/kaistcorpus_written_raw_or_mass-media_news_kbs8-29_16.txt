@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-29_16.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.29 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+제10회 TV 드라마 극본 공모입상작
+
+KBS는 지난 6월30일 공모마감한 제10회 텔레비전 드라마의 극본 응 모작
+천4백편을 최종 심사한 결과 최우수작과 우수작 없이 가작으로 황성연씨의 블루
+크리스 마스 이현재씨의 밥상 차리는 어머니 홍영옥씨의 가족사진 김명호씨의
+참외 다섯개 등 4편을 선정했습니다.
+</tdmsfiletext>

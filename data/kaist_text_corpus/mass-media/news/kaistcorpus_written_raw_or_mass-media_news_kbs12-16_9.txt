@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-16_9.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.16 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+가스충전소 폭발…3억여원 피해
+오늘 오후 6시쯤 서울 강서구 오세동 김포 가스충전소에서 불이 나 충전소
+직원 41살 이종국씨가 2도 화상을 입고 5톤 트럭 등 차량 2대와 가스보관용
+가건물 2 백여평이 불에 타 3억여원의 재산피해가 났습니다. 불이 나자
+소방차 30여대가 출동해서 진 화작업에 나섰으나 LP 가스통이 연쇄폭발할
+위험 때문에 진화에 어려움을 겪다가 저녁 6시반 쯤 불길을 잡았습니다. 
+
+</tdmsfiletext>

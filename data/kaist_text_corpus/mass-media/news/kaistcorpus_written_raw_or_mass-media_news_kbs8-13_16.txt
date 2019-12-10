@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-13_16.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.13 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+한국 글짓기 대회 수상자 KBS 방문
+공보처가 외국의 청소년들과 교사 등을 대상으로 실시하는 한국 글 짓기대회의
+수상자들이 오늘 KBS를 방문해서 방송시설을 견학했습니다. 이들 수상자들은 올
+해 미국에서 한국 글짓기대회 학생 부문 최우수상을 받은 고등학생 매초스키양
+등 8명으로 이들은 오는 17일까지 우리나라에 머물면서 문화유적지와
+산업시설을 둘러볼 예정입니다. 
+</tdmsfiletext>

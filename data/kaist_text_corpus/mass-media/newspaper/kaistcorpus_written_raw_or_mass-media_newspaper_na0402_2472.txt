@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2472.txt </filename>
+<title> 조선일보  </title>
+<author> 김호연(기자)</author>
+<date> 93.10.27</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2524CSM931027    
+［건강메모］                                                                  
+｛김호연｝                                                                    
+관절：５／골다공증  예방은  칼슘섭취­적당한  운동으로（건강메모）            
+  뼈와  관절은  나이가  들면  골다공증이  생긴다．  골다공증이  오면  가벼운 
+관절통과  함께  전신피로가  오고  외부의  가벼운  충격에도  쉽게  골절이 
+된다．  특히  폐경기  전후  체격이  왜소한  여성이면  그  위험성이  더욱 
+높다．※  예방에는  평소  칼슘섭취를  충분히（하루  １∼１．５ｇ）  하고  매일 
+２∼３㎞  걷는  정도의  운동량이  필요하다．  경우에  따라서는  여성호르몬의 
+보충이  추천되기도  한다．※  관절이  불편해  거동이  어려운  사람은  누워서라도 
+운동을  시키는  것이  좋다．  우유，  두부，  계란，  고등어，  멸치  등과 
+같이  칼슘이  많이  함유된  음식을  매일  공급하는  것도  중요하다．  술과 
+담배를  즐기는  사람은  더욱  주의를  기울여야  한다．〈김호연·가톨릭대의대 
+교수·내과〉※                                                                     
+
+</tdmsfiletext>

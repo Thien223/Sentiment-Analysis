@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-21_7.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+北 KBS폭파위협 즉각 중단 촉구
+
+
+⊙류근찬 앵커 :
+          한국 신문방송 편집인 협회는 오늘 성명을 발표하고 북한의 KBS에 대한
+테러위협은 언론자유에 대한 중대한 도전이라며 위협행위를 즉각 중단하고
+사과하라고 촉구했습니다. 대한 언론인회도 오늘 성명을 내고 북한이 방영도
+되지 않은 연속극에 대해서 위협적 망언을 자행한 것에 분노를 금치
+못한다고 밝혔습니다. 
+</tdmsfiletext>

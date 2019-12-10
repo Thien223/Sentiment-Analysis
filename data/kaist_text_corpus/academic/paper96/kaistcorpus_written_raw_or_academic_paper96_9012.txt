@@ -1,0 +1,48 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_academic_paper96_9012.txt </filename>
+<title> 신경회로망을 이용한 증기발생기의 저출력 수위제어에 관한 연구 </title>
+<author> 이상경 </author>
+<date> 1993</date>
+<publisher> 서울대학교  </publisher>
+<kdc> TM 559.121  </kdc>
+<tdmsfiletext>
+요    약
+가압경수로형 원자로에서의 증기발생기  수위제어는 수축과 팽창이라는 열적효과로  인해 매우 어려운  문제이다.   Downcomer 쪽에서 측정되는 수위는 급수공급에 따라 반대되는  반응을 보인다.  이것은 발전소를 가동하기 시작할 때나 저출력일 때  문제시 되고  있다.  PI 제어기는 저출력에서 제어성능이  좋지 못해서 수동운전으로 전환되기도 한다.  이로 말미암아 저출력에서  원자로 강제정지를 자주 일으키게 된다.
+  이러한  문제점을   해결하기  위해   Diagonal  recurrent   neural networks개념을 적용하였다.   이 신경망 제어기의 입력으로는  출력변화, 신경망 제어기와 플랜트의 시간 지연된 출력값을  취한다. 저출력시 측정에 문제가  있기 때문에 증기유량은 제안된 제어기 입력에서 제외 되었다.
+  신경망 제어기는 출력변화가  5%에서 10%, 10%에서 15%인  경우에 시험해 보았다.  두가지 경우에서 수위가  안정되는 데 걸리는 시간이 상당히 짧았다.
+  신경망 제어기는 기존의 제어기법에 비교해 보았을 때 더 나은 제어성능을 보였고 기존  제어계통의 문제점을 성공적으로 극복하고 있다.
+             주요어  :   증기발생기, PI 제어기 수위제어, 신경회로망
+
+1.  서 론
+
+  원자력 발전소의 증기발생기<그림 1>는 필요이상의 습분이 생성되거나 2차측의 U-튜브가 노출되는 것을 방지하고자 적정한 수위를 유지하여야 한다.  따라서 증기발생기의 수위를 적절히 조절하는 것은 원자로의 냉각, Steam separator 와 Dryers 의 성능, 터빈날개의 손상 등에 영향이 있으므로 중요한 문제이다.
+  원자력 발전소에는 강제 운전정지 기능이 있다.  이것은 발전소의 상태가 안전을 고려한 설계조건 또는 운전조건에서 벗어남을 방지하여 플랜트의 안전성을 지키고자 함에 있다.  이러한 원자력 발전소 강제운전정지는 증기발생기로 말미암아 발생하는 빈도가 상당한 부분을 차지하고 있다.  이 원인은 원자로 가동시와 같이 저출력 영역에서 소위 수축/팽창 현상이라는 증기발생기의 고유의 열수력학적 특성에 의해 수위의 제어가 곤란하기 때문이다.
+  이 현상은 증기발생기를 제어회로상에서 한개의 플랜트로 취급할 때 플랜트에 입력되는 증기량, 급수량, 급수온도, 1차측 냉각재 온도 및 기타 열수력학적 인자등이 복합적으로 작용하여 나타나는 현상이다.  즉 Downcomer 영역과 Tube 및 Riser 영역을 비교할 때 두 영역사이에서는 밀도차에 의한 Driving force 가 있게 되며 고출력으로 갈수록 이 Force는 커지게 되어 안정된 운전상태에 들어간다. 그러나 저출력에서는 Tube 측에서의 1차측 온도의 감소로 인하여 증기발생량이 감소하게 되고 따라서 Tube측의 Quality가 줄기 때문에 밀도가 커지게 되며 이에 따라 두 영역 사이의 수두차가 적게되어 Recirculation이 줄어들게 된다.  극단적인 경우에는 Downcomer측 과 Tube region측의 수두가 같아지게 되는 소위 Manometer상태가 되며, 이러한 경우 증기발생기의 수위제어는 통상적인 수위반응을 보이지 않게 된다.  가령 운전원이 급수량을 증가시켜 증기발생기의 수위를 높이고자 할 때 수위의 초기반응은 오히려 떨어지는 것으로 나타나며, 계속적으로 급수량을 증가시키면 이 현상은 더욱 심해진다. 급수의 계속적인 증가는 Downcomer region과 tube region사이의 수두 균형을 깨뜨리게 된다. 계속하여 급수량을 늘리면 결국에는 수위가 증가하게 되며 이는 증기발생기의 고수위 정지신호(high level trip signal)를 유발시킨다. 이와 반대의 경우 급수양의 감소는 Tube region에서 보다 많은 steam void가 일어나게 하며 이 steam void는 two phase의 유체 체적을 증가시킴으로써(Swell 현상) Downcomer의 수위를 올라가게 한다. 
+  일반적으로 증기발생기의 수위제어는 증기발생기가 평형상태에서 크게 벗어나지 않게끔 급수량을 조절할 것이 요구되며, 따라서 수조작이 필요한 저출력 상태에서 증기발생기의 수위조절에는 고도의 숙련을 필요로 하게된다.  저출력에서의 급수 조절은 매우 중요하며 증기발생기의 Water inventory에 대한 적분효과 때문에 일정기간이 지난 후의 수위에 직접적인 영향을 끼친다.
+  위와같은 증기발생기 자체의 열수력학적 특성 이외에 저출력에서의 수위 제어가 곤란한 또 다른 이유는 급수계통의 기계적 문제 및 Control scheme 이다.  저유량인 경우 밸브 및 Actuator의 특성이 정확하지 않으며, Actuator의 hysteresis 등에   의해 발생되는 시간지연은 급수계통의 제어에 불안정을 야기한다.  특히 5% 출력을 기준으로 Bypass regulating valve에서 main regulating valve로 전환될 때 Actuator 및 밸브 동작의 불연속은 제어 시스템의 불안정으로 이어지므로 급수조절은 더욱 어렵게 된다.
+  이와같은 문제점들을 해결하기위해서는 최근 새로운 접근을 하려고 시도하고 있다.  기존의 비례적분 제어기의 설정치를 개선하는 방법이나 현대 제어이론 중의 하나인 적응 제어이론을 사용하는 것은 증기발생기의 정확한 열수력학적 모델이 선행되여야 하므로 모델링 자체가 어려운 상태에서는 적절한 제어기를 만들 수 없다.  따라서 증기발생기와 같이 비선형적이고 모델링이 어려운 시스템을 제어하기 위해서는 정확한 모델링이 요구되지 않는 제어방법이 필요로 한다.   
+  본 논문에서는 입,출력 만으로 제어가 가능한 신경망을 도입하여 저출력에서 증기발생기 수위제어를 하였다.  신경망은 입력으로 들어온 값으로부터 신경망내의 Weighs를 조절하여 출력값을 얻어내므로 Plant의 영향력이 제어기 구조내에 미치지 않으므로 저출력의 증기발생기 수위제어와 같은 문제에 적절한 것이라 볼 수 있다.  이 논문에서는 Diagoanl Recurrent Neural Networks에 Dynamic Backpropagation을 사용하여 Weights를 조정하였다.  신경망 제어기의 입력변수로는 수위, 급수유량, 출력 변화값을 선택하였다.  여기서 기존의 제어기와는 달리 증기유량을 입력변수에서 제거하여 저출력시 증기유량이 보이는 부정확성을 배제하여 좋은 제어 성능을 보여주었다.
+
+
+
+
+2.  증기발생기 수위제어 계통
+ 
+  증기발생기의 수위제어를 위한 급수조절계통은 통상적으로 일정출력이상에서는 수위, 급수량, 증기량의 3개요소를 사용한 PI(Proportional plus Integral) controller를 사용하며 저출력에서는 2차측의 수위 및 1차측의 Nuclear Power의 2개 요소를 사용하는 방법을 취하고 있다.
+  <그림2>은 가압형 원자로의 전형적인 증기발생기 수위제어계통(Steam Generator Level Control System)을 나타내고 있는 것으로 왼쪽의 Train은 일정출력(20%) 이상에서의 3요소 Controller이며, 오른쪽 Train은 저출력에서의 2요소 Controller 이다.  수위의 오차를 계산하기 위한 기본수위로는 2차측 출력(터빈의 Impulse stage Pressure)을 Level Programmer를 거치게 하여 모든 출력구간에서 일정한 값을 갖도록 하고 있으며(50% Narrow span) 증기발생기의 Level Signal 에는 Lagging Compensation을 두어 Natural Oscillation을 줄이도록 하고 있다.  실제수위와 기준 수위와의 차이(Level error)는 PI Controller를 거치게 되며, 이렇게 함으로써 적분회로에 의해 Steady state level error가 제거된다.
+  PI Controller를 통해 나온 Signal은 Three node Controller로 보내어지며 이 Controller는 증기량에서 급수량을 뺀 후 다시 Level Error Signal 을 더한 결과를 또 다른 PI Controller로 보낸다. 여기에서도 적분회로에 의해 Steady state feedwater error가 제거되며 이 Signal은 Valve Positioner에 전달되어 급수량을 조절한다.
+  저출력에서는 PI Controller를 통한 Level error signal과 nuclear power를 이용한 2요소 Controller가 되며, nuclear power는 power의 변화에 따라 필요한 급수가 신속히 결정될 수 있게끔 Feed-forward signal로 사용된다.  Level error signal과 nuclear power signal 은 Summing Controller 에 의해 합해진 후 Bypass feedwater valve positioner에 전달된다.
+  한편, valve positioner의 Linearity는 Feedwater pump의 속력과 관계가 있다.  즉 펌프 속력을 조절하여 Feedwater pump 의 Discharge pressure와 Steam header 사이의 압력을 적정치로 유지함으로써 Valve linearity를 유지시키며, 또 이러한 Valve linearity 이외에 펌프의 동력 절약, Valve errosion 등의 문제를 고려하여 출력이 높을수록 압력차가 적게끔 프로그램 되어있다.
+
+
+
+
+3.  증기발생기 모델링
+
+  <그림 1>은 전형적인 가압경수로용 U-Tube 증기발생기이다. 급수 Ring을 통해 들어온 급수는 증기발생기 주위의 DownComer를 따라 하부로 내려간 후 Tube region에서 상승하며 가열되어 증기상태로 riser로 들어가 separator에 의해 습분이 분리되어 다시 Feedwater와 합쳐진다.  이러한 거동을 갖는 증기발생기를 모델화 한 것은 여러가지가 있으나 본 논문에서는 이윤준[2]의 모델을 사용하여 모사하였다.
+  이 모델에서는 증기발생기를 하나의 Control Plant로 취급하고 이 Plant에 작용하는 인자로 증기량, 급수량, 1차측 냉각재 온도 및 급수의 온도가 있고, 4개 인자와 수위와의 관계를 나타내는 전달함수를 구한다음 이들의 선형결합으로 증기발생기의 거동을 묘사한다.  특히 급수량은 Control Loop 안에서 Feedback network를 구성하고 있으나 증기량, 1차측 온도, 그리고 급수온도는 Plant에 대해 Feedforward network 로서 작용한다. 
+
+</tdmsfiletext>

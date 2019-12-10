@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_13.txt </filename>
+<title> 조선일보  </title>
+<author> 박정훈(기자)</author>
+<date> 93.05.11</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0580CSM930511
+{박정훈}
+수표위조 현금인출 책임공방/발행­지급은행 “법정싸움도 불사” 팽팽
+◎18만원짜리 변조사건※ 18만원짜리 자기앞수표를 1억8천만원
+짜리로변조해 인출해간 사건의 책임문제를 둘러싸고 서울 신탁은행과
+제일은행간법적 분쟁이 벌어질 조짐이다. 문제의 핵심은 범인들이 인출해간
+1억6천만원의 손해책임을 누가 질 것이냐 하는 것.※ 범인들은 제일은행
+발행18만원짜리 수표에다 「0」자 세개를 더 붙여 지난 6일 신탁은행
+둔촌동 지점 등에서 1�%E
+</tdmsfiletext>

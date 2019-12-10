@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-2_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+KBS 폭파협박 전단 발견
+서울시내 한복판에 KBS를 폭파하겠다는 내용의 전단이 뿌려져서 경 찰이
+수사에 나섰습니다. 오늘 저녁 6시반쯤 서울 용산구 제일제당 용산사무소 앞
+주차장에 서 엽서 크기의 전단 수백여장이 뿌려져있는 것을 이 회사 직원이
+발견해 경찰에 신고했습니 다. 구국결사회 명의로 쓰여진 이 전단에는 KBS가
+이북에서 국고금을 훔쳐 도망쳐온 범법자 를 내세워서 북한 흠집내기에
+앞장서고 있다고 주장했습니다. 
+
+</tdmsfiletext>

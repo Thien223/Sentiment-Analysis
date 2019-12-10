@@ -1,0 +1,227 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_academic_study95_mh2-0862.txt </filename>
+<title> ¾ð¾îÇÐ¿¬±¸»ç </title>
+<author> ±è¹æÇÑ </author>
+<date> 1991 </date>
+<publisher> ¼­¿ï´ëÇÐ±³ÃâÆÇºÎ </publisher>
+<kdc> 700.9 </kdc>
+<tdmsfiletext>
+1. ¹Ì±¹ÇÐ°èÀÇ À½¿îÀÌ·ÐÀÇ º¯Ãµ
+
+ ¹®¾ç¼ö
+
+1.1.¸Ó¸®¸»
+
+  À½¿îºÐ¼®¿¡¼­ °¡Àå ±âº»ÀûÀÎ °³³äÀº ´ë¸³(contrast)ÀÇ °³³äÀÌ¸ç ÀÌ ´ë¸³ÀÇ ¹ÙÅÁ À§¿¡¼­ À½¿îÃ¼°è°¡ ¼¼¿öÁø´Ù°í »ý°¢ÇÒ ¶§ À½¿îºÐ¼®ÀÌ ¿¬±¸ ÅÂµµ¸¦ º¸ÀÎ ¿ª»ç´Â ¸Å¿ì ±æ¾î B.C. 2¼¼±â ÀÎµµÀÇ ¹®¹ýÇÐÀÚ Patanjali±îÁö °Å½½·¯ ¿Ã¶ó°¡°Ô µÈ´Ù.  ±×·¯³ª Ã¼°èÀûÀÎ À½¿î·Ð ¿¬±¸´Â ¾ð¾îÇÐ ¿¬±¸ÀÇ ´Ù¸¥ ºÐ¾ß¿Í ºñ±³ÇØ º¼¶§¿¡µµ ºñ±³Àû ÂªÀº ¿ª»ç¸¦ Áö´Ï°í ÀÖ´Ù.  À½¼Ò(phoneme)¶ó´Â ¼ú¾î°¡ Çö´ëÀûÀÎ ÀÇ¹Ì·Î Ã³À½ »ç¿ëµÈ °ÍÀº 1880³â¿¡ Kruszewski¿¡ ÀÇÇØ¼­¿´°í, ±× ÈÄ Scerba´Â À½¼Ò¿¡ °üÇÑ ÀÌ·ÐÀ» Á¦½ÃÇÏ¿© PragueÇÐÆÄ¿¡ ¿µÇâÀ» ³¢Ä¡°Ô µÇ¾ú´Ù.  ¼ø¼ö¾ð¾îÇÐÀû À½¿îºÐ¼®ÀÇ ±âÃÊ¸¦ ´ÛÀº °ÍÀº ÁÖ·Î Scerba¿Í Jakovlev¿¡ ÀÇÇØ¼­¿´À¸¸ç, 1930³â´ë¿¡ ÀÌ¸£·¯¼­ ¹Ì±¹°ú Prague¸¦ Áß½ÉÀ¸·Î µ¿½ÃÀûÀÌ¸é¼­µµ µ¶¸³ÀûÀ¸·Î À½¿îºÐ¼®ÀÇ Ã¼°è°¡ ±ìÃß¾îÁö¸é¼­ °¢±â ´Ù¸¥ ÀÌ·ÐÀÌ È°¹ßÈ÷ Àü°³µÇ±â ½ÃÀÛÇÏ¿´´Ù.  ´õ¿íÀÌ Á¦2Â÷ ¼¼°è´ëÀüÀ¸·Î ¸»¹Ì¾Ï¾Æ ±×µé°£¿¡ ÀÖ¾ú´ø ÃÊ±âÀÇ Á¢ÃË¸¶Àú ´ÜÀýµÇ¾î ¹ö·Á ±×µéÀÇ ÀÌ·ÐÀº Á¦ ³ª¸§´ë·ÎÀÇ µ¶Æ¯ÇÑ ¹æÇâÀ¸·Î ¹ßÀüµÇ¾î ¹Ì±¹¿¡¼­´Â ±¸Á¶ÁÖÀÇ À½¼Ò·ÐÀ¸·Î, ±×¸®°í »ý¼ºÀ½¿î·Ð ¿¬±¸±îÁö ÀÌ¾îÁö°Ô µÇ¾ú´Ù.  
+  ±×·¯¹Ç·Î ÀÌ ±ÛÀÇ ¸ñÀûÀÎ ¹Í±¸ÀÇ À½¿îÀÌ·ÐÀÇ º¯ÃµÀ» »ìÆìº¸±â À§ÇØ¼­´Â ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­ºÎÅÍ ½ÃÀÛÇÏ¿©¾ß ÇÏÁö¸¸ À½¼Ò·Ð ¹ß´Ù¸£ÀÌ Á÷Á¢ÀûÀÎ ¹è°æÀ¸·Î 19¼¼±â¿¡ È°¹ßÈ÷ ¿¬±¸µÇ´ø ¿ª»ç.ºñ±³¾ð¾îÇÐ ¿¬±¸¿Í À½¼ºÇÐ ¿¬±¸¸¦ µéÁö ¾ÊÀ» ¼ö ¾øÀ¸¹Ç·Î ¹Ì±¹¿¡¼­ ÀÌ µÎ ¿¬±¸»óÈ²À» »ìÆìº¸´Â °ÍÀÌ ÇÊ¿äÇÏ¸®¶ó »ý°¢ÇÏ¿© ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ ÀÌÀüÀÇ ¾ð¾îÇÐ ¿¬±¸¿¡ °üÇÑ °ÍÀ» ¸ÕÀú »ìÆìº¸°í, ±×¸®°í ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­ 1960³â´ë¿¡ ¹ß´ÞÀ» ½ÃÀÛÇÑ »ý¼ºÀ½¿î·Ð¿¡ ÀÌ¸£±â±îÁö, À½¿îÀÌ·ÐÀÇ ¹®Á¦Á¡À» ÁöÀûÇÏ°í ±× °³¼±Ã¥Àº ¾î¶² °ÍÀÎ°¡¸¦ »ìÆìº¸·Á ÇÑ´Ù.  ±×¸®°í Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·ÐÀÇ ¹®Á¦Á¡À» ÁöÀû¤¾°í ±× ÇØ°á¹æ¹ýÀ» Á¦½ÃÇÑ ºñ´Ü¼±À½¿î·ÐÀÇ ³»¿ëÀ» °£·«È÷ ¼Ò°³ÇÏ¸é¼­ ¾ÕÀ¸·ÎÀÇ ¿¬±¸¹æÇâÀ» ¸ð»öÇØ º¸·Á ÇÑ´Ù.
+
+1.2. ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ ÀÌÀü
+
+  ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÌ ¹ß´ÞÇÏ±â ÀÌÀü ¹Ì±¹¿¡¼­´Â ¼­·Î ´Ù¸¥ µÎ °³ÀÇ ÀüÅëÀ» ÀÌ·ç´Â ¾ð¾îÇÐ ¿¬±¸°¡ ÇàÇØÁ³´Ù.  ÇÏ³ª´Â À¯·´ÀÇ ¾ð¾îÇÐ¿¡ ¹ÙÅÁÀ» µÐ ¿ª»ç.ºñ±³¾ð¾îÇÐ ¿¬±¸¿´´Ù.  µ¿ºÎÁö¿ªÀÇ ÁÖ¿ä ´ëÇÐ¿¡¼­´Â ÀÏ¹ÝÀûÀ¸·Î ±× ´ç½Ã À¯·´¿¡¼­ ÇàÇØÁö°í ÀÖ¾ú´ø ¿ª»çÀû, ±×¸®°í ¹®ÇåÇÐÀû Á¡±Ù¹æ¹ýÀ» µû¸£´Â ¾ð¾îÇÐ ¿¬±¸°¡ ÇàÇØÁ³´Ù.  ¶Ç ´Ù¸¥ ÇÏ³ª´Â ¹Ì±¹ ÅäÂø¹ÎÀÇ ¾ð¾îÀÎ ¾Æ¸Þ¸®Ä« ÀÎµð¾ðÀÇ ¿¬±¸¿´´Ù.  ÀÌ¿Í °°Àº ¿¬±¸´Â À¯·´ÀÇ ¾ð¾îÇÐ ¿¬±¸¿Í´Â ¾ÆÁÖ ´Ù¸¥ ºÐÀ§±â¿¡¼­ÀÇ ¿¬±¸¿´´Ù.  ±× ÀÌÀ¯·Î´Â ±× ´ç½Ã¿¡ ÇÐÀÚµé°£¿¡ ±³·ù°¡ Á¦ÇÑµÇ¾î ÀÖ¾ú±â ¶§¹®ÀÎ °Íµµ ºÎºÐÀûÀÎ ÀÌÀ¯´Â µÇÁö¸¸ ±×°Íº¸´Ù ´õ Å« ÀÌÀ¯´Â À¯·´¿¡¼­¿Í´Â ´Þ¸® ½Å´ë·ú¿¡¼­´Â ¿ª»çµµ ¹®ÀÚµµ ¾ø´Â ¹ÌÁö¾ð¾îÀÎ ¾Æ¸Þ¸®Ä« ÀÎµð¾ð¾î°¡ ¾ð¾îÇÐÀÚµéÀÇ °ü½ÉÀ» ²ø°í ÀÖ¾ú±â ¶§¹®ÀÌ¾ú´Ù.
+
+1.2.1. WjotneyÀÇ ¿¬±¸
+
+  ¼ÒÀå¹®¹üÇÐÆÄ ¿îµ¿ÀÌ À¯·´ 2Æ¯È÷ °í±¹ÀÎ µ¶ÀÏ ¹Û¿¡¼­ »ó´çÇÑ ¹Ý´ë¿¡ ºÎµúÈù°ÍÀº »ç½ÇÀÌ´Ù.  ±×·¯³ª ¹Ì±¹¿¡¼­´Â °¢ ´ëÇÐ¿¡¼­ ÁÖ·Î µ¶ÀÏ½ÄÀ¸·Î ÈÆ·ÃÀ» ¹ÞÀº ¾ð¾îÇÐÀÚµé·Î ÀÎÇØ ¼ÒÀå¹®¹ýÇÐÆÄÀÇ ÀüÅëÀÌ ¾ÆÁ÷µµ ¿©ÀüÈ÷ °­ÇÏ°Ô ÀÛ¿ëÇÏ°í ÀÖ¾úÀ¸¸ç Çö´ë µ¶ÀÏÀÇ ÇÐÀÚµé »çÀÌ¿¡¼­º¸´Ùµµ ¹Ì±¹¾ð¾îÇÐÀÚµé°£¿¡ ¼ÒÀå¹®¹ýÇÐÆÄÀÇ ¼Ò°³°¡ ÇÑÃþ µÎµå·¯Áø Çö»óÀÌ¶ó°í ¸»ÇÒ Á¤µµ·Î 19¼¼±â À¯·´ÀÇ ¾ð¾îÇÐ ¿¬±¸¹æÇâÀ» ÁÖµµÇß´ø ºñ±³¾ð¾îÇÐÀÇ ÀüÅëÀº ¹Ì±¹¿¡¼­µµ ÀÌ¾îÁ® ¿ª»ç.ºñ±³¾ð¾îÇÐÀÇ °ú¸ñµéÀÌ ¸¹Àº ´ëÇÐ¿¡¼­ °¡¸£ÃÄÁö°í ÀÖ¾ú´Ù.  ÀÔ ¡¡¾ß¿¡¼­ ¼¼°èÀûÀ¸·Î Àß ¾Ë·ÁÁø ÇÐÀÚ·Î´Â William Dwight Whitney(1827-1894)°¡ ÀÖ¾ú´Ù. ±×´Â ±×´ç½Ã ¹Í±¸ÀÇ ¿ª»ç.ºñ±³¾ð¾îÇÐ ¿¬±¸¸¦ ´ëÇ¥ÇÏ´Â ÇÐÀÚ¿´À¸¹Ç·Î ±×ÀÇ ¿¬±¸¿¡¼­ ±× ´ç½ÃÀÇ ¾ð¾îÇÐ ¿¬±¸»óÈ²À» ¾Ë ¼ö ÀÖÀ¸¸®¶ó »ý°¢ÇÑ´Ù.
+ Whitney ´Â Massachusetts ÁÖ Northampton¿¡¼­ ÅÂ¾î³ª ´ëÇÐÀ» Á¹¾÷ÇÑ ÈÄ ÁöÁúÇÐÀ» ¿¬±¸ÇÏ´Â ±×ÀÇ ÇüÀÇ ¿µÇâÀ» ¹Þ¾Æ ÁöÁúÇÐ¿¡ °ü½ÉÀ» °¡Áö°Ô µÇ¾ú´Ù.  ±× ´ç½ÃÀÇ ÁöÁúÇÐ¿¡¼­´Â °ú°ÅÀÇ ÁöÁúÇö»ó°ú ÇöÀçÀÇ ÁöÁúÇö»óÀÌ °°Àº ÀÛ¿ëÀ¸·Î ÀÌ·ç¾îÁ³´Ù°í ÇÏ´Â ±ÕÀÏ·Ð(uniformitarianism)À» ÁÖÀåÇÏ´Â ¼³ÀÌ ÀÖ¾úÀ¸¸ç, ÀÌ°ÍÀº ±× ´ç½Ã ¾ð¾îÀÇ ¿ª»çÀû ¿¬±¸¿¡µµ Áß¿äÇÑ ¿µÇâÀ» ¹ÌÃÆ´ø °ÍÀÌ´Ù.  Whitneyµµ ÀÌ¿Í °°Àº ÁöÁúÇÐÀÇ ¼³¸í¿¡ ¹Ì·ÂÀ» ´À³¤ °ÍÀ» º¸¸é ¾ð¾îÇÐ¿¡ °üÇÑ ±×ÀÇ °ßÇØ¸¦ ÀÌÇØÇÒ ¼ö ÀÖ´Ù.
+  ±×ÀÇ ¾ð¾îÇÐ ¿¬±¸´Â Sanskrit¾î ¿¬±¸¿¡¼­ ½ÃÀÛµÇ¾ú´Ù. ±×´Â ±× ´ç½Ã Yale´ëÇÐ¿¡¼­ Sanskrit¾î ±³¼ö¿´´ø SalisburyÀÇ Áöµµ¸¦ ¹Þ¾Æ Sanskrit¾î¸¦ º»°ÝÀûÀ¸·Î ¿¬±¸ÇÏ¿© ÀÎµµ¾îÇÐ ¿¬±¸¿¡ ÈÇ¸¢ÇÑ ¾÷ÀûÀ» ³²°å´Ù.  1879³â¿¡ Leipzig¿¡¼­ ÃâÆÇµÈ A Sanskrit Grammar´Â Á¾·¡ÀÇ ¿¬±¸¿Í´Â ´Ù¸¥ °¨°¢¿¡¼­ ´Ù¸¥ ¹æ¹ýÀ¸·Î ¾´ ¹®¹ý¼­·Î¼­ WhitneyÀÇ ¾ð¾î±¸Á¶¿¡ °üÇÑ °ßÇØ¸¦ ÀÚ¼¼È÷ ³ªÅ¸³»°í ÀÖ´Â Áß¿äÇÑ Ã¥À¸·Î, ±¸Á¶ÁÖÀÇ°¡ ¹ß´ÞÇÑ 1930³â´ë¿¡µµ ¿©ÀüÈ÷ Ç¥ÁØ¹®¹ý¼­·Î ÀÎÁ¤À» ¹Þ¾ÒÀ¸¸ç ÀÌ·Î½á ±×°¡ ÀÎ±¸¾î ¿¬±¸¿¡ Áß¿äÇÑ ÀÎ¹°·Î ÀÎÁ¤À» ¹Þ°Ô µÇ¾ú´ø °ÍÀÌ´Ù.
+  Whitney´Â Sanskrit¾î»Ó¸¸ ¾Æ´Ï¶ó ¾ð¾îÇÐÀÇ ÀÏ¹Ý¹®Á¦¿¡µµ °ü½ÉÀ» °¡Áö°í ÀÖ¾ú´Ù.  ¾ð¾î¶õ ¹«¾ùÀÌ¸ç ¾î¶»°Ô ÀÛ¿ëÇÏ´Â°¡, ±×¸®°í ¾ð¾î°¡ ¾î¶»°Ô ¼ºÀåÇÏ¿© º¯ÇÏ°Ô µÇ´Â°¡¿Í °°Àº ¹®Á¦¸¦ ÇØ°áÇØ º¸·Á ÇÏ¿´´Ù.  ±×¸®ÇÏ¿© ±×´Â ¿ª»ç.ºñ±³¾ð¾îÇÐ ¿¬±¸¾÷Àû ÀÌ¿Ü¿¡ ÀÏ¹Ý¾ð¾îÇÐ ºÐ¾ß¿¡ µÎ ±ÇÀÇ Ã¥À» ½è´Ù.  ±×°¡ 6Â÷·Ê¿¡ °ÉÃÄ ÇàÇÑ ¾ð¾îÇÐ¿ø¸®¿¡ °üÇÑ ±×ÀÇ °­ÀÇ³»¿ëÀ» ¹­¾î ³»³õÀº Sanguage and the Study of Language(1867)¿Í ¾ð¾îÇÐÀÇ °³·Ð¼­ÀÎ The Life and Growth of Language(1875)ÀÇ µÎ Ã¥Àº À¯·´ÀÇ À¯¸íÇÑ ¾ð¾îÇÐÀÚµé¿¡°Ôµµ ¾Ë·ÁÁö°Ô µÇ¾ú´Ù.  ±×ÀÇ ¾ð¾î¿¡ °üÇÑ °ßÇØ´Â 19¼¼±â ¾ð¾îÇÐÀÚµéÀÌ ¾ð¾î¿¡ °üÇØ °¡Á³´ø °ßÇØ, Áï ¾ð¾î´Â »ý¹°Ã¼¿Í ¸¶Âù°¡Áö·Î ¼ºÀåÇÏ°í ÁøÈ­ÇÏ´Ù°¡ »ç¸êÇÏ´Â ÀÚ¿¬À¯±âÃ¼ÀÇ ÀÏÁ¾À¸·Î º¸·Á Çß´ø °ßÇØ¿¡ ´ëÇØ ¹Ý´ëÀÔÀåÀ» ÃëÇÏ¿´´Ù.  ¾ð¾îÀÇ »çÈ¸Àû ¼º°ÝÀ» °­Á¶ÇÏ¸é¼­ ¾ð¾îÀÇ »ý¹°ÇÐÀû È¤Àº ±â°èÁÖÀÇÀû °ßÇØ°¡ Áö¹èÇÑ´Â ºÐÀ§±â¸¦ Á¦°ÅÇÏ°í »ç¶÷µé·Î ÇÏ¿©±Ý ¾ð¾î¿¡ ´ëÇÑ »ý°¢À» ¼ø¼öÇÏ°Ô ¾ð¾îÇÐÀûÀ¸·Î ÇÏµµ·Ï ÇÏ´Â ±æÀ» ¸¶·ÃÇÏ¿´´Ù´Â °ÍÀº ±×ÀÇ Å« °øÇå °¡¿îµ¥ ÇÏ³ª¶ó°í º¸¾Æ¾ß ÇÒ °ÍÀÌ´Ù.
+  Whitney´Â ¸ð±¹¾îÀÎ ¿µ¾î¿¡ ´ëÇÑ °ü½ÉÀÌ ±í¾î ¿µ¾î¹ßÀ½À» ºÐ¼®.¿¬±¸ÇÏ¿´À¸¸ç, ¿µ¾î¿¡ ±¹ÇÑ½ÃÅ°Áö ¾ÈÈç À½¼ºÇÐ¿¡ ´ëÇÑ ¾÷Àûµµ Å©´Ù.  ±×¸®°í ±×´Â ÇÐ»ýµéÀ» À§ÇÑ ¿µ¹®¹ý¼­ Essentials of Eglish Grammaer(1877)¸¦ ÃâÆÇÇÏ¿´´Ù.  ÀÏ¹ÝÀûÀÎ ¿µ¹®¹ý¼­ÀÇ Æ¯Â¡ÀºLatin¾î ¹®¹ý¿¡ ¸ÂÃß·Á´Â °ÍÀÌ¾úÀ¸³ª ÀÌ ¿µ¹®¹ý¼­´Â Sanskrit¹®¹ý°ú À¯»çÇÑ °ÍÀÌ Æ¯Â¡ÀÌ´Ù.  ±×°¡ ¿µ¾î¿¡ °ü½ÉÀ» °¡Áø ³ª¸ÓÁö, ¿µ¾î»çÀü ÆíÁý¿¡µµ °ü¿©ÇÏ¿© Webster»çÀü¿¡ ¼ö·ÏµÉ ¸¹Àº ÁÖ¿ä ³¹¸»µéÀ» ´Ù½Ã Á¤ÀÇÇÏ±âµµ ÇÏ´Â µî »çÀüÆíÂù¿¡ ¸¹Àº µµ¿òÀ» ÁÖ¾úÀ¸¸ç ¶ÇÇÑ Century Dictionary lf English(1889-=1891)¸¦ ¸¸µå´Â µ¥ ÆíÁýÀåÀ¸·Î ÀÏÇÏ±âµµ ÇÏ¿´´Ù.
+  Whitney´Â 1850³â¿¡ À¯·´¿¡ °Ç³Ê°¡ Bopp¿¡°Ô¼­ ¹è¿ì±âµµ ÇÏ¿´À¸¹Ç·Î ±× ´ç½Ã À¯·´¿¡¼­ È°¹ßÈ÷ ¿¬±¸µÇ´ø ¿ª»ç.ºñ±³¾ð¾îÇÐÀÇ ¿¬±¸ °æÇâÀ» ¹Þ¾Æµé¿© ¹Ì±¹¿¡¼­µµ ÀÌ ¿¬±¸°æÇâÀÌ ÀÌ¾îÁ® ³»·Á°¡°Ô ÇÏ¿´´Ù. ±×·¯³ª ÀÌ ºÐ¾ß¿¡ ´ëÇÑ ¿¬±¸¿­Àº Á¡Â÷ ½Ä¾îÁ® ±×ÈÄ ¸î¸î ÇÐÀÚµé¿¡ ÀÇÇØ ¸í¹é¸¸ÀÌ À¯ÁöµÇ´Â »óÅÂ°¡ µÇ¾ú´Ù.  ±×ÀÇ ¾÷ÀûÀº Å©°Ô 4°¡Áö ¸é¿¡¼­ Ã£¾Æº¼ ¼ö ÀÖ´Ù.  ÀÎµµ¾îÇÐ¿¡¼­ ÃÖ°íÀÇ ¾÷ÀûÀ» ³ªÅ¸³»¾ú°í, µ¶ÀÏ¾î¿ÍºÒ¾î¿Í °°Àº Çö´ë¾ð¾î ¿¬±¸¿¡¼­ÀÇ ¾÷Àû, ±×¸®°í ¸ð±¹¾îÀÎ ¿µ¾î¿¡ °üÇÑ ¿¬±¸, ±×¸®°í À½¼ºÇÐ¸é¿¡¼­ÀÇ ¾÷ÀûÀÌ´Ù.  ±×·¯³ª ±×ÀÇ ¿¬±¸´Â ¿µ¾î¹ßÀ½À» ºÐ¼®.±â¼úÇÏ´Â Á¤µµ¿´À¸¸ç À½¿î·ÐÀû ¿¬±¸´Â Ã£¾Æº¼ ¼ö ¾ø¾ú´Ù.
+  ÀÌ¿Í °°ÀºWhitneyÀÇ ¿¬±¸°¡ ±× ÈÄ °ð ¾ð¾îÇÐÀ» Áö¹èÇÏ°Ô µÉ ±¸Á¶ÁÖÀÇÀÇ ¹ß´ÞÀ» ÀÌ²øÁö´Â ¸øÇÏ¿´´Ù. ±×ÀÇ ¿¬±¸´Â ±× ´ç½ÃÀÇ ¿¬±¸°æÇâÀ» ¹þ¾î³ªÁö ¸øÇß´ø °ÍÀÌ´Ù.  ¾ð¾î¸¦ ±¸Á¶Àû ¹æ¹ýÀ¸·Î ´Ù·ç±â À§ÇØ¼­´Â °ø½ÃÀû ¿¬±¸¿Í Åë½ÃÀû ¿¬±¸¸¦ ºÐ¸®ÇÏ¿©, °üÂûµÈ »ç½ÇÀ» ¼³¸íÇÒ ¶§ ±× ¿ª»ç ¼Ó¿¡¼­¸¸ ÇØº¸·Á´Â ÅÂµµ¸¦ ¹ö·Á¾ß ÇÏ´Âµ¥ ±×¿¡°Ô´Â ¿ÀÈ÷·Á ÁöÁúÇÐ ¿¬±¸ÀÇ ¹è°æÀ¸·Î ÀÎÇØ ¸ðµç ¼³¸íÀ» ¿ª»çÀûÀÎ °üÁ¡¿¡¼­ ÇØº¸·Á ÇÏ¿´´Ù´Â °ÍÀÌ´Ù. »ç½Ç»ó ±×ÀÇ ¿¬±¸°¡ ±× ´ç½ÃÀÇ ¹Ì±¹¾ð¾îÇÐÀÇ ¿¬±¸°æÇâÀ» ÃÑ¸Á¶óÇÏ¿© ´ëÇ¥ÇÏ´Â °ÍÀº ¾Æ´Ï¾ú´Ù.  ¹Ì±¹³»¿¡¼­ÀÇ ¾ð¾îÇÐ ¿¬±¸ÀÇ ÀüÅëÀº WhitneyÀÇ ¿¬±¸¿¡¼­ ¹ßÀüÇÏ±â ½ÃÀÛÇÏ¿´´Ù°í º¸Áö¸¸ ±×ÀÌ ¾ð¾îÇÐ »ç»ó°úÀº À¯·´ÀÇ »ç»ó°ú °ÅÀÇ °°¾Ò´Ù.  ±×·¯³ª ±× ´ç½Ã ¹Ì±¹³»¿¡¼­´Â À¯·´ÀÇ ¾ð¾îÇÐ »ç»ó°ú µ¶¸³µÈ º°°³ÀÇ °ÍÀÌ ¹ß´ÞÇÏ°í ÀÖ¾ú´Âµ¥, ±×°ÍÀº ±¸Á¶ÁÖÀÇ¾ð¾îÇÐÀ¸·Î ÀÌ²ô´Â Boas¸¦ Áß½ÉÀ¸·Î ÇÑ ¾ð¾îÇÐ ¿¬±¸¿´´Ù
+
+1.2.2. BoasÀÇ ¿¬±¸
+
+  ¾Æ¸Þ¸®Ä« ÀÎµð¾ð¿¡ °üÇÑ ¿¬±¸´Â Boas ÀÌÀü¿¡µµ ÀÖ¾ú´Ù.  À¯·´»ç¶÷µéÀÌ ¹Ì±¹´ë·ú¿¡ ÀÌÁÖÇØ ¿Í¼­ ÀÌ°÷ ÅäÂø¹ÎµéÀÇ ¾ð¾îÀÎ ¾Æ¸Þ¸®Ä« ÀÎµð¾ð¾î¸¦ Ã³À½ Á¢ÇßÀ» ¶§ºÎÅÍ ÀÌ ¾ð¾îµéÀº Ä¿´Ù¶õ °ü½ÉÀ» ºÒ·¯ÀÏÀ¸Ä×´Ù.  Æ¯È÷ ¼±±³»çµéÀº ±×µéÀÇ Á¾±³¸¦ ÀüÆÄÇÏ°íÀÚ ÇÏ´Â Æ¯º°ÇÏ°íµµ ½ÇÁúÀûÀÎ ¸ñÀûÀ¸·Î ÅäÂø¹ÎÀÇ ¾ð¾î¸¦ °øºÎÇÏ°í ¶ÇÇÑ ÀÌ ¾ð¾î¿¡ °üÇÑ ÀÚ·áµéÀ» ´Ù·®À¸·Î ¼öÁýÇÏ¿´À¸¹Ç·Î ±×µéÀÇ ¿¬±¸´Â Ã¼°èÀûÀÌ°í ÇÐ¹®ÀûÀÌÁö ¸øÇÏ¿´´Ù.  ±×¸®°í ¶ÇÇÑ ¾Æ¸Þ¸®Ä« ÀÎÀÌ´ø¾îÀÇ ¿¬±¸°¡ Áß¿äÇÏ´Ù´Â °ÍÀº ±ú´Ý°Ô µÈ °ÍÀº ¹ÎÁ·ÁöÇÐ(ethnology)ÀÇ ¿¬±¸¸¦ À§ÇÑ °ÍÀÌ¾ú´Ù.  ¹Ì±¹ ´ë·úÀÇ ÅäÂø¹ÎµéÀ» À¯·´»ç¶÷µé°ú »ó´çÈ÷ ´Ù¸£´Ù´Â Á¡µ¥ °ü½ÉÀ» °¡Áö¸é¼­ ÀÌ ¿¬±¸¸¦ À§ÇØ¼­´Â ¸ÕÀú ÀÌµé°ú  ¼­·Î ÀÇ»ç¼ÒÅëÀ» ÇØ¾ß µÉ ½ÇÁ¦ÀûÀÎ ¸ñÀû ¶§¹®¿¡ ÅäÂø¹ÎµéÀÇ ¾ð¾î¸¦ ¿¬±¸ÇÏ°Ô µÇ¾ú´Ù.
+  18¼¼±â¿¡ ¾Æ¸Þ¸®Ä« ÀÎµð¾ð¾î¿¡ °üÇÑ ¿¬±¸°¡ »ê¹ßÀûÀ¸·Î ÀÖ¾úÀ¸³ª ´ëºÎºÐÀÇ ¿¬±¸´Â ¹Ì±¹Ã¶ÇÐÈ¸(American Philosophical Society)¿Í ´º¿å¿ª»çÈ¸(New York Historical Society)¿¡¼­ ÇÏ¿´´Ù.  ÀÌµéÀÇ ¿¬±¸´Â °¡´ÉÇÑ ÇÑ ¸¹Àº ÀÚ·á¸¦ ¼öÁýÇÏ¿© ºÐ·ùÇÏ·Á´Â µ¥ ¸ñÀûÀ» µÎ°í ÀÖ¾úÀ¸¹Ç·Î ¾îÈÖÀûÀÎ °ÍÀÌ ´ëºÎºÐÀÌ¾úÀ¸¸ç ±¸Á¶Àû, ¹®¹ýÀûÀÎ ¸éÀº °ÅÀÇ ´Ù·çÁö ¸øÇÏ¿´´Ù.  PowellÀÇ Indian Linguistic Families of America North of Mexicp(1891)¿¡¼­µµ ¹æ´ëÇÑ ¾îÈÖÀÚ·á¸¦ ´Ù·ç°í ÀÖÀ¸³ª ±¸Á¶ÀûÀÎ Æ¯¼º¿¡ °üÇÑ ¼³¸íÀº °ÅÀÇ ÇÏÁö ¾Ê°í ÀÖ´Ù.  ±×·¯³ª ¼±±³»çµéÀÌ ÇØ³õÀº ¿¬±¸ °¡¿îµ¥¿¡´Â ¹®¹ýÀûÀÎ ¼³¸íÀ» Ã£¾Æº¼ ¼ö´Â ÀÖÀ¸³ª ¾Æ¸Þ¸®Ä« ÀÎµð¾ð¾îµé°ú À¯·´ Á¦¾î°£ÀÇ Â÷ÀÌ¿¡ ´ëÇØ¼­´Â ¾Æ¹«·± ÁÖÀÇ¸¦ ±â¿ïÀÌÁö ¾Ê¾Ò±â ¶§¹®¿¡ ±×°ÍÀº ¶óÆ¾ ¾î ¹®¹ýÀÌ³ª ´Ù¸¥ ÀüÅëÀûÀÎ ¹®¹ýÀÇ Æ² ¼Ó¿¡¼­ ¾Æ¸Þ¸®Ä« ÀÎµð¾ð¾î¿¡´Â ¾ø´Â ¹®¹ýÀûÀÎ Æ¯Â¡À» ±×´ë·Î ºÎ¿©ÇÏ¿© ±â¼úÇÏ¿´´ø °ÍÀÌ´Ù.
+  ÀÌ¿Í °°ÀÌ °úÇÐÀûÀÎ ¹ÙÅÁÀÌ °á¿©µÇ¾î ÀÖ¾ú°í Ã¼°èÀûÀÌÁö ¸øÇÏ´ø ±× ´ç½ÃÀÇ ¾Æ¸Þ¸®Ä« ÀÎµð¾ð¾î¿¡ °üÇÑ ¿¬±¸¿¡ Å« º¯ÇõÀ» ÀÏÀ¸Å² »ç¶÷Àº Franz Boas(1858-1942)¿´´Ù.  Boas´Â µ¶ÀÏ¿¡¼­ ÅÂ¾î³ª, ±× °÷ ´ëÇÐ¿¡¼­ ÀÚ¿¬°úÇÐÀ» °øºÎÇÏ¸é¼­ Áö¸®ÇÐ¿¡ Æ¯º°ÇÑ °ü½ÉÀ» °¡Áö°í ÀÖ¾ú´Ù.  ±×´Â ¾ð¾îÇÐ¿¡ ´ëÇØ ¾Æ¹«·± ±³À°À» ¹ÞÁö ¾Ê¾ÒÀ¸¸é¼­µµ ±âÈÄ°¡ ¾ð¾î¿¡ ¹ÌÄ¡´Â ¿µÇâÀÌ ÀÖÀ» °ÍÀÌ¶ó´Â ¹®Á¦¿¡ °ü½ÉÀ» °¡Áö°Ô µÇ¾ú´Ù.  ±×¸®ÇÏ¿© EskimoÁ·À» ¿¬±¸ÇÏ´Â ¿øÁ¤¿¬±¸¿¡µµ Âü°¡ÇÏ¿© ±× ¹æ¸éÀ¸·ÎÀÇ ¿¬±¸¸¦ ÇÏ±âµµ ÇÏ¿´´Ù.  ±×´Â Áö¸®ÇÐÀ» ÅëÇØ¼­ ÀÎ·ùÇÐÀ» ¿¬±¸ÇÏ±â¿¡ ÀÌ¸£·¶´Ù.  ±×·¯³ª ±×´Â ÇÑ »çÈ¸ÀÇ ¹®È­´Â ´Ü¼øÈ÷ ±× »çÈ¸ÀÇ ¹°ÁúÀûÀÎ È¯°æÀÇ ±â´É¸¸Àº ¾Æ´Ï¶ó´Â °Í°ú ÀÎ¹®°úÇÐÀº ÀÚ¿¬°úÇÐÀÇ ³»¿ëÀÌ³ª ¹æ¹ý¸é¿¡¼­ ¾ÆÁÖ ´Ù¸£´Ù´Â »ç½ÇÀ» ±ú´Ý°Ô µÇ¸é¼­ ÀÎ¹®°úÇÐ¿¡ ¸Å·ÂÀ» ´À³¢°Ô µÇ¾ú´ø °ÍÀÌ´Ù.  ±×¸®°í ±×´Â ÀÎ·ùÇÐÀº Áö¸®ÇÐÀÇ ÇÏÀ§ºÐ¾ß°¡ ¾Æ´ÔÀ» ÀÎ½ÄÇÏ°Ô µÇ¾ú´Ù.
+  ÀÎ·ùÇÐÀÚ·Î¼­ Bosa´Â ¾ð¾îÀÇ Áß¿ä¼ºÀ» ÀÎ½ÄÇÏ°Ô µÇ¾ú´Ù.  ÀÎ·ùÇÐÀÚ°¡ ¹®È­ÀÇ ¿©·¯ ¾ç»óÀ» ÀÌÇØÇÏ°í ±â¼úÇÒ ¶§ ¿­¼è°¡ µÇ´Â °ÍÀº ¾ð¾î¶ó´Â °ÍÀÌ´Ù.  »ç¶÷µéÀÌ ¾ð¾î¸¦ »ç¿ëÇÒ ¶§ ±× ¿ø¸®¸¦ ÀÇ½ÄÇÏÁö ¾Ê±â ¶§¹®¿¡ ¾ð¾î°¡ ¹®È­¸¦ Àß ¹Ý¿µÇØ ÁØ´Ù´Â °ÍÀÌ¸ç, ±×·¯¹Ç·Î ¹®È°¸£ ¿¬±¸ÇÏ´Â ÇÏ³ªÀÇ µµ±¸·Î ¾ð¾î¿¡ °üÇÑ ¿¬±¸¸¦ Çß´ø °ÍÀÌ´Ù. ±×ÀÇ ¾ð¾î¿¬±¸´Â ¼ø¼ö¾ð¾îÇÐÀûÀÎ ¸éº¸´Ù´Â ÀÎ·ùÇÐÀûÀÎ ¸é¿¡ ´õ ¿ì¼±¼øÀ§¸¦ ºÎ¿©ÇÏ°í ÀÖ¾ú±â ¶§¹®¿¡ ÀÏÂ÷ÀûÀÎ °ü½É»ç´Â ¾ð¾î±¸Á¶¸¦ ¿¬±¸ÇÑ´Â °ÍÀÌ¾úÀ¸¸ç ÀÌ¸¦ À§ÇØ ¼öÁýµÈ ¾ð¾îÀÚ·á¸¦ ´Ù½Ã Àç»ýÇÒ ¼ö ÀÖÀ» Á¤µµ·Î ¾ÆÁÖ Á¤È®È÷ ±â·ÏÇÏ°Å³ª ³ìÀ½ÇØ ³õÀº °ÍÀ» ¸Å¿ì Áß¿äÇÏ°Ô »ý°¢ÇÏ¿´´Ù.
+  BoasÀÇ ¿¬±¸¿¡¼­ À½¼ºÀû Á¤È®¼º¿¡ ´ëÇÑ °­Á¶´Â ±×ÀÇ À½¿îÀÌ·Ð¿¡ °üÇÑ °ßÇØ¸¦ ÀÌÇØÇÏ´Â µ¥ ¾ÆÁØ Áß¿äÇÏ´Ù.  ±×¿¡ ÀÇÇÏ¸é ÇÑ ¾ð¾î¿¡¼­ µÎ °³ÀÇ À½ÀÌ ´ë¸³À» ÀÌ·ç´Â°¡ÀÇ ¹®Á¦´Â ±× µÎ À½ÀÌ º°°³ÀÇ ±âÈ£·Î ±â·ÏµÇ¾î¾ß ÇÏ´Â ¹®Á¦¿Í´Â »ó°üÀÌ ¾ø´Ù´Â °ÍÀÌ´Ù.  µÎ °³ÀÇ À½ÀÌ À½¼ºÀûÀ¸·Î ±¸ºÐÇÒ ¼ö ÀÕ´Â °ÍÀÌ¶ó¸é À½¼ºÀû Â÷ÀÌ¸¦ ¿¹ÃøÇÒ ¼ö ÀÖ´Â °ÍÀÌ¶ó ÇÏ´õ¶óµµ ±× Â÷ÀÌ³ª´Â °ÍÀ» ±×´ë·Î ´Ù ±â·ÏÇØ ³õ¾Æ¾ß ÇÑ´Ù´Â °ÍÀÌ´Ù.  ÀÌ¿Í °°Àº ±×ÀÇ °ßÇØ´Â ±×°¡ ´Ù¸¥ ¾î¶² ¾ð¾îº¸´Ùµµ ´õ °ü½ÉÀ» ½ñÀº Kwakwala¾îÀÇ ¸ðÀ½Ã¼°è¸¦ ´Ù·ç´Â µ¥¼­ ³ªÅ¸³­´Ù. boas ÀÇ »çÈÄ¿¡ ÃâÆÇµÈ"Kwakiutl Grammar"(1947)¿¡¼­ ±×´Â ¾ðÁ¦³ª 17°³ÀÇ ¸ðÀ½À» ±¸ºÐÇÏ¿© Á¦½ÃÇÏ¿´´Âµ¥ ÀÌ °¡¿îµ¥ 6°³(±â²¯ÇØ¾ß 7°³)ÀÇ ¸ðÀ½ÀÌ ½ÇÁ¦·Î ´Ù¸¥ ¸ðÀ½°ú ´ë¸³µÇ°í ÀÖ´Ù´Â °ÍÀÌ´Ù.  ¿©±â¿¡¼­ Á¤È®ÇÑ ¾ð¾îºÐ¼®À» ÇÏ±â À§ÇØ¼­´Â µÎ °³ÀÇ À½ÀÌ ³ªÅ¸³ª´Â ºÐÆ÷¿¡¼­ ¿¹ÃøÇÒ ¼ö ÀÖ´Â °ÍÀº ¹°·Ð ±× ¿Ü ±× ¾ð¾îÀÇ Æ¯Â¡ÀûÀÎ ±ÔÄ¢¼ºµéÀÌ ¾ð±ÞµÇ¾î¾ß ÇÔ¿¡µµ ºÒ±¸ÇÏ°í ¹«½ÃÇØ ¹ö·È´ø °ÍÀÌ´Ù.
+  1920³â´ë¿Í 1930³â´ë À½¼Ò·ÐÀû Ç¥½Ã(phonemic representation)ÀÇ °³³äÀÌ ÁÖÀåµÇ°í ÀÖ¾ú´ø ±× ´ç½Ã¿¡ ÁöµµÀû ¿ªÇÐÀ» ÇØ¿À´ø Boas °¡ ±× ¹®Á¦¸¦ ÀüÇô ¾ËÁö ¸øÇß´ø °ÍÀº ¾Æ´Ï´Ù.  ±×´Â ´ÜÁö À½¼ºÀû Ç¥½Ã(phonetic representation)ÀÌ¿Ü¿¡ ¾î¶°ÇÑ Ç¥½Ã¿¡µµ ½ÇÁ¦ÀÇ À§Ä¡¸¦ ÀÎÁ¤ÇÏÁö ¾Ê°í Ç¥¸éÇü ÀÚÃ¼¸¸ Áß¿äÇÏ´Ù°í »ý°¢ÇÏ¿´´Ù.  ±×´Â Á¶»çÀÚ°¡ Àß ¾ËÁö ¸øÇÏ´Â ¾ð¾î¸¦ À½¼ºÀûÀ¸·Î Á¤È®È÷ ±â·ÏÇÏ±â À§ÇØ¼­ Á¶»çÀÚÀÇ ¸ð±¹¾î³ª ±×¿Í À¯»çÇÑ ¾ð¾îÀÇ À½¼º¿¡ ÀÌ²ø·Á ±â·ÏÇÏÁö ¾Êµµ·Ï ÇÒ °ÍÀ» °­Á¶ÇÏ¿´´Ù.  ÀÎ°£ÀÇ À½¼º±â°üÀÌ ¼Ò¸®¸¦ ³¾ ¼ö ÀÖ´Â ´É·ÂÀº ¹«ÇÑÇÏ¸ç °¢ ¾ð¾î´Â ÀÌ ¹«ÇÑÇÑ ¼Ò¸® °¡¿îµ¥¿¡¼­ ±× ¾ð¾î Æ¯À¯ÀÇ À½À» ÃëÇÏ°Ô µÇ¹Ç·Î ´Ù¸¥ ¾ð¾îÀÇ À½À» ÅÃÇÏ´Â ¿ø¸®¿Í´Â °ü°è°¡ ¾ø¾î¾ß µÈ´Ù°í ÁÖÀåÇÏ¸é¼­ Á¶»çÀÚ°¡ Àß ¾ËÁö ¸øÇÏ´Â À½ÀÌ¶óµµ ±× ¾ð¾îÀÇ À½À¸·Î ¹Þ¾Æµé¿©¾ß ÇÑ´Ù´Â °ÍÀÌ´Ù.  ÀÌ¿Í °°Àº ÁÖÀÇ°¡ ¹Þ¾Æµé¿©ÁöÁö ¾ÊÀ» °æ¿ì µ¿ÀÏÇÑ À½ÀÌ Á¶»çÀÚÀÇ ¸ñ±¸¾î ¹è°æ¿¡ µû¶ó ´Ù¸¤°Ô ÀÎ½ÄµÇ¾î ±³Ã¼À½(alternating sounds)ÀÌ ³ªÅ¸³ª°Ô µÈ´Ù´Â °ÍÀÌ´Ù.  Boas´Â Handbook of American Indian Languages(1911)¸¦ ÃâÆÇÇÔÀ¸·Î½á ¹Ì±¹¿¡¼­ÀÇ ¾ð¾îÇÐ ¿¬±¸¿¡ ÀüÈ¯ÇÔÀ» ÀÌ·ç¾î ³õ¾Ò´Ù.  ÀÌ Ã¥¿¡¼­ ±×´Â ¾ð¾îÀÇ ±â¼ú¾ð¾îÇÐÀû Á¢±Ù¹æ¹ýÀ» ¿ä¾ß°²¿© Á¦½ÃÇÏ¿´À¸¸ç ÀÌ°ÍÀº ¾ÆÁ÷µµ ³ôÀÌ Æò°¡¹Þ°í ÀÖÀ¸¸ç ¶ÇÇÑ ÀÌ Ã¥À¸·Î ÀÎÇÏ¿© ±×°¡ ºÏ¾Æ¸Þ¸®Ä« ÅäÂø¹ÎÀÇ ¾ð¾î¸¦ ¿¬±¸ÇÏ´Â µ¥ ÀÖ¾î¼­ ÁöµµÀûÀÎ ¿ªÇÒÀ» ÇÑ ÀÎ¹°·Î ÀÎÁ¤À» ¹Þ°Ô µÇ¾ú´Ù.
+  Boas´Â Ã³À½ ¼öÇàÇÑ ÇöÀå¿¬±¸¿¡¼­ ±×°¡ °¡Á³´ø »ý°¢, Áï ±âÈÄ°¡ ¾ð¾î¿¡ ¹ÌÄ¡´Â ¿µÇâÀÇ °¡´É¼º¿¡ °üÇÑ °ÍÀÌ Àß¸øµÈ °ÍÀÓÀ» ±ú´Ý°í ±×ÀÇ °ü½ÉÀº ¾ð¾î°£ÀÇ ºñ±³¿¬±¸¸¦ ÅëÇÏ¿© ±×µé°£ÀÇ Ä£Á·°ü°è¸¦ ¿¬±¸ÇØ º¸·Á´Â ¹æÇâÀ¸·Î º¯ÇÏ¿´´Ù.  ±×·¯³ª ±×°¡ °ü½ÉÀ» °¡Á³´ø ºÏ¼­ÇØ¾ÈÀÇ ¾Æ¸Þ¸®Ä« ÀÎµð¾ð¾î ¿¬±¸¿¡¼­ ¾òÀº Áö½ÄÀ» ¹ÙÅÁÀ¸·Î º¼ ¶§ ÇÑ Áö¿ª³»¿¡¼­ ±¸Á¶Àû Æ¯Â¡ÀÌ ¼­·Î µ¿È­µÇ´Â Çö»óÀÌ¶óµç°¡ Â÷¿ëÀÇ ¹®Á¦°¡ ºñ±³¿¬±¸¸£ º®¿¡ ºÎµúÈ÷°Ô ÇÔÀ» ±ú´Þ¾Ò´Ù.  ÀÌ°ÍµéÀº ºÏ¾Æ¸Þ¸®Ä« ¾ð¾î¸¦ ¿ª»çÀûÀ¸·Î ºÐ·ùÇÏ´Â µ¥ Áß¿äÇÑ ¿ªÇÒÀ» ÇÏÁö ¸øÇÔÀ» ÀÎ½ÄÇÏ¸é¼­ Á¡Á¡ ¾ð¾î°£ÀÇ Ä£Á·°ü°è¹®Á¦¿¡ È¸ÀÇ¸¦ ´À³¢°í ±×ÀÇ °ü½ÉÀº ´Ù½Ã ¿ª»çÀûÀÎ ¹®Á¦¿¡¼­ °ø½ÃÀûÀÎ ±â¼ú·Î ¹Ù²î°Ô µÇ¾ú´Ù.
+  Boas°¡ ÀüÅëÀû ¾ð¾î¿¬±¸¹æ¹ý¿¡¼­ ¹þ¾î³¯ ¼ö ÀÖ¾ú´ø °ÍÀº ±×°¡ ¾ð¾îÇÐÀ» È¥ÀÚµ¶ÇÐÇÏ¿´´Ù´Â Á¡À» ÇÑ °¡Áö ÀÌÀ¯·Î µé ¼ö ÀÖ´Ù.  ÀÌ°ÍÀº À¯·´ÀÇ ¾ü¤¤Åë¿¡¼­ ³»·Á¿À´Â ¾ð¾î¿¡ °üÇÑ ÀüÁ¦µéÀ» ¿°µÎ¿¡ µÎÁö ¾Ê°íµµ ¾ð¾î¿¬±¸¸¦ ÇÒ ¼ö ÀÖ¾ú±â ¶§¹®ÀÌ´Ù.  ±×¸®°í ¶Ç ÇÏ³ªÀÇ ÀÌÀ¯´Â ¾Æ¸Þ¸®Ä« ÀÎµð¾ð Á¦¾î´Â ¹®ÀÚµµ ¾ø¾î Âü´Ù¿î ÀÇ¹ÌÀÇ ¿ª»ç°¡ ¾÷¤²¤µ¾ú±â ¶§¹®¿¡ ¿ª»çÀû Á¢±Ù¹æ¹ýÀÌ Ã³À½ºÎÅÍ Á¦¿ÜµÇ¾ú´ø °ÍÀÌ´Ù.  ±×¸®°í ÇöÁ¸ÇÏ´Â ¾ð¾îÇö»óÀÇ Á¤È®ÇÑ ±â¼ú¿¡ ¿¬±¸ÀÚÀÇ ÁÖÀÇ°¡ ÁýÁßµÇ¾ú¾î¾ß Çß´ø °ÍÀÌ´Ù.  ±×·¯¹Ç·Î Boas´Â ±×°¡ ´Ù·ç°í ÀÖ´Â ¾Æ¸Þ¸®Ä« ÀÎµð¾ð Á¦¾îÀÇ ¹®¹ý±¸Á¶°¡ ÀÎ±¸Á¦¾î ¹®¹ýÀÇ Æ²¿¡ ¸ÂÁö ¾Ê±â ¶§¹®¿¡ ±× Æ²¿¡ ¾ïÁö·Î ¸ÂÃß¾î¼­´Â ¾ÈµÇ¸ç °¢ ¾ð¾î¸¶´Ù °¢±â °íÀ¯ÇÑ ³»Àû ³í¸®°¡ ÀÖ¾î¼­ ±× ¾ð¾îÀÚ·á¿¡ ÀûÇÕÇÑ ºÐ¼®¹æ¹ýÀÌ ÀÖ´Ù´Â ¸Å¿ì ÅëÂû·Â ÀÖ´Â ÁÖÀåÀ» ÇÏ°Ô µÇ¾ú´Ù.  ±×·¯¹Ç·Î ±×´Â ¿¬±¸´Â Ã¶ÀúÇÏ°Ô °ø½ÃÀûÀÌ¾î¾ß ÇÔÀ» °­Á¶ÇÏ¿´°í ¿©±â¿¡¼­ ±â¼ú¾ð¾îÇÐ(descriptive linguistics)ÀÌ¶ó´Â ¼ú¾î°¡ ³ª¿À°Ô µÈ °ÍÀÌ´Ù.
+  BoasÀÇ À½¿îÀÌ·ÐÀ» º¸¸é ±×´Â ÀÎ·ùÇÐÀûÀÎ Ãø¸é¿¡¼­ ¾ð¾î¸¦ ¿¬±¸ÇÏ¿´±â ¶§¹®¿¡ ¹æ´ëÇÑ ÀÚ·ã¸¦ Á¤È®È÷ ±â·ÏÇÏ¿´À» »Ó ÀÌ·ÐÇü¼º¿¡ ÁýÁßÇÏÁö´Â ¸øÇÏ¿´°í ´ÜÁö ºñ°ø½ÄÀûÀÎ ÇüÅÂ·Î À½¼º±¸Á¶¿¡ °üÇÑ ±×ÀÇ »ý°¢À» ³ªÅ¸³» º¸ÀÌ°í ÀÖ¾ú´Ù.  ÀÌ¿Í °°Àº BoasÀÇ ÀÔÀåÀº ÈÄ¿¡ ¹Ì±¹À½¿î·ÐÀ» ÀÌ·ÐÈ­ÇÏ´Â µ¥ Ãâ¹ßÁ¡ÀÌ µÇ¾ú´Ù´Â Á¡¿¡¼­ Áß¿äÇÑ ÀÇÀÇ°¡ ÀÖ´Ù°í ÇÏ°Ú´Ù.
+
+1.3. ±¸Á¶ÁÖÀÇ À½¼Ò·Ð
+
+1.3.1. ±¸Á¶ÁÖÀÇ¾ð¾îÇÐÀÇ ÃÊ±â
+
+  ¹Ì±¹ÀÇ ¾ð¾îÇÐÀº Á¦ 1Â÷ ¼¼°è´ëÀü (1914-1918)±îÁö´Â À¯·´ÀÇ ¾ð¾îÇÐ°ú Å©°Ô ´Ù¸£Áö´Â ¾Ê¾Ò´Ù.  ±×·¯³ª ÀþÀºÀÌ ¹®¹ýÇÐÀÚµéÀÇ ¿µÇâÀ» ¹ÞÀº Boas°¡ ¾Æ¸Þ¸®Ä« ÀÎµð¾ð¤·¸¦ ±æÀÌ ÀÖ°Ô ¿¬±¸ÇÔÀ¸·Î½á, ±×¸®°í 1917³â¿¡ Ã¢°£µÈ International Journal of American lINGUISTICS¸¦ ÅëÇØ¼­ ¹Í±¸ ¾ð¾îÇÐÀÇ ¹ßÀü¿¡ ¡¡ ¿µÇâÀ» ÁÖ°Ô µÇ¾ú°í ÀÌ·Î ÀÎÇØ ¹Ì±¹ÀÇ ¾ð¾îÇÐÀº À¯·´ÀÇ ¾ð¾îÇÐ°ú »ó´çÇÑ °Å¸®¸¦ µÐÃ¤ ¹ß´ÞÇÏ°Ô µÇ¾ú´Ù.  1920³â ÀÌÈÄ ÀÌ¿Í °°Àº Æ¯ÀÌÇÑ ¹ß´Þ°æÇâÀÌ ¶Ñ·ÇÀÌ ³ªÅ¸³ª±â ½ÃÀÛÇÏ¿´´Ù. 
+  ¹®ÀÚ°¡ ¾ø¾î ¾Æ¹«·± ±â·Ïµµ ³²±æ ¼ö ¾ø¾ú´ø ¹ÌÁöÀÇ ¾ð¾îÀÎ ¾Æ¸Þ¸®Ä« ÀÎµð¾ð¾îµéÀ» Ã¶ÀúÇÏ°Ô ±â¼úÇÒ ÇÊ¿ä°¡ ÀÖ¾ú´Ù.  ±×·¡¼­ Åë½ÃÀûÀÎ ¿¬±¸º¸´Ùµµ °ø½ÃÀûÀÎ ¿¬±¸¿¡ ´õ °ü½ÉÀ» °¡Áö°Ô µÇ¾ú°í ÀÌ¿Í °°Àº °ø½ÃÀû ±â¼úÀº ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÇ ¹ß´Þ¿¡ Å« ¿øµ¿·ÂÀÌ µÇ¾ú´Ù.  ¶ÇÇÑ 1924³â¿¡ ¹Í±¸¾ð¾îÇÐÈ¸(The Linguistic Society of America)ÀÇ Ã¢¸³°ú ±× ´ÙÀ½ÇØ¿¡ Ã¢°£µÈ ÇÐÈ¸ÁöLanguage´Â ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÇ ¹æ¹ý·Ð ¹ßÀü¿¡ Áß¿äÇÑ °øÇåÀ» ÇÏ¿´´Ù.  ±×·¯³ª ¹«¾ùº¸´Ùµµ ¹Ì±¹ÀÇ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ ¹ßÀü¿¡ Á÷Á¢ÀûÀÎ ¿µÇâÀ» ÁØ ÀÎ¹°·Î Sapir¿Í Bloomfield¸¦ µéÁö ¾ÊÀ» ¼ö ¾ø´Ù.
+
+1. SapirÀÇ ¿¬±¸
+  ¹Ì±¹ÀÇ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÇ °³Ã´ÀÚ¿´´ø Edward Sapir(1884-1939)´Â À¯ÅÂ°è µ¶ÀÏÀÎÀ¸·Î ÅÂ¾î³ª 5¼¼ ¶§ ºÎ¸ð¸¦ µû¶ó ¹Ì±¹À¸·Î ÀÌÁÖÇØ °¬´Ù.  ±×´Â Columbia ´ëÇÐ¿¡¼­ ÇÐ»ç¿Í ¼®»çÇÐÀ§¸¦ ¹Þ¾Ò°í ±× °÷¿¡¼­ Boas¸¦ ¸¸³ª°Ô µÇ¾ú´Ù.   BoasÀÇ ¿µÇâÀ» ¹ÞÀº Sapir´Â ÀÏ¹Ý¾ð¾îÇÐ°ú ÀÎ·ùÇÐÀ¸·Î °ü½ÉÀ» µÑ¸®¸é¼­ ±×°¡ ÇØ¿Ô´ø °íÀü¾îÇÐ ¿¬±¸¸¦ ±×¸¸µÎ°Ô µÇ¾ú´Ù.  ±×¸®ÇÏ¿© BoasÀÇ Áöµµ ¾Æ·¡ ¾Æ¸Þ¸®Ä« ÀÎµð¾ðÁ¦¾î¸¦ ¿¬±¸ÇÏ¸é¼­ ÇöÀå¿¬±¸¿¡µµ ¸¹ÀÌ Âü¿©ÇÏ¿´À¸¸ç ¹Ì±¹ ºÏ¼­ºÎÁö¹æ¿¡¼­ ¾Æ¸Þ¸®Ä« ÀÎµð¾ðµéÀÌ »ç¿ëÇÏ´Â Takelma ¾î ¿¬±¸·Î 1909³â¿¡ ¹Ú»çÇÐÀ§¸¦ ¹Þ°Ô µÇ¾ú´Ù.  Sapir°¡ ÀÌÇØÇÏ°í ¿¬±¸ÇÑ ¾ð¾îÀÇ ¼ö´Â ³î¶ö ¸¸ÇÑ Á¤µµ·Î ¸¹¾Æ °íÀü¾î »Ó¸¸ ¾Æ´Ï¶ó Áß±¹¾î, Æ¼ºª¾î, ±×¸®°í ¾ÆÇÁ¸®Ä«¾î¿¡ ÀÌ¸£±â±îÁö ±× ¾ð¾î¿¡ ´ëÇÑ Æø³ÐÀº Áö½ÄÀ» ¹ÙÅÁÀ¸·Î ¸¹Àº ³í¹®À» ½è´Ù.  ±×·¯³ª ±×ÀÇ ÁÖµÈ ¿¬±¸´Â ¾Æ¸Þ¸®Ä« ÀÎµð¾ð¾îµé¿¡ °üÇÑ °ÍÀÌ¾ú´Ù.  ±×ÀÇ °ü½ÉºÎ¾ß´Â ¸Å¿ì ³Ð¾î ¾ð¾îÇÐ°ú ÀÎ·ùÇÐ ÀÌ¿Ü¿¡ ½Ã, À½¾Ç, ¹®¿¹Æò·Ð¿¡µµ ±×ÀÇ ¶Ù¾î³­ Àç´ÉÀ» º¸¿©ÁÖ¾ú´Ù.  ÀÌ¿Í °°Àº ±×ÀÇ Àç´ÉÀº ±×°¡ ¾´ Language(1921)ÀÌ´Ù.  ÀÌ Language´Â Á¦ 1Àå ¾ð¾îÀÇ Á¤ÀÇ¿¡¼­ºÎÅÍ Á¦11Àå ¾ð¾î¿Í ¹®È­±îÁö ÃÑ 11°³ÀÇÀåÀ¸·Î ±¸¼ºµÇ¾î ÀÖ´Ù.  Sapir´Â ÀÌ Ã¥ÀÇ ¼­¹®¿¡¼­ ÀÌ Ã¥Àº ¾ð¾î±â¼ú¿¡ °üÇÑ Àü¹®ÀûÀÎ ÀÔ¹®¼­±â ¾Æ´Ï¶ó ÀÏ¹Ý µ¶ÀÚµé°ú ÇÔ²² ¾ð¾î¼ºÁú¿¡ °üÇÑ »õ·Î¿î ÅëÂû·ÂÀ» Ã£¾Æº¸·Á°í ÇÑ´Ù°í ¹àÈ÷¸é¼­ ¾ð¾î»ó¿ë¿¡ ÀÖ¾î¼­ ½É¸®ÀûÀÎ ¿ëÀÎÀÇ Áß¿ä¼ºÀ» ¾ð±ÞÇÏ¿´´Ù.  ±×·¯³ª ½É¸®Àû °úÁ¤À» ÀüÅëÀûÀÎ °ßÇØ¿¡ µû¶ó ÀÌÇØÇÒ ¼ö ÀÖ´Â Á¤µµ·Î¸¸ ´Ù·ç¾ú°í ´õ ÀÌ»ó ±íÀÌ ÀÖ°Ô ´Ù·çÁö´Â ¾Ê¾Ò´Ù.  ¾ð¾î¿¡ °üÇÑ ÀüÅëÀû °ßÇØ¸¦ ¿ä¾àÇÏ¿© ³ªÅ¸³»´Â °Í°°ÀÌ º¸ÀÌ´Â ±×ÀÇ Á¤ÀÇ¿¡¼­µµ ÀüÅëÀûÀÎ °Í°ú ´Ù¸§À» ÁÖÀåÇÏ°í ÀÕµû.
+  Sapir´Â ÀÌ Language¿¡¼­ À½¼Ò¿¡ °üÇÑ °³³äÀ» ¸íÈ®È÷ ¹àÇô ÁÖ°í ÀÖÁö ¾Ê´Ù.  ±×°¡ À½¼Ò°³³äÀ» ¸íÈ®È÷ ¼³¸íÇÏ°í ÀÖ´Â ³í¹®Àº "Sound Patterns in Language"(1925)ÀÌ´Ù.  ÀÌ ³í¹®¿¡¼­ ±×´Â ¾ð¾î Àü¹Ý¿¡ °ÉÄ£ ÀÏ¹ÝÀûÀÎ ÀÌ·ÐÀ» ¿¹¸®ÇÑ ÅëÂû·ÂÀ¸·Î ÁøÁöÇÏ°Ô ±â¼úÇÏ°í ÀÖ´Ù.  ±×¸® ´Ù¹æ¸é¿¡ °ÉÄ£ ¾÷Àû °¡¿îµ¥ °¡Àå Å« °øÇåÀÌ¶ó°í ÇÑ´Ù¸é ¹Ù·Î ¾ð¾îÇÐ¿¡¼­ ÀÏ¹Ý¾ð¾îÀÌ·Ð¿¡ °üÇÑ ¿¬±¸¿´´Ù.  ±×´Â ¾ð¾î´Â ÀÎ°£Çàµ¿ Àü¹ÝÀ» Æ÷ÇÔÇÑ´Â ¹®È­À¸ÀÌ ÇÑ ¾ç»óÀÌ¶ó°í º¸¾ÒÀ¸¸ç ¾ð¾îÇÐÀÚ³ª ¿ÜºÎ±¸Á¶ÀÇ ±â¼úÀÇ ¼¼°è¸¦ ¹þ¾î³ª ±× ¹èÈÄ¿¡ ÀÖ´Â ½É¸®Àû, »çÈ¸Àû, ¹®È­ÀûÀÎ ¸é¿¡ °ü½ÉÀ» °¡Áö°í ±íÀÌ ¿¬±¸ÇØ¾ß µÉ ÇÊ¿ä¼ºÀ» °­Á¶ÇÏ¿´´Ù.
+  Sapir´Â ¾ð¾îÇü (linguistec pattern)ÀÌ¶ó´Â °³³äÀ» Ã³À½À¸·Î Á¦½ÃÇÏ¿´´Ù.  »ç¶÷Àº ÀÚ±â ¾ð¾îÁ¶Á÷ÀÇ ±âº»Àû ÇüÀ» ¸Ó¸®¼Ó¿¡ °¡Áö°í ÀÖ¾î¼­ ÀÌ ¾ð¾îÇü¿¡ µû¶ó¼­ ÇöÁ¸ÇÏ´Â ¾ð¾îÀÚ·ã¸£ »ç¿ëÇÏ¿© ÀÚ±â »ý°¢À» ³ªÅ¸³½´Ù´Â °ÍÀÌ´Ù.  ±×´Â ¾ð¾îÀÌ·ÐÀ» ÇÏ³ªÀÇ Á¶Á÷µÈ Ã¼°è·Î¼­ Àü°³½ÃÄ×À¸¸ç ¾ð¾î±¸Á¶ÀÇ À¯ÇüÀ» ÆÄ¾ÇÇÏ´Â µ¥¿¡ ÁøÁöÇÑ ³ë·ÂÀ» ±â¿ï¿´´Ù.  Sapir´Â À½¼Ò¸¦ Á¤ÀÇÇÏ´Â µ¥ ÀÕ¾î¼­ Áß¿äÇÑ ±âÁØÀÎ ºÐÆ÷±âÁØÀ» µµÀÔÇß´Âµ¥, ÀÌ ºÐÆ÷±âÁØÀÇ Àû¿ëÀº ¹Ì±¹ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÇ ¹æ¹ý·Ð¿¡ ±âÃÊ°¡ µÇ¾ú´Ù.
+
+2. BloomfieldÀÇ ¿¬±¸
+  ¹Ì±¹ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ ÃÊ±â¿¡ °¡Àå Áß¿äÇÑ ÀÎ¹°·Î Leonard Bloom-field(1887-1949)¸¦ ¼Õ²Å´Â´Ù.  ±×´Â Chicago¿¡¼­ ÅÂ¾î³ª ÁÖ·Î ±×°÷¿¡¼­ ÀÚ¶ú´Ù.  1903³â¿¡ Harvard´ëÇÐ¿¡¼­ ÇÐ»çÇÐÀ§¸¦ ¹Þ°í, Chicago´ëÇÐ¿¡¼­ 1909³â¿¡ "A Semasiological Differentiation in Germanic Secondary Ablaut"¶õ ³í¹®À¸·Î ¹Ú»çÇÐÀª¸£ ¹Þ¾Ò´Ù.
+  1933³â¿¡ ÃâÆÇµÈ Language´Â 12³â Àü¿¡ Sapir°¡ ³»³õÀº Language¿Í °°Àº Á¦¸ñÀ¸·Î µÇ¾î ÀÖÀ¸³ª ³»¿ëÀÌ³ª ¹®Ã¼°¡ ÀüÇô ´Ù¸£°í ¹Ì±¹¾ð¾îÇÐ¿¡ ³¢Ä£ ¿µÇâ¿¡µµ Å« Â÷ÀÌ°¡ ÀÖ¾ú´Ù.  ÃÑ 28°³ ÀåÀ¸·Î µÇ¾î ÀÖ´Â  ÀÌ Ã¥Àº ¾ÕºÎºÐ¿¡¼­ ÀÏ¹Ý¾ð¾îÇÐÀÇ ¹®Á¦¸¦ ´Ù·ç°í ÀÖ°í, À½¼Ò·Ð°ú ¹®¹ý, ¾îÈÖ¿¡ °üÇÑ °ÍÀ» Áß°£ºÎºÐ¿¡¼­, ±×¸®°í ³ª¸ÓÁö 10¿© °³ÀÇ Àå¿¡¼­´Â ¾ð¾îÁö¸®ÇÐ, ºñ±³¹æ¹ý·Ð, Â÷¿ë, ¾ð¾îº¯È­ µî ¿©·¯ °¡Áö ¹®Á¦¸¦ ´Ù·ç°í ÀÖ´Ù.
+  ÀÌ Language´Â Bloomfield°¡ 1914³â¿¡ ¾´ An itroduction to the Study of Language¸¦ ´ëÆøÀûÀ¸·Î ¼öÁ¤ÇÏ¿© ¾´ °ÍÀ¸·Î ¹Ì±¹ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÇ ¼º¼­¶ó°í ºÒ¸®¾îÁú ¸¸Å­ °¡Ä¡°¡ ÀÖ´Â °ÍÀÌ¾ú´Ù.
+  BloomfieldÀÇ ¾ð¾î¿¡ ´ëÇÑ »ý°¢Àº ÀþÀºÀÌ ¹®¹ýÇÐÀÚµéÀÇ ¿µÇâÀ» ¹Þ¾Æ À½¼º º¯È­ÀÇ ±ÔÄ¢¼ºÀ» ¹Ï°í ÀÖ¾ú´Ù.  ±×·¯³ª ±×´Â ¾î³Õº¯È­ÀÛ¿ëÀ¸·Î À½¼ºº¯È­¸¸À» ¸Í¸ñÀûÀ¸·Î ÀÎÁ¤ÇÑ °ÍÀº ¾Æ´Ï°í À¯Ãß¿Í Â÷¿ë¿¡ °ú³ªÇÑ °Íµµ ¼³¸íÇÏ¿´´Ù.  ¶ÇÇÑ ±×´Â Language¿¡¼­ °úÇÐÀûÀÌ¶ó´Â ¿ë¾î¸¦ °­Á¶ÇÏ¸é¼­ Á÷Á¢ÀûÀ¸·Î °üÂûÇÒ ¼ö ¾ø°Å³ª ÇüÀÌÇÏÇÐÀûÀ¸·Î ÃøÁ¤ÇÒ ¼ö ¾ø´Â ¸ðµç ÀÚ·á´Â ¾ð¾î ¿ÜÀû ¿ä¼Ò·Î ¾ð¾îÇÐ¿¡¼­ ¹èÁ¦½ÃÄ×´Ù.  ÀÌ°ÍÀº Çàµ¿ÁÖÀÇ ½É¸®ÇÐ¿¡ ÀÔ°¢ÇÑ ¾ð¾îÇÐ ¼³¸íÀÌ¾ú´ø °ÍÀÌ´Ù.  °üÂûÇÒ ¼ö ÀÖ´Â ¾ð¾îÇàµ¿ÀÇ ½É¸®ÇÐ¿¡ ÀÔ°¢ÇÑ ¾ð¾îÇÐÀû ¼³¸íÀÌ¾ú´ø °ÍÀÌ´Ù.  °üÂûÇÒ ¼ö ÀÖ´Â ¾ð¾îÇàµ¿ÀÇ ¾ç»ó¸¸À» ¾ð¾îÇÐ ¿¬±¸¿¡ Æ÷ÇÔ½ÃÅ² BloomgieldÀÇ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀº ¾ð¾îÀÇ À½¿î·ÐÀûÀÌ°í ÇüÅÂ·ÐÀû ¾ç»ó ÀÌ¿ÜÀÇ °Í, Áï ÀÇ¹ÌÀÇ ¹®Á¦¸¦ ¼ÒÈ¦È÷ ´Ù·ç¾ú´Ù.  ±×´Â ÀÇ¹Ì°¡ ¾ð¾îºÐ¼®ÀÇ ±âÁØÀÌ µÉ ¼ö ¾ø´Ù°í ¹Ï¾ú±â ¶§¹®¿¡ ÀÇ¹Ì¸¦ ¹èÁ¦ÇÏ·Á°í´Â ÇÏ¿´À¸³ª »ç½Ç ÀÇ¹Ì¸¦ ÀüÀûÀ¸·Î ¹èÃ´ÇÏÁö´Â ¾Ê¾Ò´Ù.  ÀÌ Á¡¿¡¼­´Â ÀÇ¹Ì¸¦ ÀüÀûÀ¸·Î ¹èÃ´ÇÑ ±×ÀÇ ÈÄ°èÀÚµé°ú´Â Á¶±Ý´Ù¸£´Ù.
+  Bloomfield´Â Language¿¡¼­ À½¼Ò´Â ¾î´À ÇüÀÌ °°°í ¾î´À ÇüÀÌ ´Ù¸¥°¡¸¦ ¼³Á¤ÇÏ±âÀ§ÇÏ¿©¼­´Â ºñ±³°úÁ¤(process fo comparison)À», ±×¸®°í ºÎºÐÀûÀ¸·Î À¯»çÇÑ ÇüÀ» ¹ß°ßÇÏ±â À§ÇÏ¿©¼­´Â ±³Ã¼°úÁ¤(process of alternation)À» ÅëÇØ °¡´ÉÇÏ´Ù°í »ý°¢ÇÏ¿´´Ù.  ±×¸®°í ±â°èÁÖÀÇÀû ¹æ¹ýÀº À½¼ÒÀÇ Á¤ÀÇ¸¦ ¼öÁ¤ÇÒ ¼ö ÀÖ°Ô ÇØÁØ´Ù.  ÀÌ·¯ÇÑ °üÁ¡¿¡¼­ º¸¸é À½¼Ò´Â ÀÇ¹Ì»óÀÇ °³³äÀ¸·Î´Â »ý°¢ÇÒ ¼ö ¾ø´Ù´Â °ÍÀÌ´Ù.  À½¼Ò´Â µµ±¸¿¡ ÀÇÇØ Á÷Á¢ °üÂûÇÒ ¼öµµ ÃøÁ¤ÇÒ ¼öµµ ¾ø±â ¶§¹®¿¡ ¹°¸®Àû À½ÇâÀûÀÎ »øÃ¼·Î Á¤ÀÇÇÒ ¼ö ¾ø´Ù.  ±×·¯¹Ç·Î ±×´Â À½¼Ò¸¦ ¾ð¾î±¸Á¶ÀÇ Æ¯¼ºÀ¸·Î Á¤ÀÇÇÏ·Á ÇÏ¿´´Ù.  Áï, ÇÑ ¾ð¾îÀÇ À½¼Ò´Â ±× ¾ð¾îÀÇ ¹ßÈ­°¡ °®´Â ¾ð¾îÆ¯¼ºµéÀ» ±â¼úÇÏ±â À§ÇÑ Ãß»óÀûÀÎ ´ÜÀ§ÀÇ ÁýÇÕÀÌ µÈ´Ù´Â °ÍÀÌ´Ù.
+  Bloomfield´Â ±×ÀÇ °ú¹¬ÇÏ°í »ç¶÷´ëÇÏ±â¸¦ Áñ°ÜÇÏÁö ¾Ê´Â ¼º°Ý ¶§¹®¿¡ Boas³ª SapirÃ³·³ ¸¹Àº Á¦ÀÚ¸¦ ±æ·¯ ³»¾î ¿µÇâÀ» ³¢Ä£ °ÍÀÌ ¾Æ´Ï¶ó ±×ÀÇ ³íÀú¸¦ ÅëÇØ¼­ ´õ ¸¹Àº ¿µÇâÀ» ³¢ÃÆ´Ù.  ±×´Â Sapr¿Í °°ÀÌ À¯·´ ¾ð¾îÇÐ ÀüÅë¿¡ ¾ô¸ÅÀÌÁö ¾Ê¾Ò´Ù´Â °øÅëÁ¡ÀÌ ÀÖÀ¸³ª ±× µÎ »ç¶÷ÀÇ ¿¬±¸ÅÂµµ´Â ¼­·Î ´Þ¶ú´Ù.  Sapir´Â ÀÎ·ùÇÐÀÚ¿´À¸¹Ç·Î ÀÎ·ùÇÐ°ú ¾ð¾îÇÐÀ» ¹ÐÁ¢ÇÏ°Ô ¿¬°ü½ÃÄÑ ¾Æ¸Þ¸®Ä« ÀÎµð¾ð Á¦¾î¸¦ ¹æ´ëÇÏ°Ô ¿¬±¸ÇÏ¸é¼­ ±â¼ú¾ð¾îÇÐÀÇ ¾ð¾îºÐ¼® ±â¼ú¹æ¹ýÀÌ³ª ÀýÂ÷¸¦ °³Ã´ÇÑ °ø·Î´Â Bloomfieldº¸´Ù ´õ ¶Ù¾î³µ´Ù°í ÇÒ ¼ö ÀÖ´Ù.  Sapir´Â ¾ð¾îÇÐÀÚÀÇ ŸU»ó¼º°ú Åä¹ÙÀÌÀÇ ¸ñ±¸¾î¿¡ ´ëÇÑ ¹ÝÀÀ°ú Á÷°üÀÇ ´ëÀÀÀ» °­Á¶ÇÏ¸é¼­ À½¼ÒÀÇ ½É¸®Àû °ßÇØ¸¦ ÁÖÀåÇÏ¿´´Ù.  ±×·¯³ª Bloomfield´Â ¾ö°ÝÇÑ °úÇÐÀûÀÎ ±â°èÁÖÀÇÀÚ·Î¼­ ¹æ¹ý·×°ú Çü½ÄÀû ºÐ¼®¿¡ °ü½ÉÀÌ ÀÖ¾ú´ø °ÍÀÌ´Ù.  Bloomfield´Â ±×ÀÇ ³íÀú¿¡¼­ ´Ù¸¥ ºÐ¾ß¿Ï´À µ¶¸³µÈ º°°³ÀÇ ¾ð¾îÇÐÀÓÀ» ²÷ÀÓ¾øÀÌ °­Á¶ÇÏ¿´´Ù.
+  Sapir¿Í  Bloomfield´Â µ¿½Ã´ë »ç¶÷µéÀÌ¾úÁö¸¸ Sapir´Â 1920³â´ë¿¡ ÀÎ·ùÇÐ ºÐ¾ß¿¡¼­´Â ´õ ¾Ë·ÁÁø »ç¶÷ÀÌ¾úÀ¸¸ç, 1920³â´ë¿Í 1930³â´ë´Â ÀÌ µÎ »ç¶÷µéÀÌ ÇÔ²² È°µ¿ÇÏ¸é¼­ ¿µÇâÀ» ÁØ ½Ã±â¶ó°í ÇÒ ¼ö ÀÖ´Ù.  ±×·¯³ª À½¿î·ÐÀÇ ¹ß´Þ¿¡ ÀÖ¾î¼­´Â Sapir°¡ 1930³â´ë¿¡ Trubetzoy¿Í ¼­·Î ±ä¹ÐÇÑ Á¢ÃËÀ» °¡Áö¸é¼­ ´õ °øÇåÀ» ÇÏ¿´´ø °ÍÀÌ´Ù.
+  BloomfieldÀÇ Language´Â ±× ÀÌÈÄÀÇ ÇÐÀÚµéÀÌ ±× ³»¿ëÀ» ´õ ÈÇ¸¢ÇÏ°Ô ¼öÁ¤ÇØ º¸·Á ÇÏ¿´À¸³ª ¼º°øÇÏÁö¸øÇÏ°í ¿©ÀüÈ÷ °¡Àå Å« ¿µÇâ·ÂÀ» Çà»çÇÏ´Â ¿øÃµÀ¸·Î ÀÛ¿ëÇÏ¿´´ø °ÍÀÌ´Ù.  BloomfieldÀÇ Á¦ÀÚµéÀº BloomfieldÀÇ ¿ø¸®¸¦ ¾ö°ÝÈ÷ ÁöÅ°¸é¼­ ±×µéÀÇ ¹æ¹ýÀ» ÇÑÃþ Á¤¹ÐÈ­ÇÏ¿´´Ù.  ¹Ì±¹¿¡¼­ÀÇ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÌ¶ó ÇÔÀº ´ëºÎºÐÀÇ °æ¿ì BloomfieldÀÇ Á¦ÀÚµéÀÌ ´Ùµë¾î ³õÀº post-Bloomfieldian¾ð¾îÇÐÀ» °¡¸®Å°°ÔµÈ´Ù.  ÀÌµéÀÌ ¾ð¾îºÐ¼®¿¡ Àû¿ëÇÑ ±âÁØÀº °´°üÀûÀÌ°í ±â°èÀûÀÌ¾î¾ß ÇÏ¹Ç·Î ÀÌ ±âÁØ¿¡ ÀûÇÕÇÑ ´ë»óÀº ¹°¸®ÀûÀÎ ¸»¼Ò¸®(speech sound)¶ó°í»ý°¢Çß±â ¶§¹®¿¡ ±×µéÀÇ ¿¬±¸´Â ÀüÀûÀ¸·Î ¹ßÈ­Ã¼¿¡¼­ Ãâ¹ßÇÏÁö ¾ÊÀ» ¼þ ¹þ¾ú´Ù.  ÀÌ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÇ ¸ñÀûÀº ¹ßÈ­Ã¼¸¦ ºÐÈ°ÇÏ°í, ±×¸®°í ºÐÈ°µÈ ¿ä¼ÒµéÀ» À¯»çÇÑ °Í³¢¸® ÇÑµ¥ ¹­´Â ÀýÂ÷¸¦ Á¦°øÇØ ÁÖ´Â °ÍÀÌ´Ù.  ÀÌ·¯ÇÑ ºÐÇÒ°ú ºÐ·ù¸¦ Æ¯Â¡À¸·Î ÇÏ´Â À½¿î·ÐÀû Á¢±Ù¹æ¹ýÀ» °­Á¶ÇÏ¿© ¹Ì±¹ ±¸Á¶ÁÖÀÇ À½¼Ò·ÐÀ» ºÐ·ùÇÐÀû À½¼Ò·Ð(texonomic phonemics)ÀÌ¶ó ºÎ¸£±âµµ ÇÏ¿´´Ù.  ÀÌ ºÐÇÒ°ú ºÐ·ùÀÇ µÎ ÀÚ°Ï¤²Àº ¾ð¾î´ÜÀ§ÀÇ ºÐÆ÷ÀÇ ±âÁØ À§¿¡¼­ ÀÌ·ç¾îÁ³À¸¸ç ºÐÆ÷´Â ´ëÄ¡¹æ¹ý(substitution procedures)¿¡ ÀÇÇØ¼­ °ËÁõµÇ¾ú´Ù.
+
+1.3.2. À½ ¼Ò ·Ð
+
+  ¹Ì±¹ÀÇ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ¿¡¼­ °¡Àå Å« ¹ßÀüÀ» ÇÑ ºÐ¾ß´Â À½¼Ò·Ð(phonemics)ÀÌ¾ú´Ù.  ÀÌ À½¼Ò·Ð ¹ßÀü¿¡ °øÇåÇÑ »ç¶÷µéÀÇ ¼ö³ª ´Ù¾ç¼ºÀ» °í·ÁÇÒ ¶§ ´ÜÀÏÇÑ ÀÌ·ÐÀ» Á¦½ÃÇÏ±â´Â ¾î·ÆÁö¸¸ ´Ù¸¸ ´Ù¾çÇÑ °ßÇØ °¡¿îµ¥¼­µµ ±Ùº»ÀûÀÎ ¹®Á¦¿¡ ´ëÇØ °¡Áö´Â ¿©·¯ ÇÐÀÚµéÀÇ °ßÇØ¸¦ º¸¸é ºñ±³Àû ¹üÀ§°¡ Á¼ÇôÁø ÃÊÁ¡À» Ã£¾Æº¼ ¼ö°¡ ÀÖ´Ù.  ±×·¯¹Ç·Î ¿©±â¿¡¼­´Â ±¸Á¶ÁÖÀÇ À½¼Ò·ÐÀÇ ÁÖ¿ä»çÇ×µéÀ» Áß½ÉÀ¸·Î ÀÌ°Í¸¸À» °£·«È÷ Á¦½ÃÇÏ¸é¼­ »ìÆìº¸·Á ÇÑ´Ù.
+  
+1. À½¼Ò(phoneme)
+  À½¼ÒÀÇ °³³äÀº »ý¼ºÀ½¿î·Ð ÀÌÀü±îÁö´Â ¸Å¿ì Áß¿äÇÑ °³³äÀÌ¾úÀ¸¹Ç·Î `À½¼Ò`¶ó´Â ¼ú¾î¸¦ µÑ·¯½Î°í Àü°³µÈ ³íÀÇ°¡ ¹Ù·Î À½¿î·ÐÀÇ ¿ª»ç¶ó°í ÇÒ ¼ö ÀÖÀ» Á¤µµÀÌ´Ù.  ÇÐÆÄ¿¡ µû¶ó Á¶±Ý¾¿ ´Ù¸£°Ô »ç¿ëµÇ°í ÀÖÀ¸¸ç, ¹Ì±¹¿¡¼­µµ À½¼Ò¿¡ °üÇÑ ³íÀÇ°¡ ÁÖ¿ä³íÁ¦°¡ µÇ¾î ¿Ô°í, À½¼Ò¸¦ Á¤ÀÇÇÏ´Â µ¥ ÇÐÀÚµéÀÇ °ßÇØ°¡ ÀÏÄ¡ÁFÁö ¾Ê¾Ò´ø °ÍÀÌ´Ù.  À½¼Ò¿¡ °üÇÑ ¸î °¡Áö°ßÇØµéÀ» »ìÆìº¸¸é ´ÙÀ½°ú °°´Ù.  
+  Ã¹Â°´Â ½É¸®Àû °ßÇØÀÌ´Ù.  À½¼Ò¸¦ ½É¸®ÀûÀÎ °üÁ¡¿¡¼­ ÆÄ¾ÇÇÏ·Á´Â ÅÂµµ´Â Sapir(1925,1933)¿¡¼­ Àß ³ªÅ¸³ª°í ÀÖ´Ù.Sapir´Â ÇöÀåÀÛ¾÷¿¡¼­ ¾òÀº °æÇèÀ» Åä´ë·Î ¹ßÈ­¸¦ Á¤È­°²°Ô ±â·ÏÇÑ´Ù´Â °ÍÀº ³¡µµ ¾ø´Â ÀÏÀÌ¸ç ¼³·É ¾ÆÁÖ Á¤È®ÇÏ°Ô ±â·ÏÇÑ´Ù°í ÇÏ´õ¶óµµ ÀÌ°ÍÀº ¾ð¾îÇÐÀûÀ¸·Î Áß¿äÇÏÁö ¾Ê´Ù°í »ý°¢ÇÏ¿´´Ù.  Áß¿äÇÑ °ÍÀº ¾î¶² À½Àº ±×°ÍÀÌ ¼ÓÇÏ´Â ÀüÃ¼ Ã¼°è ¼Ó¿¡¼­ ´Ù¸¥ À½°úÀÇ °ü°è°¡ ÀÇÇØ¼­ ÆÄ¾ÇµÇ¾î¾ß ÇÑ´Ù´Â °ÍÀÌ´Ù.  Áï, ¾î¶² À½À» À½¼Ò·Î ÆÄ¾ÇÇÏ´Â µ¥ Áß¿äÇÑ °ÍÀº ±× À½ÀÇ ¹°¸®Àû Çö»óÀÌ ¾Æ´Ï¶ó ±× À½À» »ç¿ëÇÏ´Â »ç¶÷ÀÌ ´Ù¸¥ À½°ú °®´Â ½É¸®Àû °Å¸®¿¡ ÀÇÇØ¼­ ÆÄ¾ÇµÇ¾î¾ß ÇÑ´Ù°í ÇÏ´Â ½É¸®Àû ÅÂµµ¶ó°í »ý°¢ÇÏ¿´´Ù.  ±×´Â ¿ì¸®°¡ ½ÇÁ¦·Î ¸»ÇÏ°í µè°í ÀÖ´Ù°í »ý°¢ÇÏ´Â °ÍÀº ±¸Ã¼ÀûÀÎ ÀÌÀ½ÀÌ ¾Æ´Ï¶ó Ãß»óÀûÀÎ À½¼Ò¶ó°í ÁÖÀåÇÏ¸é¼­ ÀÌ ÁÖÀåÀ» µÞ¹ÞÄ§ÇÏ´Â °ÍÀ¸·Î Southern Pairt¾î ¸¦ ¸ð±¹¾î·Î ¾²´Â Tony¶ó´Â SapirÀÇ Åë¿ªÀ» ¸ÃÀº ¼Ò³âÀÇ ¿¹¸¦ µé¾ú´Ù.  Sapir°¡ ±×¿¡°Ô     `at the water`¸¦ ±â·ÏÇÏµµ·Ï ÇÏ¿´À¸³ª, ±×´Â  ´ë½Å¿¡ [pah]·Î ±â·ÏÇß´Ù´Â °ÍÀÌ´Ù.  ÀÌ°ÍÀº Tony°¡ `at`ÀÇ ¶æÀ» °¡Áö°í ÀÖ´Â ³¹¸»À» ½ÇÁ¦·Î µéÀº °ÍÀ» ±â·ÏÇÑ °ÍÀÌ ¾Æ´Ï¶ó ¸Ó¸®¼Ó¿¡ ÀÖ´Â ¸ðÀ½ »çÀÌ¿¡¼­ ¹Ù²î±â ÀüÀÇ  [p]¸¦ ±â·ÏÇß´Ù´Â °ÍÀÌ´Ù.
+  ÀÌ¿Í °°Àº ½É¸®Àû °ßÇØ´Â SapirÀÇ ÀüÅëÀ» ÀÌ¾î¹ÞÀº ÇÐÀÚµéÀÌ °¡Áø °ßÇØÀÌ¸ç ÀÌ°ÍÀº À½¼ÒÀÇ Áß¿äÇÑ ¸éÀ» ÁöÀûÇÑ °ÍÀÌ¶ó°í »ý°¢µÇÁö¸¸, ÀÌ¿Í °°Àº ½É¸®Àû Çö»óÀ¸·Î¸¸ À½¼Ò¸¦ º¸´Â °ßÇØ¿¡´Â °áÁ¡ÀÌ ÀÖ´Ù°í ÁÖÀåÇÏ´Â ÇÐÀÚµéµµ ÀÖ¾ú´Ù. ½É¸®Àû Çö»óÀº °´°üÀûÀ¸·Î °üÂûÇÒ ¼ö ¾ø±â ¶§¹®¿¡ ÁÖ°üÀûÀÎ ¾ð¾î¿¬±¸¹æ¹ý¿¡ ÀÇÁ¸ÇÒ ¼ö¹Û¿¡ ¾ø¾î ÁÖ°üÀû ÆÇ´Ü¿¡ µû¶ó ´Þ¶óÁú °¡´É¼ºÀÌ ¸Å¿ì ¸¹´Ù´Â °ÍÀÌ´Ù.
+  µÑÂ°´Â ¹°¸®Àû °ßÇØÀÌ´Ù.  ÀÌ´Â ½É¸®Àû °ßÇØ¿¡ ¹Ý´ëÇÏ¿© À½¼Ò¸¦ ¹°¸®Àû ½ÇÁ¦·Î ÆÄ¾Ç°¡ÇÏ·Á´Â ÅÂµµÀÌ´Ù. Bloomfield´Â Language(1933)¿¡¼­ À½¼Ò¸¦ ¾ð¾î¸¦ »ç¿ëÇÏ´Â »ç¶÷ÀÇ ½É¸®¿Í´Â º°µµ·Î Çö½ÇÀÇ À½ÆÄ ¼Ó¿¡¼­ °´°üÀûÀ¸·Î ¹°¸®ÀûÀ¸·Î È®ÀÎÇÏ·Á Çß´ø °ÍÀÌ´Ù.  ±×¿¡°Ô´Â À½¼Ò´Â ¹°¸®ÀûÀÎ ½ÇÀçÀÌ¸ç ±×°ÍÀº ¹ßÈ­µÈ À½ÆÄ ¼Ó¿¡¼­ ÀÏÁ¤ºÒº¯ÇÏ°Ô Á¸ÀçÇÏ´Â À½¼ºÀû ½ÇÀçÀÎ °ÍÀÌ¾ú´Ù.  ÀÌ¿Í °°Àº ÅÂµµ´Â ½É¸®ÁÖÀÇ¸¦ ¹èÃ´ÇÏ°í Áï¹°ÁÖÀÇ(physicalism)¸¦ Ç¥¹æÇÑ ±×¿¡°Ô´Â ºÐ¸íÇÑ °ÍÀÌ ¾ú´Ù.  BloomfieldÀÇ ÈÄ°èÀÚµéÀº À½¼Ò¿¡ ´ëÇÑ ½É¸®Àû °ßÇØ¿¡ ´õ °­ÇÑ °ø°ÝÀ» ÇÑ °ÍÀ» º¼ ¼ö ÀÖ´Ù.  ÀÌ °ßÇØ¿¡¼­´Â À½¼Ò¸¦ Á¤ÀÇÇÔ¿¡ ÀÖ¾î À½¼ºÀÇ ¹èÅ¸Àû À§Ä¡¿¡¼­ À½¼ºÀû À¯»ç¼º¿¡ ÀÇÇØ¼­ ¼­·Î °ü°è¸¦ ¸Î°í ÀÖ´Â À½¼ºµéÀÇ °¡Á·À¸·Î º¸°í Á¤ÀÇÇÏ°í ÀÖ´Ù.  ±×·¯³ª ¼­·Î À¯»çÇÏ´Ù´Â ±âÁØÀÌ ¸Å¿ì ¸·¿¬ÇÏ´Ù.  ±× ¾ð¾î¸¦ »ç¿ëÇÏ´Â »ç¶÷µéÀÌ ¹Ù·Î ±¸º°ÇØ µèÁö ¸øÇÒ Á¤µµ·Î À¯»çÇÏ´Ù°í ¼³¸íÇÒ ¼ö¹Û¿¡ ¾ø±â ¶§¹®¿¡ ´Ù½Ã ½É¸®Àû Çö»óÀÇ °³ÀÔÀ» º¼ ¼ö ÀÖ´Ù.  ÀÌ·¯ ¤¤¾àÁ¡¿¡µµ ºÒ±¸ÇÏ°í ÀÌ °ßÇØ´Â ¿Ü±¹¾îÀÇ À½¼Ò¿¬±¸¿¡ ³Î¸® Àû¿ëµÉ ¼ö ÀÖ±â ¶§¹®¿¡ ±â¼ú¾ð¾îÇÐ¿¡¼­´Â ÀÌ °ßÇØ¿¡ ¹ÙÅÁÀ» µÎ°í À½¼Ò¸¦ °¡·Á³»·Á°í ÇÏ¿´´Ù.  ÀÌ¿Í °°ÀÌ ¹Ì±¹ÀÇ ±¸Á¶ÁÖÀÇ À½¼Ò·ÐÀÚµé °¡¿îµ¥ ÁÖ·ù¿¡ ÀÕ´Â ´ëºÎºÐÀÇ ÇÐÀÚµé¿¡°Ô´Â À½¼Ò¸¦ ¹°¸®Àû ½ÇÀç·Î º¸·Á´Â °ßÇØ¸¦ Áß½ÉÀ¸·Î ÀÏÄ¡µÈ ÀÇ°ßÀÌ ºü¸£°Ô Çü¼ºµÇ¾ú´Ù.
+  ±×¸®°í À½¼Ò¸¦ ½É¸®ÀûÀ¸·Î³ª ¹°¸®ÀûÀÎ ¸éÀ¸·Î´Â ¸¸Á·½º·´°Ô Á¤ÀÇÇÒ ¼ö ¾ø°í ´Ù¸¸ ÇÑ ¾ð¾îÀÇ À½À±Ã¼°è ¾È¿¡¼­ ±â´ÉÀÌ¶ó´Â ¸éÀ» °í·ÁÇÏ¿©¼­¸¸ ¸¸Á·½º·´°Ô Á¤ÀÇÇÒ ¼ö ÀÖ´Ù°í ÁÖÀåÇÏ´Â ±â´ÉÀû °ßÇØ°¡ ÀÖÀ¸³ª, ÀÌ °ßÇØ¸¦ ÁÖÀåÇÏ´Â ¹Ì±¹ÀÇ ±¸Á¶ÁÖÀÇ·ÐÀÚµéÀº °ÅÀÇ ¾ø¾ú°í Trubetzkoy¸¦ Áß½ÉÀ¸·Î ÇÏ´Â  PragueÇÐÆÄ¿¡¼­´Â ±â´ÉÀû °ßÇØ¸¦ ÁÖÀåÇÏ¸é¼­ À½¼Ò¸¦ ÇÏ³ªÀÇ ½ÇÀç¶ó±âº¸´Ù´Â ÇÑ À½¿îÃ¼°è ¾È¿¡¼­ ´ë¸³ÀÇ ±â´ÉÀ¸·Î ÆÄ¾ÇµÇ´Â Ãß»óÀûÀÎ Á¸Àç·Î º»´Ù.  Martinet(1947)¿¡¼­µµ À½¿îºÐ¼®ÀÇ ±âÁØÀ¸·Î ±â´ÉÀÇ °³³äÀ» µµÀÔÇÑ °ÍÀ» º¼ ¼ö ÀÖ´Ù.
+  ÀÌ»ó°ú °°Àº À½¼Ò¿¡ ´ëÇÑ ½É¸®Àû.¹°¸®Àû °ßÇØ¿¡¼­ÀÇ °øÅëµÈ Á¤ÀÇ¸¦ º¸¸é ÀÌÀ½(allophone)ÀÌ¶ó°í ºÎ¸£´Â À½¼ºÀûÀ¸·Î À¯»çÇÏ°í »óº¸Àû ºÐÆ÷°ü°è¿¡ ÀÖ´Â ½ÇÁ¦À½µéÀ» ³ªÅ¸³»´Â Ãß»óÀûÀÎ ´ÜÀ§¸¦ À½¼Ò¶ó°í Á¤ÀÇÇÏ°í ÀÌ À½¼Ò´Â ´õ ÀÌ»ó ³ª´­ ¼ö ¾ø´Â ÃÖ¼ÒÀÇ ´ÜÀ§·Î º¸°í ÀÖ´Ù.  ±×·¯³ª ÀÌ Á¤ÀÇ´Â ÇØ°áÇÏ±â ¾î·Á¿î ¹®Á¦¸¦ °¡Áö°í ÀÖ´Ù.  ÀÌ ¹®Á¦¸¦ ÇØ°áÇÏ±â À§ÇÑ ´Ù¸¥ ÅÂµµÀÇ ¹æ¹ý·ÐÀÌ ÇÊ¿äÇÏ°Ô µÇ¾ú´Ù.  ÀÌ°ÍÀº À½¼Ò¸¦ ¿ÜÀûÀ¸·Î¸¸ º¸´Â °ÍÀÌ ¾Æ´Ï¶ó ³»Àû Æ¯¼ºÀÎ º¯º°Àû ÀÚÁúÀÇ ÀÔÇÕÀ¸·Î º¸´Â °ßÇØÀÌ´Ù.  ÀÌ°Í¿¡ °üÇØ¼­´Â ³ªÁß¿¡ ´Ù·ç±â·Î ÇÑ´Ù.
+  ¹Ì±¹ ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­ ±Ùº»ÀûÀÎ Ã¹ ÀÓ¹«´Â À½¼Ò°¡ ¹«¾ùÀÎ°¡¸¦ ÀûÀýÈ÷ Á¤ÀÇÇÏ´Â °ÍÀÌ¾ú´Ù.  ±×·¡¼­ ¹Ì±¹¾ð¾îÇÐÈ¸ ÇÐÈ¸ÁöÀÎ Language¿¡ À½¼Ò¼º°Ý±Ô¸í¿¡ °üÇÑ ³íÀÇ°¡ ÁÖ¿ä³íÁ¦°¡ µÇ¾ú´Ù.  À½¼Ò¿¡ °üÇÑ ³íÀÇÀÇ Ãâ¹ßÁ¡Àº BloomfieldÀÇ Á¤ÀÇ ¿¡¼­ºÎÅÍ ½ÃÀÛÇÏ¿´Áö¸¸ À½¼Ò¿¡ °üÇØ¼­ ³í¹®À» ¾²´Â »ç¶÷µéÀº ¾Æ¹«µµ ±×ÀÇ À½¼Ò¼º°ÝÀÇ °³³äÀ» ¹Þ¾ÆµéÀÌÁö ¾Ê¾Ò´Ù.  1940³â´ë ÈÄ¹Ý¿¡ ¿Í¼­ À½¼Ò¿¡ °üÇÑ ÀÏÄ¡µÈ °ßÇØ¸¦ °¡Áú ¼ö ÀÖ°Ô µÇ¾ú´Ù.  ±×·¯³ª ±×¶§¿¡ ´õ Áß¿äÇÑ °ü½É»ç´Â À½¼Ò¶õ ¹«¾ùÀÎ°¡¿¡¼­ À½¼Ò¸¦ ¹ß°ßÇÏ´Â À½¼Ò¹ß°ßÀýÂ÷ÀÇ ¹æ¹ý·ÐÀ» ¸¶·ÃÇÏ´Â °ÍÀ¸·Î ¹Ù²î°Ô µÇ¾ú´Ù.
+  ±×¸®ÇÏ¿© ÇÑ ¾ð¾î¿¡¼­ Ãß»óÀûÀÎ ´ÜÀ§ÀÎ À½¼Ò¸¦ Ã£¾Æ³»´Â ¹æ¹ýÀ» Á¦½ÃÇÏ¿©¾ß Çß´Ù.  SapirÀÇ Á¦ÀÚÀÎ Swadesh´Â À½¼Ò¸¦ Ã£¾Æ³»´Â 6°¡Áö ±âÁØÀ» Á¦½ÃÇÏ¿´À¸³ª, ±× ÈÄ¿¡ ÇÐÀÚµéÀº ÀÌ °¡¿îµ¥ ¾Ö¸ÅÇÑ ±âÁØµéÀ» ´õ ¸íÈ®ÇÏ°Ô °¡´Ùµë¾î Á¦½ÃÇÏ°Ô µÇ¾ú´Ù.  ±×µéÀº ÃÖ¼Ò´ë¸³ÀÇ ½Ö(minimal pair)ÀÇ °³³äÀ» Á¦½ÃÇÏ°Ô µÇ¾ú´Ù. ÀÌ°ÍÀº ¹ß°ßÇÏ±â À§ÇÑ °¡Àå ¼Õ½±°í È®½ÇÇÑ ¹æ¹ýÀÌ¶ó´Â °ÍÀÌ´Ù.  ÃÖ¼Ò´ë¸³ÀÇ ½ÖÀº °°Àº ¼öÀÇ ºÐÀýÀ½À¸·Î µÇ¾î ÀÖ°í, °°Àº À§Ä¡¿¡ ÀÖ´Â À½¸¸ÀÌ ´Þ¶ó ÀÇ¹ÌÀÇ Â÷ÀÌ¸¦ º¸¿©ÁÖ´Â µÎ ³¹¸»Àº ÃÖ¼Ò´ë¸³ÀÇ ½ÖÀ» ÀÌ·é´Ù´Â °ÍÀÌ´Ù.  ÀÌ¶§ À½ÀÇ Â÷ÀÌ´Â µÎ°¡Áö º°°³ÀÇ À½¼Ò°¡ ÀÖÀ½À» º¸¿©ÁÖ°í ÀÖ´Ù.  ¿¹¸¦ µé¸é ¿µ¾î¿¡¼­ pin°ú binÀÌ¶ó´Â µÎ ³¹¸»Àº ¾îµÎÀÇÄ¡¿¡¼­[p]¿Í [b]ÀÇ Â÷ÀÌ·Î µÎ ³¹¸»ÀÇ ÀÊ°¡ ´Ù¸£±â ¶§¹®¿¡ º°°³ÀÇ À½¼Ò /p/¿Í /b/°¡ ¼º¸³µÈ´Ù´Â °ÍÀÌ´Ù.
+  ÃÖ¼Ò´ë¸³ÀÇ ½ÖÀÇ °³³ä°ú ÇÔ²² Á¦½ÃÇÑ °ÍÀº »óº¸Àû ºÐÇ¥(complementarydistribution)ÀÇ °³³äÀÌ¾ú´Ù.  ¸ðµç À½¼Ò´Â Àû¾îµµ ÇÑ °³ ÀÌ»óÀÇ ÀÌÀ½À» °¡Áö°í ÀÖ´Âµ¥, ÇÑ À½¼ÒÀÇ ÀÌÀ½µéÀº ±×µéÀÌ ³ªÅ¸³¯ ¼ö ÀÖ´Â °íÀ¯ÇÑ È¯°æÀ» °®°í ÀÖ¾î ÀÌµéÀÌ ³ªÅ¸³ª´Â ÀÚ¸®¸¦ ¼­·Î ¹Ù²Ü¼ö ¾øÀÌ ºÐÆ÷µÇ¾î ÀÖ´Ù´Â °ÍÀÌ´Ù.  ÀÌ°ÍÀº »óº¸Àû ºÐÆ÷¶ó°í ÇÑ´Ù.  ¿¹¸¦ µé¸é ¿µ¾î¿¡¼­ À½¼Ò/p/ÀÇ ÀÌÀ½ [p],[p],[p]µéÀº »óº¸Àû ºÐÆ÷°ü°è¿¡ ÀÖ´Ù.  pat¿¡¼­¿Í °°ÀÌ °­¼¼¸¦ °¡Áø À½ÀýÀÇ Ã¹ÀÚ¸®¿¡¼­´Â [p], spin¿¡¼­¿Í °°ÀÌ[s]´ÙÀ½¿¡´Â [p], ±×¸®°í hip¿Í °°ÀÌ ³¹¸»ÀÇ ¸¶Áö¸· À§Ä¡¿¡¼­´Â[-p]°¡ ³ªÅ¸³ª´Âµ¥ ÀÌµéÀÌ ³ªÅ¸³ª´Â À§Ä¡´Â ¼­·Î ¹èÅ¸ÀûÀÌ´Ù.  ¹Ù²Ù¾î ¸»ÇÏ¸é »óº¸Àû ºÐÆ÷°ü°è¿¡ ÀÖ´Â À½µéÀº ÇÑ À½¼ÒÀÇ ±¸¼º¿øÀÌ µÉ ¼ö ÀÖ´Â ÀÚ°ÝÀ» °®Ãß¾ú´Ù°í º¸´Â °ÍÀÌ´Ù.
+  ±×·¯³ª ¿µ¾î¿¡¼­[h]¿Í[]À» º¸¸é [h]´Â À½Àý ÃÊ¿¡¼­¸¸ ³ªÅ¸³ª°í []Àº À½Àý ¸»¿¡¼­¸¸ ³ªÅ¸³­´Ù.  ±×·¯¹Ç·Î ÀÌ µÑÀº »óº¸Àû ºÐÆ÷°ü°è¿¡ ÀÖ´Ù°í ÇÒ ¼ö ÀÖÀ¸¹Ç·Î ÇÑ À½¼ÒÀÇ ÀÌÀ½ÀÌ µÇ¾î¾ß ÇÒ °ÍÀÌ´Ù.  ±×·¯³ª ´Ù¸¥ ÀÌÀ½°ü°è¿¡ ÀÖ´Â À½µé »çÀÌ¿¡ ³ªÅ¸´Â À½¼º°ú À¯»ç¼ºÀ» ÀÌ [h]¿Í[]»çÀÌ¿¡´Â Ã£¾Æº¼ ¼ö ¾ø´Ù.  ±×¸®ÇÏ¿© »óº¸Àû ºÐÆ÷°ü°è·Î¸¸Àº À½¼Ò¸¦ Ã£´Âµ¥ ¹®Á¦°¡ »ý±â°Ô µÇ¾î À½¼ºÀû À¯»ç¼º(phonetic similarity)ÀÇ ±âÁØÀ» ÇÔ²² Á¦½ÃÇÏ°Ô µÇ¾ú´Ù.
+  
+2. À½¿îºÐ¼®
+  ´ëºÎºÐÀÇ ±¸Á¶ÁÖÀÇ À½¼Ò·ÐÀÚµéÀº À½¼Ò°¡ À½¼ºÀû ½ÇÀç¸¦ ³ªÅ¸³»´Â°¡ ¾Æ´Ï¸é ½É¸®Àû ½ÇÀç¸¦ ³ªÅ¸³»´Â°¡¿Í °°Àº À½¼ÒÀÇ ¼º°Ý±Ô¸í¿¡ °ü½ÉÀ» ½ñ¾Æ ¿ÔÀ¸³ª Á¡Á¡ ±× ¹®Á¦¿¡¼­ Çì¾î³ª¿Í ÁÖ¾îÁø À½ÀÌ ¾î´À À½¼Ò¿¡ ¼ÓÇÏ´À³Ä¿¡ ´ëÇØ °ü½ÉÀ» °®°Ô µÇ¾ú´Ù.  ´õ±¸³ª ±× ´ç½ÃÀÇ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ ¿¬±¸¿¡¼­ ´«¿¡ ¶ç´Â °­Á¶Á¡ °¡¿îµ¥ ÇÏ³ª´Â °úÇÐÀûÀÌ¾î¾ß µÈ´Ù´Â °ÍÀÌ´Ù.  ±× ´ç½Ã À¯ÇàÇÏ´ø ½ÇÁßÁÖÀÇ Ã¶ÇÐÀÇ ¿µÇâÀ» ¹Þ¾Æ ¾ð¾î±â¼ú¿¡¼­´Â °üÂû ÇÒ ¼ö ¾ø´Â Á¤½ÅÀÌ³ª Á÷°üÀ» ¹èÁ¦ÇÏ¿´À¸¸ç ¾ð¾îºÐ¼®¿¡¼­ °°Àº ÀÚ·á°¡ ÁÖ¾îÁö¸é ºÐ¼®°á°ü´À Ç×»ó °°Àº °á°ú°¡ ³ª¿Í¾ß ÇÑ´Ù´Â °ÍÀÌ´Ù.  ÀÌ°ÍÀÇ ¿µÇâ°ú ´õºÒ¾î À½¿îºÐ¼®¿¡¼­ ÁÖ¾îÁø ÇÑ À½Àº Ç×»ó ÁÖ¾îÁø ÇÑÀ½¼Ò¿¡ ¼ÓÇØ¾ß ÇÏ¸ç, ±×¸®°í ÁÖ¾îÁø ÇÑ À½¼Ò´Â Ç×»ó ÁÖ¾îÁø ÇÑ À½°ú ¿¬°áµÇ¾î¾ß µÈ´Ù´Â À½°ú À½¼ÒÀÇ  ÀÏ ´ë ÀÏÀÇ ´óÀ¸°ü°è¸¦ ÁöÄÑ¾ß¸¸ ÇÏ¿´´Ù.  Chomsky´Â ÀÌ°Í¿¡ ´ëÇØ ½Ö¹æÇâ ´ÜÀÏ¼º(biuniqueness)ÀÌ¶ó°í ÀÌ¸§À» ºÙ¿´´Ù.  ¹Ì±¹ ±¸Á¶ÁÖÀÇ À½¼Ò·ÐÀÚµéÀÇ ³íÀÇÀÇ ´ëºÎºÐÀ» Â÷ÁöÇÏ¿´´ø À½¼ÒÇ¥½Ã¿Í À½¼ºÇ¥½Ã »çÀÌÀÇ °ü°è¿¡¼­µµ ÀÌ ½Ö¹æÇâ ´ÜÀÏ¼º Á¶°ÇÀÌ ÁöÄÑÁ®¾ß¸¸ Çß´ø °ÍÀÌ´Ù.
+  ±×·¯³ª Chao(1934)´Â °°Àº À½¼ºÀû ÀÚ·á¸¦ °¡Áö°íµµ ¿©·¯ À½¼ÒºÐ¼®¹æ¹ýÀÌ Á¸ÀçÇÒ ¼ö ÀÖÀ½À» º¸¤Á¿´°í ÀÌ ¹®Á¦°¡ Áß¿äÇÏ°Ô ´Ù·ç¾îÁö¸é¼­ °ü½ÉÀ» ²ø°Ô µÈ°ÍÀº BlochÀÇ "Phonemic Overlapping"(1941)¿¡¼­¿´´Ù.  ÀÌ ³í¹®¿¡¼­´Â ÇÑ À½¿¡ ´ëÀÀÇÏ´Â À½¼Ò´Â ±× À½ÀÇ À½¼ºÀû Æ¯¼º¿¡ ÀÇÇØ¼­¸¸ °áÁ¤µÇÁö ¾ÊÀ» ¼öµµ ÀÖÀ¸¹Ç·Î µ¿ÀÏÇÑ À½ÀÌµÎ°³ÀÇ ´Ù¸¥ À½¼ÒÀÇ º¯ÀÌÇüÀÌ µÉ ¼öµµ ÀÖ´Ù´Â °ÍÀÌ´Ù.  ±×·¯³ª ±× À½¼ÒÀÇ À½¼ºÀû È¯°æÀÌ ÁÖ¾îÁö¸é ´ÜÀÏÇÑ À½¼Ò°¡ °áÁ¤µÈ´Ù´Â °ÍÀÌ´Ù.  ¿¹¸¦ µé¸é ¹Ì±¹ ¿µ¾î¿¡¼­´Â `butter`¿¡¼­¿Í °°ÀÌ ¸ðÀ½ »çÀÌ¿¡ ³ªÅ¸³ª´Â ¼³ÅºÀ½Àº ¸ðµÎ /t/À½¼Ò¿¡ ±Í¼Ó½ÃÅ°°í[]µÚ¿¡ ³ªÅ¸³ª´Â ¼³ÅºÀ½Àº ¸ðµÎ/r/À½¼Ò¿¡ ±Í¼Ó½ÃÅ²´Ù´Â °ÍÀÌ´Ù.  ÀÌ¿Í °°ÀÌ À½[A]°¡ ¾î¶² È¯°æ¿¡¼­´Â À½¼Ò/A/¿¡ ±Í¼ÓµÇ°í ´Ù¸¥ À½¼ºÈ¯°æ¿¡¼­´Â À½¼Ò/B/¿¡ ±Í¼ÓµÇ´Â °æ¿ì ÀÌ°ÍÀº ºÎºÐÁßº¹(partial overlapping)ÀÌ¶ó°í ÇÏ´Âµ¥, Bloch(1941)¿¡¼­´Â À½¼ÒºÐ¼®À» ÇÒ ¶§ ÀÌ°ÍÀ» ÀÎÁ¤ÇÏ°í ÀÖ´Ù.  ±×·¯³ª µ¿ÀÏÇÑ À½[A]°¡ ¶È°°Àº À½¼ºÀû È¯°æ¿¡¼­ ³ªÅ¸³ª¸é¼­ ¾î¶² ¶§¿¡´Â /A/·Î, ¾î¶² ¶§¿¡´Â /B/·Î ±Í¼ÓµÇ´Â °æ¿ì ÀÌ°ÍÀº À½¼Ò ºÐ¼®¿¡ Å« ¹®Á¦°¡ µÇ´Â °ÍÀÌ´Ù.  ¿¹¸¦ µé¸é µ¶ÀÏ¾î `Rat`(advice)¿Í `Rad`(wheel)¿¡¼­ ¾î¸»¿¡ ³ªÅ¸³ª´Â ¹«¼ºÀúÇØÀ½ [t]°¡ ¶§·Î´Â /t/·Î, ¶§·Î´Â  /d/·Î ±Í¼ÓµÈ´Ù.  µ¿ÀÏÇÑ À½¼ºÀû È¯°æ¿¡¼­ ÀÏ¾î³ª´Â µ¿ÀÏÇÑ À½ÀÌ ¼­·Î ´Ù¸¥ µÎ °³ÀÇ À½¼Ò·Î ºÐ·ùµÇ¾î¾ß ÇÏ´Â ¿ÏÀüÁßº¹(complete overlapping)ÀºBloch(1941)¿¡¼­ Á¦°ÅµÇ¾î¾ß ÇÑ´Ù°í ÁÖÀåÇÏ°í ÀÖ´Ù.
+  ±× ´ç½Ã ±¸Á¶ÁÖÀÇÀÚµé¿¡ µû¸§³à ¹®¹ý±â¼úÀ» ÇÏ´Âµ¥ ÀÖ¾î¼­ ¾î¶² ¾ð¾îÀÚ·á°¡ ÁÖ¾îÁö¸é °¡Àå ³·Àº Ãþ¿ì¤Ï¿¡ ¼ÓÇÏ´Â À½¼º±â¼ú¿¡¼­ ½ÃÀÛÇÏ¿© ±× ´ÙÀ½ ÃþÀ§ÀÇ À½¼ÒºÐ¼®À¸·Î ¿Ã¶ó°¡°í ±× À½¼ÒºÐ¼®ÀÌ ¿ÏÀüÈ÷ ³¡³ª¸é ±× ´ÙÀ½ ÃëÀ§ÀÎ ÇüÅÂ·Ð ±â¼ú, ±×¸®°í Åë»ç·ÐÀ¸·Î ¿Ã¶ó°¡°Ô µÈ´Ù.  ±×·¯³ª »óÀ§ÃþÀ§ÀÇ ºÐ¼®¿¡ ÀÖ¾î¼­ ÇÏÀ§ÃþÀ§ÀÇ Á¤º¸´Â ÀÌ¿ëÇÒ ¼ö ÀÖÁö¸¸ ÇÏÀ§ÃþÀ§ÀÇ ºÐ¼®¿¡¼­ »óÀ§ÃþÀ§ÀÇ Á¤º¸¸¦ ÀÌ¿ëÇÒ ¼ö´Â ¾ø´Ù.  ±×·¯¹Ç·Î °¡¤Á·É À½¼ÒºÐ¼®ÀÇ ÃþÀ§¿¡¼­ ±× »óÀ§ÃþÀ§ÀÎ ÇüÅÂ·ÐÀÌ³ª Åë»ç·ÐÀÇÁ¤º¸¸¦ µµÀÔÇÒ ¼ö´Â ¾ø´Ù´Â °ÍÀÌ´Ù.  ±×·±µ¥ ¹Ì±¹ ¿µ¾î È­ÀÚµé¿¡°Ô `betting`°ú `bedding`Àº ´Ù °°ÀÌ[]À¸·Î ³ªÅ¸³»¾î ¿ÏÀüÁßº¹Çö»óÀÌ ³ªÅ¸³­´Ù.  ÀÌ []À» µÎ °³ÀÇ À½¼Ò·ÐÀû Ç¥½Ã¸¦ ÇÏ¿© ÇÏ³ª´Â//À¸·Î ´Ù¸¥ ÇÏ³ª´Â//À¸·Î Ç¥½ÃÇÏ°Ô µÇ´Âµ¥, ÀÌ°ÍÀº `betting`Àº `bet`¶ó´Â ³¹¸»À» Æ÷ÇÔÇÏ°í ÀÖ´Ù.  `bedding`Àº `bed`¶ó´Â ³¹¸»À» Æ÷ÇÔÇÏ°í ÀÖ´Ù´À À½¼ºÀû ÀÚ·á ÀÌ»óÀÇ Áö½ÄÀ» °¡Áö°í ÀÖ±â ¶§¹®¿¡ °¡´ÉÇÏ´Ù´Â °ÍÀÌ´Ù.  ÀÌ À½¼ÒºÐ¼®¿¡¼­ ¹®Á¦°¡ µÇ´Â °ÍÀº À½¼ÒºÐ¼®À» À½¼ºÀûÀ¸·Î¸¸ ±â¼úÇÑ °ÍÀÌ ¾Æ´Ï°í ÀÇ¹Ì¸¦ °í·ÁÇÏ¿© `bet`¿Í `bed`¶ó´Â ³¹¸»À» ¿¬°á½ÃÅ°°í ÀÖ±â ¶§¹®ÀÌ´Ù.  ÀÌ°ÍÀº ÃþÀ§È¥ÇÕ(level mixing)À» Çã¿ëÇÏÁö ¾ÊÀº ±¸Á¶ÁÖÀÇÀÚµéÀ» ÇâÇÑ ÇÏ³ªÀÇµµÀüÀûÀÎ ÇØ°á¹æ¹ýÀÌ¾ú´ø °ÍÀÌ´Ù.  ¶ÇÇÑ Pike(1947)¿¡¼­ º¸¿©ÁÖ´Â ¿¬Á¢(juncture)»ç¿ëÀÇ ¹®Á¦´Â ±¸Á¶ÁÖÀÇÀ½¼Ò·ÐÀÚµé¿¡°Ô´Â ÃþÀ§È¥ÇÕÀ» ¹Ý´ëÇÏ´Â ±×µéÀÇ ÁÖÀå¿¡ ¸ð¼øÀÌ µÈ´Ù´Â °ÍÀÌ´Ù.  Áï, À½¼ºÀûÀ¸·Î ±â¼úÀÌ ºÒ°¡´ÉÇÑ ÀÌ ¿¬Á¢À» »ç¿ëÇÏ´Â °ÍÀº »óÀ§ÃþÀ§ÀÇ ÇüÅÂ·ÐÀÇ Á¤º¸¸¦ ÀÌ¿ëÇÑ Áõ°Å¶ó°í ÁÖÀåÇÏ°í ¾ö°ÝÇÑ ÃþÀ§È¥ÇÕÀÇ ¹Ý´ë¿¡ ´ëÇÑ ÁÖÀåÀ» ±ÃÁö¿¡ ¸ô¸é¼­ ¸¸Á·½º·¯¿î À½¿îºÐ¼®Àº ¹®¹ý±¸Á¶ÀÇ Á¤º¸¸¦ ÀÌ¿ëÇØ¾ß µÉ ÇÊ¿ä¼ºÀ» ÁÖÀåÇÏ¿´´Ù.  ¾ö°ÝÇÑ ÃþÀ§È©ÇÕÀ» ¹Ý´ëÇØ ¿À´ø ±¸Á¶ÁÖÀÇ ÀÚµéÀº ÀÌ ¹®Á¦¸¦ ÇØ°áÇÏ±â À§ÇØ ¿¬Á¢À½¼Ò(juncture phoneme)¶ó´Â À½¼Ò¸¦ ÇÏ³ª´õ Ã·°¡ÇÏ°Ô µÊÀ¸·Î½á À½¿îºÐ¼®¿¡¼­ ¹®¹ýÁ¤º¸°¡ ³ªÅ¸³ªÁö ¾Ê°Ô ÇÒ ¼ö°¡ ÀÖ¾ú´Ù.  ±×¸®°í ¶ÇÇÑ ¿¬Á¢°ú ´õºÒ¾î °­¼¼(stress), À½Á¶ (pitch), ±×¸®°í ¾ï¾ç (intonation)À» ºÐÀýÀ½¼Ò¿Í °°Àº ÁöÀ§¸¦ °¡Áö´Â À½¼Ò´ÜÀ§ÀÇ ¸ñ·Ï ¼Ó¿¡ ³ÖÀ¸·Á´Â ½Ãµµ¸¦ ÇÏ°Ô ¸¸µé¾úÀ¸¸ç ÀÌ·Î ÀÎÇØ À½¼Ò°³³äÀÌ ´õ Ç³ºÎÇÏ°Ô µÇ´Â °á°ý¸£ ³º°Ô µÇ¾ú´Ù.
+
+3. ÇüÅÂÀ½¼Ò·Ð
+Bloomfield´Â Language(1993)¿¡¼­ ±³Ã¼(alternation)¿¡ °üÇÑ °ÍÀº ÇüÅÂ·Ð¿¡¼­ ´Ù·ç¾ú´Ù.  ÀÌ ±³Ã¼¸¦ ¼³¸íÇÏ±â À§ÇØ ±³Ã¼Çü °¡¿îµ¥ ÇÏ³ª°¡ ±âº»Çü(underlying fromÈ¤Àº basic alternant)ÀÌ µÇ°í °Å±â¿¡ ¼ø¼­°¡ ¸Å°ÜÁø ±ÔÄ¢ÀÌ Àû¿ëµÈ´Ù°í °­Á¶ÇÏ¿´´Ù.  ±×·¯¹Ç·Î ¿µ¾îÀÇ º¹¼ö Á¢¹Ì»ç/-s, -z, -iz/°¡¿îµ¥ /-z/¸¦ ±âº»ÇüÀ¸·Î ¼±ÅÃÇÏ¿´°í, ¿µ¾îÀÇ knife-knives¿¡¼­´Â /nayf/¸¦ ±âº»ÇüÀ¸·Î »ï¾Ò´Ù.  º¹¼öÇü¿¡¼­´Â ¸ÕÀú /f/°¡ /v/·Î º¯ÇÏ°í º¹¼öÁ¢¹Ì»ç°¡ ±× µÚ¿¡ ºÙ°Ô µÇ´Âµ¥, /v/µÚ¿¡¼­´Â º¹¼öÁ¢¹Ì»ç ±³Ã¼Çü/-z/°¡ ¼±ÅÃµÇ¾î ºÙ°Ô µÈ´Ù.  ¿©±â¼¼¾ù ÀÌ¹Ì »ý¼ºÀ½¿î·ÐÀÇ Æ¯Â¡ÀÎ ±âÀúÇü°ú ±ÔÄ¢¼øÀÇ °³³äÀÌ ³ªÅ¸³µÀ½À» º¼ ¼ö ÀÖ´Ù.
+  Bloomfield´Â ÈÄ¿¡ ±×ÀÇ ³í¹® Bloomfield(1939)¿¡¼­ ÇüÅÂÀ½¼Ò·Ð(morphophonemics)ÀÌ¶ó´Â ºÐ¾ß¸¦ ¼³Á¤ÇÏ¿© À½¼ºÀûÀ¸·Î ¼³¸íÇÒ ¼ö ÀÖ´Â ±³Ã¼µéÀ» ´Ù·ç°í ÀÖ´Ù.
+  ¹Ì±¹ÀÇ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÚµéÀº Ã³À½ºÎÅÍ morpho(pho)nologyÈ¤Àº morphophonemics¶ó´Â ºÐ¾ß¸¦ ÀÎ½ÄÇÏ¿´°í, ÀÌ ºÐ¾ß´Â ÇüÅÂ¼ÒÀÇ À½¿î±¸Á¶¿¡ °üÇÑ °Í°ú ÇüÅÂ·ÐÀû °úÁ¤À¸·Î¼­ÀÇ À½¼Ò°£ÀÇ ±³Ã¼¿¡ °üÇÑ °ÍÀ» ´Ù·ç¾î¾ß ÇÑ´Ù°í »ý°¢ÇÏ¿´´Ù.  ÇüÅÂÀ½¼Ò·ÐÀÇ ¿µ¿ª¿¡ °üÇØ¼­´Â ÀÇ°ßÀÌ ´Þ¶úÀ¸³ª ÀÇ¹ÌÀûÀ¸·Î ¿¬°üµÈ ÇüÅÂ¼ÒÀÇ À½¼Ò±³Ã¼´Â ÇüÅÂÀ½¼Ò·Ð¿¡¼­ ´Ù·ç¾î¾ß µÈ´Ù´À °Í¿¡ ´ëÇØ¼­´Â ÀÇ°ßÀÌ ÀÏÄ¡ÇÏ¿´´Ù.  ÀÇ¹Ì»óÀ¸·Î ¿¬°üµÈ ÇüÅÂ¼ÒÀÇ ÇüÅÂ¿¡¼­ ±ÔÄ¢¼ºÀ» ´Ù·é´Ù´À ÀÇ¹Ì ¿¡¼­ morphophonemics¶ó´Â ¼ú¾î¸¦ »ç¿ëÇÏ°Ô µÇ¾ú´Ù.
+  ÀÌ ÇüÅÂÀ½¼Ò·ÐÀÌ ¹Ì±¹ÀÇ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ¿¡¼­ ÇÊ¿äÇÏ¿´´ø °ÍÀº ¼ø¼öÇÑ À½¿îÀÌ·ÐÀÌ ¹ßÀüÇÔ¿¡ µû¶ó ÇüÅÂÀ½¼Ò·ÐÀû ±³Ã¼¸¦ À½¼Ò·Ð¿¡ Æ÷ÇÔ½ÃÄÑ ¼³¸íÇÏ°í ½ÍÁö°¡ ¾Ê¾Æ¼­ Á¡Á¡ Á¦¿Ü½ÃÅ°°Ô µÇ¾ú±â ¶§¹®ÀÌ¾ú´Ù.  ´õ±¸³ª ±¸Á¶ÁÖÀÇ À½¼Ò·ÐÀÇ À½¼ÒÁ¤ÀÇ¿¡ ÀÇÇÏ¸é À½¼ÒÀÇ Â÷ÀÌ°¡ ÀÇ¹ÌÀÇ Â÷ÀÌ¸¦ °¡Á®´Ù ÁÖ°Ô µÇ´Âµ¥, ÀÌ ÀÌ·ÐÀ¸·Î´Â ÀÇ¹Ì´Â ¿¬°üµÇ¾î ÀÖÀ¸¸é¼­ ´Ù¸¥ À½¼Ò·Î ³ªÅ¸³»¾îÁ®¾ß ÇÏ´Â À½¼Ò±³Ã¼(phonemic alternation)(¿¹ : sane-sanity, profane-profanity)¸¦ ¼³¸íÇÏ±â°¡ ¾î·Æ´Ù´Â °ÍÀ» ±ú´Ý°Ô µÇ¾ú´Ù.  ÇüÅÂ·Î´ÀÀÌ ÀÏºÎºÐÀÌ¶ó°í º¼ ¼ö ÀÖ´À ÇüÅÂÀ½¼Ò·ÐÀÌ¶ó´Â ÃþÀ§¸¦ ¼³Á¤ÇÏ°í °Å±â¿¡ Ãß»óÀûÀÎ ´ÜÀ§ÀÎ ÇüÅÂÀ½¼Ò(morphophon-
+eme)¸¦ ¼³Á¤ÇÏ¿´´Ù.  ±×·¯³ª ÀÌ¿Í °°Àº ÇüÅÂÀ½¼ÒÀÇ °³³äÀ» ¼³Á¤ÇØ ³õ°íµµ ¸¸Á·½º·¯¿öÇÏÁö ¾Ê¾Ò´ø °ÍÀº ÇüÅÂÀ½¼ÒµéÀÌ ÀÚÁÖ ³ªÅ¸³ªÁö ¾Ê´Â ¿¹¿ÜÀûÀÎ °Í¸¸À» ³ªÅ¸³»´Â °Í °°Àº ÀÎ»óÀ» ÁÖ°í ÀÖ´Â µ¥ ´ëÇÑ ºÒ¸¸½º·¯¿ò°ú ¶Ç ÇÏ³ª´Â sane-sanity¿¡¼­¿Í °°ÀÌ ¿Ö ´Ù¸¥ À½¼Ò°¡ ¾Æ´Ñ/e/¿Í/ /ÀÇ Æ¯Á¤ÇÑ µÎ À½¼Ò°¡ ±³Ã¼ÀÇ ½ÖÀ» ÀÌ·ç¸ç ±³Ã¼µÇ¾î¾ß¸¸ ÇÏ´Â°¡, ±×¸®°í À½¼Ò·ÐÀûÀ¸·Î ÀÌ µÎ À½¼Ò¸¦ ¼­·Î ¿¬°á½ÃÅ°´À °ÍÀÌ ¹«¾ùÀÎ°¡¿¡ ´ëÇÑ °ÍÀ» Á¦½ÃÇÒ ¼ö ¾ø´Ù´Â ÀÌÀ¯¿¡¼­¿´´Ù.
+  Bloomfield´Â ±âº»Çü¿¡¼­ ÀÏ·ÃÀÇ ±ÔÄ¢¼øÀ» °¡Áø ±ÔÄ¢µéÀ» Àû¿ëÇÏ¿© Ç¥¸éÇüÀÎ À½¼ÒÇü(phonemic form) À» µµÃâÇÏ¿´´Âµ¥, ±×°¡Menomini¾îÀÇ ±â¼ú¿¡¼­ º¸¿©ÁØ ±âº»Çü¿¡´Â ºñÀ½¼ÒÀûÀÎ Ãß»óÀûÀÎ ±âÈ£¸¦ »ç¿ëÇÏ°í ÀÖ¾ú´Ù.  (¿¹ : /N/).  ÀÌ°ÍÀº ¾î¶² ¿ä¼Ò°¡ Æ¯Á¤ÇÑ ±ÔÄ¢¿¡ ´ëÇØ µÎ Á¾·ùÀÇ ÇàÀ§¸¦ Å¸³ª³»°í ÀÖÀ½À» º¸¿©ÁÖ±â À§ÇÑ °ÍÀÌ¾ú´Ù.  Áï,/n/°ú/N/Àº µÑ ´Ù À½¼Ò/n/À¸·Î ½ÇÇöµÈ´Ù.  ±×·¯³ª /n/Àº ±¸°³À½È­¸¦ ÀÔÁö¸¸N//Àº ±¸°³À½È°¸£ ÀÔÁö ¾Ê´Â´Ù´Â Á¡¿¡¼­¸¸ ´Ù¸£´Ù.  ±¸°³À½È­¸¦ ÀÔÁö¾Ê´Â /n/À» ³ªÅ¸³»±âÀ§ÇØ Ãß»óÀûÀÎ  ±âÈ£/N/À» »ç¿ëÇÏ¿´´Ù.  BollmfieldÀÇ ÀÌ¿Í °°Àº ÇüÅÂÀ½¼ÒÀû ±â¼ú¿¡ ´ëÇÑ Á¢±Ù¹æ¹ýÀº post-Bloomfieldianµé¿¡°Ô´Â ³í¶õÀÇ ´ë»óÀÌ µÇ¾ú°í ½ÉÁö¾î´Â ¸î¸î ÇÐÀÚµéÀº °ø½ÃÀû ¹®¹ý±â¼ú¿¡¼­ Á¦¿Ü½ÃÅ°±âµµ ÇÏ¿´´Ù.
+  ±×·¯³ª Harris´Â Bloomfield¿Í´Â ´Þ¸® ±³Ã¼Çüµé¿¡ ´ëÇÑ »ý·«ÇüÀ¸·Î ÇüÅÂ¼Ò¸¦ ¼³Á¤ÇÏ¿´´Ù.  Harris(1951)¿¡¼­´Â ¿µ¾îÀÇ knife-knives, wife-wives, leaf-leaves, thief-thieves¿Í °°ÀÌ /f/¿Í/v/ÀÇ ±³Ã¼¸¦ ¼³¸íÇÏ±â À§ÇØ ÇüÅÂÀ½¼Ò{F}¸¦ ¼³Á¤ÇÏ¿´´Ù.  knife-knivesÀÇ °æ¿ì {nayF}¿¡¼­ºÎÅÍ´Ü¼öÀÇ ÀÌÇüÅÂ¼Ò(allomorph) /nayf/°¡ ½ÇÇöµÇ°Ô ÇÏ°í, º¹¼ö¿¡¼­´Â /nayv/°¡ ½ÇÇöµÇ°Ô ÇÏ¿´°í ´Ü¼ö, º¹¼ö¿¡¼­ ±³Ã¼°¡ ÀÏ¾î³ªÁö ¾Ê´Â   `chief`´Â ±âº»ÇüÀ» {cif}·Î À½¼ÒÇ¥½Ã/cif/¿Í °°°Ô ÇÏ¿´´Ù.
+  HarrisÀÇ Ãß»óÀûÀÎ ±âÈ£ {F}´ÂBloomfieldÀÇ Ãß»óÀûÀÎ ±âÈ£ /N/°ú´Â ´Ù¸£´Ù. BollmfieldÀÇ /N/Àº ±¸°³À½È­¿¡ ¿¹¿ÜÀÚÁúÀ» Áö´Ñ Á¤»óÀûÀÎ Çàµ¿À» ÇÏÁö ¾Ê´Â /n/À» ³ªÅ¸³»±â À§ÇØ »ç¿ëÇÏ¿´´Ù.  ±×·¯³ªHarrisÀÇ Ãß»óÀûÀÎ ±âÈ£´Â ÇÑ ÇüÅÂ¼Ò°¡ ±³Ã¼Á¶°ÇÇÏ¿¡¼­ Å¸³ª³ª´Â ¸ðµç ¾îÇüÅÂ¼Ò¸¦ ¸ð¾Æ ÀÌµéÀ» ´ëÇ¥ÇÏ´Â °ÍÀÓÀ» ÀÚÀÇÀûÀ¸·Î Å¸³ª³½ °ÍÀÌ´Ù.  ±×·¯¹Ç·Î {F}´Â º¹¼ö¾î¹Ì /-z/¾Õ¿¡¼­´Â À¸¸ø/v/±×¹ÛÀÇ ¿ìÄ¡¿¡¼­´Â À½¼Ò/f/°¡ µÈ´Ù´Â ±ÔÄ¢¿¡ ´ëÇÑ »ý·«ÇüÀÌ¶ó ÇÒ ¼ö ÀÖ´Ù.  HarrisÀÇ ÀÌ Ãß»óÀûÀÎ ±âÈ£´Â Ã¼°è¿¡ À½¼Ò¸¦ ÇÏ³ª ´õ Ãß°¡ÇÏÁöµµ ¾ÊÀ¸¸ç, ±×¸®°í Á÷Á¢ÀûÀÎ À½¼ºÀû ÇØ¼®µµ °®Áö ¾Ê´Â´Ù.  ´ÜÁö ÇÑ ÇüÅÂ¼Ò°¡ µÎ °³ ¶Ç´Â ±× ÀÌ»óÀÇ ±³Ã¼ÇüÀ» °¡Áö°í ÀÖ´Ù´Â °ÍÀ» ³ªÅ¸³» º¸ÀÌ´Â °Í »ÓÀÌ¾ú´Ù.
+  ¿ä¾àÇÏ¸é ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­´Â µ¶ÀÏ¾îÀÇ `Rat`(advice)¿Í `Rad`(wheel)¿¡ ³ªÅ¸³ª´Â ¾î¸»¹«¼ºÀ½À» /ra:t/·Î ³ªÅ¸³»¾î ÁßÈ­À§Ä¡¿¡ ³ªÅ¸³ª´Â À½¼ºÇ¥½Ã¿Í À½¿î·ÐÀû Ç¥½Ã´Â µ¿ÀÏÇÏ´Ù°í º¸°í ÀÖ¾ú´Ù.  ¿©±â¼Ä¼­ ¹®Á¦°¡ »ý±â°Ô µÈ´Ù.  À½¼ºÇ¥½Ã[ra:t]ÀÇ[t]°¡ º¹¼öÇü[](advices)¿¡¼­´Â ¹®Á¦°¡ ¾øÀ¸³ª,[](wheels)¿¡¼­´Â[t]¿Í [d]°¡ ±³Ã¼ÇÑ´Àµ¥, ÀÌ¿¡ ´ëÇÑ ¸íÈ¤ÇÑ ¼³¸íÀ» ÇÒ ¼ö ¾ø´Ù´Â °ÍÀÌ´Ù.  ±¸Á¶ÁÖÀÇ À½¼ÒºÐ¼®ÀÌ·Ð¿¡¼­´Â µ¶ÀÏ¾îÀÇ [t]¿Í [d]ÀÇ °ü°è¸¦ Æ÷ÂøÇÒ ¼ö ¾ø´Ù´Â °ÍÀÌ´Ù.  ±×·¯¹Ç·Î À½¼Ò·ÐÀÇ ÃþÀ§¿Í´Â º°°³ÀÇ Á»´õ Ãß»óÀûÀÎ ÇüÅÂ À½¼Ò·ÐÀÇ ÃþÀ§°¡ ÇÊ¿äÇÏ°Ô µÇ¾úÀ¸¸ç, ¿©±â¿¡ ÇüÅÂÀ½¼Ò¶ó´Â ±âº»´ÜÀ§¸¦ ¼³Á¤ÇÏ°Ô µÇ¾ú´Ù.  ÀÌ ÇüÅÂÀ½¼Ò·ÐÀÇ ±âº»µ¿±â´Â ÇüÅÂ¼Ò¸¶´Ù ÇÑ °³ÀÇ ±âº»ÇüÀ» °¡Áö°í ÀÖ¾î ¿©±â¿¡¼­ ¸ðµç ÀÌÇüÅÂ¼ÒµéÀÌ µµÃâµÇµµ·Ï ÇÏÀÚ´À °ÍÀÌ´Ù.  ±×·¯¹Ç·Î µ¶ÀÏ¾î¿¡¼­ ¹ÙÄû(wheel)ÀÇ ÀÇ¹Ì¸¦ ³ªÅ¸³»´Â ÇüÅÂ¼ÒÀÇ ±âº»Çü[]´Â µÎ °³ÀÇ ÀÌ ÇüÅÂ¼Ò, Áï µÎ °³ÀÇ À½¼ÒÇ¥½Ã(phonemic form)¸¦ °¡Áö°í ÀÖ´Ù.  ÇÏ³ª´Â/ra:t/ÀÎµ¥ ÀÌ°ÍÀº ¾î¸» ÀÚÀ½ µÚ¿¡ ÈÞÁö(pause)°¡ µÚµû¶ó ¿Ã ¶§ ³ªÅ¸³ª´Â ÇüÅÂ¼ÒÀÌ°í, ´Ù¸¥ ÇÏ³ª´Â//·Î ¾î¸» ÀÚÀ½ µÚ¿¡ ¸ðÀ½ÀÌ µÚµû¶ó ¿Ã ¶§ ³ªÅ¸³ª´Â ÀÌÇüÅÂ¼ÒÀÌ´Ù.  ÇüÅÂ¼Ò{T}´Â ¶§·Î´Â À½¼Ò/t/·Î ³ªÅ¸³»¾îÁö°í ¶§·Î´Â À½¼Ò/d/·Î ³ªÅ¸³»¾îÁø´Ù.
+  ÀÌ¿Í °°ÀÌ ¹Ì±¹ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ¿¡¼­ ÇüÅÂÀ½¼Ò·ÐÀº °³°³ÀÇ ÇüÅÂ¼Ò¿¡ ¼ÓÇÏ´Â ÀÌÇüÅÂ¼ÒÀÇ ÁýÇÕÀ» °£°áÇÏ°Ô ±â¼úÇÏ±â À§ÇÑ ¹æ¹ý ÀÌ¿Ü¿¡´Â ½ÇÀçÀûÀÎ ÁöÀ§´Â ¾ø¾ú´Ù.
+  
+1.4 »ý¼ºÀ½¿î·Ð
+
+1.4.1. »ý¼ºÀ½¿î·Ð ÃÊ±â
+
+  »ý¼ºÀ½¿î·Ð(generative phonology)Àº º¯Çü»ý¼º¹®¹ý(transformational generative grammar)ÀÌ¶ó°í ºÒ¸®´Â ¾ð¾îÀÌ·ÐÀÇ ÇÑ ºÐ¾ßÀÌÁö¸¸ Chomsky¿¡¼­ ½ÃÀÛµÈ º¯Çü»ý¼º¹®¹ýÀÇ ´ëµÎ¿Í µ¿½Ã¿¡ ¹ßÀüÇÑ °ÍÀº ¾Æ´Ï´Ù.  ±×·¯¹Ç·Î ¸ÕÀú º¯Çü »ý¼º¹®¹ýÀÌ ¾î¶»°Ô ½ÃÀÛµÇ¾úÀ¸¸ç »ý¼ºÀ½¿î·Ð ¿¬±¸±îÁö ÀÌ¾îÁ³´Â°¡¸¦ »ìÆìº¸·Á ÇÑ´Ù.
+  ¹Ì±¹Philadelphia¿¡¼­ 1928³â¿¡ À¯ÅÂÀÎ ºÎ¸ð¿¡°Ô¼­ ³»¾î³­ Chomdky´Â Pennsylvania´ëÇÐ¿¡¼­ ¾ð¾îÇÐ, ¼öÇÐ, Ã¶ÇÐÀ» °øºÎÇÏ¿´°í °°Àº ´ëÇÐ¿¡¼­ ¼®.¹Ú»çÇÐÀ§¸¦ ÃëµæÇÏ¿´´Ù.  ±×ÀÇ ºÎ¸ð´Â Pennsylvania´ëÇÐ¿¡¼­ ¾ð¾îÇÐÀ» °¡¸£Ä¡°í ÀÖ¾ú´ø Harris¿¡°Ô 18¼¼ÀÇ Chomsky¸¦ ¼Ò°³ÇÏ¿´°í Chomsky´Â ±×ÀÇ °­ÀÇ¸¦ µè±âµµ Àü¿¡ ±×ÀÇ Àú¼­Methods in Structural Linguistics¸¦ ±³Á¤º¸°Ô µÇ¾ú´Âµ¥, ÀÌ¶§ Chosky´Â¾ð¾îÇÐÀ» ¾Ë°Ô µÇ¾ú´Ù´Â °ÍÀÌ´Ù.
+  HarrisÀÇ Á¦ÀÇ¿¡ µû¶ó Chomsky´Â ÇÏºê¸®¾î ¹®¹ý¿¡ °üÇØ¼­ ¿¬±¸ÇÏ¿´´Âµ¥, ¿¬±¸°¡ ÁøÀüµÊ¿¡ µû¶ó ±¸Á¶ÁÖÀÇ¹®¹ýÀÇ ¼ú¾î´Â ÇÏºê¸®¾î¸¦ ±â¼úÇÏˆf µ¥ ÀûÇÕÇÏÁö ¾ÊÀ½À» ±ú´Ý°Ô µÇ¾ú´Ù.  Chomsky´Â È÷ºê¸®¾î ¿¬±¸¸¦ ¹ßÀü½ÃÄÑ¼­ ÇÐ»ç³í¹®°ú ¼®»ç³í¹®À» ¾²°Ô µÇ¾úÁö¸¸, Harris´Â ±×ÀÇ ³í¹®À» ´«¿©°Ü º¸Áö ¾Ê¾Ò°í °ÅÀÇ ¾Æ¹«µµ Chomsky°¡ ÇÏ´Â ¿¬±¸¸¦ ±â²¨ÀÌ ¾ð¾îÇÐÀÌ¶ó°í ÀÌ¸§ ºÙÀÌ°í ½Í¾îÇÏÁö ¾Ê¾Ò´Ù.
+  Chomsky´Â 1951³âºÎÅÍ 1955³â±îÁö ÇÏ¹öµå ¿¬±¸ºñ¸¦ ¹Þ¾Æ ¿¬±¸¸¦ °è¼ÓÇÏ°Ô µÇ¾ú´Âµ¥, ±×ÀÇ ¿¬±¸°úÁ¦´Â ±¸Á¶ÁÖÀÇ¾ð¾îÇÐÀÇ ¹æ¹ö·ÐÀ» °³¼±ÇÏ´Â °ÍÀÌ¾úÀ¸¸ç ±×ÀÇ ¸¶À½¼Ó¿¡´Â Á¶±Ý¾¿ º¯Çü»ý¼ººÐ¹ý ¿¬±¸°¡ °ü½ÉÀÇ ÃÊÁ¡ÀÌ µÇ¾ú´Ù.  ¾ð¾îÇÐÀÚ Halle¿Í Ã¶ÇÐÀÚ Bar-HillelÀº Chomsky·Î ÇÏ¿©±Ý »ý¼º¹®¹ý ¿¬±¸¸¦ °è¼ÓÇÏµµ·Ï °Ý·ÁÇÏ¿´´Ù.  1955³â¿¡ Chomsky´Â The Logical Structure of Linguistic Theory¸¦ ¾²°Ô µÇ¾ú°í, ¿©±â¼Ä¼­ »ý¼º¹®¹ýÀÇ ´ëºÎºÐÀÇ ±âº»ÀûÀÎ »ý°¢ÀÌ ÆîÃÄÁ³´Ù.  ÀÌ ÁßÀÇ ÇÑ Àå(íñ)Àº ±×·Î ÇÏ¿©±ÝPennsylvania´ëÇÐ¿¡¼­ ¹Ú»çÇÐÀ§¸¦ È¹µæÇÏ°Ô ¸¸µé¾ú´ø °ÍÀÌ´Ù.  ±×ÈÄ Halle¿Í  JakobsonÀÇ ÁÖ¼±À¸·Î MIT¿¡¼­ ºÒ¾î, µ¶ÀÏ¾î, ¾ð¾îÇÐ, Ã¶ÇÐ, ±×¸®°í ³í¸®ÇÐÀ» °¡¸£Ä¡¸é¼­ Æ´Æ´ÀÌ ÁýÇÊÇÑ ¿ø°í¸¦ HalleÀÇ µµ¿òÀ¸·Î MoutonÃâÆÇ»ç¿¡°Ô ÃâÆÇÇÒ ¼ö ÀÖ°Ô µÇ¾î, 1957³â¿¡ ±×ÀÇ Syntactic Structures°¡ ³ª¿À°Ô µÇ¾ú°í º¯Çü»ý¼º¹®¹ýÀÇ ½Ã´ë°¡ ¿­¸®°Ô µÇ¾ú´Ù.  ÀÌ·¸°Ô ÇØ¼­ ½ÃÀÛµÈ ChomskyÀÇ º¯Çü»ý¼º¹®¹ýÀº ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÇ ´ÜÁ¡µéÀ» °³¼±ÇÏ±â À§ÇØ Á¦¾ÈµÈ °ÍÀÌ¾ú´Ù.
+  ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ¿¡¼­´Â ÁÖ·Î ¿¬±¸´ë»óÀÌ °´°üÀûÀ¸·Î °üÂûÇÒ ¼ö ÀÖ´Â ¾ð¾î ÀÚ·á¸¸À» ºÐ¼®ÀÇ´ë»óÀ¸·Î »ï¾Æ ±×°Í¿¡ ´ëÇÑ Àß Á¤µ·µÈ ±â¼úÀ» ÇÏ´Â °Í¿¡ ºÒ°úÇÏ¿© ºÐ¼®¿ø¸®ÀÇ ¹üÀ§°¡ ¾ÆÁÖ Á¼¾Æ ¾ð¾îÀÇ ¤·Áß¿äÇÑ Æ¯Á¤ÀÎ Ã¢Á¶¼ºÀ» °í·ÁÇÏÁö ¾Ê¾ÒÀ¸³ª º¯Çü»ý¼º¹®¹ýÀº ±× ¾ð¾îÀÇ Åä¹ÚÀÌ°¡ °¡Áö°í ÀÖ´Â Áö½ÄÀ» ±Ô¸íÇÏ¿© ÀÌ°ÍÀ» ¼öÇÐÀú±à·Î Á¤È®ÇÏ°Ô ±â¼úÇÏ´Â °ÍÀ» ¸ñÇ¥·Î »ï°í ÀÖ´Ù.  Á¦ÇÑµÈ ¼ö´ÜÀ» °¡Áö°í ¹«ÇÑÇÑ »õ·Î¿î ¹®ÀåÀ» ¸¸µé¾î ³¾ ¼ö ÀÖ´Â Ã¢Á¶Àû ´É·ÂÀ» ¼³¸íÇÏ±â À§ÇØ ¾ð¾î´É·Â(linguistic competence)°ú ¾ð¾î¼öÇà(linguistic performance)À» ±¸ºÐÇÒ ÇÊ¿ä°¡ ÀÖ°í, ÀÌ °¡¿îµ¥ ¾ð¾î´É·ÂÀ» ´ë»óÀ¸·Î ÀÌ°ÍÀ» ±Ô¸íÇÏ·Á ÇÔÀ¸·Î½á ¾ð¾îÀÌ º»ÁúÀ» ´õ Àß ÆÄ¾ÇÇÒ ¼ö ÀÖ´Ù°í º¸¾Ò´Ù.  ¾ð¾î¼öÇàÀÌ¶ó°í ºÒ¸®´Â ½ÇÁ¦ÀûÀÎ ¾ð¾î¼öÇàÀº ¿©·¯ °¡Áö ºñ¾ð¾îÇÐÀûÀÎ ¿ä¼Ò¿Íµµ °ü·ÃÀ» ¸Î°í ÀÖ±â ¶§¹®¿¡ ÀÌ°ÍÀ» ¿¬±¸ÀÇ ´ë»ó¿¡¼­ Á¦¿ÜÇÏ¿´´Ù.  ¾ð¾î´É·ÂÀÌ ¾ð¾î¼öÇà¿¡ ¸ðµÎ ¹ßÈÖµÇÁö ¸øÇÏ´Â °ÍÀº ÀÎ°£ÀÇ ±â¾ï·ÂÀÇ ÇÑ°è¿Í °°Àº ºñ¾ð¾îÇÐÀû ¿äÀÎ ¶§¹®ÀÌ¹Ç·Î º¯Çü»ý¼º¹®¹ý¿¡¼­´Â Àå¾Ö¿äÀÎÀÇ ¿µÇâÀ» ÀüÇô ¹ÞÁö ¾Ê´Â ÀÌ»óÀûÀÎ ¾ð¾î»ç¿ëÀÚ¸¦ °¡Á¤ÇÏ¿© ÀÌ¸¦ ´ë»óÀ¸·Î »ï°Ô µÇ¾ú´Ù.
+  º¯Çà¼º¹®¹ý¿¡¼­´Â ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÇ ÀÌ·ÐÀû ¹è°æÀÎ °æÇèÁÖÀÇ¿Í Çàµ¿ÁÖÀÇ ½É¸®ÇÐÀÇ ¾ð¾î½ÀµæÀÌ·Ð¿¡ ¹Ý´ëÇÏ°í, ÀÌ¼ºÁÖÀÇ (rationalism)¿¡ ¹ÙÅÁÀ» µÎ°í ÀÌ·ÐÀ» Ãß±¸ÇÏ°í ÀÖ´Ù.  ÀÎ°£ÀÇ ¾ð¾î´É·ÂÀº ¼±ÃµÀûÀÎ ¿äÀÎ¿¡ ±âÀÎÇÏ¸ç ¶Ç ¾î¶² ÀÌ·ÐÀÌµç°£¿¡ ¹®¹ý¿¡ °üÇÏ¿©µµ ±âº»ÀûÀÎ ¿ø¸®´Â »ó´çÈ÷ °°Àº °ÍÀÌ¶ó°í ÁÖÀåÇÑ´Ù.  Áï, ÀÎ°£Àº ¾ð¾î¸¦ ¾²°í ¾Ë¾Æµè´Âµ¥ ÀÖ¾î¼­ Àü¿¡ ÇÑ¹Ýµµ µèÁö ¸øÇÑ ±¸Á¶¸¦ ½Ç¼ö ¾øÀÌ »ç¿ëÇÏ¸ç, Àü¿¡ ÇÑ¹øµµ µé¾îº» ÀûÀÌ ¾ø´Â ¹®ÀåµéÀÌ¶óµµ ¾î¶² °ÍÀº ¿ë³³µÇ°í ¾î¶² °ÍÀº ¿ë³³µÉ ¼ö ¾ø´Â °ÍÀÓÀ» ÆÇ´ÜÇÒ ¼ö ÀÖ´Ù´Â °ÍÀ» ¼³¸íÇÏ±â À§ÇØ¼­´Â ÀÌ¿¡ °ü·ÃµÈ ¿ø¸®°¡ ÀÎ°£ÀÇ Ãµ¼º¿¡ ±Ù¿øÇÏ°í ÀÖ´Ù°í º¸´Â °ÍÀÌ Å¸´çÇÏ´Ù´Â °ÍÀÌ´Ù.  ÀÌ·¯ÇÑ ÁÖÀåÀº ¼¼°è ¸ðµç ÀÎ°£¾ð¾îÀÇ °øÅë¼º¿¡ ´ëÇÑ °¡¼³·Î ¿¬°áµÇ¾î¼­ ¾ð¾î´É·ÂÀÇ ±âº»ÀûÀÎ ¿ø¸®°¡ ¾î´À ³ª¶ó ¾ð¾î¿¡³ª º¸ÆíÀûÀ¸·Î ³ªÅ¸³­´Ù´Â º¸Æí¹®¹ý(universal grammar)À» Ãß±¸ÇÏ°Ô µÈ´Ù.
+  Chomsky(1957)´Â ÀÎ°£¾ð¾îÀÇ Áß¿äÇÑ °øÅëÀû Æ¯¼ºÀÎ ¼øÈ¯¼º(recursiveness)À» ÀûÀýÇÏ°Ô ±Ô¸íÇÏ´Â ±¸Àý±¸Á¶¹®¹ý(phrase structure grammar)¿¡ ±¸Àý±¸Á¶ ±ÔÄ¢ÀÌ ±Ô¸íÇÏÁö ¸øÇÏ´Â ¹®¹ýÇö»óÀ» ¼³¸íÇÏ±â À§ÇØ º¯Çü±ÔÄ¢(transformational rules)À» µµÀÔÇÑ´Ù.  ChomskyÀÇ º¯ÇüÀÇ °³³äÀº Harris¿¡°Ô¼­ ¿µÇâ¹ÞÀº °ÍÀÌ¸ç ¾ð¾î±â¼ú¿¡ ÀÖ¾î¼­ ¾ö°Ý¼º°ú Á¤¹Ð¼º ¶ÇÇÑ Harris¿¡°Ô¼­ ¿µÇâ¹ÞÀº °Í °¡¿îµ¥ °¡Àå Áß¿äÇÑ °ÍÀÌ¶ó ÇÒ ¼ö ÀÖ´Ù.  ÀÌ Chomsky(1957)¿¡¼­´Â À½¿î·Ð¿¡ °üÇÑ ¾ð±ÞÀº °ÅÀÇ ¾ø°í Åë»ç·Ð¿¡ °üÇÑ °ÍÀÌ ´ëºÎºÐÀÌ´Ù.  ±×°ÍÀº ±× ´ç½Ã ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ¿¡¼­´Â Åë»ç·Ð¿¡ °üÇÑ ¶Ñ·ÇÇÑ ÀÌ·ÐÀÌ Á¦½ÃµÇÁö ¾Ê¾Ò´Ù¸é µ¥ ±âÀÎÇÑ´Ù°í º¼ ¼ö ÀÖ´Ù.  ±×·¯³ª À½¿î·Ð ºÐ¾ß¿¡¼­´Â »çÁ¤ÀÌ ´Þ¶ú´Ù.  ±¸Á¶ÁÖÀÇ À½¼Ò·ÐÀº °úÇÐÀûÀÎ ¿¬±¸¸¦ ¼öÇàÇÑ ºÐ¾ß¶ó°í »ý°¢ÇÏ°í ÀÖ¾úÀ¸¹Ç·Î Ã¤¿ö¾ß µÉ ÀÌ·Ð»óÀÇ °ø¹éÀÌ ¾ø¾ú´Ù°í »ý°¢ÇÏ°Ô µÇ¾î Chomsky(1957)¿¡¼­´Â Åë»ç·ÐÀÇ ³íÀÇ¿¡ ÁßÁ¡À» µÎ°ÔµÈ °ÍÀÌ¶ó°í »ý°¢ÇÑ´Ù.
+  Chomsky´Â 1957³â¿¡ Áß¿äÇÑ ¾÷ÀûÀ» ³½ ÈÄ ¿©·¯ °÷¿¡¼­ °­¿¬À» ÇÏµµ·Ï ÃÊÃ»¹Þ¾Ò´Âµ¥, ±×Áß¿¡¼­µµ Æ¯È÷ 1958³â¿¡ °³ÃÖµÈ Á¦ 3È¸ Texas Conference¿¡¼­ ¹ßÇ¥ÇÑ ±×ÀÇ Syntactic StructuresÀÇ ³»¿ëÀº ¸¹Àº ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ¿¡ °üÇÑ ³í¹®µéÀ» °ü½É ¹ÛÀ¸·Î ³»´øÀú ¹ö¸° Ã¤ °ü½ÉÀÇ ÃÊÁ¡À» µ¶ÀÚÂ÷Áö ÇÏ°Ô µÇ¾ú´Ù.
+  Chomsky(1957)¿¡¼±´À À½¿î·Ð¿¡ °üÇÑ »õ·Î¿î Á¢±Ù¹æ¹ýÀÌ Á¦½ÃµÇÁö´Â ¾ÈÇ×¤¶´Ù.  ±×·¯³ª °°Àº ÇØ Jakobson-& HalleÀÇ Fundamentals of Langrage(1956)ÀÇ ¼­Æò¿¡¼­ Chomsky´Â Ãß»óÀûÀÎ ±âÀúÃ¼°è°¡ ±ÔÄ¢¿¡ ÀÇÇØ ½ÇÁ¦ ¹ßÈ­(speech)¿Í ¿¬°áµÊÀ» ÀÎ½ÄÇÏ°í »ý¼ºÀ½¿î·ÐÀû Á¢±Ù¹æ¹ý¿¡ °üÇÑ °£·«ÇÑ °³¿ä¸¦ Á¦½ÃÇÏ¿´´Ù.  ±×·¯³ª »õ·Î¿î À½¿îÀÌ·ÐÀÌ ÀÚ¼¼È÷ ¼³¸íµÈ °ÍÀº Halle ÀÇThe Sound Pattern of Russian(1959)ÀÌ¾ú´Ù.  HalleÀº 1923³â Latvia°øÈ­±¹¿¡¼­ ÅÂ¾î³ª 1940³â¿¡ ¹Ì±¹À¸·Î ÀÌÁÖÇØ ¿Í¼­ Ã³À½¿¡´Â °øÇÐÀ» °øºÎÇÏ´Ù°¡ ³ªÁß¿¡ ¾ð¾îÇÐÀ» °øºÎÇÏ°Ô µÇ¾ú°í, 1949³â¿¡ Harvard´ëÇÐ¿¡ ¿Í¼­Jakobson°ú ÇÔ²² ¿¬±¸ÇÏ¸é¼­ 1952³â¿¡ Jakobson, Fant & HalleÀÇ Preliminaries to Speech Analysis ¸¦ Ãâ°£ÇÏ¿© JakobsonÀÇ º¯º°Àû ÀÚÁúÀ» À½ÇâÇÐÀû, ±×¸®°í Á¶À½ÀûÀÎ ¸é¿¡¼­ ¼³¸íÇÏ¿´´Ù.  ±×¸®ÇÏ¿© Halle´Â ÀÏ¹Ý ¾ð¾îÇÐ ÀÌ·Ð, ÇÑ ¾ð¾îÀÇ À½¿î·ÐÀû ºÐ¼®, ¾ð¾îÀ½ÀÇ À½ÇâÇÐÀû ±â¼úÀ» ÇÔ²² ÀÌÇÑ ±ÇÀÇ Ã¥ ¼Ó¿¡ ³Ö¾î ¸¹Àº ºÐ¾ß¸¦ Á¾ÇÏ¹è ³õÀº Ã¥ÀÌ´Ù.  Halle(1959)´Â JakobsonÀÇ ½½¶óºê¾îÀÇ ÇüÅÂÀ½¼Ò·Ð ¿¬±¸¿¡ ±íÀº ¸Å·ÂÀ» ´À²¸ Halle(1959)¿¡¼­´Â µ¿À½¾î·Î ÀÎÇÑ ÁßÀÇ¼ºÀ» ¼³¸íÇÏ±â À§ÇØ¼­´Â ÇüÅÂÀ½¼ÒÁ÷ Ç¥½Ã°¡ ¸Å¿ì Áß¿äÇÔÀ» ÁÖÀåÇÏ¿´´Ù.  ±×¸®°í ±×´Â ·¯½Ã¾Æ¾îÀÇ ¿¹¸¦ µé¸é¼­ ½Ö¹æÇâ À¯ÀÏ¼º Á¶°ÇÀ» ¹Ý´ëÇÏ°í ÀÖ´Ù.  ÀÌÀü¿¡µµ Hamp(1953)¿Í °°Àº ³í¹®µéÀÌ ½Ö¹æÇ× À¯ÀÏ¼ºÀÇ À½¼ÒÇ¥½Ã¿¡ ¹Ý´ëÇÑ´À Áõ°Å¸¦ Á¦½ÃÇÏ¿´Áö¸¸ ±¸Á¶ÁÖÀÇ À½¼Ò·ÐÀÇ ±âº»¿ø¸®ÀÎ ½Ö¹æÇâ À¯ÀÏ¼º Á¶°ÇÀ» ¹«³Ê¶ß¸®Áö ¸øÇÏ¿´À¸³ª, Halle(1959)´Â ¾ÆÁ÷µµ ½Ö¹æÇâ À¯ÀÏ¼º Á¶°ÇÀ» ¹Ï°í ÀÖ¾ú´ø ¸¹Àº »ç¶÷µéÀ» ¼³µæÈ÷Å°°Ô µÇ¾ú´Ù.  ÀÌ¿¡ µ¡ºÙ¿© ºÐÀýÀ½À» º¯º°Àû ÀÚÁú·Î ¸í½ÃÇÔÀ¸·Î ±×ÀÇ ÁÖÀåÀÌ ´õ °úÇÐÀûÀÌ¶ó´Â ÀÎ»óÀ» ÁÖ°Ô µÇ¾ú´Ù.  Halle ÀÇ ³íÀï¿¡¼­ ¾òÀ» ¼ö ÀÖ¾ú´ø °ÍÀº ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­ Çã¿ëÇß´ø °Íº¸´Ù ´õ Ãß»óÀûÀÎ Ç¥½Ã¸¦ Çã¿ëÇÏ´Â ¹æÇâÀ¸·Î À½¿îÀÌ·ÐÀÌ º¯È­ÇÏ°Ô µÇ¾ú´Ù´Â °ÍÀÌ´Ù.  ÀÌ¿¡ µû¶ó ÀÚ¿¬È÷ ±ÔÄ¢(rules)À» °­Á¶ÇÏ°Ô µÇ¾úÀ¸¸ç ¾ð¾î´Â Ç¥½ÃÀÇ ÁýÇÕÀÌ¶ó±âº¸´Ù´Â ±ÔÄ¢ÀÇ Ã¼°è¶ó´Â ÁÖÀåÀ» ÇÏ°Ô µÇ¾ú´Ù.  À½¿îÇ¥½Ã¿Í ±× Æ¯¼º¿¡ ÁýÁß½ÃÄ×´ø °ü½ÉÀº ±ÔÄ¢ÀÌ À½¿î±â¼ú¿¡¼­ Áß½ÉÀûÀÎ ¿ªÇÒÀ» ÇÑ´Ù´Â »ý°¢À¸·Î ¹Ù²î°Ô µÇ¾ú´Ù.
+  1960³â´ë ÃÊ¿¡ ¹ßÇ¥ÇÑ Halle(1962)¿Í Halle(1964)¿¡¼­´Â À½¿î±ÔÄ¢À» º¯º°Àû ÀÚÁú·Î ¾µ ¶§¿¡ ¾ò¾îÁø´À °æÁ¦¼º¿¡ ´ëÇØ ¸íÈ®ÇÏ°Ô¾ð±ÞÇÏ°í ÀÖ´Ù.  À½¼Ò·Î ±ÔÄ¢À» ¾µ °æ¿ì º¹ÀâÇÏ±â°¡ °°¾Æ º¸ÀÌ´Â µÎ ±ÔÄ¢ÀÌÁö¸¸ º¯º°Àû ÀÚÁúÀ» ÀÌ¿ëÇÏ¿© ±ÔÄ¢À» ½½ ¶§¿¡´Â ÇÑ °³ÀÇ ±ÔÄ¢ÀÌ ´Ù¸¥ ÇÑ °³ÀÇ ±ÔÄ¢º¸´Ù °£´ÜÇÏ´Ù´Â °ÍÀ» ¸íÈ®È÷ ¾Ë ¼ö ÀÖÀ¸¸ç, ¶ÇÇÑ Á÷°üÀûÀ¸·Î ÀÚ¿¬ºÎ·ùÀÇ °³³äÀÌ³ª ÀÚ¿¬½º·¯¿î À½¿î°úÁ¤À» Àß ¼³¸íÇÒ ¼ö ÀÖÀ½À» º¸¿©ÁÖ°í ÀÖ´Ù.  ´õ ³ª¾Æ°¡¼­ ±ÔÄ¢¼øÀÇ °³³äÀ» ÀÌ¿ëÇÏ¸é ÀÚÁú¸í¼¼¸¦ °£ÆíÇÏ°Ô ÁÙÀÏ ¼ö ÀÖ´Ù´Â Á¡°ú Á÷°üÀûÀ¸·Îµµ °¡Àå ÅëÂû·Â ÀÖ´Â ºÐ¼®À» ÇÒ ¼ö ÀÖ´Ù°í ÁÖÀåÇÏ°í ÀÖ´Ù.  À§ÀÇ µÎ ³í¹®¿¡¼­ »ý¼ºÀ½¿î·ÐÀÇ Áß¿äÇÑ ±âº»°ñ°ÝÀÌ °ÅÀÇ ´Ù °®Ãß¾îÁö°Ô µÇ¾î¼­ Chomsky & Halle(1968)¿¡ ÀÌ¸£°Ô µÇ¾ú´Ù.
+  ÇÑÆí Chomsky´Â 1962³â¿¡ MassacusettsÁÖ Cambridge¿¡¼­ °³ÃÖµÈ International Congress of Linguists¿¡ Harris´ë½Å¿¡ ÃÊÃ»À» ¹Þ¾Æ ±¸Á¶ÁÖÀÇ À½¼Ò·ÐÀÇ °¡Á¤µéÀ» ¸Å¿ì ½Å¶öÇÏ°ÔºñÆÇÇÏ°Ô µÇ¾úÀ¸¸ç ÀÌ ³»¿ëÀÇ ´ëºÎºÐÀÌ Chomsky(1964)·Î ÃâÆÇµÇ¾î ³ª¿À°Ô µÇ¾ú´Ù.  ÀÌ¿Í °°ÀÌ Chomskyµµ Halle¿Í ºñ½ÁÇÑ »ý°¢À» ÇÏ°í ÀÖ¾úÀ½À» º¼ ¼ö ÀÖÀ¸¸ç, ÀÌµéÀº ÀÌ¹Ì 1950³â´ë¿¡ ÀÇ°ßÀÇ ÀÏÄ¡¸¦ º¸°í ÀÖÀ½À» ¾Ë ¼ö ÀÖ´Ù.  ÀþÀº ÇÐÀÚµéÀº ÀÌ¿Í °°ÀÌ À½¿î·ÐÀÇ »ý¼ºÀûÀÎ Á¢±Ù¹æ¹ýÀÇ Áß¿ä¼ºÀ» ÀÎ½ÄÀº ÇÏ¿´À¸³ª, ÀÌ¶§±îÁö´Â ¾ÆÁ÷µµ ±¸Á¶ÁÖÀÇ ¿¬±¸°¡ Áö¹èÀûÀÌ¾î¼­ LSAÇÐÈ¸ ¸ðÀÓ¿¡¼­µµ ¹ßÇ¥µÈ ³í¹®ÀÇ ´ëºÎºÐÀÌ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐÀÇ ³í¹®ÀÌ¾ú´Ù.  ±×·¯³ª Chomsky & Halle(1965)¿¡¼­ ±¸Á¶ÁÖÀÇÀÚµéÀÇ ºñÆÇ¿¡ ¸íÈ®ÇÑ ´äº¯À» ÇÑ ÈÄ¿¡´Â ³íÀïÀÌ °¡¶ó¾É°Ô µÇ¾ú°í, 19966³â ÀÌÈÄºÎÅÍ´Â ChomskyÀÇ ÁÖÀåÀÌ °ü½ÉÀÇ ÃÊÁ¡ÀÌ µÇ¾î ¹Ì±¹ ¾ð¾îÇÐ ¿¬±¸ÀÇ Áß½ÉÀÌ µÇ¾ú´Ù.
+  ÀÌ¿Í °°ÀÌ »ý¼ºÀ½¿îÀÌ·ÐÀ» ´Ù¸¥ ³í¹®µéÀÌ ´ÜÆíÀûÀ¸·Î Á¦½ÃµÇ¾î ¿À´Ù°¡ 1968³â¿¡ ¿Í¼­ Chomsky & Halle´Â The Slund Pattern of English(ÀÌÇÏSPE¶ó ¯‚ÇÔ)¸¦ ÃâÆÇÇÏ¿© ¼¼»ó¿¡ ³»³õÀ½À¸·Î½á »ý¼ºÀ½¿îÀÌ·ÐÀÌ Æ÷°ýÀû¤·ÀÌ°í ±¸Ã¼ÀûÀÌ¸ç ¿Ï¼ºµÈ ÇüÅÂ·Î ³ªÅ¸³ª°Ô µÇ¾úÀ¸¸ç ¶ÇÇÑ Á¤´ç¼ºÀ» ÀÎÁ¤¹Þ°Ô µÇ¾ú´Ù.  ÃÊ±âÀÇ »ý¼ºÀ½¿î·ÐÀÌ ¹ß´ÞÇÏ°ÔµÈ ¿ÜÀû ¿äÀÎÀ» ¿ä¾àÇØ º¸¸é ±× ´ç½Ã ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ ÀÌ·ÐÀÇ ÁöÁÖ°¡ µÇ¾î ¿Ô´ø °æÇèÁÖÀÇ Ã¶ÇÐ»ç»ó°ú Çàµ¿ÁÖÀÇ ½É¸®ÇÐÀÇ Á¢±Ù¹æ»µÀÌ °ø°ÝÀÇ ´ë»óÀÌ µÇ¾î ¼èÅðÇÏ±â ½ÃÀÛÇÏ¸é¼­ ±¸Á¶ÁÖÀÇ ÀÌ·ÐÀÌ Èçµé¸®°Ô µÇ¾ú´ø °ÍÀÌ´Ù.  ±×°Í°ú µ¿½Ã¿¡ PragueÇÐÆÄÀÇ º¯º°Àû Àæ¸® °³³äÀº »ý¼ºÀ½¿î·ÐÀÇ ¹ß´Þ¿¡ ¸Å¿ì Å« °øÇåÀ» ÇÏ¿´´Ù.  ±×¸®°í ³»Àû ¿äÀÎÀ¸·Î´Â ¹Ì±¹ ±¸Á¶ÁÖÀÇ À½¼Ò·ÐÀÇ ¸î °¡Áö ¹®Á¦Á¡À» °³¼±ÇÏ±â À§ÇØ »õ·Î¿î ÀÌ·ÐÀû Á¢±Ù¹æ¹ýÀÌ ÇÊ¿äÇß´ø °ÍÀÌ´Ù.  ÀÌ °¡¿îµ¥ ¸î °¡Áö¸¦ »ìÆìº¸¸é ´ÙÀ½°ú °°´Ù.  ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ¿¡¼­ À½¼Ò´Â Ãß»óÀûÀÌÁö ¸øÇÏ±â ¶§¹®¿¡ ´õ Ãß»óÀûÀÎ ÇüÅÂÀ½¼Ò¸¦ ¼³Á¤ÇÏ¿© ¸ð±¹¾î È­ÀÚµéÀÇ Á÷°üÀ» ÃæÁ·½ÃÅ°¸é¼­ ¿©±ê¿¡¼­ À½¼Ò¸¦ µµÃâÇØ ³»µµ·Ï ÇÏ¿´´Ù.  ±×·¯³ª ÀÌ·¸°Ô µµÃâÇØ ³½ À½¼Ò´Â ¿ª½Ã ¹®¹ý¿¡¼­ Á¦¿ÜµÇ¾î¾ß ÇÑ´Ù°í »ý¼ºÀ½¿î·ÐÀÚµéÀº ÁÖÀåÇÏ°Ô µÇ¾ú´Ù.  ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­´Â ÇüÅÂÀ½¼ÒÃþÀ§, À½¼ÒÃþÀ§, ±×¸®°í À½¼ºÇ¥½ÃÃþÀ§ÀÇ 3°³ÀÇµ¶¸³ÀûÀÎ ÃþÀ§¸¦ ÀÎÁ¤ÇÏ°í °¢ ÃþÀ§°£¿¡ ½Ö¹æÇâ À¯ÀÏ¼º °ü°è°¡ À¯ÁöµÇµµ·Ï ÇÏ¿´´Ù.  ±×·¯³ª »ý¼ºÀ½¿î·Ð¿¡¼­´Â ÇüÅÂÀ½¼Ò¿Í À¯»çÇÑ Ãß»óÀû ½ÇÃ¼¸¦ ±âÀúÇ¥½ÃÇÏ¿´´Ù.  ±×·¯³ª »ý¼ºÀ½¿î·Ð¿¡¼­´Â ÇüÅÂÀ½¼Ò¿Í À¯»çÇÑ Ãß»óÀû ½ÇÃ¼¸¦ ±âÀúÇ¥½Ã(underlying representation)¶ó°í ºÎ¸£°í, ÀÌ ±âÀúÇ¥½ÃÃþÀ§¿Í À½¼ºÇ¥½Ã(phonetic representation)ÃþÀ§¸¸À» ÀÎÁ¤ÇÑ´Ù.  ±×¸®°í ±âÀúÇ¥½Ã¿Í À½¼ºÇ¥½Ã¸¦ ¿¬°á½ÃÅ°´Â ÀÛ¾÷À» ÀÏ·ÃÀÇ ±ÔÄ¢ÀÌ ¸»¾Æ¼­ ÇÑ´Ù.  ±×·¯¹Ç·Î »ý¼ºÀ½¿î·ÐÀÚµéÀº ±¸Á¶ÁÖÀÇÀÚµéÀÇ À½¼ÒÃþÀ§¸¦ ÀÎÁ¤ÇÏÁö ¾Ê°í ±ÔÄ¢ÀÌÁß½ÉÀÌ µÇµµ·Ï ÇÔÀ¸·Î½á ±¸Á¶ÁÖÀÇ¿Í Ã³À½ºÎÅÍ °¥¶óÁö°Ô µÇ¾ú´Ù. ¶Ç ÇÏ³ªÀÇ ±¸Á¶ÁÖÀÇÀ½¼Ò·Ð¿¡¼­ÀÇ ¹®Á¦Á¡Àº ÃþÀ§È¥ÇÕÀÌ¾ú´Ù.  ±×·¯³ª »ý¼ºÀ½¿î·Ð¿¡¼­´Â ÃþÀ§ÀÇ ¾ö°ÝÇÑ ºÐ¸®¿¡ ´ëÇÑ ¹ÝÁõÀ» Àç½ÃÇÏ¸é¼­ ´Ù¸¥ ÃþÀ§ÀÇ Á¤º¸°¡ ÇÊ¿äÇÔÀ» º¸¿©ÁÖ¾ú´Ù.  ´õ±¸³ª ±¸Á¶ÁÖÀÇ¾ð¾îÇÐ¿¡¼­ Åë»ç·ÐÀÌ À½¼Ò·Ðº¸´Ù »óÀ§ÃþÀ§¿¡ ÀÖ´Ù°í »ý°¢ÇÏ¿´Áö¸¸ º¯Çà»ý¼º¹®¹ý¿¡¼­ÀÇ ¹®¹ý±â¼úÀº Åë»ç·Ð¿¡¼­ ½ÃÀÛÇÏ¿© À½¿î·ÐÀ¸·Î ³»·Á¿À±â ¶§¹®¿¡ ¾ð¾îÇÐÀÇ ÃþÀ§¼ø¼­¿¡ µû¶ó¼­ ±â¼úÇØ¾ß ÇÑ´Ù´Â ÁÖÀåÀÌ³ª ÃþÀ§È¥ÇÕÀ» ¹Ý´ëÇÑ´À ±¸Á¶ÁÖÀÇÀÇ ÁÖÀåÀº ¼³µæ·ÂÀ» ÀÒ°Ô µÇ¾î »õ·Î¿î »ý¼ºÀ½¿î·ÐÀÇ ¹ß´ÞÀ» º¸°Ô µÇ¾ú´Ù.  Æ¯È÷ »ý¼ºÀ½¿î·Ð¿¡¼­´Â ¹Ì±¹ ±¸Á¶ÁÖÀÇÀÚµé¿¡°Ô ¾òÀº À½¿î°úÁ¤¿¡ °üÇÑ Çü½ÄÈ­µÇÁö ¾ÊÀº ±â¼úÀÌ³ª ±ÔÄ¢À» ¸í½ÃÀûÀ¸·Î °ø½ÄÈ­½ÃÅ´À¸·Î½á »õ·Î¿î ¸Å·ÂÀûÀÎ ÀÌ·ÐÀ¸·Î ºÎ°¢µÇ¾ú´ø °ÍÀÌ´Ù.
+
+1.4.2. ¼ºÃþÀ½¿î·Ð
+
+  ChomskyÀÇ º¯Çà»ý¼º¹®¹ýÀÌ ¾ÆÁ÷ ¿Ï¼÷´Ü°è¿¡ ÀÌ¸£Áöµµ ¸øÇÑ 1960³â´ë¿¡ ¿Í¼­ Sydney Lamb¸¦ Áß½ÉÀ¸·Î Gleason, Lockwood, Algeo±×¸®°í BENNET¿¡ ÀÇÇØ ¿¬±¸.¹ßÀüµÈ ¼ºÃþ¹®¹ý(STRATIFICATIONAL GRAMMAR)Áö±Ý±îÁöÀÇ¾ð¾î±â¼ú¿¡ ´ëÇØ ºñÆÇÀ» °¡ÇÏ°Ô µÇ¾ú´Ù.
+  ¼ºÃþ¹®¹ý¿¡¼­ ¿¬¾î±¸Á¶´Â ¸î °³ÀÇ ±¸Á¶Àû ¼ºÃþÀ¸·Î ÀÌ·ç¾îÁ³À¸¸ç ÀÌ ¼ºÃþÀº °¢°¢ ÇÏ³ªÇÏ³ª°¡ µ¶¸³ÀûÀ¸·Î ±× ¼ºÃþ³»¿¡ ¾ð¾î¿ä¼ÒÀÇ³»ºÎ°ü°è¿Í ¹è¿­À» °¡Áö°í ÀÖ´Ù°í º»´Ù.  ±×·¯¹Ç·Î ÇÑ ¾ð¾î ÀüÃ¼¿¡ Àû¿ëÇÒ ¼ö ÀÖ¾ú´ø ¾ð¾îÀÌ·ÐÀÌ ÀÌ¼ºÃþ ÇÏ³ªÇÏ³ª¿¡ Àû¿ëµÉ ¼ö ÀÖ´Ù´Â °ÍÀÌ´Ù.  ±×·¯¸é ÀÌ ¼ºÃþÀÌ °¢ ¾ð¾î¿¡ ¸î°³ ÀÖ´Â°¡¿¡ ´ëÇÑ ¼³¸íÀ¸·Î´Â ´ë°³ 4°³ ³»Áö 6°³ÀÇ ¼ºÃþÀ» °¡Áö°í ÀÖ´Ù°í º¹, ¿µ¾î´Â 6Ãþ¾î¿¡ ¼ÓÇÑ´Ù´Â °ÍÀÌ´Ù.  Lockwood(1972)°¡ Á¦½ÃÇÑ ¼ºÃþÀÌ·Ð¿¡´Â gnostemics, semen=mics, lexemics, morphemics, phonemics, ±×¸®°í phoneticsÀÇ 6°³ÀÇ ¼ºÃþÀÌ ÀÖ´Ù.
+  ¾ð¾îÀÇ ±¸Á¶°¡ ¿©·¯ °³ÀÇ ¼ºÃþÀ¸·Î ÀÌ·ç¾îÁ³´Ù°í »ý°¢ÇÏ´Â ÀÌÀ¯·Î´Â ¾ð¾î¶õ º»ÁúÀûÀ¸·Î À½¼º°ú ÀÇ¹Ì°¡ °áÇÕµÇ¾î ÀÌ·ç¾îÁö´Âµ¥, ±× °áÇÕµÇ´Â °ü°è¶õ ¸Å¿ì º¹ÀâÇÏ¹Ç·Î ÀÌ·¯ÇÑ º¹ÀâÇÑ °ü°èÀÇ ºÐ¼®ÀÌ ÇÑ °³ÀÇ Ã¼°è³»¿¡¼­´Â ºÒ°¡´ÉÇÏ´Ù´Â °ÍÀÌ´Ù.  ±×·¡¼­ ÇÑ ¾ð¾î¸¦ ºÐ¼®ÇÏ´Â µ¥¿¡´Â ¸î °³ÀÇ Á¶Á÷Ã¼°è°¡ ÀÖ¾î¾ß µÈ´Ù´Â °ÍÀÌ´Ù.  ¼ºÃþ¹®¹ý¿¡¼­´Â ¾ð¾î±â¼ú¿¡ ÀÖ¾î¼­ ÃþÀ§°£ÀÇ È¥ÇÕÀ» Çã¿ëÇÏÁö ¾Ê°í ÀÖ´Ù.
+  LambÀÌ ÁÖµµÇÑ ¼ºÃþ¹®¹ýÀº ÃÊ±â¿¡´Â BloomfieldÇÐÆÄÀÇ ¿µÇâÀ» ¸¹ÀÌ ¹Þ¾ÒÀ¸¸ç, ¶ÇÇÑ HjelmslevÀÇ ¿µÇâµµ ¸Å¿ì ÄÇ´ø °ÍÀÌ´Ù.  ¼ºÃþ¹®¹ý¿¡¼­´Â ¾ð¾î¸¦ °ü°èÃ¼°è(a system of relationship)·Î º¸¾Æ Å« Ã¼°è´Â ´õ ÇÏÀ§¿¡ ÀÕ´Â ÀÏ·ÃÀÇ ¼ºÃþÃ¼°è (stratal system)·Î ÀÌ·ç¾îÁø °ÍÀÌ¶ó »ý°¢ÇÑ´Ù. °¢ ¼ºÃþÀº DOWNWARD : UPWARD, IUNORDERED : ORDERED, AND : ORÀÇ 3Á¾·ùÀÇ ´ë¸³°ü°è¿¡¼­ »ý°Ü³ª´Â ¸î °³ÀÇ ±âº»Àû ±¸¼º°ü°è°¡ ÀÖ´Ù.  UPWARD´Â ÀÇ¹Ì¸¦ ÇâÇØ ¿Ã¶ó°¡´Â °ÍÀ» ³ªÅ¸³»°í, DOWNWARD´Â À½¼ºÀ» ÇâÇØ ³»·Á°¨À» ÀÇ¹ÌÇÑ´Ù.  AND¿Í ORÀÇ ÀÇ¹Ì´Â ¸í¹éÇÏ´Ù.  ÀÌ°ÍµéÀº HjelmslevÀÇ both-and¿Í either-or¿¡ ÀÏÄ¡ÇÏ´Â °ÍÀ¸·Î º»´Ù.  AND¿¡ °üÇÑ ¼ø¼­´Â ¸ÕÀú ÇÏ³ª¸¦ ÃëÇÏ°í ´ÙÀ½¿¡ ³ª¸ÓÁö ÇÏ³ª¸¦ ÃëÇÏ´Â ½Ã°£Àû ¼­¿­À» ¸»ÇÏ´Â ¹Ý¸é, OR´Â ¹èÅ¸ÀûÀÎ °ÍÀ¸·Î ¼ø¼­´Â ¿ì¼±Àû ¼±ÅÃÀ» ³ªÅ¸³½´Ù.  ÀÌ°ÍÀ» ¾ð¾î ±×·¡ÇÁ³ª ´ë¼ö½Ä ºÎÈ£·Î Ç¥½Ã ÇÏ±âµµ ÇÑ´Ù.
+  ¼ºÃþ¹®¹ý¿¡¼­´Â ¾ð¾î±â¼úÀÇ ¿ø¸®·Î¼­ 3°¡Áö¸¦ µé°í ÀÖ´Ù.  Ã¹ÂÅ, ¾ð¾î±â¼úÀº ´Ü¼øÈ­ÀÇ °úÁ¤ÀÌ¶ó´Â °ÍÀÌ´Ù.  ¾ð¾î±â¼úÀÌ¶õ ¿ì¸®°¡ °üÂûÇÒ ¼ö ÀÖ´Â ¹ßÇö(MAHIFESTATION)À» ÀÚ·á»ï¾Æ ±âÀú°ü°è(underlying relationship)¸¦ Ã£¾Æ³»´Â ÀÛ¾÷ÀÎµ¥, ÀÌ ±âÀú°ü°è´Â ºñ½ÁÇÑ ¿ä¼ÒµéÀÌ ¹Ýº¹µÇ¾î ¼øÈ¯ÀûÀ¸·Î ³ªÅ¸³ª´Â °ÍÀÌ±â ¶§¹®¿¡ ¹Ýº¹ÀûÀÎ ¿ä¼Ò¸¸ »©³»¾î ÇÑ ¹ø¸¸ ±â¼úÇÑ´Ù¸é ÀÌ°ÍµéÀ» ¹Ýº¹ÀûÀ¸·Î ±â¼úÇØ¾ß µÇ´Â ¹ø°Å·Î¿òÀ» Á¦°ÅÇÒ ¼ö ÀÖ´Ù´Â °ÍÀÌ´Ù.  µÑÂÅ, °°Àº ¾ð¾îÀÚ·á¿¡¼­ µ¿ÀÏÇÑ °á°ú¿¡ µµ´ÞÇÒ ¼ö ÀÕ´Â ±âÁØÀ» ÅÃÇØ¾ß ÇÑ´Ù´Â °ÍÀÌ´Ù.  ¼ÂÂÅ, ¾ð¾î±â¼úÀº ¿ÜºÎÀÇ ÀÌÁúÀûÀÎ Æ²À» ºô·Á¼­ »ç¿ëÇÒ °ÍÀÌ ¾Æ´Ï¶ó ±× ÀÚÃ¼ÀÇ µéÀ» »ç¿ëÇÏ¿©¾ß ÇÑ´Ù´Â °ÍÀÌ´Ù.  ÀÌ°ÍÀº ¾ð¾î±â¼ú¿¡ ÀÖ¾î¼­ ÃþÀ§°£ÀÇ È¥ÇÕÀ» Çã¿ëÇÏÁö ¾Ê´Â´Ù´Â ¿ø¸®ÀÎ °ÍÀÌ´Ù.  
+  ¼ºÃþ¹®¹ýÀÇ À½¿î¼ºÃþÀÇ ±¸Á¶¸¦ º¸¸é ´ÙÀ½°ú °°´Ù.
+  À½Àº¼ºÃþÀÇ Áß½ÉÀº À½¼Ò(phoneme)ÀÌ´Ù.  ÀÌ ¼ºÃþÀ½¼Ò´Â Á¾·¡ÀÇ À½¼Ò´ÜÀ§¿Í µ¿ÀÏÇÏÁö´Â ¾Ê´Ù.  Å©±â´Â °°À¸³ª ±×°ÍÀÌ ÇüÅÂÀÚ(morphon)¸¦ ½ÇÇö½ÃÅ°±â ¶§¹®¿¡ ÇüÅÂÀ½¼ÒÀÇ ¼º°ÝÀ» Áö´Ï°í ÀÖ´Ù.  À½¼Ò±âÈ£(phonemic sign)°¡ Á¾·¡ÀÇ À½¼ÒÇ¥½Ã¿¡ ÇØ´çµÈ´À °ÍÀ¸·Î º¸¸ç ÀÌ À½¼Ò ±âÈ£´Â À½ÀÚ(phonon)·Î ÀÌ·ç¾îÁø ´ÜÀ§·Î ¿©±â¿¡´Â ´ÜÁö º¯º°ÀûÀÎ À½ÀÚ¸¸ Æ÷ÇÔÇÏ°í ÀÖ´Ù.
+  ¼ºÃþÀ½¿î·Ð¿¡¼­´Â µÎ °³ÀÇ ±³Ã¼ÇüÀÌ ÀÖÀ» ¶§ ±×Áß ¾î´À °Íµµ ¾Æ´Ñ Ãß»óÀûÀÎ Á¦ 3ÀÇ ÇüÀ» ±âº»ÇüÀ¸·Î »ï°í ¿©±â¿¡¼­ ½ÇÀçÇÏ´Â µÎ °³ÀÇ ÇüÀÌ ½ÇÇöµÇ´Â °ÍÀ¸·Î »ý°¢ÇÑ´Ù.  ¿¹¸¦ µé¸é /nayf/°¡ /-z/¾Õ¿¡¼­´Â /nayv/·Î ½ÇÇöµÇ´Âµ¥, ÀÌ ¹®¹ý¿¡¼­´Â/nayF/¶ó´Â Ãß»óÀûÀÎ ÇüÀ» ¼³Á¤ÇÏ°í ¿©±â¿¡¼­ /nayf/È¤Àº /nayv(z)/·Î ½ÇÇöµÈ´Ù°í ±â¼úÇÑ´Ù.  ¼ºÃþ¹®¹ýÀº º¯Çü¹®¹ý°ú´Â ´Þ¸® ³»ÀçÀû ¼ö³Ó(intrinsic ordering)¸¸À» ÀÎÁ¤ÇÏ¸ç, ¹æÇâ¼ºÀ» °¡Áø º¯Çü¹®¹ý°ú´Â ´Þ¸® ´Ù¸¸ °ü°èÃ¼°èÀÎ °ÍÀÌ´Ù.
+  LambÀº ¸¹Àº ÈÄ°èÀÚ¸¦ °¡ÁöÁö ¸øÇÏ¿´´Ù.  ÀÌ°ÍÀº  Chomsky°¡ °ÅÀÇ °°Àº ½Ã´ë¿¡ »õ·Î¿î ÀÌ·ÐÀ» ¸¸µé¾î ¸¹Àº »ç¶÷µéÀ» ¼³µæ½ÃÅ³ ¼ö ÀÖ¾ú±â ¶§¹®ÀÌ±âµµ ÇÏÁö¸¸, ±×·¯³ª ÁÖµÈ ÀÌÀ¯´Â ¼ºÃþ¹®¹ýÀÌ·ÐÀÌ ¾ð¾îº»Áú¿¡ °üÇØ ¸Å¿ì °­·ÂÇÏ°í Èï¹ÌÀÖ´Â ÀÌ·ÐÀ» Á¦½ÃÇÏ°í´Â ÀÖÀ¸³ª, ±× ÀÌ·ÐÀÌ ½ÇÁ¦ÀûÀÎ ¸éº¸´Ù´Â ÀÌ·ÐÀûÀÎ ¸éÀ¸·Î ¹ßÀüÇÏ¿´±â ¶§¹®ÀÌ´Ù.  ÀÌ·ÐÀ» Àü°³½ÃÅ°´Â µµ±¸(Æ¯È÷ ±×·¡ÇÁ)°¡ ºÒÇÊ¿äÇÏ°Ô º¹ÀâÇÏ´Ù.  ±×·¯³ª ¼ºÃþ¹®¹ý¿¡¼­ ±âÀú¿ä¼Òµé°ú ±×µéÀÇ ½ÇÇö »çÀÌ¿¡¼­ ¾òÀ» ¼ö ÀÖ´Â °ü°è¿¡ ´ëÇÑ °­Á¶´Â °¡Ä¡ ÀÕ´Â ÀÌ·ÐÀÌ¶ó ÇÒ ¼ö ÀÖ´Ù.
+
+1.4.3. Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·Ð°ú ¹®Á¦Á¡
+
+  Chomsky & HalleÀÇ SPE °¡ 1968³â¿¡ ÃâÆÇµÇ¾î ¼¼»ó¿¡ ³ª¿È¿¡ µû¶ó »ý¼ºÀ½¿îÀÌ·ÐÀº ¿Ï¼ºµÈ ÇüÅÂ¸¦ °®Ãß¸é¼­ ÀÚ¸®¸¦ ±»È÷°Ô µÇ¾ú´Ù.  ±×·¯³ª ÀÌ Ã¥ÀÌ ÃâÆÇµÇ±â ¸î ³â ÀüºÎÅÍ ±× ¿ø°í´Â ¿©·¯ ÇüÅÂ·Î º¸±ÞµÇ¾î ±× ³»¿ëÀÌ ³Î¸® ¾Ë·ÁÁ® ÀÖ¾ú±â ¶§¹®¿¡ ¿©±â¿¡¼­ Á¦½ÃµÈ ¿©·¯ °¡Áö ¹®Á¦¿¡ ´ëÇÑ ºñÆÇµµ ¾Æ¿ï·¯ ½ñ¾ÆÁ® ³ª¿À°Ô µÇ¾úÀ¸¸ç ¸î¸î ¹®Á¦¿¡ ´ëÇÑ ³íÀÇ´Â ¿À´Ã³¯±îÁöµµ °è¼ÓµÇ°í ÀÖ´Ù.  ÃÖ±Ù¿¡´Â »ý¼ºÀ½¿î·Ð¿¡ ´ëÇÑ »õ·Î¿î Á¢±Ù¹æ¹ýÀÌ Á¦½ÃµÊ¿¡ µû¶ó ÀÌ°ÍÀ» Á¾ÀüÀÇ ¿¬±¸¿Í ±¸º°ÇÏ±â À§ÇÏ¿© SPE¿¡¼­ ÁÖÀåÇÏ´Â ÀÌ·Ð¿¡ ¹ÙÅÁÀ» µÐ »ý¼ºÀ½¿îÀÌ·ÐÀ» Ç¥ÁØ»ý¼ºÀ½¿î·Ð(STANDARD GENERATIVE PHONOLOGY)È¤Àº Ç¥ÁØÀÌ·ÐÀÌ¶ó°í ºÎ¸£°í ÀÖ´Ù.
+  º¯Çü»ý¼º¹®¹ý ¼Ó¿¡¼­ÀÇ Ç¥ÁØ»ý¼ºÀ½¿î·ÐÀÇ À§Ä¡´Â ÃÊ±âÀÇ »ý¼ºÀ½¿î·ÐÀÇ ÃëÄ¡¸¦ Cfhomsky(1968)¿¡¼­µµ ¹®¹ýÀ» ¼¼ °³ÀÇ ÇÏÀ§ºÎ, Áï Åë»çºÎ, ÀÇ¹ÌºÎ, À½¿îºÎ·Î ³ª´©°í ÀÌ °¡¿îµ¥ Åë»çºÎ´Â »ý¼ºÀÇ ±â´ÉÀ» °¡Áö°í ÀÖ¾î ¿©±â¿¡¼­ »ý¼ºÇØ ³½ °ÍÀ» ÀÇ¹ÌºÎ´Â ÇØ¼®ÇÏ´Â ¿ªÇÒ¸¸ ÇÑ´Ù.  À½¿îºÎÀÇ ÇØ¼®¿ªÇÒÀ» ±¸Ã¼ÀûÀ¸·Î ¸»ÇÏ¸é Åë»çºÎ¿¡¼­ ÃÖÁ¾ÀûÀ¸·Î »ý¼ºÇØ ³½ Ç¥¸é±¸Á¶´Â À½¿îºÎ¿¡ ÀÔ·ÂÀÌ µÇ¾î À½¿îºÎÀÇ ÇØ¼®ÀåÄ¡¸¦ ÅëÇØ ÀÌ°ÍµéÀ» ½ÇÁ¦ ¹ßÀ½ÇüÅÂ·Î ÇØ¼®ÇØ ³»°Ô µÈ´Ù.  ÀÌ¶§ Åë»çºÎ¿¡¼­ ÃÖÁ¾ÀûÀ¸·Î »ý¼ºÇØ³½ Ç¥¸é±¸Á¶°¡ ±×´ë·Î À½¿îºÎ¿¡ ÀÔ·ÂµÇ´Â °ÍÀÌ ¾Æ´Ï¶ó ±× »çÀÌ¿¡ ÀÖ´Â Á¦Á¶ Á¤ºÎ(readjustment component)ÀÇ ÀçÁ¶Á¤±ÔÄ¢À» °ÅÃÄ Åë»çºÎÀÇ ÃÖÁ¾Ãâ·ÂÀ» ¾Ë¸Â°Ô ¼ÕÁúÇÏ¿© À½¿îºÎ¿¡ ÀÔ·ÂÇÏ°Ô µÈ´Ù.  À½¿îºÎ¿¡¼­ ÀÌ°ÍÀ» º¯º°Àû ÀÚÁú·Î Ç¥½ÃµÈ À½¿îÇ¥½Ã(phonological representation)ÀÌ´Ù.  ¿©±â¿¡ À½¿î±ÔÄ¢ÀÌ Àû¿ëµÇ¾î À½¼ºÇ¥½Ã(phonetic representation)°¡ µµÃâµÇ°Ô µÈ´Ù.  ±×·¯¹Ç·Î Ç¥ÁØ»ý¼ºÀ½¿î·ÐÀÇ °ñ°ÝÀº À½¿î±¸Á¶¸¦ ³ªÅ¸³»´Â Ãß»óÀûÀÎ ±âÀúÇüÀÎ ±âÀúÇ¥½Ã¿Í À½¼ºÀ¸·Î ½ÇÇöµÇ´Â À½¼ºÇ¥½ÃÀÇ º°°³ÀÇ µÎ ÃþÀ§¸¦ ¼³Á¤ÇÏ°í ÀÏ·ÃÀÇ À½¿î±ÔÄ¢À¸·Î ÀÌ µÎ ÃþÀ§¸¦ ¿¬°á½ÃÄÑ ÁÖ°í ÀÖ´Ù.  ÀÌ¶§ ºÐÀýÀ½ÀÇ ¿¬°áÃ¼·Î ¤··ç¾îÁö´Â ±âÀúÇ¥½Ã¿Í À½¼ºÇ¥½Ã´Â ¾çºÐÀû º¯º°ÀÚÁú·Î Å¸³ª³»°Ô µÇ°í µÎ ÃþÀ§¸¦ ¿¬°áÇÏ´Â ±ÔÄ¢µéÀº Ç¥½Ã ±Ô¾à¿¡ ÀÇÇØ ÀÌ·ç¾îÁö°í ÀÖ´Ù.
+  »ý¼ºÀ½¿î·Ð¿¡¼­´Â º¯º°Àû ÀÚÁúÀ» µµÀÔÇÔÀ¸·Î½á À½¼Ò¸¦ ÃÖ¼Ò´ÜÀ§·Î »ï¾Ò´ø ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­ ¼³¸íÇÏ±â ¾î·Á¿ü´ø ¸¹Àº À½¿îÇö»óµéÀ» °£°áÇÏ°í ÀÏ°ü¼ºÀÖ°Ô, ±×¸®°í ´õ ¸¹Àº °ÍÀ» ¼³¸íÇÒ ¼ö ÀÖ°ÔµÇ¾ú´Ù.  ±¸Á¶ÁÖÀÇ À½¼Ò·Ð°ú »ý¼º À½¿î·ÐÀÇ °¡Àå Å« Â÷ÀÌ°¡ ¹Ù·Î ÀÌ°ÍÀÌ´Ù.  ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­´Â À½¼Ò´Â ´õ ÀÌ»ó ÂÉ°¶ ¼ö ¾ø´Â ÃÖ¼Ò´ÜÀ§·Î »ý°¢ÇÑ ¹Ý¸é, »ý¼ºÀ½¿î·Ð¿¡¼­´Â À½¼Ò¸¦ º¯º°Àû ÀÚÁúÀÇ ¹­À½À¸·Î º¸¾Ò´Ù.  ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­´Â À½¿îÇö»óÀ» ±â¼úÇÒ ¶§ ¹«¾ùÀÌ ¾î¶»°Ô º¯ÇÏ¿´´Â°¡¿¡ ´ëÇÑ ±â¼ú¿¡ °ü½ÉÀÌ ÀÖ¾ú±â ¶§¹®¿¡ À½¼ÒÀû ¼³¸íÀ¸·Î °¡´ÉÇßÀ¸³ª, »ý¼ºÀ½¿î·Ð¿¡¼­´Â ±×°ÍÀÌ ¿Ö º¯ÇÏ¿´´Â°¡¿¡ ´ëÇÑ °ü½ÉÀÌ ´õ ¸¹±â ¶§¹®¿¡ ÀÌ¿¡ ´ëÇÑ ÇØ´äÀ» ¾ò±â À§ÇØ¼­´Â À½¼Ò¸¦ º¯º°Àû ÀÚÁúÀÇ ¹­À½À¸·Î ºÐ¼®ÇÏ¿©¾ß¸¸ °¡´ÉÇÏ°Ô µÈ °ÍÀÌ´Ù.
+  À½¼Ò¸¦ µ¿½ÃÀûÀÎ º¯º°Àû ÀÚ¸®ÀÇ ¹­À½À¸·Î Á¤ÀÇÇÏ·Á´Â ÅÂµµ´Â Jakobson, Fant & Halle(1952)¿¡ ÀÇÇØ¼­ º»°ÝÀûÀ¸·Î ¹ßÀüÇÏ±â½ÃÀÛÇÏ¿´´Ù.  JakobsonÀº 13°³ÀÇ º¯º°Àû ÀÚÁú·Î½á ÀÎ°£¾ð¾î¿¡ ³ªÅ¸³ª´Â ¸ðµç ´ë¸³À» ±â¼úÇÏ±â¿¡ ÃæºÐÇÏ´Ù°í ÁÖÀåÇÏ¿´´Ù.  ±×·¯³ª ±×ÀÇ ÁÖÀå°ú´Â ´Þ¸® ¼¼°è¿¡ Èð¾îÁ® ÀÖ´Â ¸ðµç ¾ð¾î¿¡ ³ªÅ¸³ª´Â ´ë¸³À» 13°³ÀÇ º¯º°ÀÚÁú·Î½ã´À ´Ù¸¦ ¼ö ¾øÀ» »Ó¸¸ ¾Æ´Ï¶ó ÀÌ ÀÚÁú¿¡ ÀÇÇÑ ºÐ·ù´Â ÇüÅÂÀ½¼Ò·ÐÀû ±×¸®°í º¯ÀÌÀ½Àû Çö»óÀÌ ¿ä±¸ÇÏ´Â ºÐ·ù°¡ ¾Æ´Ñ °æ¿ì°¡ ÀÖÀ½À» ÁöÀûÇÏ°í, 1960³â´ë¿¡ ¿Í¼­´Â Halle, McCawley, Schane, Ladefoged°ú °°Àº ÇÐÀÚµéÀÌ JakobsonÀÇ º¯º°Àû ÀÚÁú¿¡ ¼öÁ¤À» °¡ÇÏ°Ô µÇ¾ú´Ù.  JakobsonÀÇ º¯º°Àû ÀÚÁúÀº Á¶À½ÀûÀÎ ¸éµµ °í·Á´Â ÇÏ¿´À¸³ª ±×º¸´Ù ÁÖ·Î À½ÇâÀûÀÎ ¸é¿¡¼­ ¸¸µé¾îÁø °ÍÀÌ±â ¶§¹®¿¡ °áÇÔÀÌ ÀÖÀ½À» ÁöÀûÇÏ°íÀ½ÇâÀûÀÎ ¸éÀ» °í·ÁÇÏ¿© ¸¸µç ÀÚÁúÀ» Á¶À½ÀûÀÎ ÀÚÁú·Î ¹Ù²Ù·Á ÇÏ¿´´Ù.  ÀÌ °æÇâÀ» ´ëÇ¥ÇÏ´Â °ÍÀÌ Chomsky & Halle(1968)¿¡ Á¦½ÃµÈ º¯º°Àû ÀÚÁúÀÌ´Ù.  SPE¿¡¼­´Â º¯º°Àû ÀÚÁúÀÇ ±â´ÉÀ» µÎ °¡Áö·Î ±¸ºÐÇÏ°í ÀÖ´Ù.  ÇÏ³ª´Â JakobsonÀÇ ÀÚÁú¿¡¼­¿Í °°ÀÌ ¾ð¾îÀÇ À½¿î·ÐÀû ´ë¸³À» Æ÷ÂøÇÏ´Â °ÍÀÌ¸ç, ´Ù¸¥ ÇÏ³ª´Â ±âÀúºÐÀýÀ½Àº ¹°·Ð À½¿î±ÔÄ¢¿¡ ÀÇÇÏ¿© µµÃâµÈ ºÐÀýÀ½ÀÇ À½¼ºÀû ³»¿ëÀ» ¸í½ÃÇÏ´Â °ÍÀÌ´Ù.  ¹°·Ð ÀÌ°Íµµ ÀÌ»óÀûÀÎ °ÍÀº ¾Æ´Ï´Ù.  ±×·¯³ª °ú°ÅÀÇ ¿¬±¸¿Í ºñ±³ÇØ º¼ ¶§ ³î¶ö ¸¸ÇÑ Çâ»óÀ» º¸¿©ÁØ °ÍÀº »ç½ÇÀÌ´Ù.  1968³â ÀÌÈÄ º¯º°Àû ÀÚÁú ÀÌ·Ð¿¡ °üÇØ¼­´Â Å©°Ô µÎ ÁÖ·ù·Î ³ª´©¾îÁø´Ù.  ÇÏ³ª´Â Chomsky & Halle(1968)¿¡¼­ ÁÖÀåÇÑ º¯º°Àû ÀÚÁúÀ» ¿ËÈ£ÇÏ¸é¼­ ÇÊ¿äÇÏ´Ù¸é ¿©±â¿¡ º¸ÃæÇÏ¿©±×´ë·Î »ç¿ëÇÏÀÚ´Â ÀÔÀåÀ» ÃëÇÏ´Â °ÍÀ¸·Î Halle°¡ ´ëÇ¥ÀûÀÎ ÀÎ¹°ÀÌ°í, ´Ù¸¥ ÇÏ³ª´Â Ladefoged¸¦ Áß½ÉÀ¸·Î Áö±Ý±îÁöÀÇ º¯º°Àû ÀÚÁúµéÀº ÃøÁ¤ÇÒ ¼ö ÀÖ°í ÀÎ½ÄÇÒ ¼ö ÀÖ´Â À½¼ºÀûÀÎ °Í°ú ÀÏÄ¡µÇÁö ¾Ê±â ¶§¹®¿¡ ¿ÏÀüÈ÷ ¹Ù²Ù¾î¾ß µÈ´Ù´Â ÀÔÀåÀ» ÃëÇÏ´Â ÅÂµµÀÌ´Ù.
+  ÁÖ¾îÁø ÀÚ·á¿¡ ´ëÇØ ¸î °¡Áö ÇØ°á¹æ¹ýÀÌ ÀÖÀ» ¶§ ¼³¸íÀû Å¸´ç¼º(explanatory adequacy)À» Áö´Ñ °ÍÀ» ¼±ÅÃÇÏ±â À§ÇØ¼­ Æò°¡Ã´µµ(evaluation measure)¿¡ ÀÇÁ¸ÇÏ°Ô µÈ´Ù.  ±×·±µ¥ ÀÌ Æò°¡Ã´µµ¿¡ ´ëÇÑ °³³äÀÌ ¼Í¼º¹®¹ý ÃÊ±â¿¡´Â Á¤¸³µÇ¾î ÀÖÁö ¾Ê°í ´ÜÁö °¡Àå °£ÆíÇÑ °ÍÀÌ ¹Ù¶÷Á÷ÇÑ °ÍÀÌ¶ó°í »ý°¢ÇÏ¿© °£°á¼ºÀ» ÀÏ¹Ý¼º°ú ÀÏÄ¡ÇÏ´Â °ÍÀ¸·Î »ý°¢ÇÑ´Ù.  Ç¥ÁØ»ý¼ºÀ½¿î·Ð¿¡¼­´Â °£°á¼ºÀ» Æò°¡Ã´µµ·Î »ïÀ¸¸é¼­, ÀÌ °£°á¼ºÀ» °´°üÀûÀÌ°í °úÇÐÀûÀ¸·Î Ã´µµÈ­ÇÒ ¼ö ÀÖ°Ô ÇÏ±â À§ÇÏ¿© Á¦½ÃÇÑ ¹æ¾ðÀÌ º¯º°Àû ÀÚÁúÀÇ ¼ö¸¦ °è»êÇÏ´Â Ã¢Ä¡¿´´Ù.  º¯º°Àû ÀÚÁúÀ» »ç¿ë ÇÔÀ¸·Î½á ±â¼úÀû Å¸´ç¼º(descriptive adequacy)À» °¡Áø ±ÔÄ¢Àº °üÂû·Â Å¸´ç¼º(observational adequacy)À» Áö´Ñ ±ÔÄ¢º¸´Ù ´õ ÀûÀº ¼öÀÇ ÀÚÁú·Î Å¸³ª³»¾î Áø´Ù´Â °ÍÀÌ´Ù.  ¿¹¸¦ µé¾î ´ÙÀ½ µÎ °³ÀÇ ±¸°³À½È­ ±ÔÄ¢ÀÌ ÀÖ´Ù°í ÇÏÀÚ.  À½¼Ò¸¦ ºÐ¼®ÀÇ ÃÖ¼Ò´ÜÀ§·Î »ý°¢ÇÑ´Â ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­´Â ÀûÀº ¼öÀÇ ±âÈ£¸¦ »ç¿ëÇÑ ±ÔÄ¢(1)ÀÌ ±ÔÄ¢ (2)º¸´Ù ´õ °£°áÇÑ ±ÔÄ¢ÀÌ¶ó°í »ý°¢ÇÏ°Ô µÈ´Ù.  ±×·¯³ª ÀÌ µÎ ±ÔÄ¢À» º¯º°Àû ÀÚÁúÀ» »ç¿ëÇÏ¿© ½á º¸¸é(°øÅëµÇ´Â ºÎºÐ¿¡¼­´Â »ý·« )°¢°¢¿Í °°ÀÌ µÇ¾î ¿ÀÈ÷·Á À½¼Ò·ÐÀÇ ÀÔÀå¿¡¼­ °£ÆíÇÏ°Ô º¸¿´´ø ±ÔÄ¢(1)ÀÌ ÇÏ³ª´õ ¸¹Àº ÀÚÁúÀ» ÇÊ¿ä·Î ÇÏ°í ÀÖÀ½À» º¼ ¼ö ÀÖ´Ù.  ±ÔÄ¢ (2)°¡ ´õ °£°áÇÏ¸ç ÀÏ¹ÝÀûÀÎ ±ÔÄ¢ÀÌ¶ó »ý°¢ÇÑ´Ù.  º¯º°Àû ÀÚÁúÀÇ ¼ö °è»êÀÌ¶ó´Â ¹æ¾ÈÀº ÀÚ¿¬ºÎ·ù(naturl class)ÀÇ °³³äÀ» ¸íÈ®ÇÏ°Ô Á¦½ÃÇÏ¿© ±× ½Äº°À» °¡´ÉÇÏ°Ô ÇÏ¿´À¸¸ç ¶ÇÇÑ °í°¡(high valued)ÀÇ ÀÚ¿¬½º·¯¿î ±ÔÄ¢°ú ±×·¸Áö ¾ÊÀº ºÒ°¡´ÉÇÑ ±ÔÄ¢À» ½±°Ô ±¸º°ÇÏ°Ô ÇØ ÁÖ¾úµû.
+  Ç¥ÁØ»ý¼ºÀ½¿î·Ð¿¡¼­´Â ¼³¸íÀû Å¸´ç¼ºÀ» Áö´Ñ ºÐ¼®¹æ¹ýÀ» ¼±ÅÃÇÏ±â À§ÇØ °£°á¼ºÀÌ¶ó´Â Æò°¡Ã´µµ¿¡ ÀÇÁ¸ÇÏ°Ô µÈ´Ù.  ±×¸®°í ÀÌ °£°á¼ºÀÇ Ã´µµ´Â º¯º°Àû ÀÚÁú»Ó ¾Æ´Ï¶ó Ç¥±â±Ô¾à(notational convention)¿¡ ÀÇÇØ¼­µµ °¡´ÉÇÏ°Ô µÈ´Ù.  À½¿î±ÔÄ¢ÀÇ ºÒÇÊ¿äÇÑ ¹Ýº¹À» ÇÇÇÏ±â À§ÇØ¼­ ¸¸µé¾îÁø Ç¥±â±Ô¾àÀÇ ÀÏ¹ÝÀûÀÎ À½¿î±ÔÄ¢ÀÇ ÇüÅÂ´Â A¡æB/X_Y ¿Í °°Àº °ÍÀÌ´Ù.  ÀÌ ±ÔÄ¢Àº X¿ÍY»çÀÌÀÇ È¯°æÀ» ¹Ýº¹ÇÏÁö ¾Ê±â À§ÇØ¼­  XAY¡æXBY´ë½Å¿¡ ¾´ ±ÔÄ¢À¸·Î, ´õ °£°áÇÑ ±ÔÄ¢À» »ç¿ëÇÔÀ¸·Î½á ¼³¸íÀû Å¸´ç¼ºÀÇ ±â¼úÀ» ÇÒ ¼ö ÀÖÀ½À» º¸¿©ÁØ´Ù.  Ç¥ÁØ»ý¼ºÀ½¿î·Ð¿¡¼­´Â º¯º°Àû ÀÚÁúÀÇ ¼ö¸¦ °¡´ÉÇÏ¸é ÃÖ¼Ò·Î ÁÙ¿© ±ÔÄ¢À» ¾²°Ô ÇÏ´Â Ç¥±â±Ô¾à»Ó¸¸ ¾Æ´Ï¶ó, ±¸Á¶ÀûÀ¸·Î ºñ½ÁÇÑ ±ÔÄ¢µéÀ» ÇÑµ¥ ÇÕÃÄ º¸°íÀÚ ÇÏ´Â Ç¥±â±Ô¾àµéÀ» »ç¿ëÇÏ°í ÀÖ´Ù.  ÀÌµéÀ» »ç¿ëÇÏ¿© ¸¸µé¾îÁø °£°áÇÑ ±ÔÄ¢Àº ´õ Å« ÀÏ¹Ý¼ºÀ» Áö´Ï°í ÀÖ´Ù°í ÁÖÀåÇÑ´Ù.  ±×·¯¹Ç·Î º¯º°Àû ÀÚÁú°ú Ç¥±â±Ô¾àÀº Ç¥ÁØ »ý¼ºÀ½¿î·ÐÀÇ »óÇ¥¿Í °°Àº °ÍÀÌ´Ù.
+  À½¿î±ÔÄ¢ÀÇ Àû¿ë¿¡ ÀÖ¾î¼­´Â À½¿î±ÔÄ¢µéÀÌ ÀÏ·Ä·Î ¼ø¼­°¡ Á¤ÇØÁø ¼±Çü¼ø¼­(LINEAR LRDERING)ÀÇ Àû¿ë¹æ¹ýÀ» ÅÃÇÏ°í ÀÖ´Ù.  µÎ Á¾·ùÀÇ ±ÔÄ¢¼øÀ» »ý°¢ÇÒ ¼ö ÀÖ´Âµ¥, ¿©±â¿¡¼­ ±ÔÄ¢¼øÀÌ¶ó ÇÔÀº ±ÔÄ¢ ÀÚÃ¼³»ÀÇ °ü°è¿¡¼­ ±ÔÄ¢¼øÀÌ ³»ÀçÀûÀ¸·Î Á¤ÇØÁö´Â ³»ÀçÀû ±ÔÄ¢¼ø(intrinsic ordering)À» ¹ßÇÏ´Â °ÍÀÌ ¾Æ´Ï¶ó ¿ÜÀçÀûÀ¸·Î ±ÔÄ¢¼øÀ» Á¤ÇØ¾ß ÇÏ´Â ±ÔÄ¢µéÀÇ ¿ÜÀçÀû ±ÔÄ¢¼ø(extrinsic ordering)À» ÀÇ¹ÌÇÑ´Ù.  ÀÌ¿Í °°ÀÌ ±ÔÄ¢¼øÀ» Á¤ÇÏ¿© ±ÔÄ¢µéÀÇ ºÒÇÊ¿äÇÑ ¹Ýº¹Àû¿ëÀ» ÇÇÇÒ ¼ö ÀÖÀ¸¸ç, ±×¸®°í ±× ±ÔÄ¢¿¡ »ç¿ëµÇ´Â ÀÚÁúµéÀÇ ¼ö¸¦ ÁÙÀÏ ¼ö ¡¡¤¶À¸¹Ç·Î Æò°¡Ã´µµÀÎ °£°á¼º¿¡ µµ´ÞÇÒ ¼ö ÀÖ´Â °ÍÀÌ´Ù.  ¹°·Ð µ¿½Ã¿¡ ÀÏ¹Ý¼ºÀ» Æ÷ÂøÇÒ ¼ö ÀÖ´Â °ÍÀÌ´Ù.
+  ±ÔÄ¢¼øÀÌ Á¤ÇØÁø ÀÏ·ÃÀÇ À½¿î±ÔÄ¢µéÀÌ ±âÀúÇ¥½Ã¿Í À½¼ºÇ¥½Ã¸¦ ¿¬°á½ÃÅ°°í ÀÖ´Ù.  ±×·±µ¥ ±âÀúÇ¥½Ã´Â ¾î¶² ¸ð½ÀÀÌ¾î¾ß ÇÏ´Â°¡¿¡ ´ëÇÑ ¼³¸íÀÌ SPE(p.296)¿¡ ÀÖ´Ù.  Áï, ±âÀúÇ¥½Ã´Â ³Ê¹« ±¸Ã¼ÀûÀÌ¾î¼­ À½¼ºÀÇ ¸ð½À¿¡ °¡±î¿ö¼­µµ ¾ÈµÇ°í ±×·¸´Ù°í Ãß»óÀûÀÌ¾î¼­ À½¼º°ü´À ÀüÇô »ó°üÀÌ ¾ø¾îµµ ¾ÊµÇ°í ¾ç±Ø´Ü »çÀÌÀÇ Áß°£À§Ä¡¶ó°í ÇÏ´Â ¾à°£ ¾Ö¸ÅÇÑ °ßÇØ¸¸À» Á¦½ÃÇÏ°í ÀÖ´Ù.  ±×·¯³ª ½ÇÁ¦·Î SPE¿¡¼­ º¸¿©ÁÖ°í ÀÖ´Â ±âÀúÇ¥½Ã´Â ±¸Á¶ÁÖÀÇ ÇüÅÂÀ½¼Ò·ÐÀÇ ±âº»Çü(BASE FORM)º¸´Ù ´õ Ãß»óÀûÀÎ °Í¸¸Àº »ç½ÇÀÌ´Ù.  ¿µ¾îÀÇ`BOY`ÀÇ °ÅÀúÇ¥½Ã·Î /  /¸¦ ¼³Á¤ÇÑ °ÍÀ» º¸¸é ±× ¾ð¾î¿¡ ¾ø´Â À½¼Ò¸¦ °áÇÕÇÏ¿© ±âÀúÇ¥½Ã·Î ¼³Á¤ÇÒ ¼ö ÀÖÀ½À» º¸¿©ÁÖ´Â °ÍÀ¸·Î ¸ðµç ±âÀúÇ¥½Ã°¡ Ãß»óÀûÀÓÀ» ³ªÅ¸³» º¸¿©ÁÖ°í ÀÖ´Ù.  ±×¸®°í Ç¥ÁØ»ý¼ºÀ½¿î·ÐÀÚµéÀº ÀÌ ±âÀúÇ¥½Ã¸¦ ¼³Á¤ÇÏ´Â µ¥ °í·ÁµÇ¾î¾ß ÇÒ »çÇ× ¸î °¡Áö¸¦ Á¦½ÃÇÏ°í ÀÖ´Ù.  ±×°ÍµéÀº ´ÙÀ½°ú °°´Ù.  ¸î °¡Áö °¡´ÉÇÑ ¼³Á¤¹æ¹ýÀÌ ÀÖÀ» °æ¿ì ¿¹¾ð·ÂÀÌ ÀÖ´Â ¹æ¹ýÀ» ÅÃÇØ¾ß ÇÏ´Â ¿¹¾ð°¡´É¼º(PREDICTABILITY)ÀÇ ¹®Á¦, °æÁ¦¼º(ECONOMY)ÀÇ ¹®Á¦, ±× ¾ð¾î ÀüÅ×ÀÇ Çü(pattern)ÀÌ °®´Â ¾Ð·Â¿¡ ÀÇÇØ ±×°Í¿¡ ÀÏÄ¡½ÃÅ°·Á ÇÏ´Â µ¿Çü¼­(patern congruity)ÀÇ ¹®Á¦, ¼ö±à°¡´É¼º(plausibility)ÀÇ ¹®Á¦, ±×¸®°í Àû¿ëµÉ ±ÔÄ¢ÀÇ °£°á¼ºÀÇ ¹®Á¦µéÀÌ´Ù.
+  ±âÀúÇ¥½ÃÀÇ Ãß»ó¼º(abstractness)ÀÇ ¹®Á¦´Â SPEÀÌÈÄ °è¼Ó Á¦±âµÈ Áß¿äÇÑ ³íÁ¦ °¡¿îµ¥ ÇÏ³ª¿´´Ù.  ÀÌ Ãß»ó¼ºÀÇ ¹®Á¦¸¦ Ã³À½À¸·Î Á¦±âÇÑ °ÍÀº Kiparsky(1968)dml "How Abstract is Phonology?"ÀÌ´Ù.  ±âÀúÇ¥½Ã¸¦ ³Ê¹« Ãß»óÀûÀ¸·Î ¼³Á¤ÇÒ ¶§ Ã¹ÂÅ·Î ÅÃÇÒ ¼ö ÀÖ´Â ºÐ¼®¹æ¹ýÀº À½¿î·ÐÀû ÀÚÁúÀ» ±¸º°ÀÚÁúÃ³·³ ÀÌ¿ë(diacritic use of phonological feature)ÇÏ´Â ºÐ¼®¹æ¹ýÀÌ´Ù.  ÀÌ ºÐ¼®¹æ¹ýÀº Àý´ëÁßÈ­±ÔÄ¢(phonological use of diacritic feature)ÇÏ´Â ºÐ¼®¹æ¹ýÀÌ´Ù.  ±×·¯³ª Kiparsky´Â Àý´ëÁßÈ­±ÔÄ¢À» ÇÊ¿ä·Î ÇÏ´Â Ã¹Â° ºÐ¼®¹æ¹ýÀÌ³ª, À½¼ºÀûÀÎ ³»¿ëÀ» ÀüÇô °í·Á¿¡ ³ÖÁö ¾ÊÀº µÎ¹øÂ° ºÐ¼®¹æ¹ýÀ» ´Ù ¹è°ÝÇÏ°í, À½¿î±ÔÄ¢À¸·Î µµÃâÇÒ ¼ö ÀÖ´Â °ÍÀº µµÃâÇÏ°í ¿¹¿Ü´Â ¿¹¿Ü·Î Ãë±ÞÇÏ´Â ±ÔÄ¢ÀÚÁú¹æ¹ý(rule feature solution)À» ÅÃÇÏ¿´´Ù.  Kiparsky´Â Àý´ëÁßÈ­±ÔÄ¢ÀÇ ºÎ´çÇÔÀ» ÁöÀûÇÏ¸é¼­ ±âÀúÇ¥½Ã¸¦ ÇÒ ¶§ ±³Ã¼ÇüÀÌ ÀÕ´Â °æ¿ì¿¡´Â °æ¿ì¿¡´Â ±× °¡¿îµ¥ ÇÏ³ª°¡ ±âÀúÇ¥½Ã°¡ µÇÁö¸¸ ±³Ã¼ÇüÀÌ ¾ø´Â °æ¿ì¿¡´Â Ç¥¸éÇüÀÌ ¹Ù·Î ±âÀú¤ÁÇ¥½Ã°¡ µÈ´Ù°í ÇÏ´Â ±³Ã¼Á¶°Ç(alternation condition)À» Á¦½ÃÇÏ¿´´Ù.  ±×´Â ÀÌ¿Í °°ÀÌ ÇÔÀ¸·Î½á À½¿îºÐ¼®¿¡ Á¦¾àÀÌ °¡ÇØÁö°Ô µÇ¾î ¹®¹ýÀÇ ÈûÀÌ °úµµÇÏ°Ô Ä¿Áö´Â °ÍÀ» ¸·¾Æ º¸·Á ÇÏ¿´´Ù.  ÀÌ¿Í °°Àº KiparskyÀÇ ÁÖÀå¿¡µµ ¸î °¡Áö ¹®Á¦°¡ ÀÖ¾î¼­ ±×°Í¿¡ ´ëÇÑ ºñÆÇÀÌ ³ª¿À°Ô µÇ¾ú´Ù.  Hyman(1970)ÀÇ"How Concrete is Phonology?"¿Í Vago(1973)ÀÇ "Abstract Vowel Harmony Systems in Uralic and Altaic Languages"¿¡¼­´ÂKiparskyÀÇ °íÃ¼Á¶°Ç¿¡ ¹Ý´ëÇÏ¸é¼­ Ãß»óÀû ºÐ¼®À» ¿ËÈ£ÇÏ¿´´Ù.  Kiparskyµµ ³ªÁß¿¡´Â ¿¹¿Ü¸¦ °£°áÇÏ°Ô ±â¼úÇÏ°í º¸´Ù ¸¹Àº ÀÏ¹Ý¼ºÀ» Æ÷ÂøÇÏ±â À§ÇØ¼­ Ãß»óÀûÀÎ ºÐ¼®À» ¹Þ¾ÆµéÀÌ´Â ÀÔÀåÀ» ÃëÇÏ¿´´Ù.
+  Ç¥ÁØ»ý¼ºÀ½¿î·ÐÀÇ ±Ù°£À» ÀÌ·ç´Â SPE¿¡¼­ Ãß±¸ÇÏ´Â À½¿îÀÌ·ÐÀº À½¿î±â¼úÀ» ¸í½ÃÀûÀÎ Çü½ÄÇ¥±â·Î Åº³»·Á´Â °ÍÀÌ´Ù.  ¿©±â¿¡ Æò°¡°¡´ÉÀÌ °áÇÕµÇ¾î À½¿î·ÐÀÇ ¸ðµç ¹®Á¦µéÀÌ ¾ÆÁÖ ¸í½ÃÀûÀÎ Ç¥±âÃ¼Á¦ ¼Ó¿¡¼­ ±â°èÀûÀ¸·Î ³ªÅ¸³»Áú ¼ö ÀÖ´Ù´Â °ÍÀÌ´Ù.  ¿©±â¿¡ Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·ÐÀÇ ¡¡µµ ÇÏ³ªÀÇ ¹®Á¦Á¡ÀÌ ÀÖ´Ù.  ±×°ÍÀº À½¿î±ÔÄ¢°í °°Àº À½¿î·ÐÀû Ç¥½Ã¸¦ ¿ÏÀüÈ÷ Çü½ÄÀû(formal)ÀÎ ¹æ¹ýÀ¸·Î ³ªÅ¸³»°í °£°á¼ºÀÇ Æò°¡¸¦ ÀÚÁú ¼ö °è»ê°ú °°Àº Çü½ÄÀû ¼ö´Ü¿¡ ÀÇÁ¸ÇÏ°í ÀÖ´Ù´Â µ¥ ÀÖ´Ù.  ÀÚ¿¬¾ð¾î¿¡ ³ªÅ¸³ª´Â Çö»óÀ» ³ªÅ¸³½ À½¿î·ÐÀû ±â¼ú¿¡¼­ ÇÑ °³ÀÇ ÀÚÁúÀ» ¸ðµÎ ´Ù¸¥ ÀÚÁú·Î ¹Ù²Ù°Å³ª, ¶Ç´Â ¾î¶² ÇÑ ÀÚÁúÀÇ +³ª -ÀÇ °ªÀ» ¸ðµÎ ¹Ý´ëÀÇ °ªÀ¸·Î ¹Ù²Ù¾î ÀÚ¿¬½º·´Áö ¸øÇÏ°Ô µÈ °æ¿ì¶óµµ Æò°¡Ã´µµ¿¡ ÀÇÇÏ¸é µÎ Á¾·ùÀÇ ±â¼úÀº Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·ÐÀÇ Æ² ¼Ó¿¡¼­´Â µ¿µîÇÑ ÁöÀ§¸¦ °®°í ÀÖ°Ô µÈ´Ù.  ÀÌ¿Í °°Àº Çü½ÄÀû Á¶ÀÛÀ¸·Î ¸»¹Ì¾Ï¾Æ ÀÚ¿¬¾ð¾î¿¡ ÈçÈ÷ ÀÏ¾î³ª´Â ÀÚ¿¬½º·¯¿î À½¿îÇö»ó°ú °áÄÚ ÀÏ¾î³¯ ¼ö ¾ø´Â ºÒ°¡´ÉÇÑ Çö»óµéÀ» ±¸º°ÇÏÁö ¸øÇÏ´Â °æ¿ì°¡ ÀÖÀ½À» ÀÎ½ÄÇÏ°í, ÀÌ·± ¹®Á¦¸¦ ÇØ°áÇÏ±â À§ÇØ¼­ SPE¿¡¼­´Â ¶Ç ´Ù¸¥ Çü½ÄÀû Ã¼°è¸¦ Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·Ð ¼Ó¿¡ µµÀÔÇÏ°í ÀÖ´Ù. ÀÌ°ÍÀÌ SPEÀÇ ¸¶Áö¸· Àå¿¡ Á¦½ÃµÈ À¯Ç¥ÀÌ·Ð(markedness theory)ÀÌ´Ù.
+  À¯Ç¥±Ô¾àÀÇ ÁýÇÕÀ¸·Î ÀÌ·ç¾îÁø ÀÌ À¯Ç¥ÀÌ·ÐÀº ±âÀúÇ¥½ÃÀÇ ÀÚÁúµéÀ» Á¾·¡ÀÇ +¿Í -·Î ³ªÅ¸³»´Â ´ë½Å¿¡ m°ú UÀÇ °ªÀ» ÀÚÁúÀÌ °®µµ·Ï ÇÏ°í M¸¸ÀÌ º¹Àâµµ¸¦ ³ªÅ¸³»°í UÀÇ °ªÀº ÀÚÁú¼ö °è»ê¿¡ Æ÷ÇÔµÇÁö ¾Êµµ·Ï ÇÏ°í, ¿¬°á±Ô¾à(linking convention)À» ½á¼­ À¯Ç¥±Ô¾àÀÇ ±â´ÉÀÌ ³ªÅ¸³ªµµ·Ï ÇÔÀ¸·Î½á ÀÚ¿¬½º·¯¿î À½¿îÇö»ó°ú ±×·¸Áö ¾ÊÀº °ÍÀÌ ±¸º°µÇµµ·Ï ÇÏ¿´´Ù.  ±×·¯³ª ÀÌ À¯Ç¥ÀÌ·ÐÀº º¸´Ù ´õ Çü½ÄÀûÀÎ Ç¥±â¸¦ ¤¾¤±À¸·Î½á °£°á¼ºÀÇ Æò°¡Ã´µµ¸¦ ¹Ù²ÙÁö ¾Ê°í ±×´ë·Î Àû¿ëÇØ º¸·Á´Â ½Ãµµ¿´Áö¸¸ À½¼ºÀû ³»¿ëÀ» Àß ³ªÅ¸³» ÁÖÁö ¸øÇÏ¹Ç·Î, À½¿îÇö»óÀÇ ºÐ¼®ÀÚÃ¼¿¡ Å« ÀÇ¹Ì¸¦ ÁÖÁö ¸øÇÒ »Ó¸¸ ¾Æ´Ï¶ó 39°³°¡ µÇ´Â À¯Ç¥±Ô¾àÀÌ ³Ê¹« º¹ÀâÇÏ¿© ÁöÁö¸¦ ¹ÞÁö ¸øÇÏ°Ô µÇ¾ú´Ù.  ±×·¯¹Ç·Î SPE¸¦ Áß½ÉÀ¸·Î ÇÏ´Â Ã¶ÀúÇÑ Çü½ÄÈ­¸¦ Ãß±¸ÇÏ´Â ÀÌ·ÐÀÌ °¡Áö´Â °áÇÔÀ» º¸¿ÏÇÏ·Á Çß´ø ½Ãµµ¸¦ Æ÷±âÇÏ°í ½ÇÁúÀûÀÎ À½¼º³»¿ëÀ» °í·ÁÇÏ´Â ½Ãµµ·Î¼­ ³ªÅ¸³­ °ÍÀÌ StampeÀÇ ÀÚ¿¬À½¿î·Î(naturl phonology)ÀÌ¾ú´Ù.
+  ÀÚ¿¬À½¿î·ÐÀº À½¿îÃ¼°èÀÇ ÀÚ¿¬½º·¯¿òÀ» ¹àÇô ³»±â À§ÇØ¼­´Â À¯Ç¥±Ô¾àÀÌ³ª ±³Ã¼Á¶°Ç µîÀ» º¸¿ÏÇÏ¿©¼­ µÇ´Â °ÍÀÌ ¾Æ´Ï¶ó ¾ð¾îÀÇ º»Á÷ÀûÀÎ À½¿îÃ¼°è¿¡ ºÎ¿©µÇ´Â Á¦¾àÀ» ¹àÇô ³¾ ¶§ °¡´ÉÇÏ±â ¶§¹®¿¡, ÀÌ°ÍÀ» ¹àÇô ÀÚ¿¬±ÔÄ¢À» Ã£¾Æ º¸·Á´Â ÀÌ·ÐÀÌ´Ù.  ÀÌ ÀÌ·ÐÀÌ °­Á¶ÇÏ°í ÀÖ´Â °ÍÀº ÀÚ¿¬°úÁ¤ÀÇ ¼±Ãµ¼º°ú ¾ð¾î½Àµæ¿¡¼­ÀÇ ÀÚ¿¬°úÁ¤ÀÇ ¿ªÇÒÀÌ´Ù.  ÀÏÁ¤ÇÑ ÀÚ¿¬°úÁ¤ÀÌ º¸ÆíÀûÀ¸·Î Á¸ÀçÇÏ¿©¼­ ¾ð¾î¸¦ ½ÀµæÇÏ·Á´Â ¾î¸°ÀÌ´Â ÀÌ ¸ðµç ÀÚ¿¬°úÁ¤À» ¹Ì¸® ¾Ë°í ¾ð¾î½ÀµæÀÇ ÃÊ±â´Ü°è¿¡¼­´Â ÀÌ ¸ðµç °ÍÀ» ´Ù Àû¿ëÇÑ´Ù.  ±×·¯³ª ¾î¸°ÀÌ°¡ ¾ð¾î¸¦ ½ÀµæÇØ ³ª°¡´Â °úÁ¤¿¡¼­ Ã³À½¿¡ °¡Á³´ø ÀÚ¿¬°úÁ¤¸¸À¸·Î ÀÌ·ç¾îÁø À½¿îÃ¼°Ô´Â ´ÙÀ½ÀÇ 4°¡Áö ¹æ¹ýÀ¸·Î ¼öÁ¤µÈ´Ù´Â °ÍÀÌ´Ù.  ¾ïÁ¦(suppression), Á¦ÇÑ(), ±ÔÄ¢¼ø(), ±×¸®°í ÇÐ½ÀµÈ ±ÔÄ¢()ÀÇ Ã·°¡ÀÌ´Ù. ¾î¸°ÀÌ´Â ¼ºÀåÇØ ³ª°¨¿¡ µû¶ó °¡Áö°í ÅÂ¾î³­ À½¿îÃ¼°è¸¦ ¾ïÁ¦, Á¦ÇÑ, ƒZ°í ±ÔÄ¢¼øÀÇ ¹æ¹ýÀ¸·Î ¼öÁ¤ÇÏ¿© ¾î¸¥µéÀÌ °¡Áö°í ÀÖ´Â ¾ð¾î¿Í °°°Ô ¸¸µé°Ô µÈ´Ù.  ±×¸®°í º»·¡ÀÇ À½¿îÃ¼°è¸¦ ¼öÁ¤ÇØ ³ª°¡´Â ¹æ¹ýÀ¸·Î ÇÐ½ÀµÈ ±ÔÄ¢ÀÇ Ã·°¡¸¦ µé ¼ö ÀÖ´Ù.
+  À½¿î·ÐÀÇ ¿µ¿ªÀ» Stampe°¡ ÀÇ¹ÌÇÏ´Â ÀÚ¿¬°úÁ¤¿¡ ±¹ÇÑ½ÃÅ²´Ù¸é, À½¼ºÀûÀ¸·Î ±Ù°Å°¡ ¾ø°Å³ª ÀÚÀÇÀûÀÎ ¸ðµç ±³Ã¼´Â ÇÐ½ÀµÈ ±ÔÄ¢À¸·Î Ãë±ÞÇÏ°Ô µÇ°í ÀÚ¿¬¾ð¾îÀÇ À½¿îÃ¼°è¿¡ ´ëÇÑ ±â¼úÀÛ¾÷ÀÌ À½¿î·Ð ¹ÛÀÇ ¿µ¿ªÀ¸·Î ¿©°ÜÁú ¼ö ÀÖ´Ù.  ÀÚ¿¬°úÁ¤ÀÌ ¿ª»çÀû º¯È­°úÁ¤ÀÌ³ª ¾î¸°ÀÌÀÇ ¾ð¾î½Àµæ°ú °°Àº ¿©·¯ ¿µ¿ª¿¡¼­ ¶È°°ÀÌ ÀÛ¿ëÇÑ´Ù°í °¡Á¤ÇÏ¸é °øÅëÀûÀ¸·Î ³²´Â ºÎºÐÀÌ °ÅÀÇ ¾ø°Ô µÈ´Ù.  µû¶ó¼­ ÀÌ ÀÚ¿¬À½¿î·ÐÀº ½ÇÁ¦ ¾ð¾î¿¡ Æ÷°ýÀûÀÎ ±â¼úÀÇ Æ²À» Á¦°øÇÏ±âº¸´Ù´Â Ç¥ÁØ»ý¼ºÀ½¿î·ÐÀÇ Æ²¿¡¼­ ³ªÅ¸³»Áö ¸øÇÏ´Â À½¿îÃ¼°è¿¡ ´ëÇÑ Á» ´õ ÀÚ¿¬½º·¯¿î ¼³¸íÀ» Ã£¾Æº¸·Á°í ³ë·ÂÇÏÀÚ´Â Á¦¾ÈÀû °¡¼³·Î ³²À» ¼ö¹Û¿¡ ¾ø´Ù.
+  Vennemann°í ±×ÀÇ Á¦ÀÚµé¿¡ ÀÇÇØ 1970³â´ë ÃÊ¿¡ Á¦¾ÈµÈ Àå³à»ý¼ºÀ½¿î·Î(NATURAL GENERATIVE PHONOLOGY)Àº SPE¿¡¼­ º¸¿©ÁÖ´Â ±âÀúÇü°ú Ç¥¸éÇü »çÀÌÀÇ °ü°è°¡ ºñ»ç½ÇÀû.Ãß»óÀûÀÓÀ» ÀÎ½ÄÇÏ°í À½¿î·ÐÀû Ç¥½Ã´Â SPE¿¡¼­ º¸´Ù ´õ Ç¥¸éÇü¿¡ °¡±î¿ö¾ß ÇÑ´Ù´Â °ÍÀÌ´Ù.  VennemannÀÇ Á¦ÀÚ Hooper´Â ÀÚ¿¬»ý¼ºÀ½¿îÀÌ·ÐÀ» ´õ ´Ùµë¾úÀ¸¸ç, Hooper(1976)¿¡¼­´Â ÀÚ¿¬»ý¼ºÀ½¿î·ÐÀ» Æ÷°ýÀûÀ¸·Î Á¦½ÃÇÏ°í ÀÖÀ¸¸ç ±× Áß½É°³³äÀº ¼ø¼öÀÏ¹ÝÁ¶°Ç(true generalization condition)ÀÌ´Ù.  ÀÌ°ÍÀº È­ÀÚµéÀÌ Ç¥¸éÇü¿¡ ÀÖ°í Ç¥¸éÇüÀ» º¸¾Æ¼­ ¾Ë ¼ö ÀÖ´Â Åõ¸íÇÑ °Íµé¸¸ ÀÏ¹ÝÈ­ÇÏ´Â °ÍÀ» ¿ä±¸ÇÏ´Â Á¶°ÇÀÌ´Ù.  ÀÌ ÀÌ·ÐÀº ÇÑ °³ÀÇ ¿¹¿Ü¶óµµ °¡Áö´Â °æ¿ì À½¿î±ÔÄ¢À¸·Î Çã¿ëÇÏÁö ¾Ê´Â´Ù.
+  ÀÚ¿¬»ý¼ºÀ½¿î·ÐÀº SPE¿¡¼­ À½¼ºÀû ³»¿ëÀ» µµ¿Ü½ÃÇÏ´Â Ãß»óÀûÀÎ ±âÀúÇ¥½Ã¸¦ ÇÏ¿© ¿ÜÀçÀû ±ÔÄ¢¼øÀÇ Á¶ÀÛÀ¸·Î Ç¥¸éÇüÀ» µµÃâÇØ ³»´Â µ¥ ¾ß±âµÇ´Â ¹®Á¦¸¦ ÇØ°áÇØ º¸±â À§ÇØ Á¦½ÃµÈ °ÍÀÌ´Ù.  ±×·¯¹Ç·Î ÀÌ ÀÌ·ÐÀº º¯ÀÌ°¡ ÀÏ¾î³ªÁö ¾Ê´Â ÇüÅÂ¼ÒÀÇ ¾îÈÖÇ×¸ñÇ¥½Ã´Â ±× Ç¥¸éÇü°ú µ¿ÀÏÇÏµµ·Ï ÇÏ¿©, ÀÚ¿¬¼ºÀ» À¯ÁöÇÏ·Á´Â ¿øÄ¢°ú °Å±â¿¡ Àû¿ëµÇ´Â ±ÔÄ¢µéÀº ¿ÜÀçÀûÀ¸·Î ¼ø¼­°¡ Á¤ÇØÁöÁö ¾Ê°í ¹«±ÔÄ¢¼øÀ¸·Î Àû¿ëµÇµµ·Ï ÇÏ´Â ¿øÄ¢À» ¼¼¿ö Ç¥ÁØ»ý¼ºÀ½¿î·ÐÀÌ °¡Áö°í ÀÖ´Â ³Ê¹« Å« ÈûÀ» ÁÙÀÌ·Á´Â °ÍÀÌ´Ù.  ÀÚ¿¬»ý¼ºÀ½¿îÀÌ·ÐÀÇ Æ²¿¡¼­ °£°á¼ºÀ» Áö´Ñ °ÍÀ¸·Î Æò°¡µÇ´Â ±ÔÄ¢º¸´Ù´Â Á»´õ º¹ÀâÇÏ´õ¶óµµ À½¼ºÀû µ¿±â¸¦ Á¦°øÇØ ÁÖ´Â ±ÔÄ¢ÀÌ ´õ ¸¹Àº »ç¤µÇ×À» ¼³µæ·Â ÀÖ°Ô ¼³¸íÇØ ÁÙ ¼ö ÀÖÀ¸¹Ç·Î ±×°ÍÀÌ À½¿î±ÔÄ¢ÀÇ ÀÚ°ÝÀ» °¡Áö°Ô µÈ´Ù´Â °ÍÀÌ´Ù.  ±×·¯¹Ç·Î ÀÌ ÀÌ·Ð¿¡¼­´Â À½¼ºÀû µ¿±âÀÇ ºÎ¿©°¡ °¡´ÉÇÏ¸é¼­ ÇüÅÂ°£ÀÇ Ã¼°èÀûÀÎ °ü°è°¡ À½¿î·ÐÀûÀ¸·Î ¿¹¿Ü°¡ ¾ø´Â °æ¿ì´Â À½¿î±ÔÄ¢(P-RULE)±×¸®°í ÇüÅÂ·ÐÀû.Åë»ç·ÐÀû µ¿±â¸¦ °¡Áö¸é¼­ ÇüÅÂ·ÐÀû ¹üÁÖ¿¡¼­ ¿¹¿Ü°¡ ¾ø´Â °æ¿ì¿¡´Â ÇüÅÂÀ½¼Ò±ÔÄ¢(mp-rule)À» Á¦¾ÈÇÏ°í ÀÖ´Ù.  ÀÌ ÀÇ±â±ÔÄ¢Àº À½¿î·ÐÀûÀ¸·Î, ÇüÅÂ·ÐÀûÀ¸·Î ¿¹¿Ü°¡ ÀÖÀ¸¸ç ºñ»ý»êÀûÀÎ °ÍÀ¸·Î »ý°¢µÈ´Ù.  ÀÚ¿¬»ý¼ºÀ½¿î·Ð¿¡¼­ ¾îÈÖ¸ñ·Ï¿¡ µé¾î°¥ ¾îÈÖÇ×¸ñÀº ³¹¸»º¸´Ù ´õ Å« ´ÜÀ§´Â µé¾î°¥ ¼ö ÀÖÀ¸³ª ³¹¸»º¸´Ù ´õ ÀÛÀº ´ÜÀ§´Â µé¾î°¥ ¼ö ¾ø´Ù. ±×·¯³ª Hooper(1976)¿¡¼­ À½ÀýÀ» À½¿î±ÔÄ¢ÀÌ Àû¿ëµÉ ¼ö ÀÖ´Â ´ÜÀ§·Î º¸°í ÀÖ´Â °ÍÀº VennemannÀÌ ³¹¸»À» ±âº»¾îÈÖÇ×¸ñÀ¸·Î ´Ù·ç¾î¾ß µÉ °ÍÀ» º¸¿©ÁØ °Í°ú´Â ´Ù¸¥ Á¡ÀÌ¶ó°í ÇÒ ¼ö ÀÖ´Ù.
+  ÀÚ¿¬»ý¼ºÀ½¿î·ÐÀº Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·ÐÀÇ³Ê¹« Å« ÈûÀ» ÁÙÀÌ°í Ãß»óÀûÀÎ ºÐ¼®À» Á¦ÇÑÇÏµµ·Ï ÇÑ Á¡Àº ¼³µæ·ÂÀÌ ÀÖÁö¸¸, ±×µéÀÌ ÁÖÀåÇÏ°í ÀÖ´Â °ÍÃ³·³ Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·Ð°ú ¾ÆÁÖ ´Ù¸¥ ÀÌ·ÐÀÓÀ» ÀÚºÎÇÏ´Â ¸¸Å­Àº »õ·Î¿î °ÍÀÌ ¾Æ´Ï´Ù.  ÀÌ ÀÌ·Ð ÀÚÃ¼°¡ ¿¬±¸¿µ¿ªÀ» Á¦ÇÑÇÏ°í ÀÖ¾î ¾ð¾îÀÇ º»Áú¿¡ ³ªÅ¸³ª´Â Çö»óµéÀ» ´Ù·çÁö ¸øÇÏ°Ô µÇ¹Ç·Î ÀÚ¿¬¾ð¾îÀÇ À½¿î±¸Á¶¸¦ ÀÌÇØÇÏ´Â µ¥ Å« µµ¿òÀÌ µÇÁö ¸øÇÑ´Ù´Â Æò°¡¸¦ ¹Þ°í ÀÖ´Ù.
+  
+1.5. ºñ´Ü¼±À½¿î·Î
+
+  »ý¼ºÀ½¿î·ÐÀÇ ¹ßÀü¿ª»ç¸¦ ÀÏ¹ÝÀûÀ¸·Î ¼¼ ´Ü°è·Î ±¸ºÐÇÑ´Ù.  Ã¹ ´Ü°è´Â SPE¸¦ ´ëÇ¥·Î ÇÏ´Â Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·ÐÀÇ ¹ßÀü´Ü°èÀÌ´Ù. ÀÌ ½Ã±â¿¡´Â µµÃâ(derivation)¿¡ °ü½ÉÀÌ ÁýÁßµÇ¾î ÀÖ¾ú±â ¶§¹®¿¡ ±âÀúÇ¥½Ã¿Í À½¼ºÇ¥½Ã¸¦ ¿¬°á½ÃÄÑ ÁÖ´À ±ÔÄ¢Ã¼°è¿¡ °üÇÑ °ÍÀÌ ÁÖµÈ °ü½ÉÀÇ ´ë»óÀÌ µÇ¾î ±ÔÄ¢°ú °ü·ÃµÈ ¹®Á¦¸¦ ¸ðµÎ°¡ ³íÀÇÀÇ ´ë»óÀÌ µÇ¾ú´Ù.  ÀÌ ½Ã±â¿¡´Â ÀÚ¿¬¾ð¾îÀÇ À½¼ºÃ¼°èÀÇ º»ÁúÀ» ÀÌÇØÇÏ´Â µ¥¿¡ ³î¶ó¿î ¹ßÀüÀ» º¸°Ô µÇ¾ú´Ù.  ±×·¯³ª ±ÔÄ¢°ú °ü·ÃµÈ ³íÀÇ´Â ÇÐÀÚµé¸¶´Ù ÀÇ°ßÀÌ ¼­·Î ´Ù¸£±â ¶§¹®¿¡ ¸íÈ®ÇÑ °á·ÐÀ» ³»¸®±â°¡ ¾î·Æ´Ù´Â °ÍÀ» ±ú´Ý°í ±ÔÄ¢Ã¼°è¿¡¼­ À½¿î·ÐÀû Ç¥½Ã(phonological representation)·Î °ü½ÉÀ» µ¹¸®°Ô µÇ¾ú´Ù.  ÀÌ ´Ü°è°¡ µÑÂÅ ´Ü°èÀÌ´Ù.  ÀÌ ½Ã±â¿¡´Â SPEÀÇ ±âº»°¡Á¤ÀÌ¾ú´ø ´Ü¼±ÀûÀ¸·Î ¹è¿­µÈ À½¿î·ÐÀû Ç¥½Ã¹æ¹ýÀ¸·Î´Â °­¼¼³ª ¼ºÁ¶¿Í °°Àº Çö»óÀ» ¼³¸íÇÒ ¼ö ¾øÀ½À» ÀÎ½ÄÇÏ°í ¿©·¯ °³ÀÇ Ãæ¿­À» Çã¿ëÇÏ´Â À½¿î·ÐÀû Ç¥½Ã¹æ¹ýÀ» Ã¤ÅÃÇÏ°Ô µÇ¾ú´Ù.  ÀÚ¸³ºÐÀýÀ½¿î·Î(autosegmental phonology), À½À²À½¿î·Ð(
+metrical phonology), ±×¸®°í À½ÀýÀ½¿î·Ð(syllabic phonology)µîÀÌ ¿©±â¿¡ ¼ÓÇÏ´Â °Íµé·Î¼­ ÀÌµéÀ» ºñ´Ü¼±À½¿î·Ð(non-linear phonology)ÀÌ¶ó ºÎ¸¥´Ù.  ºñ´Ü¼±À½¿îÀÌ·ÐÀûÀÇ ¹ß´ÞÀº Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·ÐÀ» ºÎÁ¤ÇÏ´Â °ÍÀÌ ¾Æ´Ï¶ó »õ·Î¿î Â÷¿øÀ» Ã·°¡ÇÏ°í ÀÌ¿¡ µû¸£´Â ÇÊ¿äÇÑ ¼öÁ¤À» °¡ÇÑ °ÍÀÌ´Ù.  ¼ÂÂ° ´Ü°èÀÇ »ý¼ºÀ½¿îÀÌ·ÐÀÇ ¹ßÀüÀº ºñ´Ü¼±À½¿î·ÐÀÌ ¼¼¿ö ³õÀº ±âÃÊ À§¿¡ ¶Ç ´Ù¸¥ Â÷¿øÀ» Ã·°¡ÇÑ °ÍÀÌ´Ù.  ÀÌ ½Ã±â¿¡´Â À½¿î±ÔÄ¢°ú ¹®¹ýÀÇ ´Ù¸¥ ±¸Á¶¿ÍÀÇ »óÈ£ÀÛ¿ëÀ» ¿¬±¸ÇÏ´Â °ÍÀÌ Æ¯Â¡ÀÌ´Ù.  ÇüÅÂ·Ð¿¡ °üÇÑ °ü½ÉÀÌ Çà¼º¹®¹ý ¼Ó¿¡¼­ »ý°Ü³ª°Ô µÇ¸é¼­ À½¿î·Ð°ú ÇüÅÂ·ÐÀº ¼­·Î ´Ù¸¥ ºÎ¹®ÀÌ ¾Æ´Ï¶ó ¼­·Î ¹ÐÁ¢ÇÑ »ó°ü°ü°è°¡ ÀÖÀ½ÀÌ ÀÎ½ÄµÇ°í ÀÌ °ü°è¸¦ º¸¿©ÁÖ´Â ¹®¹ýÀÇ ¸ðÇüÀÌ ÇÊ¿äÇÏ°Ô µÇ¾úµû.  ÀÌ°ÍÀÌ ¾îÈÖÀ½¿î·Ð(lexical phonology)ÀÌ´Ù.
+  ºñ´Ü¼±À½¿î·Ðµµ »ý¼ºÀ½¿î·Ð¿¡ ¼ÓÇÏ¹Ç·Î Á¦ 4Àå¿¡¼­ ¾ð±ÞµÇ¾î¾ß ÇÏ³ª ÃÖ±Ù¿¡ ¹ßÀüµÇ°í ÀÖ´Â ÀÌ·ÐÀÌ¹Ç·Î ±¸ºÐÀÇÇÊ¿ä¸¦ ´À²¸ µû·Î ¼³¸íÇÏ·Á ÇÑ´Ù.  ±×¸®°í ¾îÈÖÀ½¿î·ÐÀº ºñ´Ü¼±À½¿î·Ð°ú °°Àº ½Ã±â¿¡ ¹ßÀüµÇ°í ÀÖ´Â ÀÌ·ÐÀÌ¹Ç·Î ÀÌ Àå¿¡¼­ ÇÔ²² ´Ù·ç·Á ÇÑ´Ù.
+
+1.5.1. ÀÚ¸³ºÐÀýÀ½¿î·Ð
+
+  Goldsmith(1976)¿¡¼­ ½ÃÀÛµÈ ÀÚ¸³ºÐÀýÀ½¿î·Ð(autosegmental phonology)Àº Ã³À½¿¡´Â ¼ºÁ¶Çö»óÀ» ¼³¸íÇÏ±â À§ÇØ¼­ Á¦¾ÈµÈ ÀÌ·ÐÀÌ¾ú´Ù.  ¼ºÁ¶´Â Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·Ð¿¡¼­ ÇØ°áÇÏ±â ¾î·Á¿î ¹®Á¦ °¡¿îµ¥ ÇÏ³ª¿´±â ¶§¹®¿¡ ÀÌ°ÍÀ» ÇØ°áÇØÁÙ ¼ö ÀÖ´Â ÀÌ·ÐÀÌ ¿ä±¸µÇ°í ÀÌ½Î.
+  Ç¥ÁØ»ý¼ºÀ½¿î·Ð¿¡¼­´Â ¼ºÁ¶¸¦ ¾çºÐÀû(binary)À¸·Î ³ªÅ¸³­´Ù.  ±×¸®°í ¼ºÁ¶¿Í °°Àº ÃÊºÐÀû ÀÚÁúÀº ºÐÀýÀ½°ú ºÒ°¡ºÐÀÇ °ü°è¸¦ ¸Î°í ÀÖ±â ¶§¹®¿¡ ºÐÀýÀ½À» ÀÌ·ç´Â ´Ù¸¥ ÀÚÁúµé°ú ÇÔ²¾ ¹­¾î ³ª¿­ÇÏ°í ÀÖ´Ù.  ±×¸®°í SPE¿¡¼­´Â ºÐÀýÀ½À» ÀÌ·ç´Â ÀÚÁúµéÀÌ ¾î¶² ÀÚÁúµéÀÌ³Ä°¡ Áß¿äÇÏ°í ±× ÀÚÁúµéÀÇ ¹è¿­¼ø¼­´Â Áß¿äÇÏÁö ¾Ê´Ù.
+  ÀÌ ÀÌ·ÐÀÇ Æ² ¼Ó¿¡¼­´Â °¡·É ´Ü¸ðÀ½¿¡ aÇÏ°­¼ºÁ¶(falling tone)¿Í °°Àº ±¼°î¼ºÁ¶°¡ ¿À´Â °ÍÀº ³ªÅ¸³»´Â µ¥ ¾î·Á¿òÀÌ ÀÖ°Ô µÈ´Ù.  ±¼°î¼ºÁ¶¸¦ ÆòÆÇ¼ºÁ¶ÀÇ °áÇÕÀ¸·Î º¼ ¶§ ÇÏ°­¼ºÁ¶´Â °í¼ºÁ¶(higyh tone)¿Í Àú¼ºÁ¶(low tone)ÀÇ °áÇÕÀÌ ¹Ç·Î °í¼ºÁ¶¸¦ ³ªÅ¸³»´Â ÀÚÁö·Î°¡ Àú¼ºÁ¶¸¦ ³ªÅ¸³»´Â ÀÚÁúÀ» ÇÔ²² ³õ°Ô µÇ´Âµ¥ ÀÌ¶§¿¡´Â »ó¹ÝµÇ´Â °ªÀ» Áö´Ñ ÀÚÁúµéÀÌ µé¾î ÀÖ¾î ºÐÀýÀ½ÀÇ ÀÚÁúÇ¥½Ã¿Í ºñ±³ÇÒ ¶§ ÀÏ°ü¼ºÀ» ÀÒ°Ô µÇ¾î ¸ð¼øÀÌ »ý±â°Ô µÈ´Ù.  ´õ±¸³ª ÀÌ °æ¿ì¿¡´Â ÇÏ°­¼ºÁ¶/a/¸¦ ³ªÅ¸³½ °ÍÀÎÁö »ó½Â¼ºÁ¶ /a/¸¦ ³ªÅ¸³½ °ÍÀÎÁöÀÇ ±¸º°ÀÌ ¾î·Æ´Ù.  ÀÌ ±¸º°À» À§ÇØ ¼ºÁ¶ÀÇ ÀÚÁú¿¡¸¸ ¼ø¼­¸¦ ¹è°Ü¾ß ÇÑ´Ù¸é Á¾·ù°¡ ´Ù¸¥ ÀÚÁúµéÀ» ÇÔ²² ¹­¾î ³õÀº ¼ÀÀÌ µÈ´Ù.  ±×·¯¹Ç·Î ¼ø¼­°¡ Áß¿äÇÏÁö ¾ÊÀº ºÐÀýÀ½ÀÇ ÀÚÁú°ú ¼ºÁ¶ÀÇ ÀÚÁúÀº µû·Î ´Ù·ç¾îÁ®¾ß ÇÑ´Ù´Â ÁÖÀåÀ» ÇÏµçÁö, ¾Æ´Ï¸é ³ª¿­µÈ ÀÚÁú°£¿¡´Â ¼ø¼­°¡ ¸Å°ÜÁ® ÀÖÁö ¾Ê´Ù´Â Ç¥ÁØ»ý¼ºÀ½¿î·ÐÀÇ ±âº»¿ø¸®¸¦ Æ÷±âÇØ ¹ö·Á¾ß ÇÒ °ÍÀÌ´Ù.  ±×·¯³ª ÀÌ ±âº»¿ø¸®´Â Æ÷±âÇÒ ¼ö ¾ø´Â °ÍÀÌ±â ¶§¹®¿¡ ´Ù¸¥ ¹æ¹ýÀ¸·Î ÇÏ°­¼ºÁ¶/a/¸¦ ³ªÅ¸³»°Ô µÈ´Ù.  °í¼ºÁ¶ÀÇ ÀÚÁúÀ» ¾Õ¿¡, ±×¸®°í Àú¼ºÁ¶ÀÇ ÀÚÁúÀ» ±× µÚ¿¡ ¿¬´Þ¾Æ ½á¼­ ³ªÅ¸³¾ ¼ö ÀÖ´Ù.  ¿©±â¿¡µµ ¹®Á¦°¡ ÀÖ´Ù.  ±×°ÍÀº ¼ºÁ¶ÀÚÁú°ú ±× ¿ÜÀÇ ÀÚÁúµéÀÌ ºÐÀýÀ½°ú °®´Â °ü°è°¡ ´Ù¸£°Ô ³ªÅ¸³ª±â ¶§¹®ÀÌ´Ù.  ÀÌ¿Í °°ÀÌ Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·ÐÀÇ Æ² ¼Ó¿¡¼­´Â ±¼°îÁ¶¸¦ Ç¥½ÃÇÏ±â°¡ ¸Å¿ì ¾î·Æ´Ù´Â Á¡ÀÌ ÀÎ½ÄµÇ¾ú´Ù.
+  Glodsmith(1976)¿¡¼­´Â ¼ºÁ¶ÀßÀÌ ºÐÀýÀ½ÀÚÁú°ú´Â ´Ù¸¥ ¼ºÁúÀÇ ÀÚÁúÀÌ±â ¶§¹®¿¡ °°Àº ÀÚÁú¸ðÇü ¼Ó¿¡ ÇÔ²² Æ÷ÇÔ½ÃÅ°Áö ¾Ê°í ´Ù¸¥ Ãþ¿­(tier)¿¡ ¼ÓÇÏ´Â °ÍÀ¸·Î »ý°¢ÇÏ¿© ´ÙÀ½°ú °°ÀÌ ³ªÅ¸³»°í ÀÖ´Ù.  Áï, À½¿î·ÐÀû Ç¥½Ã¸¦ ºÐÀýÀ½Ãþ¿­(segmental tier)°ú ¼ºÁ¶Ãþ¿­(tonal tier)·Î ºÐ¸®½ÃÅ°°í ¿¬°á¼±(association line)À¸·Î ¸ðÀ½¿¡´ëÇÑ ¼ºÁ¶ÀÚÁúÀÇ °ü°è¸¦ ³ªÅ¸³»¾î Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·Ð¿¡¼­ µ¿ÀÏÇÑ ÀÚÁú¸ðÇü ¼Ó¿¡ ³Ö¾î ¼³¸íÇÏ·Á°í ÇÒ ¶§ »ý±â´Â ¹®Á¦¸¦ ÇØ°áÇÒ ¼ö ÀÕ´Ù´Â °ÍÀÌ´Ù.  ±×·¯³ª µÎ Ãþ¿­ÀÇ °ü°è¸¦ ³ªÅ¸³»±â À§ÇÏ¿© ¿¬°á¼±ÀÌ ÇÊ¿äÇÏÁö¸¸ Á¦¾àµµ ¶ÇÇÑ ÇÊ¿äÇÏ´Ù.  ¿¬°á·Î ÀÎÇÑ ÈûÀÌ ³Ê¹« Ä¿Áö°Ô µÇ¹Ç·Î ÀûÇüÁ¶°Ç(well-formedness condition)À» ºÎ¿©ÇÏ¿© ±× ÈûÀ» ÁÙÀÌ°Ô µÈ´Ù.  ±× ÀûÇüÁ¶°ÇÀº ´ÙÀ½°ú °°´Ù.
+
+a. ¸ðµç ¸ðÀ½Àº Àû¾îµµ ÇÑ °³ÀÇ ¼ºÁ¶¿Í ¿¬°áµÈ´Ù.
+   ¸ðµç ¼ºÁ¶´Â Àû¾îµµ ÇÑ °³ÀÇ ¸ðÀ½°ú ¿¬°áµÈ´Ù.
+b. ¿¬°á¼±Àº ¼­·Î ±³Â÷ÇÏÁö ¾Ê´Â´Ù.
+
+±×¸®°í Goldsmith´Â ÀûÇüÁ¶°ÇÀÌ ¸¸Á·µÉ ¼ö ÀÕ´Â ¿©·¯ °¡Áö ¹æ¹ý °¡¿îµ¥ ¼ºÁ¶¿Í ¸ðÀ½ÀÌ ÁÂ¿¡¼­ ¿ì·Î ¿¬°áµÇ¾î ³ª°¡´Â ¼ºÁ¶¿¬°á¹æ¹ýÀ» ÅÃÇÏµµ·Ï ÇÏ´Â ¼ºÁ¶¿¬°á±ÔÄ¢(tone maping rule)À» Á¦½ÃÇÏ°í ÀÖ´Ù.  ÀÌ¿Í °°ÀÌ À½¿î·ÐÀû Ç¥½Ã¸¦ ÀÚ¸³ºÐÀýÇ¥½Ã(autosegmental representation)¶ó ÇÏ°í ÀÌ ÀÌ·ÐÀ» ÀÚ¸³ºÐÀýÀ½¿î·ÐÀÌ¶ó°í ÇÑ´Ù.
+  ÀÌ·¯ÇÑ ÀÚ¸³ºÐÀýÀ½¿î·ÐÀÌ Ç¥ÁØ»ý¼ºÀ½¿î·Ð¿¡¼­´Â ÇØ°áÇÏ±â ¾î·Á¿ü´ø ¹®Á¦¸¦ ÇØ°áÇÏ°í ÀÖ´Â °Í °¡¿îµ¥ ¸î °¡Áö¸¦ µé¸é Ã¹ÂÅ. ¾ÈÁ¤¼º(stability)ÀÇ ¹®Á¦ÀÌ´Ù.  ¼ºÁ¶¾ð¾î¿¡¼­´Â ¸ðÀ½ÀÌ »èÁ¦µÇ¾îµµ ¸ðÀ½ÀÌ Áö´Ï´ø ¼ºÁ¶´Â ¾ø¾îÁöÁö ¾Ê°í ¿ÀÈ÷·Á ´Ù¸¥ ¸ðÀ½ À§¿¡ ³ªÅ¸³ª´Â °æ¿ì°¡ ÀÖ´Ù´Â °ÍÀÌ´Ù.  ¼ºÁ¶¿¡ °üÇÑ Á¤º¸´Â ´Ù¸¥ ÀÚÁö·Î°¡´Â µ¶¸³ÇÏ¿© º°µµ·Î ¾ÈÁ¤µÇ°Ô À¯ÁöµÇ´Â °æÇâÀÌ ÀÖ´Âµ¥, ÀÌ·¯ÇÑ ¼ºÁ¶ÀÇ ¾ÈÁ¤¼º ¹®Á¦´Â ÀßºñºÐÀýÀ½¿î·Ð¿¡¼­ Àß ¼³¸íÇØ ÁÙ ¼ö ÀÖ´Ù´Â °ÍÀÌ´Ù.  µÑÂ°, ºÎµ¿¼ºÁ¶(floating tone)ÀÇ ¹®Á¦ÀÌ´Ù.  ºÎµ¿¼ºÁ¶´Â ¾î´À ¸ðÀ½°úµµ ¿¬°áµÇÁö ¾Ê°í ¶°´Ù´Ï´Â ¼ºÁ¶¸¦ ¸»ÇÏ´Âµ¥, ÀÌ¿¡ ´ëÇÑ °Íµµ ¼ºÁ¶Ãþ¿­ÀÇ ¼ºÁ¶°¡ ºÐÃ³À½ Ãþ¿­ÀÇ ¸ðÀ½°ú °áÇÕÇÏ´Â µµÅ·(docking)Çö»óÀ¸·Î ¼³¸íÇÒ ¶§ ´õ ¼³µæ·ÂÀÌ ÀÖÀ¸¹Ç·Î ÀÚ¸³ºÐÀýÀ½¿î·ÐÀÇ ÇÊ¿ä¼ºÀÌ ÀÎÁ¤µÈ´Ù´Â °ÍÀÌ´Ù.  ¼ÂÂÅ, ÀÚµ¿Àû ÀüÆÄ(automatic spreading)ÀÇ ¹®Á¦ÀÌ´Ù.  ÀÌ ÀÚµ¿Àû ÀüÆÄÇö»óÀº ¾î¶² ºÐÀýÀ½ÀÌ °¡Áö°í ÀÖ´Â ¾î¶² ÀÚÁúÀÌ ±× ÀÚÁúÀ» °¡Áö°í ÀÖÁö ¾ÊÀº ºÐÀýÀ½À¸·Î ÆÛÁ® ³ª°¡´Â Çö»óÀ» ¸»ÇÑ´Ù.  ÀÌ¶§ ÀÚµ¿Àû ÀüÆÄÀÇ¹æÇâÀÌ ¿ÞÂÊÀÌµç ¿À¸¥ÂÊÀÌµç ÇÑÂÊ ¹æÇâÀ¸·Î¸¸ ÀÏ¾î³­´Ù¸é ÀÌ Çö»óÀº Ç¥ÁØÇà¼ºÀ½¿îÀÌ·ÐÀ¸·Îµµ ¼³¸íÀÌ °¡´ÉÇÏ´Ù.  ±×·¯³ª ±× ÀüÆÄÀÇ ¹æÇâÀÌ ½Ö¹æÇâÀû(bidirectional)ÀÏ °æ¿ì¿¡´Â ¼³¸íÀÌ ¸Å¿ì ¾î·Æ°Ô µÈ´Ù.  ±×·¯³ª ÀßºñºÐÀýÀ½¿î·Ð¿¡¼­´Â ¼³¸íÀÌ °£´ÜÇÏ´Ù.
+  ¼ºÁ¶Çö»óÀ» ¼³¸íÇÏ±â À§ÇØ Á¦¾ÈµÇ¾ú´ø ÀÚ¸³ºÐÀýÀ½¿î·ÐÀº Á¾·¡ÀÇÀÌ·Ðº¸´Ù À½¼ºÀûÀÎ ¸é¿¡ ´õ Ãæ½ÇÇÑ ¼³¸íÀ» ÇÒ ¼ö ÀÖ´Ù´Â Á¡¿¡¼­ ±× Áß¿ä¼ºÀÌ ÀÎÁ¤µÇ¾úÀ¸¸ç ´õ ³ª¾Æ°¡¼­ ÀÌ·ÐÀÇÀû¿ë¿µ¿ªÀÌ È®´ëµÇ¾î º¹ÇÕºÐÀýÀ½(complex segment)°ú °°Àº ÇÏÀ§ºÐÀýÀ½(subsegmental)Çö»óÀÌ³ª, Á¶È­Çö»ó¿¡µµ Àû¿ëµÇ¾ú°í, ÇüÅÂ·Ð¿¡µµ Àû¿ëµÇ¾îMcCarthy (1981)¸¦ Áß½ÉÀ¸·Î ÇÑ ÀÚ¸³ºÐÀýÇüÅÂ·ÐÀÌ ³ªÅ¸³ª°Ô µÇ¾ú´Ù.
+
+1.5.2. ¿îÀ²À½¿î·Ð
+
+  ¿îÀ²À½¿î·ÐÀº ¿ø·¡ °­¼¼(stress)¸¦ ´Ù·ç±â À§ÇØ Liberman(1975)¿¡¼­ Ã³À½À¸·Î Á¦½ÃµÈ ÀÌ·ÐÀÌ´Ù.  Liberman(1975)Àº °­¼¼¿¡ °üÇÑ ÀÌ·ÐÀ» Á¤¸³ÇÔ³à¼­ °­¼¼´Â Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·Ð¿¡¼­ ÁÖÀåÇÏ´Â °Í°ú °°ÀÌ ºÐÀýÀ½ÀÇ ÀÚÁú¿¡ ¼ÓÇÑ °ÍÀÌ ¾Æ´Ï°í À½Àý¿¡ ±â¹ÝÀ» µÐ °èÃþ±¸Á¶¸¦ ÀÌ·ç´Â ´ÜÀ§µé »çÀÌÀÇ °ü°è¶ó´Â °ÍÀ» ÁÖÀåÇÏ°í À½¿î±â¼ú¿¡¼­ À½Àý, À½º¸(foot)±×¸®°í ³¹¸»°ú °°Àº °èÃþÀûÀ¸·Î Á¶Á÷µÈ ´ÜÀ§µéÀÌ Áß¿ä¼ºÀ» ÀÎ½ÄÄÉ ÇÏ¿´´Ù. Liberman(1975)¿¡¼­ Á¦½ÃµÈ ÀÌ·ÐÀ» LIBERMAN & PRINCE (1977), Kiparsky(1977), Halle & Vergnaud(1978)¿¡¼­ ´õ ´Ùµë¾îÁ® ¹ßÀüÇÏ°Ô µÇ¾úÀ¸¸ç ÀÌ ÀÌ·ÐÀÇ Àû¿ë¿µ¿ªÀÌ ³Ð¾îÁ®¼­ ¿îÀ²ÀûÀÎ Æ¯Â¡À» ³ªÅ¸³»´Â ´Ù¸¥ Çö»ó¿¡±îÁö Àû¿ëµÇ¾ú°í ½ÉÁö¾î´Â ÀÚ¸³ºÐÀýÀ½¿î·ÐÀÇ ¿µ¿ª¿¡±îÁö µé¾î°¡°Ô µÇ¾ú´Ù.
+  ¿îÀ²À½¿îÀÌ·ÐÀº Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·Ð¿¡¼­ °­¼¼¸¦ ´Ù·ç´Â µ¥ ³ªÅ¸³­ ¸î °¡Áö ¹®Á¦Á¡Àº ÁöÀûÇÏ°í ¼öÁ¤À» °¡ÇÏ°í ÀÖ´Ù.  PSE¿¡¼­´Â °­¼¼¸¦ ºÐÀýÀ½ÀÇÆ¯¼ºÀ¸·Î ¿©°Ü 1, 2, 3, 4µî Á¤¼ö·Î °­¼¼ÀÇ ÀÚÁúÀ» ´Ù¿øÀû(n-ary)À¸·Î ³ªÅ¸³»¾ú´Ù.  ±×¸®°í °­¼¼ºÎ¿©±Ô¾àÀº ¼øÈ­ÀûÀ¸·Î Àû¿ëµÇ¸ç °­¼¼°ÝÇÏ±Ô¾à(stress subordination covention)ÀÌ Àû¿ëµÈ´Ù.  Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·Ð¿¡¼­´Â ¸ðµç º¯º°Àû ÀÚÁúÀº À¯¹«ÀÇ ´ë¸³¸¸À» Çã¿ëÇÏ´Â ¾çºÐÀûÀÎ °ÍÀÌ¾ú´Ù.  ±×·¯³ª °­¼¼ÀÇ °æ¿ì´Â ºÐÀýÀ½ÀÇ Æ¯¼ºÀ¸·Î º¸¸é¼­µµ ´Ù¿øÀûÀ¸·Î ³ªÅ¸³»¹Ç·Î ¾çºÐ¼º¿ø¸®(binary principle)¸¦ ÀÏ°ü¼º ÀÖ°Ô À¯ÁöÇÏÁö ¸øÇÏ°í ÀÖ´Ù.  ±×¸®°í °­¼¼°ÝÇÏ±Ô¾à°ú °°Àº ÀçÁ¶Á¤±ÔÄ¢¿¡ ÀÇÇØ ÀÌ·ÐÀûÀ¸·Î ¸¸µé¾îÁö´Â °­¼¼ÇüÀº ¸ð±¹¾î È­ÀÚ°¡ ½ÇÁ¦·Î ¹ßÀ½ÇÏ´Â °­¼¼ÇüÀ» ³ªÅ¸³»Áö ¸øÇÑ´Ù´Â Á¡¿¡µµ ¹®Á¦°¡ ÀÖ´Ù.  ¶ÇÇÑ Ç¥ÁØ»ý¼ºÀ½¿î·Ð¿¡¼­ À½¿îÇö»óÀ» ¼³¸íÇÒ ¶§´Â ÀÎÁ¢ÇÑ ¿ä¼Òµé°£ÀÇ °ü°è¸¦ ¼³¸íÇÏ°Ô µÇ¹Ç·Î ±¹ºÎÀû(local)ÀÎ ÀÛ¾÷ÀÌ³ª, °­¼¼¸¦ °áÁ¤ÇÏ´Â ÀÛ¾÷¿¡¼­´Â ÀüÃ¼¸¦ °í·ÁÇÏ¿© °áÁ¤ÇØ¾ß ÇÏ´Â Àü±¹Àû(global)ÀÎ ÀÛ¾÷ÀÌ µÈ´Ù.  ±×·¯³ª ¿îÀ²À½¿îÀÌ·Ð¿¡¼­´Â °èÃþ(hierarchy)ÀÇ °³³äÀ» µµÀÔÇÏ¿© ¿¬¼â¸¦ ±¸¼ºÇÏ°í ÀÖ´Â ±¸¼º¼ººÐÀÇ»óÈ£°ü°è¸¦ »ó´ëÀûÀ¸·Î ÆÄ¾ÇÇÏ°Ô µÇ¹Ç·Î ±¹ºÎÀû Àû¿ëÀÌ µÈ´Ù´Â °ÍÀÌ´Ù.  ±×·¯¹Ç·Î ¿îÀ²À½¿î·ÐÀº À½¿î±ÔÄ¢À» ¸¸µé·Á´Â ¸ñÇ¥¸¦ ÇâÇÏ¿© ´õ ÀüÁøÇÏ°í ÀÖ´Ù°í º»´Ù.
+  ¿îÀ²À½¿î·ÐÀº Á¾·¡ÀÇ Ç¥ÁØ»ý¼ºÀ½¿î·Ð¿¡¼­ º¸¿©ÁØ °­¼¼ÀÌ·ÐÀÇ °áÁ¡À» ÇØ°áÇÏ°í ÀÖ´Ù.  ¿îÀ²À½¿î·Ð¿¡¼­´Â ÇÑ ³¹¸»ÀÌ³ª ±×º¸´Ù ´õ Å« ´ÜÀ§ÀÇ °­¼¼ÇüÀº s¿Í w·Î Ç¥½ÃµÈ ÀÌºÐÁö(binary branching)±¸Á¶·Î ³ªÅ¸³­´Ù.  ÀÌ¶§ s/w °ü°è¿¡¼­ s `´õ °­ÇÑ`(stronger), ±×¸®°í w `´õ ¾àÇÑ`(weaker)À» ³ªÅ¸³» ÁÖ´Â »ó´ëÀû µ¸µé¸² °ü°èÀÌ¸ç ±âº»ÀûÀÎ ³ª¹«±×¸²Àº swÈ¤Àº ws·Î ³ªÅ¸³½´Ù.  ¿©±â¿¡¼­  s¿Í w´Â »ó´ëÀûÀÎ °ü°è¸¦ ³ªÅ¸³»´Â ¾çºÐÀûÀÎ °ÍÀÌ¾î¾ß ÇÏ±â ¶§¹®¿¡ sww³ª ws w¿Í °°Àº 3ºÐÁö ±¸Á¶¶óµç°¡, 2ºÐÁö¶ó ÇÏ´õ¶óµµ ss³ªww¿Í °°ÀÌ µÑ ´Ù sÀÌ°Å³ª wÀÎ °ÍÀ» Çã¿ëÇÏÁö ¾ÊÀ¸¸ç, ¶ÇÇÑ s³ªw¿Í °°ÀÌ ºñ±³ÇÒ ¸¸ÇÑ À½ÀýÀÌ ¾ø´Â ±¸Á¶·Î Çã¿ëÇÏÁö ¾Ê´Â´Ù.
+  Liberman & Prince(1977)(ÀÌÇÏLP¶ó ÇÔ)´Â SPEÀÇ ±¸°­¼¼±ÔÄ¢ (nuclear stress rule)°ú º¹ÇÕ¾î°­¼¼±ÔÄ¢(compound stress rule)À» ´ÙÀ½°ú °°ÀÌ ±â¼úÇÏ°í ÀÖ´Ù.
+
+ ÀÌ°ÍÀ»  `labor union strike committee chairman`¿¡ Àû¿ëÇÏ¿© ¿îÀ²¼öÇü±¸Á¶¸¦ ±×·Á º¸¸é ´ÙÀ½°ú °°ÀÌ µÈ´Ù.
+s/w°ü°èÀÇ ¼öÇü±¸Á¶¿¡ ÀÇÇÑ »ó´ëÀû µ¸µé¸²ÀÇ Ç¥ÇöÀº ³¹¸»¿¡µµ Àû¿ëÇÒ ¼ö ÀÖ´Ù.  LP SPEÀÇ ºÐÀýÀ½¿¡ ´ëÇÑ °­¼¼±ÔÄ¢À» ¼öÁ¤ÇÏ¿© v¡æ[+ stress]/-Co(VCo)(VCo)#¿Í °°ÀÌ ³ªÅ¸³½´Ù.  ÀÌ°ÍÀº LP¿¡¼­ °­¼¼´Â ¾çºÐÀûÀÌ¾î¾ß ÇÏ°í ¶ÇÇÑ ¸ðµç ¸ðÀ½Àº ±âÀú¿¡´Â [-stress]ÀÌ±â ¶§¹®¿¡[lstress]°¡ ¾Æ´Ï¶ó[+ stress]ÀÌ¾î¾ß ÇÔÀ» ³ªÅ¸³»°í ÀÖ´Ù.  ±×¸®°í ÇÑ °¡Áö ÁÖ¸ñÇØ¾ß ÇÒ °ÍÀº LPÀÇ ¿µ¾î°­¼¼±ÔÄ¢Àº ºÐÀýÀ½ÀÌ ¾Æ´Ï¶ó À½Àý¿¡ ¹ÙÅÁÀ» µÐ °­¼¼¸¦ ³ªÅ¸³½´Ù´Â °ÍÀÌ´Ù.  ÀÌ ±ÔÄ¢¿¡ ÀÇÇÏ¿© happy¿Í  careenÀ» »õ·Î¿î ¿îÀ²ÇüÀ¸·Î ³ªÅ¸³»¸é ´ÙÀ½°ú °°´Ù.  ±×·¯³ª rabbi´Â happy¿Í ¼öÇà±¸Á¶´Â °°°í thirteenÀº careeb°ú °°À¸³ª °­¼¼Ç¥½Ã¿¡ ÀÖ¾î¼­´Â ´ÙÀ½°ú °°ÀÌ Â÷ÀÌ°¡ ³­´Ù.
+ÀÌ¿Í °°ÀÌ µÎ ³¹¸» »çÀÌÀÇ Â÷ÀÌ¸¦ ³ªÅ¸³»´Â °ÍÀº °Å±â¿¡ ÁÖ¾îÁø ºñ¿îÀ²Àû Á¤º¸ÀÌ´Ù.
+  ¸ðµç ÇÇ¿äÇÑ Á¤º¸¸¦ ¼öÇü±¸Á¶¿¡¸¸ ¾ò¾î¾ß ÇÑ´Ù´Â ÁÖÀåÇÏ¿¡ ¼öÇü±¸Á¶¸¦ °³Á¶ÇÏ¿© °­¼¼À½º¸(stress foot)ÀÇ °³³äÀ» µµÀÔÇÏ°Ô µÇ¾ú´Ù.  ¿µ¾î¿¡¼­ °­¼¼À½º¸( )´Â Ã¹ ¿ä¼Ò°¡ °­¼¼À½ÀýÀÌ°í ±× µÚ¿¡ ºñ°­¼¼À½ÀýÀÌ µû¶ó¿À°Å³ª ¾Æ¹«°Íµµ µû¶ó¿ÀÁö ¾Ê´Â ¿¬¼â(string)·Î Á¤ÀÇÇÒ ¼ö ÀÖ´Ù.  ±×·¯¹Ç·Î happy ¿Írabbi ´Â ´ÙÀ½°ú °°ÀÌ ³ªÅ¸³»¾îÁø´Ù.
+  Áö±Ý±îÁö »ìÆìº» ¿îÀ²¼öÇü±¸Á¶¸¸À¸·Î´Â ¿µ¾îÀÇ ÃÊºÐÀýÀÚÁúÀ» ÀûÀýÈ÷ ´Ù·ê ¼ö ¾ø´Ù´Â µ¥¼­ ¹®Á¦°¡ ´Ù½Ã Á¦±âµÈ´Ù.  Áï, »ó´ëÀû µ¸µé¸²À» ³ªÅ¸³»´Â µ¥¿¡´Â ¿îÀ²¼öÇü±¸Á¶°¡ ÀûÇÕÇÏ´Ù°í »ý°¢µÇ¾î ¿ÔÀ¸³ª ¸®µë±¸Á¶¸¦ ³ªÅ¸³»´Â µ¥¿¡´Â ¼öÇü±¸Á¶º¸´Ù´Â °ÝÀÚ(grid)¶ó´Â »õ·Î¿î ±¸Á¶°¡ ÇÊ¿äÇÏ´Ù°í »ý°¢ÇÏ°Ô µÈ °ÍÀÌ´Ù.
+  LP¿Í ±× ¿Ü ¿©·¯ ÇÐÀÚµéÀÌ °üÂûÇÑ ¹Ù·Î´Â ¿µ¾î¿¡¼­ »ó´ëÀû µ¸µé¸²ÀÌ ³»Æ÷µÈ ±¸Á¶¿¡¼­ ±×´ë·Î À¯ÁöµÇÁö ¾Ê°í °­¼¼ÇüÀÌ ¹Ù²î¾î¾ß ÇÏ´Â ³¹¸»µéÀÌ ¸¹´Ù´Â °ÍÀÌ´Ù.  ¿µ¾îÀÇ `thirteen`À» ¿¹·Î µé¾îº¸¸é ÀÌ ³¹¸»ÀÇ µ¶¸³»ó¼¼ÇüÀº wsÀÌ³ª, `thirteen men`ÀÇ °æ¿ì¿¡´Â °­¼¼ÀÌµ¿ÀÌ ÀÏ¾î³ª thirteen Àº sw°¡ µÈ´Ù.  ±×¸®ÇÏ¿© Kiparsky(1979)¿¡¼­´Â ¿µ¾î¸®µë±ÔÄ¢(rhythm rule) È¤Àº ÀÏ¸í `thirteen men rule`À» Á¦½ÃÇÏ¿´´Ù.
+ LP¿¡¼­ ¼öÇü±¸Á¶¸¸À¸·Î´Â °­¼¼Ãæµ¹ÀÇ »óÈ²À» Á¤ÀÇÇÏ±â°¡ ¾î·Á¿òÀ» ±ú´Ý°í Á¦¾ÈµÈ °ÍÀÌ °ÝÀÚ±¸Á¶ÀÌ´Ù.  ÀÌ ±¸Á¶¿¡ ÀÇÇÏ¿© `thirteen men`À» º¸¸é ´ÙÀ½°ú °°´Ù.
+º»·¡ LP´Â Ç¥¸é±¸Á¶¿¡¼­ ¿îÀ²¼öÇü±¸Á¶¸¦ ±¸¼ºÇÑ ÈÄ¿¡ ±× ¼öÇü±¸Á¶¸¦ °¡Áö°í ´Ù½Ã ¿îÀ²°ÝÀÚ¸¦ ±¸¼ºÇÏ¿´´Ù.  Áï, ¼öÇü°ú °ÝÀÚ¸¦ ´Ù ÀÌ¿ëÇÏ°í ÀÖ´Â °ÍÀÎµ¥ ±×°ÍÀº ¼öÇüÀÌ °­¼¼°ü°è¸¦ ³ªÅ¸³»±â¿¡ ÀûÇÕÇÏ¸ç. °ÝÀÚ°¡ ¸®µë±¸Á¶¸¦ ³ªÅ¸³»´Â µ¥ ÀûÇÕÇÏ±â ¶§¹®ÀÌ´Ù.  Kiparsky(1979)´Â ¼öÇü±¸Á¶¸¸ °¡Áö°íµµ »ó´ëÀû »ó¼¼¿Í ¸®µë±ÔÄ¢¿¡ ´ëÇÑ ¿ÏÀüÇÑ ¼³¸íÀÌ °¡´ÉÇÏ¹Ç·Î °£°á¼ºÀÇ ¸é¿¡¼­  LPÀÌ·Ðº¸´Ù ´õ ³´´Ù°í ÁÖÀåÇÏ°í ÀÖ´Ù.  ÀÌ¿¡ ´ëÇØ Prince(1983)´Â ¼öÇü±¸Á¶ÀÇ ÇÊ¿ä¼ºÀ» ¹Ý¹ÚÇÏ°í ¼öÇü±¸Á¶¸¦ Á¦°ÅÇÑ °ÝÀÚ±¸Á¶¸¸À¸·Î ¸®µë±ÔÄ¢À» ¼³¸íÇØ º¸·Á´Â ½Ãµµ¸¦ ÇÏ°í ÀÖ´Ù.  ÀÌµé °¢ ÀÌ·ÐÀÇ ¼³¸í·Â°ú °£°á¼º¿¡ ´ëÇÑ Æò°¡´Â ¾ÕÀ¸·ÎÀÇ ¿¬±¸°úÁ¦¶óÇÏ°Ú´Ù.
+
+1.5.3. À½ÀýÀ½¿î·Ð
+
+  ÃÊ±âÀÇ »ý¼ºÀ½¿î·Ð¿¡¼­ ¾Æ¹«·± ÁöÀ§¸¦ ¾òÁö ¸øÇÏ´ø À½Àý(syllable)ÀÌ À½¿î·Ð¿¡¼­ ÇÏ³ªÀÇ ´ÜÀ§·Î µµÀÔµÉ ÇÊ¿ä°¡ ÀÖ´Ù°í ÀÎ½ÄµÈ °ÍÀº Pulgram(1970), Vennemann(1972), ±×¸®°í Hooper(1972)ÀÇ ³í¹®¿¡¼­ºÎÅÍ¿´´Ù.
+  Hooper1972)´Â Akan¾îÀÇ ºñÀ½È­Çö»óÀ» ¿¹·Î µé¸é¼­ ÀÚ¿¬½º·´Áö ¸øÇÑ È¯°æ/_{ }´ë½Å¿¡ À½ÀýÀ» À½¿î·ÐÀû ´ÜÀ§·Î º¹ ±×°ÍÀ» ºÐ¼®¿¡ °í·ÁÇÒ ¶§ ´õ ¹Ù¶÷Á÷ÇÑ ºÐ¼®ÀÌ µÉ ¼ö ÀÖ´Ù°í ÁÖÀåÇÑ´Ù.
+  Pulgram(1970)Àº À½Àý±¸Á¶¸¦ °áÁ¤Áþ´Â º¸ÆíÀûÀÎ 3°³ÀÇ ¿øÄ¢À» Á¦½ÃÇÏ°í ÀÖ´Ù.  Ã¹Â°´Â °¡´ÉÇÏ´Ù¸é °¢ À½ÀýÀº °³¹æÀ½ÀýÀÌ µÇ¾î¾ß ÇÑ´Ù´Â ÃÖ´ë °³¹æÀ½Àý¿øÄ¢ÀÌ´Ù.  µÑÂ°´Â À½ÀýÀÌ °³¹æÀ½ÀýÀÌ µÉ ¼ö ¾ø´Â °æ¿ì¿¡ ¸»À½(code)Àº °¡´ÉÇÑÇÑ Âª¾Æ¾ß ÇÑ´Ù´Â ÃÖ¼ÒÀÇ ¸»À½°ú ÃÖ´ëÀÇ µÎÀ½¿øÄ¢ÀÌ´Ù.  ¼ÂÂÅ´Â À§ÀÇ µÎÀ½¿øÄ¢ÀÌ Àû¿ëµÇ°íµµ ¾îµÎ¿¡ Çã¿ëµÇÁö ¾ÊÀº ÀÚÀ½µéÀÌ ³²¾Æ ÀÖÀ» °æ¿ì, ÀÌµéÀ» ¾Õ À½ÀýÀÇ ¸»À½¿¡ °¡Á®´Ù ³õ°í, ÀÌ¶§ »ý±â´Â ºÒ±ÔÄ¢¼ºÀÇ ºÎ´ãÀ» ¸»À½ÀÌ Áö°Ô ÇÏ´Â ºÒ±ÔÄ¢¸»À½¿øÄ¢ÀÌ´Ù.
+  ¸¹Àº ¾ð¾îÀÇ À½¿î±¸Á¶¿¡¼­ À½ÀýÀº ÇÊ¿äÇÑ ´ÜÀ§¶ó´Â µ¥ ´ëÇØ¼­´Â ´ëºÎºÐÀÇ À½¿î·ÐÀÚµéÀÇ ÀÇ°ßÀÌ ÀÏÄ¡ÇÏ°Ô µÇ¾ú°í »ý¼ºÀ½¿î·Ð¿¡¼­µµ À½ÀýÀÇ ÁöÀ§°¡ È®°íÇØÁö°Ô µÇ¾úÀ¸³ª À½Àý±¸Á¶¿Í ÀÌµéÀÇ ±â¼ú¿¡ °üÇØ¼­´Â ÇÐÀÚµé¸¶´Ù ´Ù¸¥ ÀÌ·ÐÀ» Á¦½ÃÇÏ¿© È®¸³µÈ ÀÌ·ÐÀ» °¡Á®¿ÀÁö ¸øÇß´Ù.
+  Kahn(1976)ÀÇ À½ÀýÀÌ·ÐÀº À½¼ºÀûÀÎ Çö»ó¿¡ ¹ÙÅÁÀ» µÎ°í ÀÖÀ½·Î À½Àý±¸Á¶ÀÇ Çü¼ºÀº À½¼ºÀû ´Ü°è¿¡¼­ ÀÌ·ç¾îÁö´Ï´Ù°í ÁÖÀåÇÑ´Ù.  Kahn(1976)Àº 3°³ÀÇ ±âº»ÀûÀÎ À½ÀýºÎ¿©±ÔÄ¢(syllable structure assignment rule)À» Á¦½ÃÇÏ°í ÀÖ´Ù.  Áï Ã¹ÂÅ, ÀÔ·Â¿¬¼â¿¡[ + syllabic]ÀÚÁúÀ» °¡Áø ºÐÀýÀ½Àº µ¶¸³µÈ À½ÀýÇÙÀ» ÀÌ·ç¾î ÇÑ °³ÀÇ À½Àý±¤ ¿¬°áµÈ´Ù.  µÑÂ°, À½ÀýÃÊ ÀÚÀ½±ºÀÌ Çã¿ëµÇ´Â ÃÖ´ëÀÇ ÀÚÀ½ÀÇ ¿¬¼ÓÀÌ±â¸¸ ÇÏ¸é ÈÄ¼ÓÇÏ´Â ¸ðÀ½°ú ÇÑ À½ÀýÀÌ µÈ´Ù.  ¼ÂÂ°, À§ÀÇ µÑÂ° ±ÔÄ¢¿¡ ÀÇÇØ ÈÄ¼ÓÇÏ´Â ¸ðÀ½¿¡ ¿¬°áµÇ¾î ÀÖÁö ¾ÊÀ¸¸é¼­ ±×°ÍÀÌ Çã¿ëµÉ ¼ö ÀÖ´Â À½Àý¸» ÀÚÀ½±ºÀÌ¸é ¼±ÇàÇÏ´Â ¸ðÀ½°ú ÇÑ À½ÀýÀÌ µÈ´Ù.  Kahn ÀÇ À½ÀýÀÌ·Ð¿¡ µû¸£¸é ¿µ¾îÀÇ `Jennifer`´Â ´ÙÀ½°ú °°Àº °èÃþ±¸Á¶·Î ±â¼úÇÑ´Ù.
+KahnÀº ÀÌ ±ÔÄ¢°ú ¾çÀ½Àý±ÔÄ¢ (ambisyllabic rule)¿¡ ÀÇÇØ ¿µ¾îÀÇ ±â¼®È­ Çö»óÀ» ¼³¸íÇÏ°í ÀÖ´Ù. 
+   Kahn(1976)Àº ÀÚ¸³ºÐÀýÀ½¿î·ÐÀÇ ¿µÇâÀ» ¹Þ¾Æ Ç¥ÁØ»ý¼ºÀ½¿î·ÐÀÇ À½¿î·Î·ÐÀû Ç¥½ÃÀÎ ºÐÀýÀ½Ãþ¿­ À§¿¡ À½ÀýÀ» ³ªÅ¸³»´Â º°µµÀÇ À½ÀýÃþ¿­ (syllabic tier)À» ¸¸µé°í ¿¬°á¼±À¸·Î ¿¬°áÇÏµµ·Ï ÇÏ¿´´Ù.  ¿©±â¿¡¼­ KhanÀº ºÐÀýÀ½Ãþ¿­°ú À½ÀýÃþ¿­ÀÌ °èÃþÀû Ãþ¿­À» ÀÌ·ç°í ÀÖ´Ù´Â ÁÖÀåÀ» ÇÔÀ¸·Î½á Áö±Ý±îÁö ³»·Á¿À´ø ºÐÀýÀ½¿îÀÌ·ÐÀÇ Æ²¿¡¼­ ¹þ¾î³¯ ¼ö ÀÖ´Â °è±â°¡ µÇ¾ú°í ´õ ¹ßÀüµÈ CVÀ½¿î·ÐÀÌ ¼º¸³ÇÏ´Â µ¥ °áÁ¤ÀûÀÎ °è±â°¡ µÇ¾ú´Ù´Â Á¡¸¸À¸·Îµµ ³ôÀÌ Æò°¡µÉ ¼ö ÀÖ´Ù.  ±×·¯³ª  Kahn(1976)ÀÇ À½ÀýÀÌ·Ð¿¡ ¸î °¡Áö ÇØ°áµÇ¾î¾ß ÇÒ ¹®Á¦Á¡ÀÌ ÀÖÀ½ÀÌ ÁöÀûµÇ°í ÀÖ´Ù.
+  KahnÀº ¿µ¾îÀÇ À½ÀýÀ» ¸í½ÃÇÏ¸é¼­ `°¡´ÉÇÑ ÃÊµÎ ÀÚÀ½±º`°ú `°¡´ÉÇÑ ¸»¹ÌÀÚÀ½±º` °³³ä¿¡ ´ëÇÑ Æ¯Â¡À» º¸¿©ÁÖÁö ¸øÇÏ°í ÀÖ´Ù.  ¶ÇÇÑ À½¿îµµÃâ°úÁ¤ Áß ¾î´À ÁöÁ¡¿¡¼­ À½ÀýºÎ¿©±ÔÄ¢ÀÇ Àû¿ëÀÌ Ã³À½À¸·Î ÀÌ·ç¾îÁö´Â°¡¸¦ ¸í½ÃÇÏÁö ¸øÇÏ°í ÀÖ°í, ¸ðÀ½»èÁ¦±ÔÄ¢°ú °°Àº À½¿î±ÔÄ¢ÀÇ Àû¿ëÀ¸·Î ÀÎÇØ ÀÌ¹Ì ¼¼¿öÁø À½ÀýÀÌ ÀçÀ½ÀýÈ­µÇ¾î¾ß ÇÏ´Â ¹®Á¦´Â °í·ÁÇÏ°í ÀÖÁö ¾Ê´Ù.  ±×¸®°í KahnÀÇ °èÃþÀû À½ÀýÇ¥½Ã¹æ¹ýÀº À§ÇØ [+- syllabic]ÀÚÁúÀ» ºÎ¿©ÇÏ°í ÀÖ´Ù.  ±×·¯³ª ÀÌ ¼ºÀý¼ºÀº ºÐÀýÀ½ÀÇ º»ÁúÀû Æ¯¼ºÀÌ ¾Æ´Ï¶ó ÇÑ ºÐÀýÀ½°ú  ±×  ÁÖÀ§¿¡ ÀÖ´Â ºÐÀýÀ½ »çÀÌÀÇ °ú°è¸¦ ³ªÅ¸³½ °ÍÀÌ¹Ç·Î À½Àý¼öÇàµµÀÇ À§Ä¡·Î ´õ ÀûÀýÈ÷ Æ¯Â¡ÁöŸn¸® ¼ö ÀÖ±â ¶§¹®¿¡ À½ÀýÀÇ ³»Àû ±¸Á¶¸¦ ÇÕ¸®ÀûÀ¸·Î ±â¼úÇÑ´Ù¸é[+-syllabic]ÀÚÁú¿¡ ÀÇÁ¸ÇÒ ÇÊ¿ä°¡ ¾ø´Ù´Â °ÍÀÌ´Ù.
+  Kiparsky(1979)´Â ¿îÀ²À½¿î·ÐÀÇ ¿µÇâÀ¸·Î ¿îÀ²±¸Á¶¸¦ µ¿ºñÇÏ¿© À½Àý±¸Á¶¸¦ ¿îÀ²¼öÇüµµ·Î ±â¼úÇÏ°í ÀÖ´Ù.  ±×ÀÇ À½Àý±¸Á¶´Â ¸ðµÎ°¡ ¾çºÐÁö ¼þÇàµµ¸¦ ÀÌ·ç¸é¼­ µÎÀ½(onset)°ú °¢¿î(rhyme)À» ³ªÅ¸³»´Â ±¸Á¶·Î µÇ¾î ÀÖ´Ù.
+  Selkirk(1982)´Â KahnÀÇ À½Àý±¸Á¶·Î´Â À½¼Ò¹è¿­Á¦¾àÀ» ¼³¸íÇÒ ¼ö ¾ø´Â ´ÜÁ¡ÀÌ ÀÖÀ½À» ÁöÀûÇÏ¸é¼­ À½ÀýÀÇ ³»Àû ±¸Á¶¸¦ ´õ ÇÕ¸®ÀûÀ¸·Î ±â¼úÇÏ±â À§ÇØ À½ÀýÀ» µÎ¿ò, ÇÙÀ½, ¸»À½À¸·Î À½Àý³»ÀÇ À§Ä¡¿¡ µû¶ó ´õ¿í °èÃþÀûÀÎ ±¸Á¶·Î ¸¸µé¾î ºÐÆ÷À§Ä¡¿¡ µû¶ó Á¸ÀçÇÏ´Â À½¼Ò¹è¿­Á¦¾àÀ» ¼³¸íÇÏ·Á ÇÏ°í ÀÖ´Ù.  ±×·¯¹Ç·Î ´ÙÀ½°ú °°Àº À½Àý¼öÇüµµ¸¦ ÃëÇÏ°í ÀÖ´Ù.
+  Clements & Keyser(1983)ÀÇ CV-À½¿î·ÐÀº KahnÀÇ ÀÚ¸³ºÐÀýÀû À½Àý±¸Á¶¸¦ ¹ßÀü½ÃÄÑ À½ÀýÀÀ¿­°ú ºÐÀýÀ½Ãþ¿­ »çÀÌ¿¡ µ¶¸³µÈ CV-Ãþ¿­À» ¼³Á¤ÇÏ°í ÀÌ Ãþ¿­µéÀ» ¿¬°á¼±À¸·Î ¿¬°áÇÏ´À »õ·Î¿î À½Àý±¸Á¶¸¦ Á¦½ÃÇÏ°í ÀÖ´Â °ÍÀÌ Æ¯Â¡ÀÌ´Ù.  CV-À½¿î·ÐÀº McCarthy(1981)¿¡¼­ ¼Ò°³µÈ CV-Ãþ¿­À» µµÀÔÇÏ¿´À¸³ª  `C`¿Í `V`ÀÇ ±â´ÉÀº ¼­·Î ´Ù¸£´Ù.
+  Clements & Keyser(1983)ÀÇ À½Àý±¸Á¶¿¡ ÀÇÇÏ¸é ¿µ¾îÀÇ  `Jennifer`´Â ´ÙÀ½°ú °°ÀÌ ±â¼úµÈ´Ù.  CV-Ãþ¿­ÀÇ ¼³Á¤Àº ÀÚ¸³ºÐÀýÀû Ç¥½Ã¿¡¼­ Çã¿ëµÇ´Â one-to-many¿Í many-to-oneÀÇ °ü°è¸¦ ´õ ¹ßÀü½ÃÅ°°Ô µÇ¾ú´Ù.  ±×¸®°í  CV-Ãþ¿­À» ¼³Á¤ÇÔÀ¸·Î½á  VÀÇ Áö¹è¸¦ ¹Þ´Â ºÐÀýÀ½Àº À½ÀýÇÙÀÌ°í CÀÇ Áö¹è¸¦ ¹Þ´Â ºÐÀýÀ½Àº ºñÇÙÀ½ÀÌ¶ó´Â °ÍÀÌ´Ù.  µû¶ó¼­ [syllabic]ÀÇ ÀÚÁúÀº ÇÊ¿äÇÏÁö ¾Ê°Ô µÈ´Ù.  ±×¸®°í ºÐÆ÷»óÀÇ À§Ä¡·ÎV¸¦ Áß½ÉÀ¸·Î µÎÀ½°ú ¸»À½À» ±¸º°ÇÒ ¼ö ÀÖ¾î¼­ À½¼Ò¹è¿­Á¦¾àµµ ±â¼úÇÒ ¼ö ÀÖ´Ù´Â °ÍÀÌ´Ù. CV-Ãþ¿­ÀÇ ¿ä¼ÒµéÀº ½Ã°£´ÜÀ§ (timing units)±â´Éµµ ÇÑ´Ù.
+  Clements & Keyser(1983)´Â CV-Ãþ¿­À» µµÀÔÇÏ¿© ¾ð¾î¸¶´Ù °íÀ¯ÀÇ `±âº»À½Àý`°³³äÀ» ¼³Á¤ÇÏ°í, ÀÌ ±âº»À½ÀýÀ» ÅëÇÏ¿© ±× ¾ð¾îÀÇ À½ÀýÈ­¿Í ÀçÀ½ÀýÈ­ °³³äÀ» ¼³Á¤ÇÏ´Â Åä´ë¸¦ ¸¶·ÃÇÏ°Ô ÅëÇÏ¿© ±× ¾ð¾îÀÇ À½ÀýÈ­¿Í ÀçÀ½ÀýÈ­°³³äÀ» ¼³Á¤ÇÏ´Â Åä´ë¸¦ ¸¶·ÃÇÏ°Ô µÇ¾úÀ¸¸ç, ÀÌµéÀÇ ¼º°ÝÀ» ±Ô¸íÇÏ¹Ç·Î½á º¸ÆíÀûÀÎ À½ÀýÀÌ·ÐÀ» È®¸³ÇÒ ¼ö ÀÖ´Ù°í ÁÖÀåÇÑ´Ù.  ÀÌµé ±âº»À½Àý, À½ÀýÈ­, ±×¸®°í ÀçÀ½ÀýÈ­ÀÇ ÀÌ·ÐÃ¼°è¸¦ º¸¸é, ¸ðµç ³ªÅ½¤©Àº ±âÀú±¸Á¶¿¡¼­ ±âº»À½Àý ±¸¼º¿øÄ¢¿¡ ÀÇÇØ À½ÀýÈ­µÇ°í, Ç¥¸é±¸Á¶·Î µµÃâµÇ´Â °úÁ¤¿¡¼­ ÀçÀ½ÀýÈ­ ±ÔÄ¢ÀÌ Àû¿ëµÇ¾î Ç¥ ¸é±¸Á¶¸¦ »ý¼ºÇØ ³½´Ù°í ÇÑ´Ù.   CV-Ãþ¿­Àº ¾ð¾î¿¡ ³ªÅ¸³ª´Â ¿©·¯ À½¿îÇö»óÀ» º¸´Ù Á÷°üÀûÀÌ°í ¼³µæ·Â ÀÖ°Ô ¼³¸íÇÒ ¼ö ÀÖ¾î Áö±Ý±îÁöÀÇ ´Ù¾çÇÑ À½¿î±â¼úÀÇ ÀÌ·ÐÀ» ÅëÇÕµÈ ÀÌ·ÐÀ¸·Î Á¤¸³ÇÏ´Âµ¥ Áß¿äÇÑ ¿ªÇÒÀ» ÇÑ °ÍÀ¸·Î ÀÎÁ¤µÈ´Ù.
+
+1. 5. 4. ¾îÈÖÀ½¿î·Ð
+ 
+  »ý¼º¹®¹ýÀÇ ÃÊ±â´Ü°è¿¡¼­´Â ³¹¸»(word)ÀÌ ¾ð¾îÇÐÀû ¿ªÁlÀ» ºÎ¿©¹ÞÁö ¸øÇÏ¿´°í ¾îÈÖ¸ñ·Ï(lexicon)Àº Æ¯ÀÌÇÏ°í ¿¹Ãø ºÒ°¡´ÉÇÑ °ÍµéÀÇ ÁýÇÕÃ¼·Î ¿©°ÜÁ³´Ù.  µû¶ó¼­ ÇüÅÂ·ÐºÎ¹®Àº »ý¼º¹®¹ýÀÇ ¿¬±¸¿¡¼­ Á¦¿ÜµÇ¾ú¾ú´Âµ¥, Chomsky(1970)ÀÇ "Remarks on Nominalization"À» ÇÊµÎ·Î ÀÌ¿¡ ´ëÇÑ °ü½ÉÀÌ ¸ð¾ÆÁö°Ô µÇ¾ú´Ù.
+  Chomsky(1970)¿¡¼­´Â ³¹¸»°£ÀÇ ±ÔÄ¢ÀûÀÎ °ü°è°¡ Åë»ç±ÔÄ¢(syntactic rules)°ú´Â ¾ÆÁÖ ´Ù¸¥ ¾îÈÖ±ÔÄ¢(lexical rule)À¸·Î ÆÄ¾ÇµÈ´Ù°í ÁÖÀåÇÏ¿´´Ù.  ±× ÈÄ HALLE(1973), SIEGEL(1974), ARONOFF(1976), ALLEN(1978), LIEBER(1980)µî »ý¼ºÇüÅÂ·Ð¿¡ °üÇÑ Áß¿äÇÑ ¾÷ÀûµéÀÌ ³ª¿À°Ô µÇ¾ú´Âµ¥, Æ¯È÷ SIEGEL(1974)¿¡¼­´Â ¾î¶² À½¿î°úÁ¤µéÀÌ ¾îÈÖ¸ñ·Ï ¾È¿¡¼­ ÀÌ·ç¾îÁø´Ù´Â ÁÖÀåÀÌ °³ÁøµÇ¾ú´Ù.  ÀÌ·¯ÇÑ ÁÖÀåÀº PESETSKY(1979)¿¡¼­ ´õ¿í º¸°­µÇ¾ú°í, °á±¹ MOHANAN(1982)°ú KIPARSKY(1982)¿¡ ÀÇÇØ ¾îÈÖÀ½¿î·Ð(lexical phonology)ÀÌ¶ó´Â »õ·Î¿î À½¿îÀÌ·ÐÀÌ Ã¢ÃâµÈ °ÍÀÌ´Ù. 
+  ÀÌ ºÐ¾ßÀÇ µÎ ´ëÇ¥ÀÚ¶ó ÇÒ ¼ö ÀÖ´Â Mohanan¿Í Kiparsky´Â ÀüÃ¼ÀûÀÎ ¸ðÇü¿¡¼­´Â ¾à°£ ´Ù¸£Áö¸¸ À½À±±ÔÄ¢À» ¾îÈÖ±ÔÄ¢(lexical rules)°ú ÈÄ¾îÈÖ±ÔÄ¢(post lexical rules)À¸·Î ³ª´©´Â Á¡¿¡¼­ ÀÏÄ¡ÇÏ°í ÀÖ´Ù.
+  ¾îÈÖÀ½¿î·Ð¿¡¼­´Â À½¿î·ÐÀÌ µÎ ÁÖ¿äºÎ¹®(component, module)-¾îÈÖºÎ¹®(lexical component(module))°ú ÈÄ¾îÈÖºÎ¹®(post lexical component(module))-À¸·Î ³ª´µ¾îÁ® ÀÖ°í, ÈÄÀÚ¿¡´Â ÇüÅÂ¼Òµå¤©¿¬°áÃ¼»Ó ¾Æ´Ï¶ó ÀÌº¸´Ù ´õ Å« ¿¬¼â¿¡µµ Àû¿ëµÇ´Â ±ÔÄ¢ÀÌ µé¾î ÀÖ´Ù.  ±×·¡¼­ ¾îÈÖºÎ¹®¿¡¼­¸¸ Àû¿ëµÉ ¼ö ÀÖ´Â ±ÔÄ¢µµ ÀÖ°í, ÈÄ¾îÈÖºÎ¹®¿¡¼­¸¸ Àû¿ëµÉ ¼ö ÀÖ´Â ±ÔÄ¢µµ ÀÖÀ¸¸ç, ¾Æ´Ï¸é µÎ ºÎ¹® ±ÔÄ¢µµ ÀÖ´Ù.  ¿µ¾î¿¡¼­ /s/¸¦ [s]·Î ¹Ù²Ù´Â ±ÔÄ¢Àº racial¿¡¼­´Â ¾îÈÖºÎ¹®¿¡¼­, I mi[s] you¿¡¼­´Â ÈÄ¾îÈÖºÎ¹®¿¡¼­ Àû¿ëµÈ´Ù.
+  ÀÌ·¯ÇÑ ±ÔÄ¢Àû¿ëÀÇ ±¸º°±âÁØÀº Mohanan(1982) ¿¡¼­ Á¦½ÃµÇ¾ú´Âµ¥, Ã¹Â°´Â ±× ±ÔÄ¢ÀÌ ÇüÅÂ·ÐÀû Á¤º¸¸¦ ÇÊ¿ä·Î ÇÏ¸é ±× Àû¿ëÀº ¾îÈÖºÎ¹® ¼Ó¿¡¼­ ÇàÇØÁø´Ù´Â °ÍÀÌ´Ù.  ¿µ¾îÀÇ ¼ÂÂ° À½Àý ´Ü¸ðÀ½È­ ±ÔÄ¢(trisyllabic shortening)Àº +°æ°è¸¸ ³ÑÀ» ¼ö ÀÕÀ¸¹Ç·Î(divin + ity,* maiden # hood)¾îÈÖºÎ¹®¿¡¼­ Àû¿ëµÈ´Ù.  µÑÂ°´Â ±× ±ÔÄ¢ÀÌ ³¹¸»ÀÇ °æ°è¸¦ ³Ñ¾î¼­ Àû¿ëµÇ´Â ±ÔÄ¢ÀÌ¸é ÈÄ¾îÈÖºÎ¹®¿¡¼­ Àû¿ëµÈ´Ù´Â °ÍÀÌ´Ù.  ¹Ì±¹¿µ¾îÀÇ Åº¼³À½È­(flapping rule)±ÔÄ¢Àº I`ll see you [D]omorrow¿Í °°ÀÌ ³¹¸»°æ°è¸¦ ³Ñ¾î¼­ Àû¿ëµÇ¹Ç·Î ÈÄ¾îÈÖºÎ¹®¿¡¼­ ÀÏ¾î³­´Ù.  Áï, À½¿î·ÐÀÇ »ó´çÇÑ ºÎºÐÀÌ ¾îÈÖºÎ ¼Ó¿¡ ÀÖ´Ù°í ÁÖÀåÇÏ´Â °ÍÀÎµ¥, ÀÌ·± ¸é¿¡¼­ `lexical phonology`¶ó´Â ¸íÄªÀÌ ºÙ°Ô µÈ °ÍÀÌ´Ù.
+  ¾îÈÖÀ½¿î·ÐÀÇ ¹ß´Þ°úÁ¤À» °£·«È÷ »ìÆìº¸¸é ´ÙÀ½°ú °°´Ù.  À§¿¡¼­ ÀÌ¹Ì ¾ð±ÞµÇ¾úµíÀÌ ¾îÈÖÀ½¿î·ÐÀÇ ¹ß´Þ¿¡ Áß¿äÇÑ °øÇåÀ» ÇÑ Siegel(1974)¿¡¼­´Â ¿µ¾îÀÇ Á¢»ç¸¦ ÇüÅÂ·ÐÀû ºÐÆ÷ÀÇ ±âÁØÀ¸·Î IºÎ·ù Á¢»ç(CLASS I AFFIXES)¿Í IIºÎ ·ù Á¢»ç(class IIaffixes)·Î ³ª´©¾ú´Âµ¥, °°Àº ºÎ·ùÀÇ Á¢»çµéÀº ¼­·Î ÀÚÀ¯·Ó°Ô ºÙÀ» ¼ö ÀÖÀ¸³ª(¿¹ :universality, bountifulness)IºÎ·ù Á¢»ç´Â IIºÎ·ù Á¢»ç°¡ ºÙ¾î ÀÖ´Â ¾î°£¿¡ ºÙÀ» ¼ö ¾ø°í ±× ¹Ý´ë´Â °¡´ÉÇÏ´Ù´Â Á¡À» °üÂûÇÏ¿© ÇüÅÂ·ÐÀû Á¶ÀÛÀÌ ¾îÈÖ¸ñ·Ï ¼ÓÀÇ °¢°¢ ´Ù¸¥ ´Ü°è¿¡¼­ ÀÌ·ç¾îÁø´Ù°í »ý°¢ÇÏ¿´´Ù.  ÀÌ·¯ÇÑ Siegel(1974)ÀÇ »ý°¢Àº ¾îÈÖÀ½¿î·Ð¿¡¼­ IºÎ·ùÀÇ Á¢»ç°¡  1´Ü°è¿¡¼­,  IIºÎ·ùÀÇ Á¢»ç°¡ 2´Ü°è¿¡¼­ ºÙÀ¸¸ç 1´Ü°è°¡ 2´Ü°è¸¦ ¾Õ¼±´Ù´Â ¿øÄ¢À¸·Î ¹ßÀüµÇ¾ú´Ù.
+  ±×·±µ¥[[re][air condition]]ÀÌ³ª[[hard-hearted]ness]¿¡¼­¿Í °°ÀÌ º¹ÇÕ¾î Çü¼º´Ü°èÀÎ 3´Ü°èÀÇ Ãâ·Â¿¡ 2´Ü°è¿¡¼­ ºÙ´Â Á¢»ç°¡ ºÙÀ½À» º¼ ¼ö ÀÖ´Ù.  ÀÌ¸¦ ÇØ°áÇÏ±â À§ÇØ ´Ü°è¸¦ °Å½½·¯ ¿Ã¶ó°¡´Â È¸¼ÛÀåÄ¡(loop)¸¦ ¸¸µé±âµµ ÇÏ³ª Booij³ª Rubach°°Àº ÇÐÀÚµéÀº ÀÌ¸¦ ¹Ý´ëÇÏ±âµµ ÇÑ´Ù.
+  ¿µ¾îÀÇ `divinity`¿Í`maidenhood`¸¦ ¿¹·Î µé¾î ¼ø¼­°¡ ¸Å°ÜÁø ´Ü°è¿¡¼­ À½¿î±ÔÄ¢°ú ÇüÅÂ±ÔÄ¢ÀÌ »óÈ£ÀÛ¿ëÇÏ´Â ¸ð½ÀÀ» º¸ÀÌ¸é ´ÙÀ½°ú °°´Ù.
+  µû¶ó¼­ ÇüÅÂ±ÔÄ¢°ú À½¿î±ÔÄ¢ÀÌ ¼­·Î ¾ôÇô ÀÖ¾î, ¾î´À ÇÑ ´Ü°è¿¡¼­ À½¿î±ÔÄ¢ÀÌ ¸ðµç ÇüÅÂ±ÔÄ¢ÀÇ Ãâ·Â(output)¿¡ Àû¿ëµÇ°í ÀÌ°ÍÀÌ °á°ú°¡ ¶Ç ´Ù¸¥ ÇüÅÂ±ÔÄ¢ÀÇ ÀÔ·Â(input)ÀÌ µÇ´Â ¾îÈÖÀ½¿î·Ð¿¡¼­ÀÇ ¾îÈÖ¸ñ·ÏÀÇ Á¶Á÷Àº ´ÙÀ½°ú °°ÀÌ ³ªÅ¸³¾ ¼ö ÀÖ´Ù. 
+  Ç¥ÁØ»ý¼ºÀ½¿î·Ð¼¼¼­ »ç¿ëÇÏ´Â °æ°è±âÈ£ ´ë½Å¿¡ ¾îÈÖÀ½¿î·Ð¿¡¼­´À °¢°ýÈ£(bracket)¸¦ »ç¿ëÇÑ´Ù.  ±×·¯³ª ÇüÅÂ±ÔÄ¡°Æ¿ëÀ¸·Î »ý±â´Â °¢°ýÈ£¸¦ ±× ´ÙÀ½ ´Ü°è¿¡¼­ º¸ÀÌÁö ¾Ê°Ô ÇÏ´Â ÀåÄ¡ÀÎ °¢°ýÈ£ »èÁ¦±Ô¾à(bracket erasure convention)È¤Àº ºÒÅõ¸í¿ø¸®(opacit condition)°¡ Ã¤ÅÃµÇ¾î ÇüÅÂ±ÔÄ¢ÀÌ ÀÌÀü ¾îÈÖÇü¼º´Ü°èÀÇ ³»ºÎ±¸Á¶¿¡ °ü¿©ÇÏÁö ¾Ê°Ô µÈ´Ù.  Áï, ¾îÈÖ¸ñ·ÏÀÇ Ãâ·Â¿¡´Â ³»ºÎ¿¡ °¢°ýÈ­°¡ ÀüÇô ¾øÀ¸¹Ç·Î ³¹¸»ÀÇ ³»ºÎ±¸Á¶¿¡ ´ëÇÑ Á¤º¸°¡ ÇÊ¿äÇÑ À½¿î±ÔÄ¢Àº ¾îÈÖ¸ñ·Ï¿¡¼­¸¸ Àû¿ëµÈ´Ù.
+  ¾îÈÖ¸ñ·ÏÀÇ ÁÖ¾îÁø ´Ü°è¿¡ Àû¿ëµÇ´Â ¾îÈÖ±ÔÄ¢Àº ¼øÈ¯±ÔÄ¢À¸·Î¼­ ÆÄ»ýµÈderived)È¯°æ¿¡¸¸ Àû¿ëµÇ¸ç ±¸Á¶º¸Á¸Àû(structure-preserving)ÀÌ°í ¿¹¿Ü°¡ ÀÖÀ» ¼ö ÀÖ´Ù.  ³¹¸»µéÀÌ Çü¼ºµÈ µÚ¿¡ Àû¿ëµÇ´Â ÈÄ¾îÈÖ±ÔÄ¢Àº ¾îÈÖ±ÔÄ¢¿¡ ÈÄÇàÇÏ¸ç ³¹¸»³»¿¡ »Ó¸¸ ¾Æ´Ï¶ó ±¸±¸Á¶¿¡µµ Àû¿ëµÇ¸ç ´Ü ÇÑ¹ø¸¸ Àû¿ëµÈ´Ù.  ¶Ç ±¸Á¶º¸Á¸ÀûÀÌ ¾Æ´Ï°í ¿¹¿Ü°¡ ¾ø´Ù.  ÀÌµéÀÇ °ü°è¸¦ º¸ÀÌ¸é ´ÙÀ½°ú °°´Ù  
+  °á°úÀûÀ¸·Î ¾îÈÖÀ½¿î·Ð¿¡¼­´Â ÀÌ·¯ÇÑ µÎ Á¾·ùÀÇ ±ÔÄ¢À¯ÇüÀÌ ¼³Á¤µÊÀ¸·Î½á ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­ÀÇ ÇüÅÂÀ½¼ÒÃþÀ§, À½¼ÒÃþÀ§, À½¼ºÃþÀ§°¡ Å¸´ç¼ºÀÌ ÀÖ¾ú´Ù°í ÀÌÁ¤ÇÏ¸é¼­, À½¼ÒÃþÀ§¿¡ ÇØ´çÇÏ´Â ¾îÈÖ·Â Ç¥½Ã(lexical representation)·Î½á ÀÌº¸´Ù ´õ¿í ÀûÀýÈ÷ È­ÀÚµéÀÇ Á÷°üÀ» Çü½ÄÈ­ÇÏ°Ô µÈ °ÍÀÌ´Ù.
+  ¾îÈÖÀ½¿î·ÐÀº ¼øÈ¥¼ºÀ¸·Î½á Ãß»ó¼º ¹®Á¦¸¦ ÇØ°áÇÏ¿´°í, ±ÔÄ¢Àû¿ëÀÇ ¿øÄ¢À» Á¦½ÃÇÏ¿´À¸¸ç, ÇüÅÂ¼Ò ±¸Á¶Á¶°ÇÀ» Á¦°ÅÇÑ ÀÌÁ¡À» °¡Áö°í ÀÖ´Ù.  ¶Ç °¢°ýÈ£¸¦ »ç¿ëÇÏ¿© º¹ÀâÇÑ °æ°è±âÈ£µé°ú ¸¹Àº º¹ÀâÇÑ ±ÔÄ¢µéÀ» ÇÇÇÒ ¼ö ÀÖ°Ô µÈ Á¡ µî Ç¥ÁØ»ý¼ºÀ½¿î·Ð¿¡ ºñÇØ ¿©·¯ ÀÌÁ¡ÀÌ ÀÖ´Ù.
+
+1. 6. ¸Î´Â¸»
+
+  ¿À´Ã³¯ ¹Ì±¹¤·¼­ È°¹ßÈ÷ ¿¬±¸µÇ°í ÀÖ´Â ºñ´Ü¼±À½¿îÀÌ·ÐÀ» Áß½ÉÀ¸·Î ÇÑ À½¿îÀÌ·Ð±îÁöÀÇ º¯Ãµ¿ª»ç´Â ºÒ°ú 30¿© ³â¹Û¿¡ µÇÁö ¾Ê´Â´Ù.  ±×·¯³ª ÀÌ·ÐÀÇ ³»¿ë¸é¿¡¼­´Â ¸Å¿ì Å« º¯È­°¡ ÀÏ¾î³µ´Ù.  ¹Ì±¹ÇÐ°èÀÇ À½¿îÀÌ·ÐÀº °ú°Å¿¡ ÇàÇØÁö´ø ÀÌ·ÐÀÇ ¹®Á¦Á¡À» ÁöÀûÇÏ°í ±×°ÍÀ» ¼öÁ¤ÇÏ°í º¸¿ÏÇÏ¸é¼­ º¸´Ù ¼³µæ·Â ÀÖ´Â ÀÌ·ÐÀ¸·Î ¹ßÀüÇÏ°Ô µÇ¾ú´Ù.
+  °ú°ÅÀÇ ¿¬±¸°¡ ¿À´Ã³¯ ÇàÇØÁö°í ÀÖ´Â À½¿îÀÌ·ÐÀ» ÀÌÇØÇÏ´Â µ¥ Áß¿äÇÔÀ» ÀÎ½ÄÇÏ°í ¹Ì±¹ÇÐ°èÀÇ À½¿îÀÌ·ÐÀÇº¯ÃµÀ» »ìÆìº¸±â À§ÇØ ±¸Á¶ÁÖÀÇ À½¼Ò·Ð¿¡¼­ºÎÅÍ ½ÃÀÛÇÏÁö ¾Ê°í ±¸Á¶ÁÖÀÇ À½¼Ò·Ð ¹ß´ÞÀÇ ¹è°æÀÎ Whitney¿Í BoasÀÇ ¿¬±¸¸¦ Áß½ÉÀ¸·Î ÇÑ ±¸Á¶ÁÖÀÇ¾ð¾îÇÐ ÀÌÀü »óÈ²À» Á¦ 2Àå¿¡¼­ ´Ù·ç¾ú´Ù.  ±×¸®°í Á¦3Àå¿¡¼­´Â Sapeir¿Í BlomfieldÀÇ ¿¬±¸¸¦ Áß½Ã¹ÌÀ¸·Î ÇÑ ±¸Á¶ÁÖÀÇ ¾ð¾îÇÐ ÃÊ±â ¿¬±¸¿Í À½¼Ò¿¡ ´ëÇÑ °ßÇØ, À½¿îºÐ¼®, ±×¸®°í ÇüÅÂÀ½¼Ò·ÐÀ» ¼³¸íÇÏ¿´´Ù.  Á¦4Àå¿¡¼­´Â Ç¥ÁØ»ý¼ºÀ½¿îÀÌ·ÐÀÇ ³»¿ë°ú ¹®Á¦Á¡À» ¼­¼úÇÏ¿´°í »ý¼ºÀ½¿î·Ð°ú´Â º°°³ÀÇ ÀÌ·ÐÀÌÁö¸¸ °ÅÀÇ °°Àº ½Ã´ë¿¡ ÇàÇØÁø ¿¬±¸ÀÌ¹Ç·Î ¼ºÃþÀ½¿î·ÐÀ» Á¦4Àå¿¡ ¼Ò°³ÇÏ¿´´Ù.  Á¦5Àå¿¡¼­´Â »ý¼ºÀ½¿î·Ð¿¡ ¼ÓÇÏÁö¸¸ ÃÖ±Ù¿¡ È°¹ßÈ÷ ¿¬±¸µÇ°í ÀÖ´Â ÀÚ¸³ºÐÀýÀ½¿î·Ð, ¿îÀ²À½¿î·Ð, ±×¸®°í À½ÀýÀ½¿î·Ð µî ºñ´Ü¼±À½¿î·ÐÀÇ ¼³¸í·Â°ú ±× ³»¿ëÀ» »ìÆìº¸°í, ÀÌµé°ú´Â ´Þ¸® À½¿î·ÐÀÌ ÇüÅÂ·Ð°ú Åë»ç·Ð°úÀÇ »óÈ£ÀÛ¿ëÀ¸·Î ³ªÅ¸³ª´Â ¿©·¯ Çö»óµéÀ» ¼³µæ·Â ÀÖ°Ô ¼³¸íÇÏ±â À§ÇØ Á¦¾ÈµÈ ¾îÈÖÀ½¿î·Ðµµ ÇÔ²¾ ¼Ò°³ÇÏ¿´´Ù.
+  ÀÌ¿Í °°ÀÌ ¹Ì±¹ÇÐ°èÀÇ À½¿îÀÌ·ÐÀÇ º¯Ãµ°úÁ¤À» ¼­¼úÇÏ¸é¼­ ÀÌ·ÐÀÇ º¯Ãµ°æÇâÀÌ ³ª¼±ÇüÀû º¯ÃµÀÓÀ» º¸°Ô µÈ´Ù.  ÇÑ ÀÌ·ÐÀÇ °áÁ¡À» ÁöÀûÇÏ°í ³ª¿Â »õ·Î¿î ÀÌ·ÐÀº ´õ »õ·Î¿î ÀÌ·ÐÀÇ °ø°ÝÀ» ¹Þ°Ô µÇ´Âµ¥, ÀÌ¶§ ´õ »õ·Î¿î ÀÌ·ÐÀº Ã¹ Á¾·¡ÀÇ ÀÌ·Ð¿¡ ÀÖ´Â Áß¿äÇÑ °³³äÀ» °¡Áö°í ÀÖÀ½À» Ã£¾Æº¼ ¼ö ÀÖ´Â °ÍÀÌ´Ù.  ¾îÈÖÀ½¿î·ÐÀÇ ¿¬±¸¿¡¼­µµ ÀÌ¿Í °°Àº ³ª¼±ÇüÀû ¹ßÀüÀ» Ã£¾Æº¼ ¼ö ÀÖ´Ù.  Áï, ÃÊ±âÀÇ »ý¼º¹®¹ý¿¡¼­ µµ¿Ü½ÃÇß´ø ÇüÅÂ·ÐÀÇ Áß¿ä¼ºÀ» ÀÎ½ÄÇÏ¿´°í, ¶Ç ±¸Á¶ÁÖÀÇÀÚµéÀÇ À½¼ÒÃþÀ§ÀÇ °³³äÀ» ¼ö¿ëÇÏ¿© ´õ ¹ßÀüµÈ ÇüÅÂÀÇ ÃþÀ§¸¦ ¼³Á¤ÇÏ°í ÀÖÀ½À» º¼ ¼ö ÀÖ´Ù.
+  ±×·¯¹Ç·Î ¹Ì±¹ÇÐ°èÀÇ À½¿îÀÌ·ÐÀÇ º¯ÃµÀ» »ìÆìº½´Â °ÍÀº ÇöÀç È°¹ßÈ÷ ¿¬±¸µÇ°í ÀÖ´Â À½¿îÀÌ·ÐÀ» ÀÌÇØÇÏ´Â µ¥¿¡µµ °¡Ä¡°¡ ÀÖÀ¸¸ç, ¶ÇÇÑ ¾ÕÀ¸·ÎÀÇ ¿¬±¸¹æÇâÀ» Ã£¾Æ Á¦½ÃÇÏ´Â µ¥¿¡µµ ÇÊ¿äÇÏ¸®¶ó »ý°¢ÇÑ´Ù.
+
+
+</tdmsfiletext>

@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_128.txt </filename>
+<title> 조선일보  </title>
+<author> 윤영신(기자)</author>
+<date> 93.06.02</date>
+<publisher> </publisher>
+<kdc> 070.08</kdc>
+<tdmsfiletext>
+[NA0402.0695CSM930602
+{윤영신}
+“국민학교 건강교육 소홀하다”/보건­간호협­영양사회 등
+◎교과신설­교육강화 추진※ 「세 살때 건강습관 여든까지
+지켜진다」.※어렸을 때부터 건강 관리능력을 갖추도록 국민학교 건강 교육을
+강화해야한다는 목소리가 높다.※ 최근 대한보건협회와 대한간호협회,
+대한영양사회등 건강­보건 관련 단체들은 『국민학교 때부터 바른 식생활과 건강
+관리 등 보건­건강 교육을 시작해야 한다』며 교과 과정 신설, 교육
+내용강화 등%C
+</tdmsfiletext>

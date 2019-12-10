@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_111.txt </filename>
+<title> 조선일보  </title>
+<author> 남상균(기자)</author>
+<date> 93.06.01</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0678CSM930601
+{남상균}
+6월의 문화인물 원효/신라 「불교대중화」 선두
+◎“진리는 자신속에” 설파… 저술 22권 현전※ 문화체육부가 뽑은
+「6월의 문화인물」은 신라시대 빼어난 학승이자 사상가요, 민중교화승인
+원효대사(617~686)이다.※ 학문과 사상의 깊이 만큼이나 많은
+원효의기행과 일화는 연극과 영화, 소설 등을 통해 일반에 비교적 널리
+알려져 있다.※ 압량 불지촌(현 경북 경산군) 태생으로 추정되는 원효는
+소년시절 화랑도에 몸을 담았으나 깨달은 바가 있
+</tdmsfiletext>

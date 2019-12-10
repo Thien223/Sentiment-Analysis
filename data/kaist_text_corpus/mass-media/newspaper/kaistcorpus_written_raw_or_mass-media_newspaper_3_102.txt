@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_102.txt </filename>
+<title> 조선일보  </title>
+<author> 최홍섭(기자)</author>
+<date> 93.05.31</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0669CSM930531
+[새흐름]
+{최홍섭}
+사외보 창간­확대발행 붐/“이미지 높인다” 중견기업까지 가세
+ 사외보가 새로운 기업미디어로 인기다. 기존 사보들은 만드는 데
+들이는 정성에도 불구하고 외부사람들에게는 휴지통 감이 되기 십상이다.
+그래서 요즘 기업들은 딱딱한 자기회사 얘기만 싣지 않고 외부 배포를
+겨냥해다양한 읽을거리를 담은 사외보창간과 확대에 열을 올리고
+있다.※○사보와 별도로 발행※ 사외보의 선구자격은 (주)태평양에서 만드는
+「향장�%
+</tdmsfiletext>

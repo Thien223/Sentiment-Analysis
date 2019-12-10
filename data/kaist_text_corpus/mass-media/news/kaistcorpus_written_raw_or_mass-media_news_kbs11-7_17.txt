@@ -1,0 +1,27 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-7_17.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.07</date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+방송 경영인 세미나
+
+올해 방송 경영인 세미나가 오늘 오전 한국방송협회 회원 등 70여명 이 참석한
+가운데 서귀포 시내 파라다이스 호텔에서 열렸습니다. 오늘 세미나에서 홍두표 한
+국방송협회장은 제한된 광고시장 속에서 제작비의 과다 인상이 각 방송사의 경영
+압박 요인 이 되고 있다고 전제하고 지나친 광고경쟁을 자제하고 서로 협조해서
+어려운 상황을 헤쳐나 가야 할 것이라고 강조했습니다. 
+
+최동호 KBS부사장 운경상 수상
+
+국회의장 등을 역임했던 운경 이재형 선생의 뜻을 기념해서 제정된 운경상
+시상식이 오늘 롯데호텔에서 열려 최동호 KBS 부사장이 문화 언론 부문 상을
+받았습 니다. 또 최영복 한국 화학연구소 연구위원과 최남석 엘지화학 상임고문이
+산업기술 부문에 서 상을 받았습니다. 
+
+</tdmsfiletext>

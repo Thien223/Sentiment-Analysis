@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_3314.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.01.28</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.3270CSM930128    
+［생활속의환경운동］                                                          
+거실온도  １６∼２０도  유지하자（생활속의  환경운동：１２）                  
+◎전체가구서  １도만  낮추면  년５천억원  절약※  사람은  체온（섭씨 
+３７도）보다  １０∼２０도  정도  낮을  때  최대의  능률을  올린다．  쓸데없이 
+실내온도를  높이면  건강에도  좋지않고  난방비도  더  들어가는등  여러모로 
+손해다．※  난방온도를  １∼２도  낮추면  약  １０％의  에너지를  절약할  수  있다． 
+우리나라  １천２백만  전체  가구에서  한해동안  난방용으로  소비되는 
+에너지의  총량은  약  ５천만ｔ．  전체가구가  난방온도를  １도  낮출  경우，  총 
+２백５０만ｔ의  에너지를  아낄  수  있으며  이를  금액으로  따지면 
+５천３백억원이나  된다．  참고로  적정한  실내온도는  거실과  식당  １６∼２０도，  욕실과 
+화장실  １８∼２０도，  공부방  １５∼１７도，  침실  １２∼１４도， 
+복도­현관  １０∼１５도이다．※                                                     
+
+</tdmsfiletext>

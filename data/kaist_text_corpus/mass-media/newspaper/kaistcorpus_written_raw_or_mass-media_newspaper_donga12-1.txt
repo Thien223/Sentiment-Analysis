@@ -1,0 +1,32 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga12-1.txt </filename>
+<title> 동아일보</title>
+<author> </author>
+<date> 1997.12.01  </date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+국민신당 『한나라당， 지구당에 거액활동비 지급』
+
+국민신당은 1일 한나라당이 지난달 중순 의원 및 지구당위원장 연석회의에서
+1천만원씩의 활동비를 지급한데 이어 최근 거액의 활동비를 각
+지구당에내려보냈다고 주장했다.
+
+金忠根대변인은 이날 고위당직자회의후 『한나라당이 진정 나라경제를 걱정한다면
+지구당에 내려보낸 거액의 활동비를 즉각 회수하고 앞으로 내려보낼 자금계획도
+전면 취소해야 한다』면서 『군중집회와 호화정치쇼를 전면 중단하라』고
+요구했다.
+
+金대변인은 또 『한나라당이 선거운동을 일시 중단, 경제를 살리기 위해 국회를
+열자고 했는데, 지금까지 30여회에 걸쳐 호화군중대회를 개최하는 등 선거운동을
+다해놓고 이제와서 그런 주장을 하는 것은 국민을 기만하는 처사』라면서
+『李會昌후보는 「집팔기 쇼」등을 중단하고 하루빨리 나라를 이 지경으로 만든데
+대해 책임있는 자세를 보여야 한다』고 덧붙였다.
+
+
+
+
+</tdmsfiletext>

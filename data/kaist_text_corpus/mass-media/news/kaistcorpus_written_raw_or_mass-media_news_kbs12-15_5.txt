@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-15_5.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.15 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+주한 미국대사 등 신임장 제정
+김영삼 대통령은 오늘 오전 청와대에서 스티븐 보스워스 신임 주한
+미국대사와 로라나 타야마 토고 대사 그리고 아타우르 라후만 카이서
+방글라데시 대사로 부 터 신임장을 받았습니다. 김영삼 대통령은 이어서
+신임 보스워스 주한 미국 대사와 오찬을 함께 하고 IMF의 자금지원이 원활히
+이뤄질 수 있도록 미국 정부가 적극 협력해줄 것을 당 부했습니다. 
+
+</tdmsfiletext>

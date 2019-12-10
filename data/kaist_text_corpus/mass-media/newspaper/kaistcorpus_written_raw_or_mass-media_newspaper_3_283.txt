@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_283.txt </filename>
+<title> 조선일보  </title>
+<author> 박재영(기자)</author>
+<date> 93.06.17</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0851CSM930617
+[생활속의환경운동]
+{박재영}
+1회용 대신 자기컵을 쓰자(생활속의 환경운동:80)
+◎운치 살리고 손님접대상 예의에도 맞아※ 서울 중구 신당동
+366의16에 있는 수출알선업체 「오토 페어산드」. 전 직원 40명의
+책상위에는각자의 이름이 새겨진 사기컵이 놓여있다. 물을 마실 때나 커피를 타
+먹을 때 직원들은 자기컵을 각자가 씻어서 다시 사용한다. 1년반 전
+「자기컵 쓰기 운동」이 시작될 때만해도 직원들은 번거롭다며 불평을
+했다.※ 지금은 컵을 씻는 모습을 당연한 것으로 여기고 있다. 환경보호에
+조금이나마 보탬이 된다는 생각에서다. 사무실에서 근무하는 직장인들은
+하루에 보통 서너잔 이상의 물과 음료를 마신다. 위생적이고 편하다는
+이유로그때마다 무작정 1회용컵을 써왔다. 컵으로 음료를 마시면 운치도
+있고손님접대상 예의에 벗어나지도
+
+</tdmsfiletext>

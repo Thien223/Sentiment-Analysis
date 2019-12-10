@@ -1,0 +1,27 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-22_18.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+가장 영향력있는 언론매체
+
+한국에서 가장 영향력있는 언론매체는 KBS인 것으로 밝혀졌습니다. 주간지
+시사저널이 코리아 리서치에 의뢰해서 전국 10개 전문분야 천6백여명의
+오피니언 리 더를 대상으로 실시한 조사에서 응답자의 62.5%가 한국에서
+가장 영향력있는 언론매체로 KBS를 꼽았고 2위는 60.8%의 조선일보가
+차지했습니다. 
+
+3 이달의 좋은프로그램
+
+노동요 기능보유자로 중요 무형문화재였던 고 조공래 여사의 소리인
+레스센터에서 열린 시상식에서 방송위원회가 주는 이달의 좋은 프로그램상을
+받았습니다.
+
+
+</tdmsfiletext>

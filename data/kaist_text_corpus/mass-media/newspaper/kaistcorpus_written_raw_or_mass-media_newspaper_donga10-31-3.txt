@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga10-31-3.txt </filename>
+<title> 동아일보</title>
+<author> </author>
+<date> 1997.10.31 </date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+한라산에도 첫눈…３１일 새벽 영하７도 기록
+제주도 漢拏山에도 첫 눈이 내렸다.
+31일 한라산국립공원관리사무소에 따르면 한라산 일대에는 이날 새벽 기온이 섭씨 영하 7도까지 뚝 떨어진 가운데 싸락눈이 내려 오전 7시 현재 해발 1천7백m인 윗세오름 일대에 평균 3∼5㎝의 적설량을 보였다.
+올해 한라산 첫 눈은 예년보다 1주일 가량 빠른 것이라고 국립공원측은 밝혔다.
+제주기상대는 『오늘 한라산 등 산간지역 낮 최고기온이 섭씨 4도로 예상되고 적은 양이지만 간간이 눈이 내리겠다』고 밝혔다.
+
+</tdmsfiletext>

@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_142.txt </filename>
+<title> 조선일보  </title>
+<author> 김창기(기자)</author>
+<date> 93.06.03</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0710CSM930603
+{김창기}
+니코틴 중독/자가판별법
+◎잠깬뒤 몇분후 흡연/금연장소 인내 여부/하루중 가장
+힘든때/하루몇개피 피우나/오전에 피우는 횟수/몹시 아플때 피우나/피우는 담배의
+함량/연기 얼마나 마시나/6점이상 “중독”… 금연시도땐 금단증상 보여※
+지난5월 31일 「세계 금연의 날」을 계기로 금연이 다시 일반인의
+관심사로 떠올랐다.※ 그러나, 담배 끊는 것을 가장 힘들게 만드는 것은
+니코틴중독이다.※ 일단 니코틴에 중독되면 결심만으론 금연�%B
+</tdmsfiletext>

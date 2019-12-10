@@ -1,0 +1,73 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-2_2.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-2_2.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.02 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.03</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/ [여야] 휴일없는 '양심수 사면'공방, 11-2.hwp/Titleend
+Inf/조선일보, 1997년 11월 2일 /Infend
+Text/ 
+                     [국방부] 구축함용 요격미사일 도입 
+
+                     [대함 미사일 사냥은 미사일로!] 
+
+                     오는 2000년대초 실전 배치되는 4천2백t급의 한국형 구축함
+                     2차 사업(KDX-2) 함정들에 우리나라에선 처음으로 대함
+                     미사일 요격용 미사일이 탑재된다. 
+
+                     2일 국방부에 따르면 해군은 내년부터 건조에 들어가는
+                     KDX-2 사업 함정들에 이같은 미사일을 탑재키로 하고 현재
+                     기종 선정작업을 벌이고 있다는 것이다. 
+
+                     대함 미사일 요격용 미사일은 걸프전때 이라크의 스커드
+                     미사일을 격추시킨 패트리어트 미사일처럼 함정을 향해
+                     날아오는 적의 미사일이나 항공기를 10㎞ 이내지역에서 직접
+                     맞춰 파괴하는 것이다. 
+
+                     현재 KDX-2 탑재 기종으로 경합중인 요격용 미사일은
+                     이스라엘제인 [바락]과 미-독 공동개발품인 [램(RAM)],
+                     영국의 [시 울프] 등 5가지. 
+
+                     이 미사일의 사업규모는 3백여억원으로, 국방부와 해군은
+                     내년중 기종을 결정할 계획인 것으로 알려졌다. < 유용원기자
+                     > 
+
+     11/02(일) 19:43 
+
+
+   지난기사 
+   기사검색 
+   독자투고 
+   서비스지도 
+ ▼부가서비스
+   테마퀴즈 
+   클럽시네마 
+   가요베스트20 
+   북리뷰 
+   갤러리조선 
+   미팅정보듀오 
+   추천사이트 
+   게임동산 
+   대학위성강좌 
+   사이버인터뷰 
+   2002월드컵 
+   만화모음 
+   인물DB 
+   부동산뱅크 
+   유학세계 
+   산수도인운세 
+   특허검색 
+/Textend 
+</tdmsfiletext>

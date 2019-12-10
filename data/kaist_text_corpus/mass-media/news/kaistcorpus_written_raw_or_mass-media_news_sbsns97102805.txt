@@ -1,0 +1,16 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102805.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+유럽증시도 동반하락
+유럽 금융의 중심지인 영국의 런던 주가도 어제 129.5포인트 폭락했습니다. 
+독일 프랑크푸르트 증시의 주가도 오늘 개장직후 279.12포인트가 떨어져 3천6백 포인트로 출발했습니다. 
+프랑스 주가도 2.79%가 떨어졌고 러시아에서는 투매현상이 빚어져 일부 증궝거래소가 폐장되는 등 유럽증시 전체가 큰 혼란에 빠졌습니다. 
+</tdmsfiletext>

@@ -1,0 +1,17 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102823.txt </filename>
+<title> SBS 뉴스</title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+전문대 입시 자율화
+내년부터 전문대의 신입생 선발이 연중 수시로 이뤄지고,특별전형의 기준과 모집 비율의 제한도 없어져 전문대 입시가 완전히 자율화됩니다. 
+
+교육부는 오늘 전문대 학장협의회를 열고 지금까지 매년 1월과 2월 사이에 실시하던 전문대 입시를 대학이 필요할 때 아무때나 실시할 수 있게 허용하고, 2학기 입학도 가능해 지도록 하는 등 전문대 입시를 대학에 맡기겠다고 밝혔습니다 
+
+</tdmsfiletext>

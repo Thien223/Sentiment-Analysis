@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_103.txt </filename>
+<title> 조선일보  </title>
+<author> 석종훈(기자)</author>
+<date> 93.05.31</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.0670CSM930531
+[화제중기]
+{석종훈}
+세원공조/첨단 「빙축열장치」 잇단 히트(화제중기)
+◎절전형­소용량­자동조절등 개발/성능 대기업제품 능가… 올 매출
+70억 목표※ 빙축열시스템이란 밤에 남아도는 전력으로 얼음을 만들었다가
+낮시간에 냉방용으로 사용하는 시스템. 서울 송파구 풍납동 세원공조는 이
+빙축열장치를 전문생산하는 중소기업이다. 전체 종업원이라야 25명에
+불과하지만,세원은 대기업보다 앞선 기술로 국내 빙축열시스템 시장을
+뒤흔들어%B
+</tdmsfiletext>

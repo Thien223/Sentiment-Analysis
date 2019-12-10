@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2932.txt </filename>
+<title> 조선일보  </title>
+<author> 김형석(기자)</author>
+<date> 93.12.15</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2988CSM931215    
+［건강메모］                                                                  
+｛김형석｝                                                                    
+골절부위  함부로  건드리지  말아야／뼈：６（건강메모）                        
+  날씨가  추워지면  땅이  얼고  근육이  경직되므로  넘어져  뼈에  골절상을 
+입는  사람들이  많다．  이때  뼈가  빠졌다고  만지고，  부러진  것을  맞춘다고 
+만지는  사람들이  종종  있는데  이는  안된다．  부러진  뼈는  섣불리  만지면 
+뼈끝이  부스러져  나중에  제대로  맞추기  힘들게  되기  때문이다．※  따라서 
+뼈를  다쳤을  때는  다친  부위를  되도록  움직이거나  만지지  않는  것이 
+최선의  응급처치법이다．  나무판자나  마분지  같은  것으로  부목을  만들어  그 
+부위에  대주고  움직이지  못하게  한  다음  바로  전문의에게  보여야  한다． 
+쉽게  치료할  수  있는  것도  섣불리  잘못  만져놓으면  나중에  큰  수술을 
+하는  수가  있다．〈김형석·서울위생병원  의무원장·정형외과〉※                 
+
+</tdmsfiletext>

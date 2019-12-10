@@ -1,0 +1,16 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102917.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.10.29 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+자재용 승강기 추락
+오늘 오전 8시50분쯤 경북 포항시 이인리 대유주택 아파트 신축공사 현장에서 자재운반용 승강기가 15층에서 추락해 승강기에 타고있던 대구시 관음동 21살 강문영씨와 대구시 신천1동 33살 김경만씨등 근로자 2명이 숨졌습니다. 
+
+경찰은 사고 엘리베이터가 올라가다 갑자기 추락했다는 관계자들의 말에 따라 엘리베이터 줄이 끊어진 것으로 보고 정확한 사고 원인을 조사하고 있습니다. 
+</tdmsfiletext>

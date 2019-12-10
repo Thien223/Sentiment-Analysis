@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-12_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.12 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+아시아 3국 어린이 바둑잔치
+
+
+⊙황수경 앵커 :
+          KBS가 방송70년 KBS50년을 맞아서 일본의 NHK 중국의 CCTV와 함께
+마련한 아시아 3국 어린이 바둑잔치가 세 나라의 어린이 기사 6명과 국내
+프로기사들이 참석한 가운데 오늘 KBS 공개홀에서 열렸습니다. 
+
+삼성화재배 세계 바둑대회 개막
+제2회 삼성화재배 세계 바둑 오픈선수권대회 본선 개막식이 지난해
+대회우승자인 유다 9단과 준우승자 유창혁 9단 등 바둑계 인사 3백여명이 참석한
+가운데 오 늘 저녁 신라호텔에서 열렸습니다. 이 대회는 내일 32강전을 시작으로
+오는 15일 16강전이 치러진뒤 8강전은 다음달 북경에서 계속됩니다. 
+</tdmsfiletext>

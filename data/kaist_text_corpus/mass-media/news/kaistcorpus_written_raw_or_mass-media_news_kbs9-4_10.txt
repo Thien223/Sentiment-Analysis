@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-4_10.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.4  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+제일은행 사실상 국책은행화
+
+
+⊙황수경 앵커 :
+          정부는 제일은행에 6천억원 규모의 보통주 증자를 허용하고 정부가 보유한
+채권과 주식을 현물로 출자하기로 했습니다. 이에 따라 제일은행은 정부가
+49%의 주 식을 보유하게 돼서 사실상 국책은행으로 바뀝니다. 한편 한국은행은
+오늘 금융통화위원회를 열어서 제일은행과 종합금융사에 1조원 규모의
+특별융자를 해주기로 확정했습니다. 
+
+환율 사상 최고…1달러 905원 넘어
+미 달러화에 대한 원화의 환율이 905원을 넘어서서 사상 최고치를 기록했습니다.
+오늘 외환시장에서 미 달러화에 대한 원화의 환율은 기업들의 결재 수요가 몰
+리면서 906원 50전까지 치솟았다가 906원30전으로 마감됐습니다. 
+
+</tdmsfiletext>

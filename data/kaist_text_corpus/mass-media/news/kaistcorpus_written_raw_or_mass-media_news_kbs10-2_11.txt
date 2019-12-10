@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-2_11.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+김윤환 고문, 전두환씨 면회
+
+신한국당의 김윤환 고문은 오늘 오전 안양교도소에 수감중인 전두환
+전대통령과 1시간 동안 단독면회하면서, 개천절 특사로 풀려나오기를
+기대했는데 그렇게 되지 못해 안타깝다고 위로했으며, 이에 대해 전두환
+전대통령은 신경을 써줘서 고맙다는 뜻을 표 시한 것으로 알려졌습니다. 
+
+
+</tdmsfiletext>

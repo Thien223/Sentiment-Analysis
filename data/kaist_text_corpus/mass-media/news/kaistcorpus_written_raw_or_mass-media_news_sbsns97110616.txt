@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110616.txt </filename>
+<title> SBS 뉴스</title>
+<author> </author>
+<date> 1997.11.06 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.06</kdc>
+<tdmsfiletext>
+1가구 2전화 시대
+국산 전전자교환기인 TDX교환기의 개발로 우리나라는 짧은 기간에 전화통신 선진국 대열에 합류했습니다. 오늘 TDX회선이 천만 회선을 돌파해, 1가구 2전화 시대를 실감케 했습니다. 이현식 기자가 보도합니다. 
+
+모든 통신신호를 디지털 방식으로 처리하는 전 전자 교환기 TDX입니다. 
+지난 86년부터 TDX 교환기가 설치되면서 우리나라 정보통신산업은 비약적으로 발전하게 됐습니다 
+
+TDX 교환기는 저렴한 비용으로도 대용량의 전화 통화를 처리할 수 있어, 1가구 2전화 시대의 도래에 큰 기여를 했습니다. 
+그런 TDX 교환기의 통신 회선이 오늘 천만 회선을 돌파해 김영삼 대통령이 참석한 가운데 기념식이 열렸습니다. 
+
+국산 TDX 교환기의 개발로 우리나라는 수입대체 효과로 3조 7천억원, 로열티 절감효과로 천9백억원 등 모두 4조 5천억원에 달하는 외화를 절약할 수 있었습니다. 
+
+러시아, 중국,베트남 등 개발도상국에 대한 수출도 잇따라서 
+5억 7천만 달러의 외화를 벌어들였습니다. 
+SBS 이현식입니다. 
+</tdmsfiletext>

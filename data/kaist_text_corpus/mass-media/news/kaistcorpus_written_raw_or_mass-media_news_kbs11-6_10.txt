@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-6_10.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.06</date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+공직 26년 결격사유로 퇴직금 못받게 돼
+
+전남 장흥군 유치면 사무소에 근무하다 지난 6월에 정년 퇴임한 63 살 박중재씨는
+최근 공무원 연금관리공단으로 부터 박씨의 자격이 공무원 임용 결격사유에
+해당되기 때문에 26년 동안의 퇴직금 1억2천여만원을 받을 수 없다는 통보를
+받았습니다. 박 씨는 공무원으로 임용되기 전인 지난 68년 자신의 집행유예 기간이
+소멸되기 나흘전에 임용 되는 바람에 26년을 공직에 종사하고도 퇴직금을 한푼도
+받지 못하게 됐습니다. 
+
+</tdmsfiletext>

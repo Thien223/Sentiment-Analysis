@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-6_18.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.06 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+동물보호센터 기공식
+
+한국 동물구조협회는 오늘 오전 경기도 양주군 산수리에서 야생동물 을 위한
+의료시설과 인공 사육시설 등이 들어설 3천4백평 규모의 동물보호센터
+기공식을 열 었습니다. 오늘 기공식이 끝난뒤 천연기념물로 지정된
+황조롱이와 꿩 너구리 등 치료가 끝난 야생조수 20여마리가 방사돼서 자연의
+품으로 돌아갔습니다.
+
+
+</tdmsfiletext>

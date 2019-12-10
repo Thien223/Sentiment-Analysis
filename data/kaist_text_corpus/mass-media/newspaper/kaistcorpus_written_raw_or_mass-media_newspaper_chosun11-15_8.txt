@@ -1,0 +1,55 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-15_8.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-15_8.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.15 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.03</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[PK민심 승부] 이인제바람-이회창조직 대접전, 11-15.hwp/Titleend
+Inf/조선일보, 1997년 11월 15일 /Infend
+Text/
+     11/14(금) 19:18 
+
+
+
+
+                     [의학] 서울의대에 대규모 암연구빌딩 건설 
+
+                     암 연구에 필요한 세계
+                     최고수준의 시설을 갖춘 첨단
+                     암 연구빌딩이 서울대 내에
+                     건설된다. 서울대는
+                     삼성그룹의 지원을 받아
+                     서울의대 연 건캠퍼스내에
+                     지상 10층, 지하 1층, 연건평
+                     4천4백평 규모의 '암정복
+                     연구동' 설립계획을
+                     수립했으며, 17일 오후 2시
+                     서울대 선우중호 총장 과 이건희 삼성그룹 회장 등이 참석한
+                     가운데 기공식을 갖는다. 
+
+                     총 공사비 3백억원이 투입돼, 오는 99년 7월 완공될 예정인 이
+                     연구 동에는 암연구센터와 대 국민 암교육을 담당하는
+                     암교육센터, 국제학술 대회를 주관할 수 있는 정보통신센터,
+                     연구지원부서 등이 들어갈 예정 이다. 
+
+                     서울의대 암연구소 박재갑소장은 "국가 차원의 암연구소가
+                     없는 상 황에서 서울의대 암연구소가 우리나라 암연구를
+                     선도해 왔지만, 현재의 인력과 시설로는 일정한 한계가
+                     있었던 게 사실"이라며 "암정복 연구동 의 건립으로 인해 세계
+                     수준의 연구를 진행할 수 있게 됐다"고 말했다. 
+
+                     <임호준기자> 
+/Textend
+</tdmsfiletext>

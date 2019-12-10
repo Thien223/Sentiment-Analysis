@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_185.txt </filename>
+<title> 조선일보  </title>
+<author> 이창원(기자)</author>
+<date> 93.06.08</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0753CSM930608
+{이창원}
+소장법관 의견 대폭 수렴/전국 법원장회의 무슨 논의했나
+◎관료화된 직급구조등 토론※ 7일 열린 전국법원장회의는 사회 각
+분야에서 일고 있는 변화와 개혁의 흐름에서 사법부도 예외일 수 없다는
+판사들의 인식을 배경으로 하고 있다. 업무성격상 보수적일 수 밖에 없는
+사법부에서 「개혁」 방안을 놓고 평판사들의 의견을 모은 것 자체가
+전례없는 일이다. 법원장들이 국민들의 따가운 눈길을 의식, 어느때보다도
+활발하게 의견을 개진했다
+</tdmsfiletext>

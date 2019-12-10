@@ -1,0 +1,24 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-7_10.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.7  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+괌공항 활공각지시기 정상 가동
+
+괌 공항 계기착륙 장치 가운데 활공각 지시기가 수리를 마치고 정상 가동에
+들어갔습니다. 괌 공항은 고장으로 한때 가동이 중단됐던 활공각 지시기의
+수리작업이 최근 완료됐다고 밝 혔습니다. 
+
+한.일 포럼, 한.일 안보대화 활성화 제안
+
+한일 포럼은 북한의 위기적 상황에 공동 대응하기 위해 한일 두나라 가 정부와
+민간 차원에서 안보대화를 활성화해야 한다는 등의 내용의 서울성명을 채택하고
+오늘 폐막했습니다. 
+
+</tdmsfiletext>

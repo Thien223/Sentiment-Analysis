@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-10_11.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+"독감에 과중업무로 사망 업무상 재해"
+서울 고등법원 특별11부는 오늘 독감에 걸렸는데 야근 등의 일을 하 다 숨진
+김 모씨의 유족들이 근로복지공단을 상대로 낸 유족급여 등 부지급 처분
+취소 소송 에서 공단의 처분은 부당하다며 원고 승소 판결을 내렸습니다. 
+
+
+</tdmsfiletext>

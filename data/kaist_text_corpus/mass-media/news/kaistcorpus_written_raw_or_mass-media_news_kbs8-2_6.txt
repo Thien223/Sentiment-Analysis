@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-2_6.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+WFP, 北 주민 영양상태 조사 계획
+
+WFP 즉 세계 식량계획은 이달말부터 3개월 동안 북한 전역에서 주 민들의
+영양상태를 면접조사 형태로 조사할 계획입니다. 미국의 한 비정부 기구
+관계자는 오 늘 세계 식량계획이 영국 아동구호기구를 통해서 북한주민의
+영양실태를 조사할 계획이라면 서 전문가를 추천해 주도록 의뢰해 왔다고
+밝혔습니다. 
+</tdmsfiletext>

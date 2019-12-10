@@ -1,0 +1,32 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-1_13.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+북한 남포 고구려 벽화 첫 공개
+
+
+
+⊙황수경 앵커 :
+          북한 남포시 강서구역 수산리 부근의 고구려벽화가 분단 50년만에
+처음으로 공개됐습니다. 북한을 방문해서 문화재를 조사한 일본 규슈대학
+기기다끼 시니치 교수 등 10여명이 최근 촬영에 성공해서 공개한 530여장의
+슬라이드 필름에는, 우리 민족 최 대의 문화유산으로 꼽히는 고구려 수산리
+벽화 가운데 연지곤지 찍은 고구려 여인, 곡예사들 의 묘기를 구경하는 부부
+등의 모습이 선명히 나타나 있습니다. 
+
+훈민정음.조선실록 세계유산 지정
+
+훈민정음과 조선왕조실록이 유네스코의 세계기록유산으로 지정됐습 니다.
+유네스코 국제자문위원회는 오늘 우즈베키스탄에서 회의를 열고 훈민정음과
+조선왕조 
+
+
+
+</tdmsfiletext>

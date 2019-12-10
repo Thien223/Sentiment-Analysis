@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_182.txt </filename>
+<title> 조선일보  </title>
+<author> 손성미(기자)</author>
+<date> 93.06.08</date>
+<publisher> </publisher>
+<kdc> 070.08</kdc>
+<tdmsfiletext>
+[NA0402.0750CSM930608
+[지금학교에선]
+{손성미}
+목~토요일은 「열린교육」 펼친다/서울 운현국교(지금 학교에선)
+◎학생들 중심 과제별 학습/시험 따로없고 활동수업­생활태도로 평가※
+서울 종로구 운니동 운현국교(교장 길형석)의 목요일은 「활동수업」이
+펼쳐지는 날이다. 월요일부터 수요일까지는 다른 학교처럼 「일제학습」으로
+교과서를 들고 배우지만, 목요일부터 토요일까지는 교사는 보조자로
+머물고학생들이 스스로 이해하고 참여하는 시간이다.「소�%B
+</tdmsfiletext>

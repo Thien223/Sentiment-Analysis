@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-1_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+증기탕 음란행위 등 단속, 30명 구속
+
+서울 경찰청 수사과는 최근 호텔 증기탕의 음란행위와 음란물 제조 판매 행위
+등에 대한 일제단속을 벌여서 서울 장안동 경남호텔 증기탕 업주 45살 임성식씨
+등 30명을 구속하고 9명을 불구속 입건했습니다. 임씨 등은 지난해 2월부터
+경남호텔 증기탕 을 운영하면서 여종업원 20여명을 고용해서 윤락행위를 시키고
+손님 4천2백여명으로 부터 5 억5천여만원의 부당이득을 챙긴 혐의를 받고
+있습니다. 
+
+</tdmsfiletext>

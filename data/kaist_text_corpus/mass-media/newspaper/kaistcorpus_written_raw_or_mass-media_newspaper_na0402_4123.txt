@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_4123.txt </filename>
+<title> 조선일보  </title>
+<author> 서홍관(기자)</author>
+<date> 93.05.09</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.4078CSM930509    
+［건강메모］                                                                  
+｛서홍관｝                                                                    
+유방암  자가진단  월경직후에（건강  메모）                                    
+  유방암은  자가진단법이  널리  알려져  있다．  자신의  유방을  손으로  만져 
+딱딱한  덩어리가  만져지는가를  체크하는  방법이다．  그러나  이런 
+자가진단도  월경  직후에  하는  것이  정확하다는  사실을  염두에  둘  필요가  있다．※ 
+유방은  여성호르몬의  농도가  높아지면  딱딱해지고  만져서  아프게  느껴지는 
+수가  있다．  덩어리가  만져지기도  한다．  이런  현상은  월경  전에  흔히 
+나타났다가  월경이  끝나면서  사라진다．  이는  월경이  여성호르몬  분비에 
+영향을  미치기  때문이다．※  이런  변화가  모든  사람에게  공통된  것은 
+아니다．  그러나，  생리적  변화와  유방암의  혼동을  피하기  위해서는  진단  시기를 
+잘  잡아야  한다．〈서홍관·서울  백병원  가정의학과장〉※                   
+
+</tdmsfiletext>

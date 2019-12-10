@@ -1,0 +1,16 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110425.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.04 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+세계일보 농민문화상
+세계일보가 주최하고 청민문화재단이 후원하는 제3회 세계농업기술상 시상식이 오늘 세계일보사 국제연수원 강당에서 열렸습니다. 
+
+오늘 시상식에서 경남 함안군의 강성이씨가 첨단기술부문대상을 수상했고, 수출농업부문 대상은 경기도 이천군의 진재하씨가, 품목조직부분 대상은 경북 청도군의 강창덕씨가 각각 받았습니다. 
+</tdmsfiletext>

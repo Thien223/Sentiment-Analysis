@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-14_13.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.14 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"김회장 조건부 사퇴하면 자금지원"
+기아그룹의 채권은행단은 김선홍 기아그룹 회장이 조건부 사퇴의사 를 밝히면서
+사표를 내면 기아그룹의 5개 주력사에 천881억원의 회생 지원자금을 제공할 방
+침입니다. 기아그룹의 주거래은행인 제일은행 등 채권은행단은 오늘 김 회장이
+일단 사표를 제출하돼 김 회장의 사표수리 여부는 기아 자구노력의 성공여부를
+지켜본뒤에 결정하도록 한 다는 입장을 정리한 것으로 알려졌습니다.
+</tdmsfiletext>

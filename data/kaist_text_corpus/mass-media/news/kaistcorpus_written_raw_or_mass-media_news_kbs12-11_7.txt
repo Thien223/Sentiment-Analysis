@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-11_7.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.11 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+KBS '용의 눈물'공영성 지수 최고
+
+
+
+⊙황수경 앵커 :
+          KBS 1텔레비전의 용의 눈물이 방송프로그램의 질적 평가 수단인 공영성
+지수 조사에서 최고 점수를 받은 것으로 나타났습니다. KBS 정책연구실이
+코리아 리서 치에 의뢰해서 지난 7월 KBS 1,2 MBC SBS 프로그램을 대상으로
+전국 8천여 시청자의 응답 을 토대로 분석한 결과 용의 눈물이 고영성 지수
+74.8로 1위 SBS의 명예특강 안녕하십니까가 2위 KBS 1 텔레비전의 녹색보고
+나의 살던 고향은이 3위로 조사됐습니다. 
+
+</tdmsfiletext>

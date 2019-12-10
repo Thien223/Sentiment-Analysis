@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-3_12.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.03 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+흉기난동 강도용의자 공포탄 쏴 검거
+
+오늘 오후 1시쯤 부산시 기장군 장안읍 사무소 앞길에서 강도상해 혐의로 수배를
+받아온 기장군 장안읍 길천리 26살 정동진씨가 주민 신고를 받고 출동한 해운 대
+경찰서 장안파출소 소속 박상일 순경을 흉기로 찔러 전치 3주의 상처를 입히고
+달아나자 공포탄 3발을 쏘면서 추격한 동료 경찰관들에게 붙잡혔습니다. 
+
+</tdmsfiletext>

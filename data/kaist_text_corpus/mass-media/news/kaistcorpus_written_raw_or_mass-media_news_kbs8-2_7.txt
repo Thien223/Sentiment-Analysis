@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-2_7.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+김종배 의원 다음주 기소여부 결정
+
+검찰은 국정감사를 무마해 달라는 청탁과 함께 김 양식용 약품제조 업체로 부터
+천여만원을 받은 혐의로 소환돼서 조사를 받고 어젯밤에 귀가 조치된 국민회의
+김종배 의원의 기소 여부를 다음주 중으로 결정할 방침입니다. 
+</tdmsfiletext>

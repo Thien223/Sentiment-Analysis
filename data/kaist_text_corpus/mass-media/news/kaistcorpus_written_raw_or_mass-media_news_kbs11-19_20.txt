@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-19_20.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.18 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+박찬호, 부산서 사인회
+
+미국 LA다저스의 박찬호 선수는 오늘 오전 부산 범일동 현대백 화점에서
+열린 자녀안심하고 학교보내기 운동 기금모으기 대바자회 행사에 참석한뒤
+백 화점 정문 앞에서 한시간 동안 부산시민을 위한 팬 사인회를 열었습니다.
+박찬호 선수 는 오늘 행사에서 받은 수익금 7백만원을 자녀안심하고
+학교보내기 운동 기금에 기탁했 습니다. 
+
+</tdmsfiletext>

@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-11_14.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.11  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"만들어낸 말"
+
+
+⊙류근찬 앵커 :
+          오익제씨 월북사건을 수사하고 있는 국가안전기획부는 오늘 기획입북이란
+말은 국민회의 정동영 대변인이 제보자의 말을 무의식적으로 잘못 설명한
+것이며 정 정동영 대변인은 자신은 기획입북을 단정적으로 주장한 것이 아니라
+기획입북 혐의를 제기했 던 것이라며 안기부가 발표한 내용과 자신이 조사해서
+설명한 내용은 차이가 크다고 반박했 습니다. 
+</tdmsfiletext>

@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-19_16.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.18 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+선경, 25억달러 초대형 플랜트 수주
+선경건설은 멕시코 북부 카데르데타 지역에 원유 정제공장을 비 롯한 29개
+석유화학 생산시설을 건설하는 국내 플랜트 건설 사상 최대인 25억 달러
+규모 의 초대형 건설공사를 멕시코 국영 석유회사로 부터 수주했습니다. 
+
+</tdmsfiletext>

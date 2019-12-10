@@ -1,0 +1,50 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_kbs11-5_14.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-5_14.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author>  </author>
+<date> 1997.11.05 </date>
+<publisher> KBS </publisher>
+<kdc>news.04</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/ KBS 9시 뉴스, 11-5.hwp/Titleend
+Inf/KBS, 1997년 11월 5일 /Infend
+Text/
+통행막은 트럭파업
+프랑스의 트럭운전사들이 나흘째 파업을 벌이면서 도로를 봉쇄하고 있어서 유럽의
+다른 나라들까지 큰 피해를 입고 있습니다. 특히 이들이 국경의 통행을 막는
+바람에 연료를 비롯한 생활필수품들이 조달되지 않고 있다는 소식입니다. 파리에서
+이정옥 특파원의 보도입니다. 
+
+⊙이정옥 특파원 :
+          트럭운전사 파업 나흘째 운전사들은 프랑스의 150여개 주요 도로를
+바리케이트로 막았습니다. 국경 지역에는 유럽 각국의 트럭들이 오도가도 못하고
+파업이 풀 리길 기다리며 줄을 서 있습니다. 트럭 노조들은 게다가 프랑스 전역에
+거의 모든 유류저장 소와 정유소를 점거해 버렸습니다. 프랑스 전역의 20여개 도의
+연료가 이미 바닥났으며 이대 로 간다면 24시간안에 파리를 비롯한 프랑스 전역의
+연료가 고갈될 위기에 처해 있습니다. 
+
+⊙네덜란드 운전사 :
+          기름을 구하지 못하면 차에 실린 생선들이 다 상하고 말 겁니다. 
+
+⊙이정옥 특파원 :
+          유럽의 교통 요충지인 프랑스의 도로 봉쇄는 전 서유럽 국가의 경제에 상당한
+타격을 주고 있습니다. 매주일 약 20만톤의 야채와 과일을 프랑스에 수출해온 스
+페인은 이번 파업으로 안덜레스의 한 지역에서만 약 150억원의 손해를 봤습니다.
+스페인으로 부터 야채를 수입하는 영국은 생필품 조달에 큰 애로를 겪고 있습니다.
+그러나 프랑스 정부 는 외국 트럭의 자유통행의 보장을 촉구한 메이저 영국총리의
+요청마저 거절했습니다. 이에 대해 유럽 각국은 이번 파업은 자유통행을 보장한
+유럽통합 기본 정신에 위배 된다며 유럽연 합 집행위원회측에 법적 보장책을
+마련할 것을 촉구했습니다. 파리에서 KBS 뉴스, 이정옥입니다. 
+
+/Textend 
+</tdmsfiletext>

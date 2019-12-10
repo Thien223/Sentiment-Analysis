@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-2_13.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+제18회 근로자 미술제 근로자들의 창작의욕을 높히고 정서를 함양하기 위한
+제18회 근로자 미술제가 오늘 경복궁역 전시관에서 개막됐습니다.
+근로복지공단과 한국 방송공사가 공동주 최한 이번 미술제에는 대통령상을
+수상한 김안복씨의 희로애락을 비롯해서 회화와 서예, 공 예, 사진 등 모두
+248점이 전시됐습니다.
+
+</tdmsfiletext>

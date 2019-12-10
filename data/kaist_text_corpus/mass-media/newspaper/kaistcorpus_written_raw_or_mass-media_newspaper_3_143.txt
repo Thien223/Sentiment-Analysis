@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_143.txt </filename>
+<title> 조선일보  </title>
+<author> 오중석(기자)</author>
+<date> 93.06.04</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0711CSM930604
+{오중석}
+러시아 내일 제헌회의/보수파 입지약화/옐친헌법안 “우세”
+◎대통령 의회해산­조각권등 규정/자치공­주도 60%이상
+지지표명/확정땐 보수파 소멸될지도※ 【모스크바=오중석기자】 러시아연방의 헌법안을
+확정하기 위한 제헌회의 개최일이 다가왔다.※ 옐친대통령과 의회는 서로의
+헌법안을 관철시키기 위해 치열한 공방을 벌이고있으나 현상황으로
+보아서는강력한 대통령중심제의 옐친안이 우세한 느낌이다.※ 오는 5일 열릴
+제헌%C
+</tdmsfiletext>

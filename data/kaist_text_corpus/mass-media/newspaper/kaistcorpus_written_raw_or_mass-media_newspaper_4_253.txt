@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_4_253.txt </filename>
+<title> 조선일보  </title>
+<author> 이경희(기자)</author>
+<date> 93.07.13</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.1131CSM930713
+{이경희}
+산모 젖관리­각종 유방질환에 효과 탁월(수지침:7)
+ 수지침의 원리는 묘한 것이어서 인체의 성장, 발육뿐 아니라
+기능까지조절하는 효과가 있다. 여성의 유방과 관련된 대표적인 것이 그림의
+E12이다. 여기에 수지침을 놓으면 산모에게서 나오는 젖의 질과 양을
+좋게 하는 효과가 있다. 젖먹이의 질병은 어머니에게서 옮은 경우가
+많으므로 젖을 통한 건강조절이 중요하다.※ 그뿐 아니라 E12에 서암뜸을
+2~3개월간 매일 3~5장씩 양손에 떠주면 유방을 크게 하는 효과가
+있다. 그리고 각종 유방질환의 초기나 수술 후에도 여기에 수지침을 놓으면
+효과가 우수하다. 남성들의 유방질환도 마찬가지다.〈이경희.서울
+한도한의원장·의학박사〉※
+
+
+
+</tdmsfiletext>

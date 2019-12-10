@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_3648.txt </filename>
+<title> 조선일보  </title>
+<author> 최승은(기자)</author>
+<date> 93.03.06</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.3604CSM930306    
+｛최승은｝                                                                    
+넉넉한  거실／여백살려  단정하고  깔끔                                        
+  채우는  것뿐  아니라  비우는  것도  중요한  실내설계다．  나는  빈  공간의 
+넉넉함을  좋아한다．  그래서  우리집  거실도  허전할  정도로  단순하다． 
+결혼후  집을  꾸미면서  흑백의  단순한  대비를  생각했고，  거실가구와 
+싱크대까지  모두  검은  색을  택했다．  사방벽은  희게  칠하고  창문에는  흰색 
+부직포로  블라인드를  만들어  달았다．  한쪽  벽을  가득  메웠던  장식장을  떼내고 
+낮은  서랍장을  설치했다．  덩치  큰  소파대신  사무용  의자를  갖다두고  키 
+큰  스탠드를  세우는  등  우리집  거실은  포근함보다는  단정，  정갈함을 
+특색으로  삼았다．  거실벽에  걸린  화사한  프린트천은  내가  일을  하면서  얻은 
+커튼지  샘플로，몇가지를  갖춰두고  돌려가며  걸어  흑백거실의  단조로움을 
+풀어준다．〈최승은·인테리어  코디네이터〉※                                     
+
+</tdmsfiletext>

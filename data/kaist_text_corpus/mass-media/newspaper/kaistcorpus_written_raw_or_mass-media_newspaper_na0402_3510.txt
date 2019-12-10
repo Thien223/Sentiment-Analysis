@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_3510.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.02.17</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.3466CSM930217     
+［이럴땐］                                                                    
+눈에  이물들어갔을때（이럴땐）                                                
+◎깨끗한  물에  눈대고  깜박거리면  나와…  비비지말아야※  요즘처럼  바람이 
+많은  날은  눈에  이물（이물）이  들어가기  쉽다．  김대근전문의（안과）는 
+눈의  이물은  절대로  비벼서는  안된다고  강조한다．  각막을  다치거나  눈에 
+염증을  일으킬  수  있기  때문．  먼저  깨끗한  세숫대야나  컵에  물을  가득 
+부은  다음  눈을  대고  깜박거려  이물이  흘러나오도록  한다．  이물이 
+윗눈까풀에  달라붙었을  땐  윗눈까풀을  한쪽  손  엄지손가락과  집게손가락으로  집어 
+올리고  다른  손  엄지로  아랫눈까풀을  살그머니  밀어올리면  이물이 
+아랫눈까풀의  피부에  붙어서  나온다．  그래도  안될  경우  눈까풀을  뒤집어  먼지가 
+보이면  손수건끝에  물을  약간  적시어  살짝  닦아낸다．  이물이  눈동자위에 
+있으면  눈을  깜박거려  검은자위에서  흰자위로  먼지를  이동시켜서 
+
+</tdmsfiletext>

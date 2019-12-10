@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-14_6.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.14 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+김 대통령, 주 유엔 미국대사 접견
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 김영삼 대통령은 오늘 청와대에서 방한중인 윌리엄
+리처드슨 유엔주재 미국대사를 접견하고 유엔에서의 한미 협력 방안 등을
+논의했습니다. 김영삼 대통령은 이 자리에서 한반도의 안정과 북한의 합리적
+정책을 이끌어내기 위해서 한 미간에 긴밀한 공조가 계속 이루어지길
+기대한다고 말했습니다. 
+
+</tdmsfiletext>

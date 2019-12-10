@@ -1,0 +1,590 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_academic_paper96_bc.txt </filename>
+<title> Hexose로부터 Poly(3-hydroxybutyric-co-3-hydroxyvaleric)acid를 생산하는 새로운 균주의 분리동정과 생산에 관한 연구 </title>
+<author> 강상현 </author>
+<date> 1994 </date>
+<publisher> 서울대학교  </publisher>
+<kdc> TM 570  </kdc>
+<tdmsfiletext>
+  요 약 
+ Fructose, glucose, sucrose와 같이 화학적으로 PHV의 monomer unit와 관계가 없는  탄소원으로부터 P(3HB-co-3HV)를 생산할 수 있는 균주를 토양으로부터 분리하여 Agrobacterium radiobacter로 동정하였다. 그리고, 분리균주인 A. radiobacter sp. SH-1 균주가 축적하는 polymer를 추출분석하여 PHB와 PHV의 copolyester임을 확인하였다. 또한 polymer의 물성 향상을 위해 polymer중의 3HV unit의 함량을 증가시켰는데, 이때 cosubstrate로 사용한 propionate의 농도를 최적 농도로 일정하게 유지해주는 유가식 배양으로부터, polymer의 함량이 건조세포중량의 75 %, 전체 polymer중의 3HV의 함량이 45 %까지 축적시킬 수 있었다. 또한 차후의 균주개발을 위해 glucose로부터 P(3HB-co-3HV)를 생산할 수 있는, 가능한 합성경로를 제시했다.
+
+주요어 ; Poly(3-hydroxybutyric-co-3-hydroxyvaleric)acid, Agrobacterium radiobacter, 유가배양, Propionate,Pathway study
+
+ 1. 서 론
+
+인간생활의 편리성을  비약적으로 발달시킨  플라스틱이라 불리우는 고분자재료는 끊임없는 연구에 의해 점차 유리, 금속, 종이, 목재, 석재와 같은 기존의 재료를 대체하여 '플라스틱 문명'을 만들어 내기에 이르렀다. 플라스틱은 투명성, 유연성, 경량성, 불활성등과 같은 많은 특성을 가지고 있으며, 이러한 성질에 의해 각종 산업용재료로부터 일회용 소모품에 이르기까지 여러용도로 사용되고 있다. 
+그러나 대부분의 합성고분자물질은 자연계에서 분해되지 않으므로 환경오염, 특히 토양오염의 주원인이 되고 있어서 폐기물 처리에 많은 문제점이 있다. 이에 따라 최근에는 자연계에서 신속히 분해되고 분해된 후 잔류물에 의한 2차오염이 없으며 우수한 물성을 가져서 기존의 난분해성 합성고분자를 대체할 수 있는 분해성 고분자재료에 대한 관심이 높아지고 있다.
+분해성 고분자재료는 그 분해기작에 따라 생분해성 고분자, 생붕괴성 고분자, 광분해성 고분자로 대별할수 있으며 (Table 1), 그 중 완전히 분해 되는 것으로 알려진 생분해성 고분자는 최근 발달한 바이오테크놀러지를 이용하여 생산하는 연구가 활발히 진행되어, 일부 구미 선진국에서는 이미 대량생산단계에까지 도달하고 있다.  생분해성 고분자재료 중 이제까지 가장 관심의 대상이 되어왔던 물질은 P(3HB)(Poly-3-hydroxybutyric acid)이다.
+P(3HB)는 많은종류의 미생물에서 발견되는 고분자로서2 그 물성이 범용 
+
+
+Table 1. Types of Degradable Polymersa.
+
+------------------------------------------------------------------
+         구 분                        종  류  
+-------------------------------------------------------------------
+ 생분해성        천연고분자           천연다당류 
+  고분자                              Chitin계 고분자       
+
+                 미생물생산           PHA 계                
+                   고분자             다당류계 (Xanthan, Alginate, 
+                                          Pullulan, Dextran, Levan)
+
+                 Biochemical          Polyglycolic acid, Polylactic                                         acid  
+                  고분자              Polycaprolactone,
+                                      Polydioxanone,
+                                      Polyanhydride, Polypeptide
+          
+                 식물성 Oil
+                 유래 고분자 
+------------------------------------------------------------------
+ 생붕괴성        전분첨가형              PE + 전분 
+  고분자        
+                 지방족 Polyester
+                 첨가형
+-------------------------------------------------------------------
+ 광분해성        금속이온계 Polymer      PE + 금속이온 
+  고분자         M/B 첨가형
+     
+                 Vinyl-Ketone계                                                          공중합물 M/B 첨가형
+      
+                 Ethylene-CO
+                공중합체
+-------------------------------------------------------------------
+a  From 이용현 1
+
+
+
+
+
+플라스틱인 polypropylene과 유사하나 미생물에 의한 분해가 가능하다.3 
+그러나 stiffness와 brittleness가 커서 가공에 어려운 단점이 있으므로 그 물성을 개선하기 위하여 새로운 구조를 갖는 PHA (Poly-3-hydroxyalkanoate)의 개발이 이루어졌다.
+몇가지 종류의 PHA copolymer는 P(3HB) homopolymer 보다 열적, 기계적 성질이 우수한데, 그 중 현재 상업화 단계에 까지 도달한 물질은 P(3HB-co-3HV) (Poly(3-hydroxybutyric-co-3-hydroxyvaleric) acid)로서 영국의 ICI회사에 의해 'BIOPOL'이란 상품명으로 현재 연간 1000톤 규모로 생산되고 있고 1995년 부터는 연간 5000톤 규모의 생산을 목표로 증설을 추진하고 있다.  현재까지 몇가지 종류의 bacteria들이 propionic acid나 pentanoic acid를 기질로 공급하였을 경우 P(3HB-co-3HV)를 축적하는 것으로 알려져 있다. 이들 중 상업적으로는 높은 수율과 생산성을 갖고 있는 Alcaligenes eutrophus 가 이용되고 있다.
+그러나 Alcaligenes eutrophus는 P(3HB-co-3HV)생산을 위해서 반드시 넣어주어야 하는 propionic acid의 농도가 0.1% (wt/wt)정도만 되어도 성장과 고분자 생산에 저해를 받는다.4  따라서 propionic acid의 첨가없이 glucose나 succinate같은 해롭지 않은 기질로 부터 P(3HB-co-3HV)의 생산 가능성을 조사했다.
+본 연구에서는 glucose에서 P(3HB-co-3HV)를 생산할 수 있는 균주를 분리 동정하였고, 생산된 polymer의 특성을 분석했다. 또한 glucose와 같은 기질로 부터 P(3HB-co-3HV)가 합성 가능한 경로를 제시하였다. 그리고 P(3HB-co-3HV)생산시, P(3HB-co- 3HV)의 물성향상에 중요한 역할을 하는 3HV unit의 생산성을 높일 수 있는 조건을 찾고 이를 안정적으로 유지할 수 있는 유가식배양(Fed-batch)을 연구하였다. 이를 위하여 우선 P(3HB-co-3HV)생산에 최적인 propionate와 glucose의 농도를 조사하였고, propionate의 소비속도를 측정하여 이를 이용한 등속주입방법으로 적절한 양의 propionate를 공급할 수 있었다. 그 결과 propionate의 농도가 적절한 수준에서 유지되고 3HV의 함량이 높은 P(3HB-co-3HV)가 계속 안정적으로 생산됨을 확인하였다.  
+
+2.문헌연구
+
+2.1. PHA의 발견
+P(3HB)는 여러 종류의 미생물에서 발견되는 탄소원,에너지 또는 환원력의 저장물질로 미생물의 주변환경이 탄소원은 풍부하나 질소원이나 인산염,마그네슘 등이 부족할때 세포 내에 다량으로 축적된다(Table 2). 세포내에 축적된 모습이 그림 1에 나와있다. P(3HB)는 1925년 Lemoigne에 의해 Bacillus metaterium에서 최초로 발견되었으며5 그후 여러 사람들에 의해 다양한 미생물에서 존재한다는 사실이 밝혀졌다(Table 3, 4).
+미생물내에 P(3HB)외에 다른 종류의 PHA도 존재한다는 사실은 1974년 Wallen과 Rohwedder가 활성오니에서 3HB와 3HV가 주성분이고 C6와 C7이 함유된 heteropolymer를 추출함으로써 알려지게 되었다.6 이 heteropolymer는 P(3HB)보다 낮은 melting point를 가지고 있으며 homopolymer와는 달리 뜨거운 ethanol에 녹는 성질이 있다.
+1983년에 De Smet등은 pseudomonas oleovorance를 50%(vol/vol)  n-octane에서 배양했을 경우 축적되는 PHA가 주로 3-hydroxyoctanoate임을 밝혀내었다.7 이후 다양한 탄소원을 사용했을 때 여러가지 종류의 PHA가 생성됨이 발견되었다(Table 5,6).
+
+
+Table 2. Rate of P(3HB) Accumulation by Alcaligenes                      eutrophus from Gluconate after Depletion of                   Nutrientsa
+
+-----------------------------------------------------------
+      Depleted Nutrient              P(3HB) Accumulation
+                                  (g/g of Protein per Hour)
+-----------------------------------------------------------
+          Oxygen                              0.10
+          Ammonium                            0.40
+          Sulfate                             0.49
+          Magnesium                           0.21 
+          Phosphate                           0.27
+          Potassium                           0.23
+          Iron                                0.22
+--------------------------------------------------------------------------------------------
+  a After Steinb chel et al.
+
+
+Table 3. Occurrence of poly- -hydroxybutyrate in                            microorganismsa
+-----------------------------------------------------------
+     Genera                          Reference
+-----------------------------------------------------------
+  Actinomycetes               Kannan and Rehacek(1970)
+  Azotobacter                 Lemoigne and Girard(1943);
+                              Stockdle et al.(1965,1968)
+  Bacillus                    Wilkinson and Munro(1967);
+                              Lemoigne(1925,1946);
+                              Kominek and Halvorson(1965)
+  Beijerinckia                Stockdale et al.(1968)
+  Chlorogloea                 Carr(1966);
+                              Jensen and Sicko(1971)
+  Chromaticum                 Schlegel(1962)
+  Chromobacterium             Forsyth et al.(1958)
+  Derxia                      Stoekdale et al.(1968)
+  Ferrobacillus               Lundgren et al.(1965);
+                              Wang and Lundgren(1969)
+  Halobacterium               Fernandez-Castillo
+                              et al.(1986)
+  Hydrogenomonas              Schlegel et al.(1961)
+  Hyphomicrobium              Hirsch and Conti(1964)
+  Lampropaedia                Lundgren et al.(1965)
+  Methylocystis               Asenjo et al.(1986)
+  Methylosinus                Scott et al.(1981)
+  Micrococcus                 Sierra and Gibbons
+                              (1962 a,b;1963)  
+  Nocardia                    Davis(1964)
+  Pseudomonas                 Forsyth et al.(1958);
+                              Doudoroff and Stanier(1959);
+                              Delafield et al.(1965 a,b);
+                              Stanier et al.(1966)
+  Rhizobium                   Forsyth et al.(1958);
+                              Hayward et al.(1959);
+                              Schlegel(1962 a);
+                              Fottrell and O'Hera(1969);
+                              Wong and Evans(1971)
+  Rhodopseudomonas            Williamson et al.(1962);
+                              Carr and Lasecelles(1961)
+  Rhodospirillum              Doudoroff and Stanier(1959);
+                              Moskowitz and Merrick(1969)
+  Sphaerotilus                Mulder et al.(1962);
+                              Rouf and Stokes(1962);
+                              Stokes and Parson(1968);
+                              Stokes and Powers(1967) 
+  Spirillum                   Hayward et al.(1959)
+  Streptomyces                Kutty et al.(1969)
+  Tetrahymena                 D.B.Lloyd(personal
+                              communication) 
+  Zooglena                    Crabtree et al.(1965)
+---------------------------------------------------------------------------------------------
+    a From Dawes and Senior and other references               
+
+
+2.2. PHA 합성 기작.
+  A. eutrophus와 이제까지 연구된 대부분의 균주들에서 P(3HB)는 acetyl-CoA로부터 acetoacetyl-CoA, 3-hydroxybutyryl-CoA를 거쳐서 합성되는 것으로 알려져 있다.  이때 작용하는 효소는 3-ketothiolase (E.C. 2.3.1.9), acetoacetyl-CoA reductase (E.C.1.1.1.36), PHB synthase의 3가지로 많은 균주로부터 발견되었다.8,9,10,11,12,13, 14,15,16,17
+생성된 PHB가 분해되는 경로는 합성경로의 반대 방향으로 전체적으로는 cyclic metabolism pathway를 이루고 있으며 P(3HB)의 합성과 분해는 동시에 진행된다.18  P(3HB)의 분해시에는 PHB depolymerase, D(-)-3-hydroxybutyrate dimer hydrolase, D(-)-3-hydroxybutyrate dehydrogenase, acetoacetyl-CoA synthase가 작용한다.  이를 종합하면 (Fig. 3)과 같다.
+PHA합성경로는 그림 4에 나타내었다. P.oleovorans의 경우 C6-C9의 alkanoic acids를 기질로 하여 PHA를 합성한다. 이때 합성되는 고분자는 사용하는 기질과 같거나, 탄소수가 두개 작거나, 두개 많은 단량체가 존재하게 된다. 참고로 propionate와 glucose로부터P(3HB-co-3HV)가 합성되는 경로도 제시했다(Fig. 5).
+PHA의 합성에 관여하는 효소(3-ketothiolase, acetoacetyl-CoA reductase, PHB synthase)의 특성을 A. eutrophus에 존재하는 효소를 중심으로 살펴보면 다음과 같다.
+
+
+2.2.1. 3-ketothiolase (E.C.2.3.1.9)
+  3-ketothiolase는 A. eutrophus에서 P(3HB)의 생합성을 조절하는 효소로10 서로 다른 기질 특이성을 갖는 2가지 종류가 있다.19  효소 A는 C4와 C5 3-ketoacyl-CoA에만 활성이 있으며 4개의 동등한 subunit(Mr.44,000)로 구성되어 있다. 효소 B는 C4-C10 기질에 활성이 있으며 역시 Mr.46,000의 tetramer로 되어 있다(Table 7).  효소 A의 기질 특이성은  A. eutrophus가 3HB와 3HV unit가 포함된 copolymer를 생성하는 것과 관련이 있는 것 같다.  반면에 효소 B는 넓은 기질 특이성을 보이는데, 이 효소는 지방산의 분해과정에 참가한다고 생각되고 있다.  축합반응시 acetoacetyl-CoA에 대한 Km값은 효소 A가 1.1mM, 효소 B가 0.23mM이다.  세포내에 효소 A와 효소 B는 P(3HB)생산유무와 관계없이 항상 존재한다고 알려져 있다.
+  Sinskey등에 의하면20 3개의 cystein group과 하나의 histidine group이 효소의 활성중심 부위에 존재한다고 생각되고 있다.  축합반응의 속도결정단계는 acetoacetyl-CoA의 C-C 결합 형성단계라고 생각되고 있으며 현재 결정학적인 연구가 진행되고 있다.
+
+2.2.2. Acetoacetyl-CoA reductase (E.C.1.1.1.36)
+A. eutrophus에서는 서로 다른 기질특이성과 조효소 특이성을 갖는 2가지 acetoacetyl-CoA reductase가 발견되었다.21
+ NADPH-linked reductase는 C4-C6 D(-)-hydroxyacyl-CoA에 활성이 있으나 L(+)-hydroxyacyl-CoA에는 활성을 보이지 않으며 acetoacetyl-CoA에 작용했을 때는 단지 D(-)-hydroxybutyryl-CoA만을 생성한다. 반면에 
+Table 7. Substrate Specificities of 3-Ketothiolase A and B from 
+          Alcaligenes eutrophus a
+
+-------------------------------------------------------------------
+                                     Relative Activityb              
+     Substrate              ------------------------------------
+                               Enzyme A             Enzyme B           
+-------------------------------------------------------------------
+  Acetoacetyl-CoA                100                  100  
+  3-Ketopentanoyl-CoA              3                   30
+  3-Ketohexanoyl-CoA               0                   17
+  3-Ketoheptanoyl-CoA              0                   19
+  3-Ketooctanoyl-CoA               0                   10  
+  3-Ketodecanoyl-CoA               0                   12
+-------------------------------------------------------------------
+
+a After Haywood et al.19
+b 100% activity is 100U/mg protein for enzyme A 
+  and 11.4U/mg protein for enzyme B
+
+
+
+NADH-linked reductase는 acetoacetyl-CoA로 부터 L(+)-hydroxybutyryl-CoA를 생성하며 역반응시는 D(-)와 L(+) 양쪽 기질에 대하여 모두 활성을 보인다(Table 8).
+P(3HB)합성에는 NADPH-linked reductase만이 참여하는데 이는 A. eutrophus의 PHB synthase가 D(-)형 기질에만 활성을 갖기 때문이다.  NADH-linked reductase는 지방산의  -oxidation에서 오는 L(+)-3-hydroxyacyl-CoA가 acetoacetyl-CoA를 거쳐 D(-)-3-hydroxy- acyl-CoA로 되어 PHA로  합성될 수 있게 하는데 NADPH-linked reductase와 함께 관여한다고 생각되고 있다(Fig. 3참조). NADH-, NADPH-linked reductase도 역시 P(3HB)생산에 관계없이 세포내에 항상 존재하는 것으로 알려져 있다.
+
+2.2.3. PHA synthase
+  A. eutrophus의 PHB synthase는 589개의 아미노산으로 구성된 Mr. 63,940의 효소로 여러가지 3-hydroxyacyl-CoA로 실험한 결과 D(-)형 C4와 C5 3-hydroxyacyl-CoA 기질에만 활성을 보였다(Table 9).  이 결과는 Holmes등이 C4와 C5 3-hydroxyacid monomer가 함유된 copolymer가 생성되는 사실을 보고한 점과 일치하는 결과이다.  한편 Doi등에 의해 4HB, 5HV등이 합성된 결과로 보아(Table 6), 4-hydroxybutyryl-CoA와 5-hydroxyvaleryl-CoA 또한 기질로 작용할 가능성도 있다.  이 효소도 역시 세포내에 항상 존재한다.
+
+
+
+2.3. PHA생합성에 관계된 유전자의 복제와 발현.
+Slater23와 Schubert24는 각각 독립적으로 PHB생산에 관련된 A.eutrophus의 유전자를 E.coli에서 발현하였다. 이때 재조합 E.coli는 세포내에 상당량의 PHB granul을 축적하였다.Peoples와 Sinskey는 3가지 효소의 유전자(3-ketothiolase(phbA), NADPH- linked acetoacetyl-CoA reductase(phbB), PHB synthase(phbC))의 염기 서열을 조사하여 transcription이 하나의 operon하에서 polymerase, thiolase, reductase의 순(phbC-phbA-phbB)으로 일어남을 밝혔다.25, 26 최근에 Poirier등은 PHB의 유전자를 식물체에서 발현시켜서 식물체에 PHB를 축적하는데 성공하였으나 세포의 성장이 저해되는 문제가 있었다.27
+
+2.4. PHA의 구조와 성질 
+2.4.1. PHA의 구조
+광학활성을 갖는 P(3HB)는 높은 결정성을 갖는 열가소성 고분자로 melting point는 약 180℃로 대체로 isotactic polypropylene과 유사하다. 28 P(3HB)의 결정구조는 X-ray회절법에 의하여 밝혀졌으며29, 30, 31 단위격자는 orthorhombic이다(a=0.576nm, b=1.320nm, c(fiber axis)=0.596nm, space group P212121). P(3HB)분자의 conformation은 twofold screw axis를 갖는 우선형의 21 helix구조이며 0.569nm의 반복단위로 되어 있다(Fig. 6).
+P(3HV)의 경우 결정 구조는 역시 orthorhombic이며(P212121, a=0.937nm, b=1.002nm, c=0.556nm), conformation은 twofold screw axis를 갖는 우선형의 21 helix구조이며 0.556nm의 반복단위를 갖는다(Fig. 6). 21 helix구조는 poly(3-hydroxyalkanoate)의 공통된 구조이다.
+미생물에서 생산되는 P(3HB-co-3HV)는 13C-NMR측정 결과 Bernoullian model을 따르는 random copolymer로 되어 있었다. P(3HB-co-3HV)는 그조성이 0-37 mol %의 3HV를 함유하면 P(3HB)의 결정구조가, 53-95 mol%의 3HV를 함유하면 P(3HV)의 결정구조가 생성된다고 보고되었다.32
+
+2.4.2.기계적 성질
+P(3HB-co-3HV) copolymer의 기계적 성질은 여러 연구자들에 의해 연구되었으며 주로 copolymer의 조성에 의해 결정되는 것으로 알려져 있다.3
+Holms에 의하면 0-25 mol %의 3HV를 포함하는 copolymer에서는 3HV의 함량이 증가할수록 보다 유연해지고(Yong's modulus 감소), tough해진다(impact strength증가).3 Doi에 의하면 신장률은 3HV가 34 mol%일때 970%,3HV가 55mol%일때는 1200%이상에 달했다. 그러나 3HV가 71mol%가 되면 polymer는 다시 brittle하고 stiff해진다(Table 10). 즉 P(3HB-co-3HV)는 3HV함량이 30-60 mol%일때 매우 부드러운 성질을 갖는다.28
+
+
+
+2.4.3.열적성질
+P(3HB-co-3HV)의 melting temperature(Tm)를 DSC(differential scanning calorimetry)로 측정한 결과는 그림 7과 같다. Tm값은 40mol% 3HV에서 약 
+
+
+
+75℃로 최소였으며 이때 3HB에서 3HV로의 crystal structure transition이 일어난다. Scandola등에 의하면33 glass transition temperature (Tg)는 3HV의 함량이 증가할수록 감소한다(Fig. 8).
+
+2.4.4. 생분해성
+여러 종류의 미생물이 세포 외부로 depolymerase를 분비해서34, 35 PHB 또는 공중합체를 가수분해하여 이량체 또는 단량체로 만든 다음 이를 섭취하여 영양원으로 사용하는 것으로 알려져 있다.
+현재 분해성의 평가방법은 아직까지도 완전히 정립된 기준은 없으며 현재까지 이용되고 있는 분해성 플라스틱의 평가방법으로는 효소, 미생물 그리고 토양에 의한 평가방법이 있다.36
+효소에 의한 분해성 평가방법은 amylase, cellulase, protease등의 가수분해효소의 작용결과 플라스틱의 일부가 저분자화하여 용출되어 나오는 것을 정량하는 방법이다. 미생물에 의한 분해성 평가방법은 오래전부터 플라스틱 재료의 곰팡이 저항성 실험에 이용되어 온 방법으로, 곰팡이나 미생물을 이용하여 플라스틱을 분해시킬때 중량감소, 현미경관찰, 분자량감소, 물성저하등을 분석하여 평가하는 방법이다. 토양에 의한 평가방법은 실제로 자연환경에서의 분해성을 중시한 평가방법으로 야외 토양중 매몰시험, 바다속 침지시험, 일정한 토양을 혼합하여 항온실에서 유지하는 pot시험법들이 개발되고 있으나 평가하는 시간이 매우 길고 재현성이 낮으며 분해생성물의 정량성을 평가할 수 없는 문제가 있다.
+Doi등은 토양에서 분리한 Alcaligenes facalis라는 균주에서 정제해낸 PHB depolymerase를 이용하여 PHA의 생분해 속도를 조사하였는데37, 38 4HB를 포함한 P(3HB-co-4HB)필름의 분해속도가 가장 빨랐으며 그 다음이 P(3HB)필름이었고 3HV가 포함된 P(3HB-co-3HV)필름의분해속도가 가장 늦었다.
+PHA는 수중에서 효소가 없이도 낮은 속도로 가수분해가 일어나는 것이 확인되었다. 두께 70 m의 필름의 경우 P(3HB-co-3HV)는 약 100일 경과후 분자량의 저하가 일어난 반면 P(3HB-co-4HB)의 경우 20 - 30일 경과후 분자량의 저하를 보이기 시작하였으며, 4HB의 함량이 증가할수록 생분해 속도가 빨라졌다.37, 38 Table 11은 토양, 해수, 폐수에서의 PHB의 생분해도를 나타낸 것이다.
+
+2.4.5. 용해도
+PHB의 유기 용매에 대한 용해도는 분리정제에 매우 주요하다. Table 12에 여러가지 용매에 대한 용해도를 나타내었다.
+
+2.5. PHA의 용도
+P(3HB)는 기존의 합성고분자의 물성과 유사한 물성을 가지고 있고 생분해되며 인체에 무독성이고 생체조직과 융화성이 있어서 수술용 봉합사,수술용 솜,접골 이음쇄 등의 의료용품으로 사용될 수 있으며 서방성을 이용한 약물전달수단(D.D.S.), 압전성을 이용한 압전소자, 광학활성을 이용한 광학 이성체 분리용 칼럼 충진제,무독성을 이용한 식품포장제 등 기존의 고분자물질이 갖지 못하는 다양한 분야에 대한 응용 가능성을 가지고 있
+
+
+다. P(3HB-co-3HV)는 P(3HB)보다 유연성이 크고 가공이 용이하여 상기한 용도 이외에도 현재 화장품 용기와 일회용 생활용품으로 가공되어 시판되고 있다(Table 13).
+
+2.6. 환경문제와 PHA
+최근 전세계적으로 확산되고 있는 환경 법규의 강화와 더불어 생분해성 고분자인 PHA의 학문적 관심과 상업적 생산에 대한 연구가 활발하게 진행되고 있다. 세계각국은 플라스틱을 비롯한 각종 폐기물에 의한 환경오염문제를 해결하기 위해 그동안 매립,소각 및 재생이라는 방법을 주로 활용해 왔다. 그러나 재생은 물론 매립과 소각을 통한 폐기물 처리로는 환경오염문제를 완전히 해결할 수는 없다. 즉 폐기물을 매립할 경우 어느 일정 시점에 도달해서는 공간부족이라는 한계점이 노출되며, 소각시에도 일부 플라스틱과 그 첨가제로 인한 유독가스와 타다 남은 잔유물 등은 토양의 수분이동을 방해하고, 농작물의 생장저해는 물론 대지의 균열과 침하의 주요 원인이 되고 있는 실정이다. 또한 재생을 통한 재활용의 경우도 대중의 공공교육을 꾸준히 전개하여야만하는 어려움이 있으며, 특히 내구성을 요하지 않는 쓰레기 주머니나 쇼핑백을 포함한 각종 일회용 플라스틱제품의 경우는 어차피 한번 쓰고 버리는 것이기때문에 이를 수집하여 재생하는데는 인적자원과 물적자원이 재투입되어야하는 문제가 뒤따르게 마련이다. 이러한 플라스틱폐기물이 유발하는 환경오염문제의 조기해결책에 대한 사회적 요청이 세계적으로 급속히 높아지고 있다. 세계각국의 비분해성 플라스틱 사용규제에 관한 동향을 Table 14에 나타내었다.40, 41, 42 하지만 국내에서
+Table 13. Properties and Applications of PHBa
+-----------------------------------------------------------------
+ 응용분야         특 성                        용   도
+-----------------------------------------------------------------
+               생체무독성              수술용 봉합사,수술용 솜,
+               Biocompatibility        접골이음쇄, 가제, 유화제
+Bio-medical    생체내 분해성           인공장기 (폐, 피부, 신장), 
+application                            일회용 의료기, 부인위생용품
+               공기, 수분, 자외선에    항응혈성 생체고분자막 (혈액
+               대한 안정성             체액등의 여과와 투석) 
+               흡습성
+-------------------------------------------------------------------
+의약품         서방성(controlled release)  약품전달 수단
+               무독성, 다공성                (인체내 D.D.S.)
+식품           기체 차단성              식품포장재료, 특수 포장재료 
+화장품         자외선 차단효과            자외선 차단용 화장품 소재
+-------------------------------------------------------------------
+공업용         생분해성                  폴리에스터, 폴리프로필렌의
+               PETb, PPc와 유사성             대체용
+-------------------------------------------------------------------
+기타           광학활성, 압전성         압전소자, 광학이성질체 분리
+                                        용, 칼럼 충진제
+-------------------------------------------------------------------
+ 
+a After  임건빈 39
+b Poly(ethylene terephthalate)
+c Polypropylene 
+
+
+
+
+
+
+Table 14.비분해성 플라스틱 사용규제에 관한 각국의 동향
+
+-------------------------------------------------------------
+구분                        내용
+-------------------------------------------------------------
+미국    - 총 51개 주중 31개 주가 비분해성 플라스틱 사용 규제,
+          또는 실시 검토중
+        - 콜라, 맥주캔용기에 분해성 수지, 붕괴성 수지
+          사용의무화    
+        - 플라스틱 식품 포장에 과세부과
+        - 플라스틱 소재별로 회수하는 quarter제 도입
+        - PS,PSP,PVC, Poly-Bag, Plastic can을 사용후 오물로             버리지 못하게 검토중 
+-------------------------------------------------------------
+이탈리아  - 1989년부터 비분해성 shopping bag에는 일정과세
+          - 1989년 7월부터 PVC제 shopping bag 전면 사용금지
+         - 플라스틱제 음료용기의 recycling을 강제 의무화 예정
+-------------------------------------------------------------
+서독     - 1989년 3월부터 PET병 강제 deposit제 실시
+         - 특정지역 PVC병 사용금지
+-------------------------------------------------------------
+덴마크   - 포장재료용 PVC 사용금지 검토         
+         - 일회용 플라스틱 사용금지 검토
+         - 사용된 음료 용기의 재사용 금지
+-------------------------------------------------------------
+스위스   - PVC 병, steel can, aluminum can 사용금지
+-------------------------------------------------------------
+오스트리아   - 포장용 재료로서 PVC 사용 금지를 검토
+             - PET 병, aluminum can의 사용금지 검토
+-------------------------------------------------------------
+일본       - 액체 운송 용기 시장 규모는 연 400-450억엔으로                   연평균 성장률이 7-8%이나 현재 분해성수지의 사                 용의무화는 실시하지 않음 
+-------------------------------------------------------------
+
+
+
+는 폐플라스틱으로 인한 환경공해문제를 그리 심각하게 인식하고 있지 않을 뿐만아니라, 장차 환경보존이라는 차원에서 일반대중을 대상으로한 공공교육도 그리 활성화되고 있지 못한 형편이다. 이와 같은 국내 여건하에서 일부 선진국에서와 같이 몇몇 일회용 플라스틱제품에 한해 분해성 플라스틱 사용을 의무화한다는게 아직은 요원한 일일지도 모른다. 그러나 그동안 미주지역이나 유럽쪽으로 일회용 플라스틱제품을 수출해오던 국내 몇몇 업체들은 수출대상국 쪽에서 비분해성 플라스틱에 대한 사용을 규제함에따라 이로 인한 파급효과를 이미 체감하고 있다. 이들 업계관계자들의 우려와 함께 최근 국내외적 분위기를 감안, 이미 국내 플라스틱 원료제조업체들은 물론 관련 연구기관에서
+도 분해성 플라스틱에 대한 연구개발과 산업화 움직임을 보이고 있어 조만간에서도 생분해성 플라스틱의 실용화가 가능하게 될것으로 보인다.
+
+2.7.유가식 배양(Fed-batch culture)의 배지공급방식
+전통적인 세포의 배양방식은 회분식 배양(batch culture)이었으나 근래에는 수율과 생산성이 높고 세포의 고농도 배양에 보다 적합한 유가식 배양(fed-batch culture),반연속식 배양(semi-continuous culture), 연속식 배양(continuous culture)의 방법이 많이 이용되고 있다.
+이중 유가식 배양이 공업적으로는 가장 많이 사용되고 있는데, 이는 다시 기질의 공급방식에 따라 크게 pre-programmed 공급방식과 feed-back공급방식으로 나눌수 있다.
+
+2.7.1. Pre-programmed공급방식
+Pre-programmed공급방식에는 간단한 것으로는 등속 공급,대수적 공급 방법이 있고 보다 발전된 방식으로 최적화 이롱에 의하여 최적의 배지공급 전략을 미리 계산하여 그에 따라 배지를 공급하는 계획적 배지공급 방식이 있다. 
+
+a.등속 공급
+등속공급 방식은 특정 기질의 공급 속도를 일정하게 유지시켜주는 방법으로 가장 간단한 pre-programmed 방식이며 발효조 내의 상태를 쉽게 예측할 수 있다.그러나 발효기 운전의 효율이 다른 유가배양 방식에 비해 낮다.
+
+b.대수적 공급
+이 방식은 세포의 균형 성장이 일어나는 대수적 성장에 맞추어 기질 주입 속도를 대수적으로 증가시키는 유가배양의 이상적인 경우로서 계산상 매우 높은 생산성을 보인다.또한 실제로 배지공급 system을 설계하는 데 기초가 된다.
+
+
+공급되는 배지의 양은 다음 식에 따른다.43
+   d(V·X)
+  ---------  =  ·X ,    =  (S)                     (2-1)
+     dt
+
+   d(V·S)               1     d(V·X)  
+  ---------  = F·Sin - -----·-------- - m·V·X      (2-2)
+     dt                 Yx/s      dt
+     dV
+    ----  = F                                        (2-3)
+     dt
+발효액 내의 최적 기질 농도를 Sopt라 하고 기질의 농도를 이 농도에서 유지하려고 한다면 S = Sopt 에서 dS/dt = 0,   =  (Sopt) = constant이므로 최적의 기질 주입 속도는
+        / Ys/x + m
+F =  -------------·V0·X0·exp( ·t)                 (2-4)
+        S - Sopt
+가 되어 배지의 공급량은 시간에 따라 대수적으로 증가한다.
+여기서
+t ; medium feeding time
+V ; culture volume, V0 initial culture volume
+X ; cell concentration, X0 initial cell concentration
+S ; substrate concentration
+P ; product concentration
+  ; specific growth rate
+m ; substrate needed to maintenance
+F ; feed rate
+Sin ; substrate concentration in feed
+Yx/s ; cellular yield coefficient to substrate 이다.
+d.계획적 배지공급(Programmed feeding)
+세포 배양에서 배양의 동력학적 연구의 결과 발효계를 예측할 수 있게됨에 따라 유가 배양의 최적 배지공급 전략을 계산할 수 있게 되었다. 계획적 배지 공급은 최적의 배지공급 전략을 미리 계산하고 이에 따라 발효조를 운전하므로 발효의 생산성을 크게 향상 시킬 수 있다. 이를 위해서는 발효계 내의 정확한 이해를 기초로 하는 배양의 동력학이 필요하고 여러가지 분석 및 최적화 기법이 필요하다. 최적화 기법으로는 주로 dynamic programming 이나 Pontryagin의 maximum principle을 이용하고 있다.
+
+2.7.2. Feed-back공급방식
+Pre-programmed 공급방식의 단점은 운전 중의 상태를 고려하지 않으므로 운전기간 중에 발생하는 예측 불가능한 변화에 대처할 수 없다는 것이다. 따라서 보다 안정적인 운전을 위해서는 system의 상황을 수시로 측정하여 feed-back해 주는 공급 전략이 유리하다.
+발효 공정에서 주로 측정변수로 이용되는 것은 DO, pH, RQ, 일부 휘발성이 강한 기질의 농도 등이 있다.
+
+2.8. Agrobacterium 의 특성
+ Rhizobiaceae에 속하는 Agrobacterium은 그람음성의 토양세균으로서 이중에 A.tumerfaciens, A.rhizogenes, A.rubi, A.radiobacter등이 연구의 대상이 되어 왔다.
+A.tumerfaciens는 외부로부터의 감염원에 의해 식물종양(crown gall)을 만들고, A.rhizogenes는 감염부위에 모상근(hairy root)을 형성한다.또한 A.rubi는 특정의 숙주에 종양을 만들지만, A.radiobacter는 병원성이 없는 특징을 가지고 있다.55
+병원성의 유무와 균체내에 180-240kb의 plasmid존재는 균주의 특징을 나타내며, 병상에 따라 crown gall 혹은 teratoma를 유기하는 Ti(tumer inducing)plasmid또는 모상근을 유기하는 Ri(root inducing)plasmid라 불려지고 있다.56 T-DNA상에는 각각의 Agrobacterium만이 이용하는 비천연성 amino acid(opine이라 불려짐)을 합성하는 부위가 있으며, 이것이 조환되는 숙주는 이 amino acid를 합성한다.57, 58
+또한 agropine형 Ri plasmid를 갖는 A.rhizogenes는 높은 감염 효율이 있는 병원 미생물로 알려졌다.59 이 plasmid상에는 TL-DNA와 TR-DNA가 존재하고, agropine합성에 관여하는 유전자는 TR-DNA 상에 있으며 auxin 합성효소 유전자가 존재함으로써 병원성의 원인으로 생각되고 있다.60, 61
+이러한 특징을 이용하여 이 plasmid 를 고등식물체의 vector system 으로 개발하려는 연구가 계속되고 있으나, 식량자원으로 유용한 단자엽 식물에 대하여서는 종양을 형성하는 숙주범위가 지극히 제한된 점과 식물세포내에서의 형질발현조절의 한계성등이 난점으로 지적된다.62
+
+
+
+2.9. PHA의 분리정제 및 분석방법
+2.9.1. 용매추출
+현재 많이 사용하는 추출 용매는 클로로포름이다. 하지만 이 용매는 발암물질로 대량 사용에 어려움이 있다.그래서 다른 대체 용매의 개발에 대한 연구를 한 결과 methylene chloride, dichloroethane, propylene carbonate등의 용매를 찾아내었다.44, 45
+
+2.9.2. Alkaline Hypochlorite Treatment
+Sodium hypochlorite 용액으로 1시간 정도 세포를 처리하면 세포벽이 파괴되어 PHA granule이 나온다. 그 다음 ethyl ether나 메탄올로 지방을 제거하면 순수한 PHA를 얻을 수 있다.46
+
+2.9.3. 효소처리
+Lysozyme같은 효소로 세포를 처리하면 PHB granule을 얻을 수 있다. 47 현재 상업적으로 PHB를 생산하는 ICI사에서는 효소처리하는 방법으로 분리정제하고 있다.48
+
+2.9.4. 분석방법
+PHA의 분석 방법에는 아래와 같은 여러가지 방법이 있다.
+- Williamson PHB granule의 turbidity를 측정하는 방법.49
+- PHB의 carbonyl band의 흡광도를 측정하는 방법.50
+- PHB를 황산으로 처리하여 crotonic acid로 만들어 흡광도를 
+  측정하는 방법.51
+- Gas chromatographic method.52
+- NMR analysis.53, 54
+위의 방법중에서 GC와 NMR을 사용하는 방법이 PHA의 조성과 함량을 알수 있는 가장 좋은 방법이다.    
+
+
+3.재료및 방법
+3.1. 균주 Screening.
+서울 근교의 토양과 하천에서 시료를 취하여 phosphate buffer (pH 7)로 10-3으로 희석한 후, 이 희석액을 GYM agar plate (Yeast extract, 3g/L; Malt extract, 3g/L; Tryptone, 5g/L; Glucose, 10g/L; Agar, 15g/L)에 spreading하여 항온하에서 배양하면서 colony형성을 관찰하였다.
+48시간 배양 후 잘 자라는 colony중에서 서로 형태가 구별이 가능한 colony를 분리하여 각각을 GYM liquid medium에서 24시간 culture한 후 이를 원심분리하여 cell만을 얻고, 다시 phosphate buffer로 세척한 후, phosphate buffer에 resuspension시켜 N-free medium (조성은 Table 15)으로 옮겨 48시간 culture하여 polymer축적을 유도하였다.  그 후 원심분리로 cell pellet을 얻고, 다시 acetone washing하여 lipid를 제거한 후 60℃에서 24시간 건조시켰다.  그리고 건조된 cell pellet을 잘 파쇄시킨 후, CHCl3로 polymer를 extraction 한 후, MeOH (15% H2SO4함유)로 methanolysis시킨 후 Gas Chromatograph (SHIMADZU GC-14A Gas Chromatograph, Japan)를 이용하여 polymer양과 composition을 조사했다.
+polymer content와 composition이 다양한 균주를 선택하려 했다.
+
+3.2. 균주 Identification.
+Screening작업에서 선별된 균주는 morphological characteristics와 physiological characteristcs등을 조사하였다.
+morphological characteristics는 SEM (STEREO SCAN 260, Cambridge)을 이용하였고, physiological characteristcs는 Bergey's manual63에 나와 있는 내용을 Laboratory manual64을 참고로 하여 조사하였다. 그리고, 최종적으로 API identification kit를 이용하여 검증했다.  사용한 kit는 API 32GN (bioMerieux, France)이다. 이들 결과를 종합 검토하여 균주 identification을 했다.
+
+3.3. Culture.
+Culture는 2-stage로 진행했다(Fig.9 참조). first-stage는 growth stage이고 second stage는 production stage이다.
+growth는 flask에서 100ml culture broth로 36시간 했고, 이 때의 조성은 Table 15의 조성에 따랐다.  Growth culture후, 앞에 언급한 방법으로 2.0L fermentor (KOREA FERMENTOR)로 옮겨 production stage로 전환시켰다. 이 때 pH는 7, 온도는 30℃, r.p.m.은 250으로 제어했다.  Production stage의 배지조성은 앞의 Table 15와 같다.
+
+3.4. 세포농도 측정.
+세포농도(Residual cell mass + Polymer mass) 는 spectrophotometer (Backman,model DU-65)로 파장 600nm에서 OD(optical density)를 측정하여, 미리 측정한 건조세포질량과 OD의 관계식에 따라 결정하였다(Fig.10).
+  X = a×OD        a = 0.462                       (3-1)
+
+3.5. Polymer granule 확인.
+세포내에 축적된 polymer granule을 확인하기 위해 TEM (Transmission electron microscopy)를 이용했다. 그 방법은 다음과 같다.
+1. 단백질 고정을 위한 1차고정을 한다.
+2. 0.1M PBS (phosphate buffered saline)로 3번 반복해서 세척한다.
+3. OsO4 로 2차고정을 한다(지질고정).
+4. 0.1M PBS (phosphate buffered saline)로 3번 반복해서 세척한다.
+5. Acetone이나 EtOH로 탈수시킨다.
+6. Organic solvent와 Epon mixture의 혼합액으로 infiltration을 한다.
+    cf) Epon mixture
+                       EPON         DDSA          NMA
+           MIX A       62ml        100ml
+           MIX B      100ml                       89ml    
+                        (MIX B의 함량이 높을수록 단단해짐)   
+7. Paraffin embedding method로 polymerization을 한다.
+8. Sectioning을 한다.
+9. Staining을 한다.
+10. 준비된 시료를 TEM(JEOL, JEM-1202XII, JAPAN)으로 관찰한다.
+
+3.6. 비성장 속도(Specific growth rate, )측정.
+비성장 속도는 초기 대수 성장 단계(exponential growth phase)에서 시간에 따른 log(OD) graph의 기울기로부터 구하였다.
+                        (3-2)
+         (3-3)
+                  ∵  ａ는 상수       (3-4)
+                                      (3-5)  
+
+3.7. Polymer Extraction과 Analysis.
+
+3.7.1. Polymer 분리.
+1. 48시간 production stage culture를 한 후 cell을 harvesting한다.   
+2. 7000 r.p.m.으로 10분간 원심분리 시킨 후, cell pellet을 얻는다.
+3. Cell pellet을 다시 acetone으로 세척한 후 7000 r.p.m.에서 10분간 다시 원심분리하여 lipid가 제거된 cell pellet을 얻는다.
+4.  cell pellet은 60℃ oven에서 24시간 drying시키고 난 후, 막자사발로 잘 파쇄시킨 후 적당량의 CHCl3로 60℃ water bath에서 overnight시키면서 extraction한다.    
+5. extraction한 후, cell debris를 제거하기 위해 filtration을 하고, 이 filtrate에 MeOH를 10 vol.정도로 과량으로 넣고 polymer를 침전시킨다.
+6. 침전을 촉진하기 위해 냉장고에 overnight 보관한 후, 다시 여과해 polymer를 얻는다.
+
+3.7.2. Polymer Analysis.
+3.7.2.1. Gas Chromatography.
+얻어진 polymer분석은 Ramsay 방법65을 변형한 G.C.(Gas Chromato- graphy) 방법을 사용하였다. 실험방법은 다음과 같다.
+1. Cap tube에 분리한 polymer sample을 넣고, 여기에 CHCl3 2ml을 가입한 후 잘 녹인다.
+2. 내부 표준 물질로 10 mg /ml Benzoic acid 0.2ml을 가입하였다.
+3. 15% (vol/vol) 황산이 함유된 MeOH 2ml을 가입하고 voltexer로 잘 섞는다.
+4. Oven에 넣고 120℃에서 3시간 30분 반응시켰다.  이 때 가끔씩 voltexer로 잘 섞어주었다.
+5. 상온까지 냉각시킨 후 증류수 1ml을 가입하고 voltexer로 10분 가량 격렬히 섞은 후 방치하여 층분리가 일어나게 하였다.
+6. 아래층을 취하여 이를 GC(GC-14A, SHIMADZU japan)로 분석하여 기준물질과 비교하였다.  기준물질은 영국 ICI사의 PHA(3HB 88mol%, 3HV 12mol%)를 사용하였다. 
+   GC column 충진물질은 Carbowax 20M을 사용하였으며 column의 온도는 170℃로 유지하였다.  Carrier gas로는 질소를 압력이 1.5kg/cm2이 되게 흘려주었으며, FID(Flame Ionization Dete- ctor)로 측정하였다.
+
+3.7.2.2. Gas Chromatography-Mass Spectrometer(GC/MS).
+GC 분석방법과 똑같은 단계로 하여, 6번째단계에서의 아래층을 GC/MS (HEWLETT- PACKARD 5988MS, U.S.A.)로 분석했다.
+
+3.7.2.3. 분자량 조사.
+Polymer sample을 CHCl3 용액에 1mg/ml 정도의 농도로 녹여, 겔침투 크로마토그래피(GPC)로 측정하였다. 이때 분자량이 2700-3100000의 polystyrene standard sample과 전분자량 범위를 커버하는 ultrastyragel column을 사용하여, retention time을 구함으로써 분자량 분포를 조사했다. 사용기기는 Millipore의 Waters 510 HPLC pump(U.S.A)였고, Refractive Index Detector를 사용했다. 
+
+3.7.2.4. Melting Temperature(Tm) 조사.
+Tm은 DSC(Differential Scanning Calorimetry)로 측정했다. DSC는 Perkin-Elmer 사의 DSC 7을 사용하였으며, 50℃에서부터 20℃/min의 속도로 250℃ 까지 승온하며 Tm을 관찰하였다.
+
+
+3.8. Content 조사와 탄소원 조사.
+  Polymer의 content를 조사하기 위해서는 아래방법을 이용하였다.
+1. 세포배양액을 원심분리하여 세포를 수거하고 이를 acetone으로 세척한 후, 다시 원심분리하여 세포를 수거하고 이를 60℃에서 건조하였다.
+2. Cap tube에 질량을 측정한 건조세포 10-20mg을 넣고 여기에 CHCl3 2ml을 가입한 후 2-3시간 방치하였다.   
+3. 내부 표준물질로 10mg/mL benzoic acid 0.2ml을 가입하였다.
+4. 15% (vol/vol)황산이 함유된 MeOH 2ml을 가입하고 voltexer로 잘 섞었다.
+5. Oven에 넣고 120℃에서 3시간 30분동안 반응시켰다.  이 때 가끔씩 voltexer로 잘 섞어주었다.
+6. 상온까지 냉각시킨 후 증류수 1ml을 가입하고 voltexer로 10분 가량 격렬히 섞은 후 상온에서 방치하여 층분리가 일어나게 하였다.
+7. 아래층을 취하여 이를 GC로 분석하였다.
+8. Benzoic acid peak면적에 대한 3HB, 3HV peak의 면적비로 부터 미리 표준물질로 결정한 peak면적 대 농도의 비를 이용하여  3HB, 3HV의 농도를 결정하였다(Fig. 11).  
+   기준물질로는 자체생산, 정제한 polymer를 이용하였다.  3HB, 3HV peak면적비는 사용한 P(3HB-co-3HV)조성의 몰비와 같았다.
+9. 시료를 만드는데 사용한 건조세포의 질량과 3HB, 3HV의 농도로부터 세포내의 P(3HB-co-3HV)의 함량을 계산하였다.  발효조내의 P(3HB-co-3HV)의 농도는 세포농도와 세포내의 P(3HB-co-3HV) 의 함량을 곱하여 구하였다. 
+    또한, 위의 실험을 여러 탄소원에서 행하여 각 탄소원들의 영향을 조사하였다.
+
+3.9. 비생산속도 (Specific production rate) 계산.
+  PHA는 세포내에 저장물질로서 축적되는 물질이므로 전체세포가 생리적 활성이 있는 residual cell mass (Xr)와 저장물질인 polymer (P)로 되어있다고 가정하는 compartmentation model(Fig.12)을 사용하여, Specific production rate (Qp)를 다음과 같이 정의하였다.
+            1      dP
+     Qp ≡ ---- x ----
+            Xr     dt
+
+                 1              Pt2 - Pt1
+        =  --------------  x  ------------
+           (Xrt1 + Xrt2)/2        t2 - t1
+Qp:Specific production rate of copolymer
+Xr:Residual cell mass concentration
+P:Concentration of copolymer
+앞식에 따라, 세포 농도와 polymer의 함량과 조성의 측정치로부터 specific production rate를 계산하였다.
+
+
+3.10. Glucose정량.
+glucose의 정량은  환원당의 습식분석법인 Somogy-Nelson법과 glucose oxidase를 이용하는 enzymatic method를 같이 사용하였다.
+Somogy-Nelson법은 당의 reducing end group이 시약과 반응하여 색을 내는 것을 이용하는 방법이다. 시료는 세포배양액을 원심분리하여 얻은 상등액을 glucose의 농도가 적정분석범위에 오도록 희석하여 만들었고, 당의 양을 정량한 후 희석비율을 곱하여 농도를 계산하였다.
+
+3.11. Propionate의 정량.
+Propionate의 정량은 Ramsay65의 방법을 변형한 방법을 사용하였다. 실험방법은 다음과 같다.
+1. 세포배양액을 원심분리하여 상등액을 추출하였다.
+2. 상등액 1ml에 3%(Vol/Vol)황산을 함유한 ethanol 1ml을 넣었다.
+3. 항온조에서 60℃로 2시간동안 반응시켰다.
+4. Methylene Chloride (CH2Cl2) 1ml을 넣고 Voltexer로 격렬히 섞은 후 방치하여 층분리가 일어나게 하였다.
+5. 아래층을 취하여 이를 GC로 분석하였다.GC column의 충진물질로는 Carbowax 20M을 사용하였으며 column의 온도는 130℃였고 carrier gas로는 질소를 60ml/min으로 흘려주었으며 FID로 측정하였다.
+6. Propionate peak면적비로 부터 미리 측정한 propionate의 농도와 면적비의 관계에 따라(Fig. 13) propionate의 농도를 계산하였다.
+
+3.12. Propionate 농도에 따른 PHA의 비생산 속도 측정.
+propionate 농도에 따른 PHA의 비생산속도 측정 실험절차는 다음과 같다.
+1. 세포를 100ml의 YM배지 (Yeast extract, 3g/L ; Malt extract, 5g/L ; Tryptone, 5g/L ; (NH4)2SO4, 5g/L ; Glucose, 10g/L)가 들어있는 300ml 삼각플라스크에서 24시간 배양하였다.
+2. 이를 원심분리기로 5000 r.p.m.에서 5분간 처리하여 세포를 분리하였다.
+3. 분리한 세포를 phosphate buffer로 세척하여 ammonium ion을 제거하고 다시 원심분리 하였다.
+4. 세포를 100ml의 prouction medium에 현탁시키고,sodium propi-onate를 0.005%, 0.01%, 0.025%, 0.05%, 0.075%, 0.1%, 0.125 %, 0.15%, 0.175%의농도가 되도록 첨가한 후, 30℃의 shaking incubator에서 배양하였다.
+5. 세포배양 개시 2시간과 5시간후에서 20ml의 sample을 취하여 세포농도를 측정하고 PHA의 함량과 농도를 정량하였다. 
+   Glucose의 농도를 10 g/L로 한 이유는 glucose의 소비에 따른 영향을 최소화하기 위해서 충분한 양을 넣어준 것이다. 
+
+3.13. Propionate가 없을때,glucose 농도에 따른 PHA의 비생산속도 측정.
+Glucose농도에 따른 PHA의 비생산속도 측정 실험과정은 다음과 같다.
+1. 세포를 100ml의 YM배지 (Yeast extract, 3g/L ; Malt extract, 5g/L ; Tryptone, 5g/L ;(NH4)2SO4, 5g/L ; Glucose, 10g/L)가  들어있는 300ml 삼각플라스크에서 24시간 배양하였다.
+2. 이를 원심분리기로 5000 r.p.m.에서 5분간 처리하여 세포를 분리하였다.
+3. 분리한 세포를 phosphate buffer로 세척하여 ammonium ion을 제거하고 다시 원심분리 하였다.
+4. 세포를 100ml의 prouction medium에 현탁시키고,glucose를 0.0g/L, 0.1g/L, 0.2g/L, 0.3g/L, 0.4g/L, 0.5g/L, 1.0g/L,5.0g/L, 10.0g/L, 15.0g/L의 농도가 되도록 첨가한 후 30℃의  shaking incubator에서 배양하였다.
+5. 세포 배양 개시 2시간과 5시간 후에서 20ml의 sample을 취하여 세포농도를 측정하고 PHA의 함량과 농도를 정량하였다.
+
+
+
+3.14. Propionate가 최적 농도로 존재할 때, glucose 농도에 따른  PHA의 비생산 속도 측정.
+Glucose 농도에 따른 PHA의 비생산속도 측정 실험과정은 다음과 같다.
+1. 세포를 100ml의 YM배지 (Yeast extract, 3g/L ; Malt extract, 5g/L ; Tryptone, 5g/L; (NH4)2SO4, 5g/L ; Glucose, 10g/L)가 들어있는 300ml 삼각플라스크에서 24시간 배양하였다.
+2. 이를 원심분리기로 5000 r.p.m.에서 5분간 처리하여 세포를 분리하였다.
+3. 분리한 세포를 phosphate buffer로 세척하여 ammonium ion을 제거하고 다시 원심분리 하였다.
+4. 세포를 100ml의 prouction medium에 현탁시키고,sodium propi-  onate를 최적 농도인 0.5g/L가 되도록 첨가한 후, glucose를 0.0g/L, 0.1g/L, 0.2g/L, 0.3g/L, 0.4g/L, 0.5g/L, 1.0g/L, 5.0g/L, 10.0g/L, 15.0g/L의 농도가 되도록 첨가한 후 30℃의 shaking incubator에서 배양하였다.
+5. 세포 배양 개시 2시간과 5시간 후에서 20ml의 sample을 취하여 세포농도를 측정하고 PHA의 함량과 농도를 정량하였다.
+
+3.15. 유가식 배양.
+유가식 배양(Fed-batch culture) 실험에는 용량 2 L인 jar fermen- ter(Marubishi, model MD-300)와 IBM AT computer와 interface된 pH controller(Marubishi, model MpH-1MC)를 사용하였다. Working volume은 1L였다. 사용한 fermentation system의 개락적인 구성은 그림 14와 같다. 배양 온도는 30℃, 통기 속도는 1 vvm으로 유지하였다. 배지의 pH는 5N H2SO4와 5N NaOH를 사용하여 7로 유지하였고, 이때 배지공급은 미리 실험에서 구한 uptake rate를 기초로 하여 constant feeding을 하였다. 수시로 sample을 채취하여 세포농도, PHA의 농도와 조성, propionate의 농도, glucose의 농도를 측정하였다.   
+
+3.16. 합성경로 조사를 위한 Co-ion의 영향 조사.
+P(3HB-co-3HV) 합성 경로를 조사하기 위해 Co-ion의 영향을 살펴보았는데, 그 방법은 아래와 같다. 
+1. 세포를, 탄소원인 glucose를 succinate로 바꾸고 ammonium sulfate를 5g/L 넣어준 production medium(Table 15) 100ml이 들어있는 300ml 삼각 플라스크에서 24시간 배양하였다. 
+2. 이를 원심 분리기로 5000 r.p.m에서 5분간 처리하여 세포를 분리하였다. 
+3. 분리한 세포를 phosphate buffer로 세척하여 ammonium ion을 제거하고 다시 원심 분리하였다. 
+4. 세포를, 탄소원인 glucose를 succinate로 바꾸어 준 100ml의  production medium(Table 15)에 현탁시키고, CoCl2.6H2O의 농도가 0.00 M, 0.34 M, 0.67 M, 1.00 M, 1.35 M, 1.68 M, 2.02 M, 2.35 M, 2.69 M, 3.03 M이 되도록 첨가한 후 30℃의 shaking incubator에서 배양하였다.
+5. 세포배양 개시 2시간과 5시간 후에서 20ml의 sample을 취하여 세포 농도를 측정하고 PHA의 함량과 농도를 정량하였다.　　
+
+4. 결과및 토의
+
+4.1. 균주 screening.
+여러곳에서 채취한 토양 시료로부터 glucose로부터 PHA계의 copolymer 생산능이 있는 균주를 1차적으로 500여개를 분리하였고,여기서 PHA의 축적능이 우수한 균주를 2차 선별하여 20종을 얻었으며, 그 중 glucose로부터 PHB와 PHV의 copolymer를 생산할수 있는 균주를 분리할수 있었다. glucose로부터 PHB와 PHV의 copolymer를 생산할 수 있는 균주는 지금까지 2종만이 보고되었다. 고로 이렇게 미생물 배양에 일반적으로 사용되는 탄소원인 glucose로부터 PHB와 PHV의 copolymer를 생산할수있는 균주를 분리했다는 것은 그자체로 의의가 크다고 할 수있다.
+
+4.2. 균주 동정.
+분리한 균주에 대해서 분류학적인 조사를 수행하였다. 우선 먼저 광학 현미경을 통한 관찰에서 균의 morphology는 rod shape이었으며 운동성을 가지고 있었다. 그림 15는 균주를 SEM(Scanning Electron Microscope)으로 촬영한 사진이다. 또한 간단한 생화학 검사를 수행하였다. gram stain test에서 gram negative였고, catalase test는 positive, urease test는 positive, gelatin 액화반응은 negative, nitrate reduction test는 negative이었다. 이런 결과로 몇개의 가능성이 있는 종을 예상한 상태에서 API system을 이용하여 동정한 결과, Agrobacterium radiobacter임을 확인하였다. 이는 앞의 기초실험 결과와도 일치되므로 최종적으로 Agrobacterium radiobacter로 결정하였다. 그 결과가 Table 16에 정리되어 있다.
+Agrobacterium은 뿌리혹 박테리아로 잘 알려져있다.
+
+4.3. Polymer granule확인.
+TEM(Transmission Electron Microscopy)을 이용하여 세포속에 축적된 PHA granule을 확인할 수 있었다(Fig. 16). 이때 사용된 시료는 production stage에서 10시간 정도 배양된 초기 세포로 granule이 활발히 형성되고 있는 시점에 있는데, 여러개의 granule이 독립적으로 분포하는 모습을 볼수있다. 시간이 더 지남에 따라 granule들은 더 커져서 서로 붙게된다.
+
+4.4. 비성장속도 측정.
+pH 7에서 30℃로 유지된 growth medium에서 관찰된 비성장속도는 0.38hr-1이었다(Fig. 17). 이는 일반적 미생물에서 관찰되는 수치와 비슷하거나 큰값이다. 그러므로 분리된 미생물의 성장은 우수하다고 할수있다.
+
+4.5. Polymer 조성확인.
+분리한 균주가 생산하는 polymer의 조성은 Gas Chromatography를 이용하여 확인한 결과, copolymer의 조성이 3-Hydroxybutyrate와 3-Hydroxyvalerate임을 확인하였다. 또 이를 GS/MS를 이용하여 검증했다. 조성은 그림 18에 표시된 것과 같이 3HV가 4 mol %정도이었다.그림 19은 GC분석자료이고, 그림 20은 GC/MS분석자료이다. 두 결과를 보면 기준물질과 peak pattern이 같은 것을 알수 있다. 즉 분리된 polymer가 3HB와 3HV의 copolymer임을 뒷받침해주는 것이다.
+그림 21는 GC/MS fragmentation을 나타낸 것인데, 여기서 m/e value가 103과 74는 PHA의 특정 peak이다. 103은 Hydroxy group의  위치의  -cleavage에 해당되는 값이고, 74는 McLafferty rearrangement에 해당하는 값이다.
+
+4.6. Polymer의 기초 물성조사.
+Polymer의 분자량과 melting point를 조사했다.분자량은 GPC를 이용하여 조사했는데, 분자량은 polymer의 물성을 나타내는 척도라 할수있다. 분리된 균주가 생산한 polymer의 중량 평균 분자량은 620000이상이었고, Polydispersity Index는 1.2이었다. 이로서 분리된 polymer의 분자량은 좋은 물성을 나타내기에 충분한 값이고, 또한 P.I값을 통해보면 분자량 분포가 매우 좁다는 사실을 알수 있다. GPC data가 그림 22에 있다. 또한 melting point는 예상한 것과 같이 PHB homopolymer보다 조금 낮은 178℃였다. copolymer중의 3HV unit의 함량을 더 늘리면 melting point는 더 낮아진다.
+
+4.7. Polymer 축적능 조사.
+polymer의 축적능은 최고 함량과 비생산속도로 나타내어질 수 있을 것이다. 이균주는 glucose를 탄소원으로 했을 때 최고 함량은 건조 세포 중량의 75%이상이였고, 이 때 비생산속도는 0.1 g/g.hr로 상당히 높았다. 또한, 기타 다른 여러 탄소원에서도 최고 함량을 조사해 보았는데 그림 23에 그 결과가 나와있다. gluconate에서는 polymer축적이 없었고, sucrose에서도 높은 축적능을 보였다. 이 균주가 sucrose를 탄소원으로 쓸 수 있다는 점은 매우 고무적인 사실이다. 왜냐하면, glucose보다 sucrose를 사용하는 것이 경제적으로 유리하고, 또 Acaligenes eutrophus가 sucrose를 탄소원으로 사용할 수 없다는 단점을 해결할 수 있기 때문이다.  
+
+4.8. 최적 propionate 농도 조사와 glucose 농도 조사.
+glucose만을 유일 탄소원으로 했을 때의 3HV unit의 비생산속도를 조사해 본 결과 1 g/L이상에서는 거의 포화상태가 된다(Fig. 24). 또한 copolymer의 생산에서 3HV의 함량을 늘리기 위해 propionate를 공급하였는데, 이 때 propionate의  농도의 영향을 조사해 보았다. 그림 25에서 볼 수 있듯이 sodium propionate의 농도가 0.5g/L정도에서 3HV에 대한 비생산속도가 최고치를 보였다. propionate의 농도가 이보다 높거나 낮을 경우 3HV의 생산성은 낮아졌다. 이는 propionate 가 3HV의 기질로 작용하는 동시에 세포대사의 저해물질로 작용하기 때문이다. 따라서 3HV의 함량이 높은 copolymer를 얻으려면 propionate의 농도를 0.5g/L로 유지해야 한다는 결론을 얻었다. 이 실험에서는 glucose를 과량으로 넣어 준다. 앞에서 구한 propionate의 최적농도인 0.5g/L를 이용하면서 glucose의 농도를 바꾸어 주었을 때의 3HV의 비생산속도가 그림26에 나와 있다. 여기서 알 수 있듯이 propionate의 몰농도가 glucose의 몰농도의 약 3배 정도에서 최고치를 보였다. 이러한 현상은 glucose의 분해산물인 acetyl-CoA가 3-ketothiolase의 작용에 의해 propionyl-CoA와 축합하여 3HV의 전구체인 3-ketopentanoyl-CoA가 되는 반면, acetyl-CoA 두 분자가 3-ketothiolase의 작용에 의해 생성된 축합체인 acetoacetyl-CoA는 reductase의 작용단계에서 3-ketopentanoyl-CoA와 경쟁작용을 하여 3HV의 생산을 낮추기 때문이라 생각된다. 그러나 뒤의 실험에서는 glucose의 농도를 안정된 실험을 할 수 있는 농도인 10g/L로 하였다.
+
+4.9. 회분식 배양과 유가식 배양.
+propionate가 균주의 성장을 저해하는 반면, P(3HB-co-3HV)의 생산시에는 적정 농도가 존재한다는 사실로부터 P(3HB-co-3HV)의 생산을 위해서는 생산단계에서 propionate의 농도를 0.5g/L로 계속 유지해 주는 방법이 효과적이라는 결론을 얻었다. PHB 생산의 경우, ammonium  ion이 없을 때 보다 미량의 ammonium ion이 존재 할 때, PHB의 비생산속도가 높다는 사실이 보고되었으나66, ammonium ion 농도 변화에 따른 PHB의 생산성 변화는 상당히 큰 반면, 실험적으로 ammonium ion의 농도를 일정한 수준으로 유지하기는 상당히 어려우므로, 본 연구에서는 ammonium ion의 농도변화가 P(3HB-co-3HV)의 생산성에 미치는 영향을 제거하고 propionate에 의한 영향만을 관찰하기위하여 P(3HB-co-3HV)의 생산시 배지에 ammonium이온을 첨가하지 않았다. 또한 glucose의 농도변화가 P(3HB-co-3HV)의 생산성에 미치는 영향도 제거하기 위하여 glucose의 농도는 3HV monomer의 생산성은 비교적 높고, glucose의 농도변화에 따른 3HV monomer의 생산성 변화는 적은 10g/L로 하였다. 이를 기초로 하여 회분식 배양과 유가식 배양을 비교수행하였는데, 회분식 배양의 경우(Fig. 27) propionate의 농도는 점차 감소하여 약 12시간 뒤에는 완전히 고갈되었으며, 이 이후로는 3HV monomer의 생성이 미진해졌다. 질소원이 없으므로 발효기간중 resudial cell mass가 더이상 증가하지 않았다. 즉 질소원의 고갈시 cell mass의 증가는 주로 polymer의 축적에 의해 일어났다. 반면에 propionate가 공급되었을 경우(Fig. 28)에는 배지내의 propionate의 농도가 약 0.5 g/L에서 유지되었으며, 3HV monomer content도 발효말기까지 계속 증가되었다. 배지에 공급된 propionate의 양은 발효 기간중에 등속주입을 해주었다. 생산단계에서 새로 생성된 P(3HB-co- 3HV)중 3HV monomer의 함량은 45 mol %에 달했으며, 이는 propionic acid만을 유일탄소원으로 사용했을 경우67와 비슷한 수준이었다. 세포내의 polymer함량은 발효말기에 75 % (wt/wt)이상이었으며, 이는 propionic acid를 유일탄소원으로 하였을 경우 얻어지는 35 % (wt/wt)67의 약 2배에 달하는 결과이다.  
+
+4.10. 합성경로조사.
+glucose로 부터 P(3HB-co-3HV)가 합성되는 경로를 조사하였다. 일반적으로 propionic acid fermentation pathway에 나와있는 경로가 이용될 것으로 생각되어, 미생물 대사경로를 전반적으로 조사하여 가능한 합성경로를 제시하였다(Fig. 29).
+이 대사 경로의 확인 실험은 현재 진행중이며 다음과 같은 실험결과가 있다. 
+대사경로중, methylmalonyl CoA mutase가 작용하는 단계에서는 그림 30에 나와있는 것과 같은 cobalt이온이 중요한 영향을 미칠 것으로 생각된다. 이를 확인하는 실험을 수행하였다.
+그림 31에 나와있는 것과 같이 cobalt이온의 농도에 따라 3HV monomer의 생산이 큰영향을 받았다.　 
+이로서 제시한 합성경로의 가능성이 높아졌으며, 차후 radioisotope를 이용하여 합성경로를 검증하겠다.
+
+5.결  론
+
+토양에서 채취한 시료로부터 미생물 배양에 일반적으로 사용되는 탄소원인 glucose로부터 PHA계 copolymer를 생산할수 있는 균주를 분리하였다. 분리한 균주가 생산하는 copolymer의 조성을 Gas Chromatography와 Gas Chromatograph - Mass Spectrometer 로 확인한 결과, 조성이 3-  Hydroxybutyrate와 3-Hydroxyvalerate로 이루어진 공중합체임을 확인하였다. 분리된 균주를 동정해 본 결과 Agrobacterium radiobacter로 확인하였다. 균주의 polymer 축적능은, 질소원이 없는 배지에서 축적 polymer의 함량이 전체 건조 세포 중량의 75 % 이상으로 뛰어났다. 또한 copolymer중의 3-Hydroxyvalerate monomer의 분율은 전체 polymer중의 4 mol %정도였다. 이 copolyester의 weight average molecular weight는 62만 이상이었고, Polydispersity Index는 1.2정도로 분자량 분포가 좁았다. 분리된 균주는 질소원이 없는 배지에서 glucose 외에 fructose, sucrose, succinate, mannitol등을 유일 탄소원으로 했을 때도 polymer content가 70 % 이상의 높은 polymer 함량을 보였다. 전체 polymer중의 3-Hydroxyvalerate의 분율을 높이기 위해서 cosubstrate로 propionate를 미리 조사된 최적 농도로 공급하여 유지한 결과, 3-Hydroxyvalerate의 분율이 전체 polymer중에서 40 mol % 이상이 되면서, 전체 polymer content가 건조 세포중량의 75 % 까지 얻을 수 있었다. 그리고, 이 균주의 특성인 일반적으로 미생물 배양에 널리 사용되는 탄소원으로부터 PHB와 PHV의 copolymer를 생산할 수 있는 가능한 합성경로를 제시했다.
+
+
+                 감사의 글
+
+겨울 깊은 밤. 눈이 그리워 지는 시간이다.
+2년간의 대학원 생활을 마감하는 때이다. 지나간 시간을 돌이켜보면 마치 미운 오리 새끼마냥 뒤뚱 뒤뚱거리며, 나사빠진 고장난 시계마냥 우왕 좌왕하던 모습들이 스쳐간다.
+한여름의 풀내음처럼 뇌리에 깊게 새겨진 많은 사람들이 생각난다. 어느 사이인가 귀밑에 흰머리가 보이시는 교수님, 실험을 하는 과학자 이전에 먼저 인간의 도리를 지킬 줄 알아야 됨을 가르쳐 주신 김병기 교수님, 지금 다시 시작하는 회사 생활에 열심이실 상구형님, 그리고 여러곳에서 묵묵히 자기길을 걸으시는 여러 선배님들이 떠오른다.
+늘 교수님을 흡족하게  하질 못했던 점이 지금도 송구스럽다. 내일이 오늘보다 더 나은 날이 되게끔 생활한다면 언젠가는 교수님을 기쁘게도 해 드릴수 있으리라는 한가닥의 희망으로 위안을 삼고싶다. 부족한 나의 지식을 좀더 나은 단계로 이끌어 주신 공업화학과의 여러 교수님들에게도 감사함을 표하고 싶다.
+늘 잘못된 나를 일깨워 주신 상구형님, 윤희누나, 재윤이형, 은열이형, 동명이형, 영렬이형, 규열이형, 재화형이 없었더라면 하고 생각하면 정말 아찔하다. 이분들 모두가 앞으로 하시는 연구에서 좋은 결과를 얻었으면 좋겠다. 특히 같은 주제를 가졌다는 이유 하나만으로 부족한 나를 늘 자상히 살펴주셨던 은열이형과 같이 고생도 많이한 너무나 착한 재화형이 고맙다. 또 같이 실험을 하면서 힘들때 말동무가 되어준 민식이, 승준이, 여준이, 현호도 생각난다. 앞으로 그들이 하는 모든 일들이 잘 되었으면 좋겠다. 또, 실험실 생활을 1년간 같이하며 힘든 일들을 불평없이 많이 해준 상헌이, 용호, 원재, 소빈이에게도 나의 부덕했음을 사과하고, 고맙다는 말을 잊지 말아야겠다. 특히 논문 쓸때 많이 도와준 무지무지 인간성 좋은 상헌이는 내평생 잊지 못할 것이다. 또 안지는 얼마 안되는 신입생들도 앞으로 열심히 해 우리 실험실이 최고의 실험실이 되게 해주면 좋겠다. 
+글을 접기전에 가장 그리고 꼭 감사해야 될분이 계시다. 바로 부모님이시다. 자식이 잘되기만을 바라시며 묵묵히 일하시는 부모님에게 그저 감사하다는 말밖에 할수없는 지금의 나 자신이 안타깝다. 그리고 지금 이시간 연건 캠퍼스에서 책장을 넘기고 있을 동생 보현이, 3년간의 힘든 공부를 마치고 지금 담담히 결과를 기다리는 막내 태현이에게도 고마움을 잊을수가 없다. 태현이도 좋은 결과가 나와, 같은 캠퍼스에서 공부를 할 수있기를 바란다. 그리고 늘 힘들 때 위로를 아끼지 않던 나의 귀여운 반쪽 애경이에게도 고맙다는 말을 하고 싶고, 오늘 저녁에는 그 말을 꼭 해야겠다.
+나의 이 부족한 논문을 감히 그들 모두에게 바친다. 박사과정을 마칠때는 정말 학위논문다운 논문을 바칠 수 있도록 열심히 노력할 것을 약속한다. 이 좋은 많은 사람들을 분에 넘치게, 이못난 녀석에게 보내주신 神의 은총에 감사한다. 모든 사람이 내 주위에 항상 남아있기를 바라며..
+
+
+
+</tdmsfiletext>

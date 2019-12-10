@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-8_7.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.11.08 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+한적, 면회소 설치 대표접촉 제의
+
+
+⊙황수경 앵커 :
+          정원식 대한적십자사 총재는 남북 적십자 대표 접촉을 가질 것을 북한측에
+제의했습니다. 정원식 총재는 대북 전화 통지문을 통해서 한반도내에 남북
+이산가족 면회소를 설치하기 위해서 남북 적십자 사무총장급을 수석대표로 하는
+각각 3명의 대표단이 가까운 시일안에 판문점에서 만나도록 하자고 제의했습니다. 
+
+</tdmsfiletext>

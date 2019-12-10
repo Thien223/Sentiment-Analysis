@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-12_7.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.12 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"이산가족 면회소 설치 北에 제의"
+
+
+⊙황수경 앵커 :
+          정원식 대한적십자사 총재는 오늘 기자간담회를 통해서 남북한간에 화해와
+평화 분위기를 조성하기 위해서는 천만 이산가족의 아픔을 덜어주는 일이
+시급하다고 전제하고 판문점이나 철원 고성 등 휴전선 지역에 이산가족 면회소
+설치를 곧 북한 적십자회 에 제안하겠다고 말했습니다. 
+
+</tdmsfiletext>

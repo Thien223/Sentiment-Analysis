@@ -1,0 +1,18 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_7_189.txt </filename>
+<title> 조선일보  </title>
+<author> 변상근(기자)</author>
+<date> 93.09.27</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.2155CSM930927
+[해외현장기고]
+{변상근}
+미기업에 「소리없는 생산성 혁명」/변상근(해외현장기고)
+◎사무­공장자동화 산업파급 영향/리엔지니어링등 새기법 큰
+
+</tdmsfiletext>

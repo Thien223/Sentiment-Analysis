@@ -1,0 +1,25 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110415.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.04 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+겨울 진객 고니
+강릉 경포호에 겨울의 진객 고니가 벌써 찾아 왔습니다. 
+그 우아한 자태 때문에 백조라는 이름으로 잘 알려진 고니는 우리나라의 대표적인 겨울 철샙니다. 
+김희남 기잡니다. 
+
+긴 겨울 나들이에 지친 고니 일가족이 모처럼만에 한가로운 오후를 맞았습니다. 
+어쩌다가 눈부신 흰색 날개를 펼치면 그 길이는 보통 2미터가 넘습니다. 
+거대한 몸짓에 우아한 자태를 뽐내면 갈대 숲 우거진 호수에는 벌써부터 초겨울의 정취가 살아 납니다. 
+일찍 시작된 겨울 날씨 때문인지 올해는 고니가 예년보다 빨리 찾아 왔습니다. 
+"철새 사진 찍으러 해마다 경포호에 나오는데 올해는 고니가 예년보다 20일 정도 빨리 온 것 같습니다." 
+고요하기 만한 호수를 박차고 멋진 비상을 할라치면 그 파문에 깜짝 놀란 청둥오리의 무리 춤도 호수의 겨울을 재촉합니다. 
+
+깨알처럼 호수면을 가득 메운 청둥오리 떼와 어우러진 고니 일가족의 한가로운 한 때는 어느새 성큼 다가선 겨울을 느끼게 합니다. SBS 김희남 입니다. 
+</tdmsfiletext>

@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_173.txt </filename>
+<title> 조선일보  </title>
+<author> 이준(기자)</author>
+<date> 93.06.08</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0741CSM930608
+{이준}
+“비자금 새사실나올까”관심집중/대검으로 넘어간 포철수사(수사초점)
+◎일부 뇌물공여자는 사법처리/검찰,정치권연계수사 꺼리는 태도
+역력/박태준씨 자진귀국 가능성 적어 “고심”※ 대검 중앙수사부가 7일부터
+박태준전 포항제철회장에게 금품을 전달한 계열 및 협력사 관련자들의
+소환조사에 착수함에 따라 향후 수사의 폭과 강도, 결과등에 관심이
+모아지고있다.※ 이번 수사는 「주인공」인 박전회장이 이미 일본으로 출국한
+상태�%
+</tdmsfiletext>

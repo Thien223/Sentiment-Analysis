@@ -1,0 +1,29 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-20_10.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.20  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"후보 기탁금제도 폐지돼야"
+
+
+
+⊙황수경 앵커 :
+          민주국민연합의 이병호 대통령후보는 오늘 기자회견을 통해서 민주주의
+국가에서 돈으로 인재의 출현을 막는 것은 있을 수 없는 일이라면서 후보기탁금
+제도의 폐지를 주장했습니다. 
+
+
+레베드 러시아 前 서기 訪韓
+
+한국개발연구원 초청으로 오늘 우리나라에 온 알렉산드르 레베드 전 러시아
+국가안보위원회 서기는 한국 기업들이 기초과학 분야가 튼튼하고 천연자원이
+풍부한 러시아에 진출할 경우 두나라 모두에게 큰 이익이 될 것이라고
+밝혔습니다. 
+
+</tdmsfiletext>

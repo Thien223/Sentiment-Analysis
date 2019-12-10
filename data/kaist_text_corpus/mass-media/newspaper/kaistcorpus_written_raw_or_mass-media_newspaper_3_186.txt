@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_186.txt </filename>
+<title> 조선일보  </title>
+<author> 김교준;홍준호(기자)</author>
+<date> 93.06.09</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0754CSM930609
+{홍준호} {김교준}
+6·10민주항쟁 6주/청와대,「국민운동본부」초청 오찬
+◎문민정부 이미지연결 조촐한 홍보※ 10일 김영삼대통령은 청와대에서
+오찬을 가질 예정이다. 늘상 있는 오찬이지만 이번에는 참석자들의
+면면도, 감회도 색다를 것 같다. 87년 직선제 개헌 쟁취를 위해 벌였던
+「6·10항쟁」을 기념하는 오찬모임인 것이다. 참석예정자는
+「민주헌법쟁취국민운동본부」의 상임위원급 10~20여명. 당시 정권의 시각에서
+보면「시국불안의 주�%F
+</tdmsfiletext>

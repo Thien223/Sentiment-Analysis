@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_114.txt </filename>
+<title> 조선일보  </title>
+<author> 이선주(기자)</author>
+<date> 93.06.01</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0681CSM930601
+{이선주}
+“사원 기분까지 관리”/심리경영기법 인기/미 레빈슨연 교육 호평
+◎불안정한 감정 의욕적으로 바꿔줘야 유능한 관리자         
+사원들의 심리상태를 파악해 적절히 대응하라.※ 미국에서는 최근 사원들의
+감정을 다루는 경영기술이 관심을 끌고 있다.※ 치열한 경쟁사회에서
+사원들은 더이상 예전과 같이 회사와 일체감을 느낄 수 없다는 것이 심리
+경영기술의 필요성을 주장하는 학자들의 이야기이다.※ 회사는 불안과
+근심,분노 등 개개인의 �%
+</tdmsfiletext>

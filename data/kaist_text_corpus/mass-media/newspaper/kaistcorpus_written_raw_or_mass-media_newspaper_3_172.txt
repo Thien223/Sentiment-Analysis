@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_172.txt </filename>
+<title> 조선일보  </title>
+<author> 이종원(기자)</author>
+<date> 93.06.08</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0740CSM930608
+{이종원}
+3개 특위에 의원 79명/「여름방학」 없는 민자당
+◎2백여개 개혁관련 법률 정비계획/각부문 전문가포함 총
+백여명규모/정치관계법 등 「쟁점사항」놓고 고심※ 민자당 경제대책특위 간사인 서상목
+제1정책조정실장과 사회개혁특위 간사인 강삼재 제2정책조정실장은 요즘
+눈코 뜰새 없이 바쁘다. 전에 같으면 오전의 당직자회의가 끝나면 여유를
+갖고 지냈던 그들이다. 그러나 최근들어서는 하루 2~3건, 많을 때는
+4~5건씩의 회의를 주재하고 발표�
+</tdmsfiletext>

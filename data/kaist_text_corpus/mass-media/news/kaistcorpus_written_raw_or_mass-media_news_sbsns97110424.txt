@@ -1,0 +1,18 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110424.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.04 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+고구려 군사요새 발견
+남한지역에서는 처음으로 고구려 군사요새지가 발견돼 토기와 철기등 고구려 유물이 대규모로 출토됐습니다. 
+
+서울대발굴조사단은 오늘 5세기 중엽 고구려 장수왕 시대에 50~60명이 집단거주한 군사요새로 추정되는 한강 유역의 아차산 보루성터에서 토기와 철기류 등 고구려 시대 유물 천여점을 발굴해 공개했습니다. 
+
+조사단은 이들 유적이 한강유역을 둘러싼 삼국의 세력관계와 고대 국가 연구에 획기적 자료가 될 것이라고 밝혔습니다. 
+</tdmsfiletext>

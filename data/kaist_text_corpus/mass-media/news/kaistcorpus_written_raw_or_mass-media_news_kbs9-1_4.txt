@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-1_4.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.1  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+北 잔류 귀순자 가족 3명 북한 탈출
+
+
+⊙류근찬 앵커 :
+          지난 90년 소련 유학도중 귀순한 정 현氏가 북한에 남아있던 3명의 가족을
+탈출시키는데 성공해서 탈출 가족들이 빠르면 이번주안에 서울로 올 것으로
+확인됐습 니다. 북한을 탈출한 정氏 가족은 어머니와 두 동생 등 3명으로, 현재
+정氏와 함께 제3국에 머물며 망명절차를 밟고 있는 것으로 알려졌습니다. 
+
+
+</tdmsfiletext>

@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga11-2-15.txt </filename>
+<title> 동아일보</title>
+<author> 박래정(기자)</author>
+<date> 1997.11.02  </date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+美 ＤＨＬ社， 북한시장 진출…평양사무소 직원７명 상근
+세계 최대의 국제항공 송배달서비스업체인 미국 DHL사가 북한시장에 본격 진출한다.
+DHL의 국내 합작사인 ㈜일양익스프레스는 1일 『DHL본사가 이달부터 북한대외운수회사와 제휴해 평양 나진선봉 함흥 등 3개 지역을 거점으로 유엔구호물자 등의 수송서비스에 나선다』고 밝혔다.
+DHL은 이미 지점 설립신고 절차를 마쳤고 5일 평양에서 개설 축하리셉션을 열 것이라고 일양측은 덧붙였다.
+평양 사무소엔 DHL기술고문인 부르마 비암바 지사장 등 7명의 직원이 상근할 예정이다.
+
+</tdmsfiletext>

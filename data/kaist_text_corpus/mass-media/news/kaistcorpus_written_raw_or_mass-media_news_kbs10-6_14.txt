@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-6_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.06 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+일본, 우리 어선1척 나포
+해양수산부는 일본 효고현 북동쪽 3.8마일 해상에서 조업중이던 경남
+통영선적 통발어선 21 광진호가 어젯밤 10시쯤 일본 순시선에 나포돼서
+억류중이라고 밝혔습 니다. 21 광진호에는 선장 이명대씨 등 선원 10명이
+타고 있습니다. 
+
+</tdmsfiletext>

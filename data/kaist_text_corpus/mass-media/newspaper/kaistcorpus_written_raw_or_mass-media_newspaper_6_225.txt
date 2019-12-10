@@ -1,0 +1,23 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_6_225.txt </filename>
+<title> 조선일보 </title>
+<author> </author>
+<date> 93.09.09</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.1842CSM930909
+[신상품]
+팩스­전화 분리수신-유니콤(신상품)
+ 팩스겸용 전화는 신호가 울리면 팩스인지 전화신호음인지 구분이
+안된다.※ 멕웰실업상사(대표 송동준)는 최근 전화가 걸려오면 전화벨이
+울리고, 팩스가 걸려오면 전화벨은 울리지않고 팩스에 자료만 들어오도록 한
+「전화 팩스자동수신기 유니콤」을 내놓았다. 팩스전용선이 아닌 일반
+전화와팩스를 한 전화선으로 이용하는 가정이나 사무실에 편리하다. 담배갑
+두개만한 크기.6만5천원.
+02(706)0763※
+
+</tdmsfiletext>

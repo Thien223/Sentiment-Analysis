@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_138.txt </filename>
+<title> 조선일보  </title>
+<author> 박선이(기자)</author>
+<date> 93.06.03</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0706CSM930603
+[아가미안해]
+{박선이}
+맞벌이시대… 탁아시설을 위한 현장특집(“아가,미안해…”:16)
+◎24시간 탁아/“저소득 맞벌이 가정 돕는다/지방돌며 장사­잦은
+야근­편부모 슬하등/국내 세곳뿐… 직장서도 관심을※ 서울 마포구 공덕동
+사랑의 전화 어린이집에서는 일곱 어린이가 밤을 지낸다.※ 사랑의 전화
+어린이집이 우리 나라 처음으로 24시간 탁아를 시작한 것이 3년 전.※
+비교적 가난한 맞벌이 부부가 많은 이 지역 특성 상, 밤 9시가
+넘어도아이를 �%
+</tdmsfiletext>

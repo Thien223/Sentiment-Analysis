@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_5_19.txt </filename>
+<title> 조선일보  </title>
+<author> 안덕균(기자)</author>
+<date> 93.07.22</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.1255CSM930722
+[신동의보감]
+{안덕균}
+돼지고기/한약복용땐 약성분흡수 감소(신 동의보감)
+ 한약을 먹을 때 돼지고기를 먹지 않는다는 속설이 있다. 그러나 이
+말은 대부분의 사람에게는 적용되지 않는다. 돼지고기를 먹지 말라는
+것은지방성분이 과다해 약성분의 흡수를 감소시키기 때문이지 고기 자체를
+금기시하는 것은 아니다.일반적으로 돼지고기는 지방 단백질 비타민B1
+등이풍부해 영양불량, 변비에 좋고 허약증 치료에 좋은 식품이다. 따라서
+지방성분이 많은 비계부위가 아니면 특별히 피할 필요는 없다.※ 그러나
+정상인의 경우도 많이 섭취하면 살이 찔 가능성이 있으므로 비만이나
+체중증가가 우려되는 사람, 동맥경화, 당뇨병, 고혈압을 가진 사람은
+평상시에도 먹지 않는 것이
+
+</tdmsfiletext>

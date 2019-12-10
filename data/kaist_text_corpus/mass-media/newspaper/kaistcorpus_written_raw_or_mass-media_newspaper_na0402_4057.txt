@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_4057.txt </filename>
+<title> 조선일보  </title>
+<author> 한삼희(기자)</author>
+<date> 93.04.29</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.4012CSM930429    
+［생활속의환경운동］                                                          
+｛한삼희｝                                                                    
+음식쓰레기  거름으로  이용하자（생활속의  환경운동：６９）                    
+◎나무  밑둥지름  ６∼８배  거리에  묻으면  좋아※  ３０년전에는  도시에서도 
+요즘처럼  음식쓰레기가  많지  않았다．  요즘은  쓰레기중  ２０∼３０％가 
+음식찌꺼기이지만，  과거에는  대부분  농촌에서  퇴비나  사료용으로  거둬갔고 
+집에서도  그런  용도로  사용했다．  대도시  아파트단지  등에서는  어려운 
+일이지만，  지금도  간단한  자가처리가  가능한게  음식쓰레기다．※  집  뜰이나 
+마당에  키우는  나무  주위에  음식쓰레기를  파묻는  간단한  방법으로  거름으로 
+이용할  수  있다．  파묻는  장소로는  나무  밑둥으로부터  밑둥지름의  ６∼８배 
+정도되는  거리가  적당하다．  그곳에  ３０∼４０㎝  정도의  구덩이를  파서 
+쓰레기를  묻으면  된다．  불과  두세달이면  형체가  사라질만큼  완전  분해， 
+거름으로  흡수된다．〈한삼희기자〉※                                             
+
+</tdmsfiletext>

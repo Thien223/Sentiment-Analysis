@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-1_15.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.1  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+수능시험 원서교부.접수 시작
+98학년도 대학 수학능력시험의 원서 교부와 접수가 오늘부터 전국 16개 시도
+교육청별로 일제히 시작됐습니다. 원서접수는 오는 13일까지이며 고등학교
+3학년 학생과 재수생은 출신 고등학교를 통해서 관할 교육청에 접수하고
+검정고시 합격자는 응시하 고자 하는 지역의 시도 교육청에 접수하면 됩니다. 
+
+
+</tdmsfiletext>

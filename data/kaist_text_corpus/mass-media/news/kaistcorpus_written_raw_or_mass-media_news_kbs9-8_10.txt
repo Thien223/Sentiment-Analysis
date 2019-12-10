@@ -1,0 +1,23 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-8_10.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.8  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"「中.日」어업협정 어민피해 없어야"
+정부는 최근 중국과 일본간에 합의된 어업협정에 따른 공동관리 수 역과
+관련해서 이 수역이 제3국인 우리나라의 어업이익을 침해해서는 안된다는 점을
+주장할 방침인 것으로 알려졌습니다. 
+
+美 스텔스 전투기 시험비행 성공
+레이더 추적이 매우 어려운 최첨단 전투기 F-22 스텔스기의 시험비 행이 어제
+미국 조지아주의 공군기지에서 성공적으로 이루어졌다고 미 공군이
+발표했습니다. 어제 시험비행에서 F-22 스텔스기는 3분이 채 안되는 짧은 시간에
+만5천피트 상공까지 상승 하는 등 우수한 성능을 선보였습니다. 
+
+</tdmsfiletext>

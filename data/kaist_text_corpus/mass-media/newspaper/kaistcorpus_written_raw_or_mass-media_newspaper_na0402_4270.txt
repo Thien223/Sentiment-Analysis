@@ -1,0 +1,23 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_4270.txt </filename>
+<title> 조선일보  </title>
+<author> 이정규</author>
+<date> 93.05.26</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.4225CSM930526    
+［건강메모］                                                                  
+｛이정규｝                                                                    
+단전호흡／척추  허리풀기와  머리  도인법（건강  메모）                        
+  〈척추  허리  풀기〉양발을  어깨  너비로  벌리고，  양손을  들어  몸을 
+뒤로  젖히면서  숨을  들여  마셨다가  앞으로  굽히면서  숨을  내쉰다．  ３회 
+반복한  다음  양손을  허리에  짚고  허리를  좌우로  각각  ３회씩  회전한다．※ 
+〈머리도인법〉  양  손바닥을  열이  나도록  마찰하여  얼굴  전체를  고루 
+문지른  다음  백회  상승  승장  청명  아문  왕골  풍지  천주를  차례로  자극해 
+준다．〈이정규·대한국선도협회  사범〉※                                         
+
+</tdmsfiletext>

@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-11_13.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.11  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+⊙정문교 (문화체육부 문화재 관리국장) :
+          잊어버렸던 역사를 되찾고 새로운 21세기 도약할 수 있는 민족적 정기를
+한군데 모은다는데 큰 뜻을 갖고 있다고 생각합니다. 
+
+⊙이재강 기자 :
+          흥례문 권역은 1915년 일제에 의해 파괴된지 84년만인 내후년 말까지
+완전히 복원돼서 옛 모습 그대로 이 자리에 다시 서게 됩니다. KBS 뉴스,
+이재강입니다.
+</tdmsfiletext>

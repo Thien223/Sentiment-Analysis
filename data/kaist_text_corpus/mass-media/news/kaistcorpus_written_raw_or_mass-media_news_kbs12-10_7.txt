@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-10_7.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"정연씨, 고의 감량"주장
+
+
+⊙황수경 앵커 :
+          한나라당 이회창 후보의 장남 정연씨가 병역을 면제받기 위해서
+고의감량을 했다고 현직 병무청 직원이 주장했습니다. 서울 지방병무청
+총무과 소속 37살 이재 왕씨는 오늘 밤 서울시내의 한 호텔에서 기자회견을
+갖고 지난 90년 12월 자신이 서울 서초 구청 담당 소집과에 근무할 당시
+정연씨가 뉴욕 주립대 동창인 6촌 동생의 소개로 자신을 찾 아와 학위를
+취득하지 못한 상태에서 군대에 갈 경우 학업에 지장이 있다면서 군대를
+면제받 을 수 있는 방법에 대한 조언을 구해왔다고 말했습니다. 
+
+
+</tdmsfiletext>

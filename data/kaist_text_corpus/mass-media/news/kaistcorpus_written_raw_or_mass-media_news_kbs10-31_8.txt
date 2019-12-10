@@ -1,0 +1,32 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-31_8.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.31 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+새해 예산안 등 심사 계속
+
+
+⊙황수경 앵커 :
+          국회는 오늘 운영과 법사위원회 등 12개 상임위원회 전체 회의가 2개
+예산안 심사 소위원회 그리고 예산결산 특별위원회를 열어서 새해 예산안과
+올해 추경예 산안 그리고 소관 부처별 법안과 안건에 대한 심사를
+계속했습니다. 한편 오늘 회의에서는 이만섭 의원의 탈당으로 전국구
+의원직을 승계한 신한국당 김판진 의원의 의원 선서가 있었 습니다. 
+
+
+김대중 총재 '양심수 사면'발언 파문
+국민회의 김대중 총재의 양심수 사면 용의 발언과 관련해서 검찰이
+반발하면서 진상 확인 작업에 나서는 등 파문이 일고 있습니다. 검찰은
+김대중 총재가 오늘 광주에서 열린 지역 인사와의 간담회에서 집권할 경우
+공산주의자가 아니고 조국을 사랑하는 사람이라면 사면할 용의가 있다는
+발언에 대해서 방송사에 녹화테잎을 요청하고 긴급 회의를 여는 등 반발
+움직임을 보이고 있습니다. 
+
+
+</tdmsfiletext>

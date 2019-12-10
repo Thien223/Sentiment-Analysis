@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-5_8.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.5  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+금품살포혐의 울산시 교육감 소환
+
+
+⊙황수경 앵커 :
+          울산시 교육위원 금품살포 사건을 수사하고 있는 부산지검 울산지청은
+오늘 김석기 시 교육감을 소환해서 금품살포 혐의에 대해서 조사를 벌이고
+있습니다. 김 교육감은 지난달 교육위원과 교육감 선거 당시 시의원 임모씨에게
+백만원을 전달한 혐의를 받고 있습니다. 
+
+</tdmsfiletext>

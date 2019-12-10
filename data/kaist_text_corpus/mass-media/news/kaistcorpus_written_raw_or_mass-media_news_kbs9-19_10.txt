@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-19_10.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.19  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+中 공산당 정치국 상무위원 발표
+중국 공산당의 최고 권력집단인 중앙정치국 상무위원에 기존의 5명 외에
+웨이진싱 중원기율검사 위원회 서기와 리란칭 정치국원겸 국무원 부총리가
+선출됐습니 다. 이로서 정치국 상무위원회의 서열은 1위에 장쩌민 총서기겸
+국가주석 2위에 리펑 국무원 총리 3위에 주롱지 국무원 상무부총리 4위에
+릴레이환 전국 정치협상회의 주석 5위에 후진따 오 중앙서기차 서기 위에
+웨이진싱 그리고 7위에 리란칭으로 순으로 재조정 됐습니다. 
+
+</tdmsfiletext>

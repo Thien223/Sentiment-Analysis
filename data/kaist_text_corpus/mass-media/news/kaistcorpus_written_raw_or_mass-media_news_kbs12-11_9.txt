@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-11_9.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.11 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+부에노스 아이레스 시의원 난투극
+
+아르헨티나의 수도 부에노스 아이레스 시의회 공청회에서 후보자 임 명을
+놓고 의견이 엇갈린 시의원들 사이에서 격렬한 싸움이 벌어졌습니다. 이
+과정에서 시의 원 4명이 심한 타박상을 입었고 의회 책상과 의자 등
+집기들이 크게 부서졌습니다. 
+
+</tdmsfiletext>

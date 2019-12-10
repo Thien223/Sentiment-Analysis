@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-15_12.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.15 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+등산객 동물오인 엽총쏴 중상
+
+경상북도 안동경찰서는 오늘 오후 3시 40분쯤 수렵이 금지된 안동시 서부면
+태장2리 천등산에서 수렵을 하다 등산중이던 안동시 용산동 41살 임모씨를 동물로
+잘 못 알고 엽총 한발을 발사해서 임씨의 오른쪽 어깨 부분에 총상을 입힌 충북
+제천시 화산1둥 62살 정종태씨를 붙잡아 조사하고 있습니다. 
+
+</tdmsfiletext>

@@ -1,0 +1,24 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2479.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.10.28</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2531CSM931028    
+［새상품］                                                                    
+눌지않는  구이판（새상품）                                                    
+  생선이나  고기가  바닥에  눌어붙지  않고，  타지도  않아  냄새도  덜나는 
+주방기구가  나왔다．  （주）제경산업이  최근  내놓은  「파블쿡웨어」는  고기판 
+안쪽에는  고기를  올려놓고  굽고，  주변에는  물을  붓는  이중구조이다． 
+판을  불에  올려놓아  어느  정도  가열되면  주변에  물을  부으며，  물이  철판의 
+열을  빼앗아  판이  １백５０도  이상  올라가지  않는다．  때문에  고기가 
+타거나  눌어붙지  않는  것이다．  이  회사  강제원대표는  세계  최초의 
+수­공냉법을  적용한  구이판이라고  자랑한다．※  현대백화점  본점과  무역센터점에서 
+판매중．  ４만５천원．  ０３２（４３２）６６５３※                             
+
+</tdmsfiletext>

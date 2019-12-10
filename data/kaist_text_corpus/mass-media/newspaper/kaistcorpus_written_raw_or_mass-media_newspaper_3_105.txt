@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_105.txt </filename>
+<title> 조선일보  </title>
+<author> 김창기(기자)</author>
+<date> 93.06.01</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0672CSM930601
+{김창기}
+YS­재계/해빙대화/막연한 불안감해소 “청신호”
+◎「면죄부」 아닌 오해풀기에 비중/대화갈증에 “경영전념” 메시지※
+김영삼대통령이 지난5월29일 일부 재벌 총수들과 가진 오찬 자리가
+「그간냉랭한 듯했던 정부와 재계 관계에 대한 해빙의 상징적 오찬」이었다고
+해서 국민들의 시선을 모았다. 그러나 이 오찬 모임 준비에 관여했던
+청와대비서실의 한 관계자는 31일, 『업계에서 지레 겁을 먹은 것일
+뿐,김대통령이 취임 이후 의도적으�%
+</tdmsfiletext>

@@ -1,0 +1,28 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-7_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.07 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+서울대 추천입학 면접.필기가 좌우
+
+
+⊙황수경 앵커 :
+          서울대학교는 오늘 98학년도 입시에서 고교장 추천으로 전체 신입생의
+7.84%인 385명을 수시모집 형태로 선발하기로 했습니다. 모집요강을 보면
+예체능계를 제 외한 사회대와 인문대 자연대 공대 등 대부분의 단과대학들이
+면접고사의 반영율을 30-50% 지필고사는 20-30%로 책정했습니다. 
+
+
+"서울대 인문 인기과 합격권 천등 이내"
+한편 정일학원이 97학년도 서울대 합격자의 설문조사를 토대로 합격 선을
+분석한 결과 올해 서울대 입시에서 인기학과의 합격권은 수능시험의
+계열석차가 인문계 의 경우 천등 자연계는 2천등 이내가 될 것으로
+예상됩니다. 
+
+</tdmsfiletext>

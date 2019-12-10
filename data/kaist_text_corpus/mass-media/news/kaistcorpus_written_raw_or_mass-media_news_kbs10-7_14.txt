@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-7_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.07 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+인천시.경기도 20개 시.군 내일 단수
+한국 수자원공사는 오늘 수도권 광역상수도 2단계 과천 가압장과 3,4 단계
+팔당 취수장의 전기점검과 보수공사 등을 위해서 내일 오전 7시부터 10일
+오후까지 최 장 58시간 동안 인천 광역시와 경기도 20개 시군에 수돗물
+공급을 중단한다고 발표했습니다. 수돗물 공급이 중단되는 지역은 인천
+광역시와 경기도 수원시 안양시 성남시 의정부시 부천 시 광명시 안산시
+과천시 시흥시 군포시 의왕시 오산시 평택시 용인시와 고양시 남양주시 구
+리시 화성군 김포군 안성군 등 모두 186만 가구입니다. 
+
+</tdmsfiletext>

@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-17_6.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.17 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"부정방지 개혁과제 적극 발굴"
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 김영삼 대통령은 오늘 낮 청와대에서 감사원장
+자문기구인 부정방치 대책위원회 권태준 위원장 등 위원들과 오찬을 함께
+하고 앞으로도 부정 방지를 위한 개혁과제를 적극 발굴해 달라고
+당부했습니다. 김영삼 대통령은 오찬에 앞서서 지난 2년 동안 부정방지
+활동에 헌신해온 서영훈 전 부정방지 대책위 위원장에게 국민훈장
+무궁화장을 수여했습니다. 
+
+
+
+</tdmsfiletext>

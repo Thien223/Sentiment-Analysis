@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_126.txt </filename>
+<title> 조선일보  </title>
+<author> 이선주(기자)</author>
+<date> 93.06.02</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0693CSM930602
+{이선주}
+비디오­영화제작 활발(여성단체)
+◎“성폭력 예방홍보­교육 영상매체가 효과적”/다큐형식 비디오 내일
+시사회/여성의전화/피해극복이야기 12월 영화로/여성개발원※○성차별
+다각적조명※ 여성단체들이 성폭력에 대한 교육용 비디오­영화제작에 활발히
+나서고 있다.※ 한국 여성의 전화(회장 이문우)는 성폭력에 대한 교육용
+비디오 「성폭력, 그 사슬을 끊고」를 만들어 3일 오후 2시 서울
+불광동 한국 여성개발원 국제회의장에서 %B
+</tdmsfiletext>

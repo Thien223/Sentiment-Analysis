@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-8_7.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.8.8  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+학우 상습폭행 중고생 14명 적발
+
+서울 도봉경찰서는 오늘 말을 잘 듣지 않는다는 이유로 같은 반 학 생을
+상습적으로 집단 폭행해온 서울 상계동 모 중학교 2학년 14살 임 모군 등 중학생
+7명을 적발해서 이 가운데 2명에 대해 사전 구속영장을 신청했습니다. 경찰은 또
+같은 학교 학생들 에게 일일 록카페 티켓을 강매해서 금품을 빼앗은 서울 상계동
+모 고등학교 2학년 16살 이 모군 등 고등학생 7명에 대해 구속 영장을
+신청했습니다. 
+</tdmsfiletext>

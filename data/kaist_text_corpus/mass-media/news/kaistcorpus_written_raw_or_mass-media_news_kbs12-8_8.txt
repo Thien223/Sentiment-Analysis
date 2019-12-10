@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-8_8.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.12.08 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+방송보도 대상
+
+한국 방송기자클럽이 선정한 올해의 방송 보도상 대상에 KBS 사회 부 이화섭
+차장과 김병길 촬영기자가 제작한 미래의 신영토 이어도 제2차 수중탐사
+성공이 선정됐습니다. 또 촬영 보도 부문에는 KBS 김창수 백승민 촬영기자가
+제작한 97 문화유산의 해 문화재 영상 그리고 지방 보도 부문에는 KBS
+부산총국의 부산 그 생명을 찾습니다 등이 확정됐습니다. 
+</tdmsfiletext>

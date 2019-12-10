@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-3_9.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.12.03 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+LA경찰, 차량 도주 용의자 사살
+LA에서 경찰의 추격을 받던 범죄 용의자가 차량을 몰고 중앙선을 넘어
+과속으로 달리다 경찰에 사살됐습니다. LA고속도로와 국도 공원 등을
+누비면서 경찰과 20분 동안 추격전을 벌인 26살의 이 용의자는 두대의 차량
+사이에 가로막히자 경찰의 경고를 무시하고 다시 도주를 시도하다
+사살됐습니다.
+</tdmsfiletext>

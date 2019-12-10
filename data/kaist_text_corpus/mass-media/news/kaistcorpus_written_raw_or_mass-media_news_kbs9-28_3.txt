@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-28_3.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.28  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+정부, 印度 산불피해 15만달러 지원
+
+
+⊙박대석 앵커 :
+          정부는 오늘 최근 인도네시아에서 일어난 대규모 산불의 진화작업과
+피해자 구조를 돕기 위해 인도네시아에 10만달러, 말레이시아에 5만달러를
+각각 긴급 지원하 기로 결정했습니다. 
+
+</tdmsfiletext>

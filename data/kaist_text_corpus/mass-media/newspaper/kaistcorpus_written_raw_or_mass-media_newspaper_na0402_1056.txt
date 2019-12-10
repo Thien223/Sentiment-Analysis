@@ -1,0 +1,24 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_1056.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.07.08</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.1063CSM930708    
+레저프로그램  가입후  회원탈퇴（상담코너）                                    
+◎해당업체，위약금１０％공제  환불※  ▲상담내용＝레저  이벤트업체 
+「Ｄ레벤트」에  작년  ４월  ４８만원을  내고  １년기한의  회원으로  가입했다．돈도 
+없고  시간도  부족해  ８월쯤，  원할  때는  언제든지  해약할  수  있다는  당시 
+직원의  말을  믿고  해약을  요구했다．그러나  업체측은  기한이  지났다며 
+해약을  거절했다．※  ▲처리  결과＝소비자  불만고발  내용을  해당업체에  통고하고 
+처리를  권고했으나  해당업체는  해약을  일단  거절했다．그러나  소비자의 
+계약해제권을  일방적으로  제한하는  것은  부당하다고  지적，  기간경과분  및 
+１０％  위약금  공제  후  환불토록  해당업체에  재차  권유，  소비자와  업체가 
+받아들여  사건이  마무리됐다．〈소비자  보호원〉※                             
+
+</tdmsfiletext>

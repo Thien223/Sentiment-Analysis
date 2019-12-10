@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-2_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+연세대, 정보통신 특기자 특차 선발
+
+연세대학교는 오늘 98학년도 신입생 특차전형부터 국제정보올림피아 드
+입상자 등 정보통신분야에 소질이 있는 학생들을 내신이나 수능성적에
+관계없이 선발하겠 다고 밝혔습니다. 이에 따라 연세대는 내년부터
+250여명의 학생들을 정보통신 특기자로 선발 하게 됩니다.
+
+</tdmsfiletext>

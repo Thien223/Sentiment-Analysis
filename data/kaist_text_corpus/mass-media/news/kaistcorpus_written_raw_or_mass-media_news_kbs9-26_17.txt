@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-26_17.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.26  </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+한.몽골 첫 무속 공동공연
+
+한국과 몽골의 문화교류 2천년을 맞아서 양국의 첫 전통무속 합동공 연이 오늘
+오후 국립 민속박물관에서 열렸습니다. 오늘 공연에서는 몽골의 강신무인
+발지마 씨가 전통 몽골 무속을 선보였으며 우리측에서는 무속인 김유관씨 등이
+서울 세남굿을 무대 에 올렸습니다. 
+
+</tdmsfiletext>

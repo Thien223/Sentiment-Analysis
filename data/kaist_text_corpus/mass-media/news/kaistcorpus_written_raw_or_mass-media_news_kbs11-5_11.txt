@@ -1,0 +1,27 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-5_11.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.05 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+태풍 동남아 강타,,, 3천명 사망.실종
+
+베트남과 캄보디아 등 동남아시아 지역에 지난 2일부터 태풍 린다가 강타해서
+오늘까지 적어도 265명이 숨지고 2천8백명 이상이 실종됐습니다. 베트남에서는 오
+늘 현재 235명이 사망한 것으로 확인됐고 2천5백여명이 실종됐으며 캄보디아에서도
+오늘까지 최소한 23명의 시신이 발견됐고 2백명 이상의 어부들이 실종됐습니다. 
+
+월남전 네이팜탄 피해소녀 평화대사
+
+지난 72년 월남전 당시 미국의 네이팜탄 공격으로 전신에 화상을 입 고 피난하던
+모습이 AP종군기자 리구체에 찍혀서 전세계에 전쟁의 공포를 생생하게 보여줬 던
+당시 9살의 월남소녀 킴푹이 유네스코의 평화친선 대사가 됐습니다. 올해 34살인
+킴푹 여 사는 당시 사이공의 병원에서 17차례의 이식수술 등 14개월 동안의 치료를
+받은뒤 현재는 캐 나다 토론토에 살고 있습니다. 
+
+</tdmsfiletext>

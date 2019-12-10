@@ -1,0 +1,31 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-13_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.13 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+경수로 근로자 시신 판문점 인수
+
+
+⊙황수경 앵커 :
+          북한 경수로 공사에 파견돼서 근무하다 숨진 기흥토건 덤프트럭
+운전기사 이병철씨의 시신이 오늘 오후 판문점을 통해서 우리측에
+인도됐습니다. 이씨는 지난 11일 북한 경수로 건설 현장인 함경남도
+금호지구에서 새벽에 조깅을 하다 심장마비로 숨졌 습니다. 
+
+
+사망사고 뺑소니신고 3백만원 보상
+경찰청은 뺑소니 사고 범인 검거율을 높이기 위해서 뺑소니 사망 사 고
+해결에 결정적인 단서를 제공한 사람에게는 백만원에서 최고 3백만원까지
+보상금을 지급 하기로 했습니다. 또 뺑소니 사고 전담 수사관의 수를
+올해안에 108명 늘려서 570명으로 보 강하기로 했습니다. 
+
+
+
+
+</tdmsfiletext>

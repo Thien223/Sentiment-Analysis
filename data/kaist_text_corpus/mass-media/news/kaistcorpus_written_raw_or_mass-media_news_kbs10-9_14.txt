@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-9_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.09 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+동아대생, '간첩수사'항의 시위
+부산 동아대학교 학생 2백여명은 오늘 저녁 하단동 승하캠퍼스에서 경찰과
+안기부가 동아대 학생운동 조직인 자주대오 관련자들에 대해서 간첩혐의로
+수사한 것 과 관련해서 항의시위를 벌였습니다. 
+
+
+동아대생 2명 간첩혐의 빼고 기소
+한편 부산지방검찰청은 어제 경찰과 안기부에서 간첩혐의로 송치한 동아대
+4학년 엄 모씨 등 2명에 대해 간첩혐의를 빼고 기소했습니다. 
+
+
+
+</tdmsfiletext>

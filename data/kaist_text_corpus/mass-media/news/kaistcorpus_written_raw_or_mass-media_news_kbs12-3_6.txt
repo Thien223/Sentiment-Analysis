@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-3_6.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.12.03 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+창덕궁.수원화성 세계 문화유산 지정
+
+창덕궁과 수원화성이 세계 문화유산으로 지정됐습니다. 지난 1일부 터
+이탈리아 나폴리에서 열리고 있는 유네스코 세계 유산위원회에서 창덕궁은
+빼어난 궁궐 건축과 정원 디자인을 인정 받았으며 수원화성은 동서양의
+과학을 통합시킨 군사 건축 양식 이 인정 받았습니다. 
+</tdmsfiletext>

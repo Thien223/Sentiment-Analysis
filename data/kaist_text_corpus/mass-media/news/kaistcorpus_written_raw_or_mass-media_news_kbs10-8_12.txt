@@ -1,0 +1,29 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-8_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.08 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+환각상태 방화 10대 5명 검거
+
+환각상태에서 차량이나 자전거 등에 세차례에 걸쳐 불을 지르고 술 을
+마신뒤에 문구점에 침입해서 돈을 훔치고 가게에 불을 내는 등 상습적으로
+불을 지른 10 대 5명이 경찰에 붙잡혔습니다. 서울 송파경찰서는 오늘 서울
+상전동 15살 이 모군 등 4명에 대해서 방화 등의 혐의로 구속영장을
+신청하고 형사 미성년자인 13살 이 모군은 부모에게 넘 겼습니다. 
+
+장은기술상 시상식
+
+한미약품과 핸디소프트가 산업발전의 숨은 공로자에게 주어지는 장 인기술상
+대상을 받았습니다. 한미약품은 수입에만 의존하던 면역 억제제를 국산화
+했고 벤 처기업인 핸디소프트는 일본에 1억5천만 달러어치의 소프트웨어를
+수출한 공로가 인정돼서 대상을 받았습니다. 
+
+
+
+</tdmsfiletext>

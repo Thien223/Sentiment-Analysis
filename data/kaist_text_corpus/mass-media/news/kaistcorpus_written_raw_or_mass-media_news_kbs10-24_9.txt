@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-24_9.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.24 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+쥬빈메타, "성공적 연주회 기대"
+
+내일부터 펼쳐지는 이스라엘 필하모니 오케스트라의 첫 내한공연을 앞두고
+오늘 기자들과 만난 지휘자 쥬빈메타는 이번 연주회가 성공적인 공연이 될
+것으로 기 대한다고 발표했습니다. 이스라엘 필과 협연하게 될 첼리스트
+장한나 하피스트 박정씨도 거 장 쥬빈메타와 함께 서울 무대에서 연주하게된
+것을 기쁘고 자랑스럽게 생각한다고 말했습니 다. 
+
+
+
+
+</tdmsfiletext>

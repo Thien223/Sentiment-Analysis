@@ -1,0 +1,29 @@
+<language> korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-4_7.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.4  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"美 민항기 한국戰후 처음 평양行"
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 미국 민간항공기가 한국전이후 48년만에 처음으로
+다음주초 평양에 갈 예정이라고 미국의 뉴욕타임즈 신문이 오늘 보도했습니다.
+뉴욕타임즈 신문은 아메리키어스라는 구호단체가 2천3백만 달러 상당의
+의약품을 북한에 기증할 예정이 고 북한이 이를 위해서 비행을 허가했다고
+전했습니다. 
+
+"美, 94년 전쟁 무릅쓰고 北核 저지"
+지난 94년 북한의 핵개발 움직임과 관련해서 미국은 한반도에서 전 쟁이 나는
+한이 있더라도 북한의 핵무기 보유를 저지하기로 하고 이를 위한 최종 군사적 대
+안 선택 검토까지 마무리했던 것으로 밝혀졌습니다. 미국의 페리 전 국방장관은
+오늘 21세기 국가발전연구원이 주최한 국제 학술회의 기조연설에서 이같이
+밝히고 최종 선택이 이뤄지기 불과 한시간 전에 북한측의 태도 전환이
+이루어졌다고 회고했습니다. 
+</tdmsfiletext>

@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-7_13.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.07</date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+국민회의, 추 의원 비서 폭력 사죄요구
+국민회의의 윤오중 부대변인은 오늘 추미애 의원의 국민신당 창당 자금 국회
+발언과 관련해서 김운환 의원의 보좌관 김모씨 등 2명이 어제 추 의원 사무실에
+들어와 비서인 배모씨에게 폭력을 휘두르고 행패를 부렸다고 주장하고 이에 대한
+즉각적인 사죄와 함께 관련자들의 징계를 요구했습니다. 
+
+</tdmsfiletext>

@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_140.txt </filename>
+<title> 조선일보  </title>
+<author> 변재란(기자)</author>
+<date> 93.06.03</date>
+<publisher> </publisher>
+<kdc> 070.08</kdc>
+<tdmsfiletext>
+[NA0402.0708CSM930603
+[일본육아기행]
+{변재란}
+「반쪽이」 만화가 부부(일본 육아기행:16)
+◎다른나라 엄마들은 어떻게 키우나/음식점서 어린이몫 주문…
+「식당예절」 체험※ 음식점에 아이를 데리고 가본 적이 있는 사람은 그것이
+얼마나곤혹스런 일인지 알 것이다.※ 식당 안을 이리저리 왔다갔다하는 것은
+물론, 다른 식탁을 기웃거리다가 아예 그 식탁에 앉아 부모의 속을
+태우는 모습은 그리 낯선 풍경이 아니다.※ 엄마가 간신히 아이를 끌어다
+앉히고 이것 저것 먹�%
+</tdmsfiletext>

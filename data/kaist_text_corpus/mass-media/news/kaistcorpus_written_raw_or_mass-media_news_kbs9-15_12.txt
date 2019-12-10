@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-15_12.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.15  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"1인당 최고14만달러 보상"
+
+
+⊙황수경 앵커 :
+          베트남 항공은 지난 3일 캄보디아 포첸통 공항에서 일어난 여객기
+추락사고 사망자에게 1인당 최고 14만달러 우리 돈으로 1억2천여만원의
+보상금을 지급하기로 했습니다. 
+</tdmsfiletext>

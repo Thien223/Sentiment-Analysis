@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-22_18.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.22  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+충북 수영팀, 소독약품에 집단중독
+
+충북 수영연맹은 오늘 올 전국체전에 참가할 수영대표팀 11명이 지 난 17일
+오후 청주 실내수영장에서 훈련 도중에 갑자기 호흡곤란과 천식 증세를 보여
+청주병 원으로 옮겼다고 밝혔습니다. 충북 수영연맹은 이 가운데 22살 연기숙
+선수 등 5명은 지금까 지 입원치료를 받고 있고 서세영 선수 등 8명은
+퇴원했다고 말했습니다. 
+</tdmsfiletext>

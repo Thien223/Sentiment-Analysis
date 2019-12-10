@@ -1,0 +1,25 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_4236.txt </filename>
+<title> 조선일보  </title>
+<author> 서홍관(기자)</author>
+<date> 93.05.23</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.4191CSM930523    
+［건강메모］                                                                  
+｛서홍관｝                                                                    
+금연은  니코틴  공급하면서（건강  메모）                                      
+  담배를  끊는  것은  모든  흡연자들이  한번쯤  생각해  보는  문제다．※ 
+그러나  성공하는  사람들은  그렇게  많지  않다．  흡연은  니코틴이라는  일종의 
+약물  중독이므로  갑자기  공급을  중단할  경우  여러  부작용이  나타나기 
+때문이다．※  무엇을  잃어  버린듯  마음이  초조해지고，  일이  손에  잡히지 
+않고，  속이  메슥거리고，  두통이  나타나는  등의  금단증상을  겪게  된다．  ※ 
+이  경우  니코틴을  다른  방법으로  공급하면서  그  양을  서서히  줄여  가는 
+것이  현명한  행동이다．  니코틴껌，  니코틴패취로  ６∼１２주간  니코틴을 
+공급하면서  사용량을  줄이는  것이  좋다．〈서홍관·서울  백병원 
+
+</tdmsfiletext>

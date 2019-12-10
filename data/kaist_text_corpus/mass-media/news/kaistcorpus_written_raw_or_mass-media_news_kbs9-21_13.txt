@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-21_13.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.21  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+동유럽 이재민 돕기 자선달리기
+
+올 여름 홍수피해를 입었던 동유럽 국가 이재민 돕기를 위한 자선 달리기
+대회가 헝가리 등 9개 동유럽 국가에서 모두 26만명이 참석한 가운데
+열렸습니다. 이 번 행사를 주최한 삼성그룹은 약6㎞의 구간을 끝까지 달린
+사람들에게 한사람당 50센트의 성 금을 제공해 모두 13만달러를 이재민들에게
+전달했습니다. 
+
+</tdmsfiletext>

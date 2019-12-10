@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-8_7.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.08 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+美, 수출쇠고기 O-157 검사 필요 인정
+
+
+⊙황수경 앵커 :
+          미국산 수입쇠고기의 O-157균 검출과 관련해서 한국을 방문하고 있는
+미국 검역전문가단은 오늘 식품의약품 안전본부에서 우리측 전문가와 회의를
+열어서 햄버 거용 분쇄육에 대해서만 O-157검사를 해오고 있지만 한국에
+수출하는 쇠고기에 대해서도 검 사의 필요성이 인정된다고 밝혔습니다.
+
+
+</tdmsfiletext>

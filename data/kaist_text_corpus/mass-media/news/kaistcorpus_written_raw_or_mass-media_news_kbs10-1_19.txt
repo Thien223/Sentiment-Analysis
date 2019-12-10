@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-1_19.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.06</kdc>
+<tdmsfiletext>
+KBS, HDTV 전송실험 성공
+KBS는 오늘 현대전자와 함께 HDTV, 즉 고성능 TV의 전송실험을
+성공했습니다. 이에 따라 앞으로 위성을 통한 HDTV방송을 할 수 있는
+기술적인 토대가 마 련됐습니다. 
+
+
+
+</tdmsfiletext>

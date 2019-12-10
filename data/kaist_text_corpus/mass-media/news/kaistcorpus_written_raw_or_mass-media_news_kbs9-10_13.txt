@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-10_13.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.10  </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+'97 코리아 서밋 개막
+
+
+
+⊙황수경 앵커 :
+          새로운 국제질서 속에서의 한국경제를 조명해 보는 '97 코리아 서밋이 오늘
+서울 신라호텔에서 열렸습니다. 첫날인 오늘은 강경식 부총리가 지구촌화
+시대의 한 국경제 발전전략이라는 주제로 첫 연설을 한데 이어서 미래학자 엘빈
+토플러 박사가 변화하 는 세계에 대한 인식이라는 주제연설을 했습니다. 
+
+</tdmsfiletext>

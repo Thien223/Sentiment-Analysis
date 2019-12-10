@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_134.txt </filename>
+<title> 조선일보  </title>
+<author> 김치형(기자)</author>
+<date> 93.06.03</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0701CSM930603
+{김치형}
+「한약조제권」 분쟁 석달째/약사­한의사 이해 “팽팽”(뉴스광장)
+◎한의대생,절출 거부 「금지」 요구/보사행정 “오락가락” 불씨
+제공※3월6일께부터 본격화된 약사와 한의사의 한약조제권 다툼이 석달
+가까이계속되고 있다. 이 다툼의 와중에 한의대생들이 한의사 주장에 동조,
+수업거부를 하는 바람에 11개대 3천여명의 학생이 유급위기에 몰렸다.
+보사부가 지난달 31일 관계부처회의에서 『상호전문영역이 존중되도록
+약사법을 개정
+</tdmsfiletext>

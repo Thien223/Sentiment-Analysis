@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_152.txt </filename>
+<title> 조선일보  </title>
+<author> 이충일(기자)</author>
+<date> 93.06.04</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0720CSM930604
+{이충일}
+4·19도서관/재정난에 퇴색하는 「그날의 의미」
+◎정부지원 없어 장서확충­건물보수 못해/3·15부정선거 이기붕집터에
+71년 신축※ 서대문네거리 적십자병원 옆 종로구 평동에 있는
+4.19기념도서관.수유동 묘역과 더불어 불의에 항거한 4.19의거의 뜻을
+기리는의미깊은 건물이다.그러나 4.19도서관은 최근 김영삼대통령의 지시로
+부지를 넓히고 기념관을 세우는 등 성역화작업이 한창 추진되고 있는
+4.19묘역과 달리, 초라한 모습으로 시민들의 기억속%B
+</tdmsfiletext>

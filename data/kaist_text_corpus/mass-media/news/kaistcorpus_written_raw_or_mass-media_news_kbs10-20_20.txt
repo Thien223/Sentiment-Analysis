@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-20_20.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+스턴트 차량 기자 덮쳐
+
+루마니아의 수도 부카레스트에서 벌어진 한 스턴트쇼 현장에서 방송 을 하기
+위해서 카메라 앞에 서있던 기자가 달려오는 스턴트 차량에 부딪혔으나 큰
+상처는 입지 않았습니다. 이번 사고는 장애물을 뚫고 도약대로 올라가기로
+돼있던 차량이 스턴트맨 의 운전실수로 방향을 틀면서 일어났습니다. 
+
+
+</tdmsfiletext>

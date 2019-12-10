@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_15.txt </filename>
+<title> 조선일보  </title>
+<author> 우병현(기자)</author>
+<date> 93.05.11</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0582CSM930511
+{우병현}
+캠퍼스에 청원경찰/서울대에… 가스총 무장 범죄예방 “파수꾼”
+ 가스총과 무전기로 중무장한 채 대학,그것도 서울대 관악캠퍼스를
+순찰하는 청원경찰. 학창시절 시위에 한번이라도 참가해 진압복차림에
+방독면을쓰고 방패를 든 진압경찰과 「대결」했던 사람들에게는 퍼뜩 머릿속에
+들어오지 않는 모습일 것이다.※ 『요즈음 대학에 무슨 일이라도 벌어지고
+있나….』 경찰이라면 등을 돌리던 학생들이 그들을 내쫓기는 커녕
+쌍수를들어 %B
+</tdmsfiletext>

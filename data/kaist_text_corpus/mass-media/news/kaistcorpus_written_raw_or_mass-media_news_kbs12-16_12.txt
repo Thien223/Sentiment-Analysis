@@ -1,0 +1,26 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-16_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.16 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+이웃돕기 성금
+
+저희 KBS에 이웃돕기 성금을 보내주신 분들입니다. 국가안전기획부 권영해
+부장과 직원들이 천901만9천2백원을, 한국 담 배인삼공사 김재홍 사장과
+임직원들이 2천143만9천6백원을 기탁했습니다. 중소기업청 추준석 청장과
+직원들이 453만2천760원, 주식회사 삼조 권태원 대표이사와 임직원들이
+3백만원을 보 내왔습니다. 한국 국제교류재단 김정원 이사장과 임직원들이
+184만8천원을, 병무청 김길부 청장과 직원들이 120만원을 기탁했습니다.
+홍재순씨가 3백만원, 국군 제9125부대 장병들이 210만원, 한국
+자동차폐차업협회 김효수 회장과 진화섬유의 김정열씨가 각각 2백만원을
+보내 왔습니다. 탄천 초등학교 교직원과 학생들이 104만9백원을, 광장시장
+한마음회와 인천 개인 택시 여성사업자 자매회 그리고 삼한교역에서 각각
+백만원씩을 KBS에 기탁했습니다. 성금을 보내주신 분들께 감사드립니다. 
+
+</tdmsfiletext>

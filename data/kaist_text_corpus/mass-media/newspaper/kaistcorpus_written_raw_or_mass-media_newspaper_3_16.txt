@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_16.txt </filename>
+<title> 조선일보  </title>
+<author> 정해영(기자)</author>
+<date> 93.05.12</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0583CSM930512
+{정해영}
+“인권개선­무기수출 중단하라”/미,「최혜국」연장 앞두고 대중강경
+◎내달 4일 시한… 클린턴,특사파견/의회,정책 연계 조건부 갱신안도
+제출※ 【워싱턴=정해영기자】 중국에 대한 무역상의 최혜국(MFN)
+대우갱신 시한을 앞두고 미 클린턴 행정부와 의회,그리고 언론이 한
+목소리로 인권 개선과 민주화,미사일 수출중단 등을 요구하고 나서 미국의 대
+중국 정책이 강경쪽으로 흐를 조짐을 보이고 있다.※ 클린턴 대통령은
+오는 6월4일까�%F
+</tdmsfiletext>

@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-15_13.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.15  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+"北, 금.외화 은닉 3명 총살"
+북한을 탈출한 한 귀순자는 북한당국이 지난해 말부터 올해초까지
+국가안전보위부를 중심으로 신의주 지역 외화벌이 종사자들에 대한 금과 외화
+은닉 여부를 조사해서 35명을 적발했으며 이 가운데 3명을 총살했다고
+전했습니다. 
+
+
+</tdmsfiletext>

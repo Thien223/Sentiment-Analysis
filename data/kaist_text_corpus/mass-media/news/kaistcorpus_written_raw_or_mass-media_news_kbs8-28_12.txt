@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-28_12.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.28 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+감사원 개원 49주년 기념식
+
+
+⊙황수경 앵커 :
+          감사원은 오늘 개원 49주년 기념식을 갖고 엄정한 공직기강 확립을 위해서
+최선을 다할 것을 다짐했습니다. 오늘 기념식에서 이시윤 감사원장은 대통령
+임기말 에 공직기강 누수 현상을 차단하고 경제 살리기와 민생안정을 위한
+감사에 다같이 힘을 모으 자고 당부했습니다. 
+</tdmsfiletext>

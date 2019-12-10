@@ -1,0 +1,28 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-9_8.txt </filename>
+<title> 조선일보</title>
+<author> </author>
+<date> 1997.11.09 </date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+                     일 반다이사, 다마고치 후속 `웨이브 UFO' 출시 
+
+                     장난감 애완 동물 게임기인 「다마고치」로 선풍적인 인기를
+                     일으켰던 일본의 반다이사는 그 후속제품으로 「웨이브
+                     UFO」를 출시 한다고 최근 발표했다. 
+
+                     외신에 따르면 반다이사의 웨이브UFO는 손바닥 크기의
+                     컴퓨터 스크린에 외계인이 주인공으로 나오며, 기존의
+                     다마고치처럼 사용자는 이 외계인에게 음식과 공기를 제공해
+                     주는등 보살펴 주어야 한다. 반다이사는 이 제품의 가격은
+                     25달러이며, 1년 내로 1백만개를 판매할 것이라고 밝혔다. 
+
+                     한편 기존의 다마고치는 지난해 11월 첫 선을 보인 이래 오는
+                     98년 3월까지 총 2천만개의 판매를 기록할 것으로 예상되고
+                     있다. 다마고치는 도쿄와 뉴욕등 세계적으로 폭발적인 인기를
+                     끌고 있다. 
+</tdmsfiletext>

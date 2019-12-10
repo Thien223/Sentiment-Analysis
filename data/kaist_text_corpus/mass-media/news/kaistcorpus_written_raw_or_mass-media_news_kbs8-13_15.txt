@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-13_15.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.13 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+마약 밀수 개인사업자 20여명 적발
+
+
+⊙황수경 앵커 :
+          서울지검 강력부는 지난 3월부터 7월까지 마약사범에 대한 집중단속을
+벌인 결과 경기불황으로 경영난을 겪다가 큰 돈을 벌 수 있다는 유혹에 빠져
+마약을 밀수 하거나 밀매한 일반 개인사업자들이 20여명이나 적발됐다고
+밝혔습니다. 이는 같은 기간에 적발된 마약사범 155명의 12%에 이릅니다. 
+</tdmsfiletext>

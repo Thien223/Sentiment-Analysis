@@ -1,0 +1,25 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102802.txt </filename>
+<title> SBS 뉴스</title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+심리적 금융공황
+
+이렇게 종합주가지수 5백선이 무너진 오늘 증권사 직원들과 투자가들은 망연자실한 표정이 역력했습니다. 뉴욕 증권시장 처럼 우리도 일시적인 휴장이라도 해야 한다는 주장까지 제기 됐습니다. 이현식기자가 취재했습니다. 
+
+
+추락하는 주가지수와 함께 사라져버린 돈을 생각하면 피가 끓지만, 증권투자자들은 이제 흥분할 기력조차 잃어버렸습니다. 
+모니터를 바라보는 증권사 직원의 표정에는 허탈감과 함께 분노마저 서려 있습니다. 
+공황심리의 확산으로 
+증시 기반이 붕괴될 조짐을 보이자, 증권사 단일노조 준비위원회는 증권시장의 한시적 휴장을 촉구했습니다. 
+
+한편 재계는 주가 폭락으로 증시를 통한 자금조달이 거의 불가능해지는 타격을 입었습니다. 
+게다가 환율 폭등으로 
+이미 도입한 외화자금의 상환부담이 눈덩이처럼 커지고 있는데다 내년도 자금조달 계획까지 불투명해지는 등 현재의 금융공황은 우리 경제를 뿌리째 흔들고 있습니다. SBS 이현식입니다. 
+</tdmsfiletext>

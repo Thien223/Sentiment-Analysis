@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2532.txt </filename>
+<title> 조선일보  </title>
+<author> 김호연(기자)</author>
+<date> 93.11.01</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2588CSM931101    
+［건강메모］                                                                  
+｛김호연｝                                                                    
+스트레스는  통증유발…  편안한  휴식  중요／관절：６（건강메모）              
+  스트레스는  관절과  근육을  비정상적으로  긴장시켜  통증을  일으킨다． 
+맑고  건조한  날보다  습기차고  불쾌지수가  높은  날에  몸이  더  찌뿌드드하고 
+근육과  관절이  아파오는  것이  그런  경우이다．  관절염  환자들은 
+더운날보다는  요즘같이  일교차가  심한  싸늘한  날씨에  관절통을  심하게  느낀다． 
+우리나라나  중국에선  예로부터  뜨거운  물로  목욕을  하거나  아픈부위를  주물러 
+통증을  치료해  왔다．  부드러운  마사지는  긴장된  근육을  풀고  염증부위의 
+혈액순환을  촉진하나，  통증은  쉽게  재발하는  경우가  많다．※  일상에서 
+벗어나  휴가를  즐기는  등  스트레스를  피하는  것이  관절통을  감소하고  염증을 
+낫게하는  좋은  방법중  하나이다．〈김호연·가톨릭의대교수·내과〉※         
+
+</tdmsfiletext>

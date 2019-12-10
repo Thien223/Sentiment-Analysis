@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-7_5.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.07 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+김 대통령, 전직 국무위원 등에 훈장
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 김영삼 대통령은 오늘 낮 이수성 전 국무총리 등
+지난해 11월이후 퇴임한 국무위원과 청와대 수석비서관들을 청와대로 불러
+오찬을 함께 하며 그동안의 노고를 치하했습니다. 김영삼 대통령은 오찬에
+앞서 이 전 총리 등 22명에게 각각 청조 근조훈장을 주었습니다. 
+
+
+</tdmsfiletext>

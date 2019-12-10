@@ -1,0 +1,16 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110207.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.02 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+시화호 갑문 열려 2명 실종
+오늘 오후 5시쯤 경기도 안산시 대부동 시화호 배수갑문 부근에서 고무보트를 타고 낚시를 하던 광명시 철산동 35살 장영환씨와 시흥시 대화동 37살 김용원씨등 2명이 배수갑문의 물살에 쓸려 실종됐습니다. 
+
+사고가 나자 안산소방서 119 구조대가 출동해 구조작업을 벌이고 있으나 배수갑문의 물살이 거센데다 날이 어두워져 구조에 어려움을 겪고 있습니다. 시화호에서는 호수의 물을 바꾸기위해 오늘 오후 배수갑문을 열고 물을 유입시키던 중이었습니다. 
+</tdmsfiletext>

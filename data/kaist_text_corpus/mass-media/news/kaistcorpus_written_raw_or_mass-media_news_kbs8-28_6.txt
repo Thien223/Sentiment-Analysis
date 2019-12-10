@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-28_6.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.28 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+"건전한 학생운동 발전에 힘써야"
+
+
+⊙황수경 앵커 :
+          김영삼 대통령은 오늘 낮 전국의 대학 총학장 161명을 청와대로 초청해서
+오찬을 함께 하며, 학생지도와 교육개혁에 대해서 환담했습니다. 김영삼
+대통령은 이 자리에서 아직도 낡은 북한의 주체사상을 그대로 따르는 일부
+과격학생들을 그대로 방임해서 는 안된다고 지적하고, 학생운동의 건전한
+발전을 위해서 더욱 노력해줄 것을 당부했습니다. 
+
+</tdmsfiletext>

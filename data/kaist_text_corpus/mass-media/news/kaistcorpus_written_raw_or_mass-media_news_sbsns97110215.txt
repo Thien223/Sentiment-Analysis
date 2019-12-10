@@ -1,0 +1,14 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110215.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.02  </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+김포공항, 하늘도 체증극심
+김포공항은 뜨고 내리는 비행기가 하루 평균 640여대나 되서 동양에서 가장 붐비는 국제공항입니다. 김포공항을 이용하는 항공기는 해마다 11%씩 늘어나고 있지만 시설이 따라가지 못하는 실정입니다. 김용철 기자가 취재했습니다. 
+</tdmsfiletext>

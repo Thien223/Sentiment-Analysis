@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_124.txt </filename>
+<title> 조선일보  </title>
+<author> 석종훈(기자)</author>
+<date> 93.06.02</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.0691CSM930602
+{석종훈}
+증시 달아올랐다/거래대금 1조8백억 “최고치”
+◎경기회복 기대… 상승세 이어질듯/외국인 투자가도 대형­금융주에
+관심※ 주식 거래가 폭증하고있다. 1년 10개월만에 지수 7백50선을
+회복하며 5월을 마감했던 증시는 6월 첫날인 1일에도 하루 거래대금이
+증시사상 최고기록인 1조8백억원을 넘어서는 활기찬 모습을 보였다. 그동안
+지루했던 조정기간이 끝난데다 증시에 부담으로 작용했던 금융실명제
+실시시기가 95년으로 늦춰질 것으로 관측되면
+</tdmsfiletext>

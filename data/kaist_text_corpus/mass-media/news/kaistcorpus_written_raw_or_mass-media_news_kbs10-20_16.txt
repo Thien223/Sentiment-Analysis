@@ -1,0 +1,28 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-20_16.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+연세 미디어센터 개관
+
+KBS가 대학교육발전을 위해서 주요 기자재를 제공한 연세대학교에 연세
+미디어 센터가 오늘 문을 열었습니다. 서울대학교와 고려대학교에 이어서
+문을 연 연세 미디어센터는 프로그램 제작과 유선 송출 설비를 갖추고 입시
+취업정보와 자체 교육프로그램 등을 방송하게 됩니다. 
+
+운경상 수상
+
+운경재단은 오늘 고 이재형 국회의장의 유지를 기리기 위해서 제정 된
+운경상 문화언론 부분 수상자로 최동호 KBS부사장을 선정하고 산업기술 부문
+수상자로는 채영복 한국 화학연구소 연구위원과 최남석 LG화학 상임고문을
+선정했다고 발표했습니다. 
+
+
+
+</tdmsfiletext>

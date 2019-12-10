@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-2_16.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+20代 고압선 감전 중태
+
+오늘 새벽 5시쯤, 경기도 광명시 철산동 29살 박모씨가 부근 초등학 교
+주변에 있는 전신주 꼭대기에 감전된채 매달려있다고 119구조대에 의해서
+구조됐습니다. 박씨는 그러나 구조 당시 2만2천볼트의 고압선에 감전돼서
+옷이 다 타버렸고 온몸에 3도 화 상을 입어 병원에서 치료를 받고 있으나
+중태입니다. 
+
+
+</tdmsfiletext>

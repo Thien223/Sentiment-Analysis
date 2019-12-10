@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-25_13.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.25  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"한일 어업협정 개정 타결 공동 노력"
+
+
+⊙황수경 앵커 :
+          유엔을 방문하고 있는 유종하 외무장관은 우리시간으로 어젯밤 오부치
+신임 일본 외무장관과 만나 어업협정 개정 교섭이 조속히 타결될 수 있도록
+노력해 나가 기로 하고 차기 어업실무자 회의를 다음달초에 도쿄에서 다시
+열기로 했습니다. 
+
+</tdmsfiletext>

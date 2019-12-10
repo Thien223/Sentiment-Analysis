@@ -1,0 +1,16 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110606.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.06 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+후보 경제 대토론회
+한국방송협회와 신문협회가 주최하고 SBS와 MBC, KBS 등 방송3사가 공동주관하는 대통령 후보 초청토론회가 오는 10일부터 시작됩니다. 
+
+10일 국민신당 이인제 후보, 11일 민주당 조순 후보, 13일 국민회의 김대중 후보, 14일 신한국당 이회창 후보 순서로 진행될 이번 토론회를 SBS는 매일밤 10시부터 백분동안 생중계할 예정입니다. 
+</tdmsfiletext>

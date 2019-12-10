@@ -1,0 +1,20 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102908.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.10.29 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+검찰:DJP연합 위법성 검토
+검찰은 국민회의 김대중 총재와 자민련 김종필 총재 간의 이른바 DJP 연합이 공직 선거법상 후보자에 대한 매수나 이해유도죄에 해당하는 지의 여부를 검토하는 작업에 착수한 것으로 알려졌습니다. 
+
+
+검찰 관계자는 대선후보자 간에 어느 한쪽의 사퇴를 전제로 직위나 금전이 제공됐다면 선거법에 위배된다는 지적이 있어 법적인 검토를 벌이고 있다고 말했습니다. 
+
+
+공직 선거법은 후보를 사퇴시킬 목적으로 자리를 제공하거나 제공의사를 밝힌 경우 제공한 사람과 이를 승낙한 사람 모두를 처벌할 수 있도록 규정하고 있습니다. 
+</tdmsfiletext>

@@ -1,0 +1,16 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102807.txt </filename>
+<title> SBS뉴스</title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+국가 신용등급 하향조정
+미국의 신용평가 기관인 무디스사는 오늘 우리나라의 단기채권과 장기예금의 신용등급을 한등급씩 하향조정했습니다. 
+
+무디스사는 우리나라의 최근 경제적 어려움이 구조조정에 따른 것이며 이 과정에서 앞으로도 어려움을 겪을 것이라고 지적하고 최근의 대기업 부도사태에 따른 부실채권 발생으로 금융기관 자산의 질도 저하됐다고 주장했습니다.
+</tdmsfiletext>

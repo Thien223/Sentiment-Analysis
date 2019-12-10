@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_234.txt </filename>
+<title> 조선일보  </title>
+<author> 박선이(기자)</author>
+<date> 93.06.13</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0802CSM930613
+{박선이}
+여름철 머리카락 관리/주 1·2회 해초­계란마사지를
+○청결이 가장중요※ 땀을 많이 흘리는 여름, 강한 햇빛에 머리카락이
+상하고 거칠어지기 쉬운 계절이다.※ 요즘 유행하는 긴 머리카락은 특히
+손이 많이 가는 스타일. 스트레이트 퍼머로 일부러 생머리 분위기를
+내는경우도 일반 퍼머 머리와 마찬가지로 머리카락 마사지 등 손질을
+해주어야 한다고 전문가들은 말한다.※ 윤기있고 건강한 머리카락을 지키는
+길은무엇보다 청결. 짧은 머리�%C
+</tdmsfiletext>

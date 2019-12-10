@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-19_18.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.18 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+정무 제2차관
+
+
+
+⊙황수경 앵커 :
+          정부는 최근에 사임한 정옥순 전 정무 제2차관 후임에 전 서울시
+여성정책 보좌관인 신태희씨를 임명했습니다. 신태희 차관은 올해 61살로
+서울 출신이 며 고려대 법학과를 졸업하고 지난 69년 서울시 사무관으로
+공직생활을 시작해 서울시 여성정책 보좌관을 지낸뒤 올해초에
+퇴직했습니다. 
+
+</tdmsfiletext>

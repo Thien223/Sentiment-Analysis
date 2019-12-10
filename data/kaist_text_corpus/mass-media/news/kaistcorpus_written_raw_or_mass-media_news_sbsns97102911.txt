@@ -1,0 +1,14 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102911.txt </filename>
+<title> SBS 뉴스</title>
+<author> </author>
+<date> 1997.10.29 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+한일전입장권 암표적발
+피씨통신에 월드컵 축구 아시아 예선 한.일전 입장권 판매 광고를 낸뒤 웃돈을 받고 표를 판 혐의로 서울 장위동 54살 이모씨를 경찰이 붙잡아 조사하고 있습니다 이씨는 지난 27일 피씨통신 천리안에 한.일전 입장권 판매 광고를 낸뒤 광고를 보고 찾아온 30살 김모씨에게 2만원짜리 일반석 입장권 2장을 12만원에 판 혐의를 받고 있습니다 . 경찰 조사에서 이씨는 지난달 30일 서울 모 은행에서 한.일전 입장권 5장을 샀으나 사정이 생겨 경기장에 갈 수 없게 돼 입장권을 팔려고 피씨 통신에 광고를 냈다고 말했습니다. 
+</tdmsfiletext>

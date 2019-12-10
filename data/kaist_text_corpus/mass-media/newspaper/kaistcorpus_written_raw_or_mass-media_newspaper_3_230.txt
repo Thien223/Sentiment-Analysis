@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_230.txt </filename>
+<title> 조선일보  </title>
+<author> 홍석준(기자)</author>
+<date> 93.06.12</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0798CSM930612
+{홍석준}
+사우나 감전 공포 “건식을 주의하라”
+◎380볼트 열선 이용… 절연체 깨지면 사고 직결※ 그랜드백화점
+스포츠센터 사우나실에서 주부가 감전사한 사건이 발생하자 「사우나
+공포증」이퍼지고 있다. 괜히 몸에 전기가 흐를 것만 같아 두렵다는
+반응들이다.그러나 사우나라고 모두 감전의 위험성이 있는 것은 아니다.※
+사우나는크게 습식과 건식의 두가지. 가장 흔한 쑥­한방사우나라든가 실내에
+진흙을 바른 진흙사우나등은 뜨거운 김을 불어
+</tdmsfiletext>

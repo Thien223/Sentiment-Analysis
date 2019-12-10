@@ -1,0 +1,15 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97103024.txt </filename>
+<title> SBS 뉴스</title>
+<author> </author>
+<date> 1997.10.30 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+신도시 3곳 개발
+건설교통부는 오늘 부산 정관지구등 3곳을 신도시로 개발하기 위해 택지개발 예정지구로 지정했습니다. 
+부산정관지구는 백18만평에 13만2천명을 수용하는 신도시가 조성되고 파주금촌2지구는 27만평에 3만명, 천안 불당지구는 26만평에 2만9천명 규모의 미니신도시로 개발됩니다. 
+</tdmsfiletext>

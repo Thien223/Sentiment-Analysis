@@ -1,0 +1,52 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-22_12.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-22_12.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.22 </date>
+<publisher> 조신일보 </publisher>
+<kdc>news.02</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/ 26일 서울서 한일어업실무회의 , 11-22.hwp/Titleend
+Inf/조선일보, 1997년 11월 22일 /Infend
+Text/ 1/22(토) 17:41 
+     11/22(토) 17:28 
+
+
+
+
+                     2백억불, 한국 위기해소 불충분 
+
+                     한국이 국제통화기금(IMF)에 신청한 2백억달러 금융지원은
+                     한국의 경제문제를 해결하는데 충분하지 않을 것이라고 21일
+                     아시아.태평양경제협력체 정상회담 참석을 위해 캐나다
+                     밴쿠버에 모인 역내 고위관리들이 말했다. 
+
+                     도밍고 시아손 필리핀 외무장관은 2백억달러의 지원은
+                     세계에서 11번째로 큰 규모인 한국경제를 되살리기에 부족할
+                     것이라고 말하고 『한국이 필요로 하는 지원규모를 파악하기
+                     위해 한국에 관한 더 많은 자료를 확보해야 한다』고
+                     덧붙였다. 
+
+                     알렉산더 다우너 濠洲외무장관은 한국이 IMF의 지원을
+                     받는다 해도 경제안정을위해서는 『여전히 갈 길이
+                     멀다』면서 호주는 한국을 지원할 용의가 있다고 밝혔다. 
+
+                     하시모토 류타로(橋本龍太郞) 日本총리의 대변인 하시모토
+                     히로시는 한국이 일본에 별도의 지원을 요구하지는 않았다고
+                     밝히고 그러나 『한국경제의 기본 요소들이나쁘지 않고
+                     생산성이 높고 숙련된 노동력이 많기 때문에 정부가 적절한
+                     조치를 취한다면 한국은 경제성장을 다시 누릴 수 있을
+                     것』이라면서 한국경제의 장래를 낙관했다. 
+
+/Textend 
+</tdmsfiletext>

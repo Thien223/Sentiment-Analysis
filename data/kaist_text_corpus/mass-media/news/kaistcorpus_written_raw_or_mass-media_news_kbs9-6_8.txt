@@ -1,0 +1,30 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-6_8.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.6  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+내년 공무원 봉급 소폭 인상
+
+내년도 공무원 봉급이 소폭 인상에 그칠 것으로 보입니다. 재정경제 원 관계자는
+경기 부진으로 내년 세금 수입이 크게 줄어들 것으로 예상돼서 내년도 공무원
+봉급 인상률은 2-3%수준에 그칠 것으로 보인다고 말했습니다. 
+
+"장 대사, 남한 첩보수집정보 있는 듯"
+
+뉴욕타임즈는 오늘 서울발 기사에서 황장엽에 이어서 장승길 이집트 주재
+북한대사도 최근 미국에 망명하면서 남한에서의 첩보수집에 대한 정보를
+갖고왔을 가능 성이 있다고 보도했습니다. 
+
+운전면허 필기시험 다시 통합
+
+올해 1회부터 학과시험과 응용학과시험 두가지로 나눠 치러왔던 운 전면허
+필기시험이 다시 하나로 통합됩니다. 총리실은 운전면허시험 응시자들의 적체
+현상을 해소하기 위해서 시험제도를 일부 개선해 내년부터 시행하기로
+했습니다. 
+</tdmsfiletext>

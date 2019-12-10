@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-16_6.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.9.16  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+대선후보 추석 맞아 바쁜 행보
+
+
+⊙황수경 앵커 :
+          민족 최대의 명절인 추석을 맞아 신한국당의 이회창 대표는 오늘 충남
+예산의 선영을 찾아 성묘한뒤 오후에는 영등포 경찰서를 찾아 추석
+특별비상근무중인 경 찰관들과 저녁식사를 함께 하며 격려했습니다. 국민회의의
+김대중 총재는 오늘 자택에서 차 례를 지낸뒤 추석이후의 정국 구상에 몰두했고
+자민련의 김종필 총재도 오늘 아침 장조카 집 에서 차례를 지낸뒤 자택에서 정국
+구상과 함께 휴식을 취했습니다. 민주당의 조순 총재는 가족과 함께 추석을
+보내면서 본격적인 당체제 정비에 대한 구상으로 하루를 보냈고 이인제
+경기지사는 오늘 낮 임진각에서 열린 재북구조 합동경무대회에 참석했습니다. 
+</tdmsfiletext>

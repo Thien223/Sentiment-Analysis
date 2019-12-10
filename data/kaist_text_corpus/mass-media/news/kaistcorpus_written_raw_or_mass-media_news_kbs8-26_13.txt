@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-26_13.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.26 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+정명훈씨 등 '7인의 남자들' 콘서트
+
+피아노의 정명훈씨와 한동일씨 바이올린의 김영욱 강동석씨 등 외국 에서
+활발한 활동을 벌이고 있는 7명의 한국 음악인들이 실내악 콘서트 7인의
+남자들을 무대 에 올립니다. 7인의 남자들 공연은 내일 강원도 춘천을 시작으로
+다음달 4일까지 전국 각지 에서 열립니다.
+</tdmsfiletext>

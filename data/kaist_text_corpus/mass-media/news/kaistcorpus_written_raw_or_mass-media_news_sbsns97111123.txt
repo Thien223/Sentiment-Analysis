@@ -1,0 +1,16 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97111123.txt </filename>
+<title> SBS뉴스</title>
+<author> </author>
+<date> 1997.11.11 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+일,연립 대표단 방북
+일본 연립여당 대표단이 특별기편으로 오늘 평양에 도착해 김양곤 북한 노동당국제부장의 환영을 받았습니다. 
+모리 자민당 총무회장을 단장으로 한 일본 여당대표단은 김일성동상에 헌화한뒤 김용순 노동당 국제담당비서와 만나 수교교섭재개를 위한 분위기조성방안등을 협의했습니다. 
+오는 14일까지 북한을 방문하는 일본 대표단은 김정일과의 면담을 추진하고 있어 관심이 모아지고 있습니다. 
+</tdmsfiletext>

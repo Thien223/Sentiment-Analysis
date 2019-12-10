@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2205.txt </filename>
+<title> 조선일보  </title>
+<author> 김호연(기자)</author>
+<date> 93.10.07</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2257CSM931007    
+［건강메모］                                                                  
+｛김호연｝                                                                    
+관절：１／사용안하면  굳어져…  규칙적인  운동  필요（건강메모）              
+  관절이란  두뼈가  맞닿는  연결부로  몸의  움김을  원할히  하는  역할을 
+한다．  또  자동차  엔진과  같이  사용하지  않으면  굳어  버리는  속성을  가지고 
+있다．  그러므로  관절은  아침부터  잘때까지  움직여  주여야  부드러워지고 
+주위  근육과  인대에  힘이  생겨  몸을  편안하게  이동할  수  있게  한다． 
+매일  규칙적인  「관절운동」이  정상인이나  관절염  환자  모두에게  필요한 
+이유가  바로  여기에  있다．  특히  관절이  약해지기  쉬운  ５０세  이후 
+성인에게는  걷기，수영，자전거타기  등을  추천하고  싶다．※  굳이  관절때문이 
+아니더라도  운동은  그렇지  않은  사람보다  가정이나  사회생활에  자신감을  갖게 
+하고，삶에  대한  의욕을  더  새롭게  하며，새로운  환경에  잘  적응하게  하는 
+이점이  있다．＜김호연  가톨릭의대교수  내과＞※                               
+
+</tdmsfiletext>

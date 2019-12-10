@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-11_7.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.11  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+18일 개최
+
+
+⊙류근찬 앵커 :
+          4자회담 제2차 예비회담이 오는 18일부터 19일까지 이틀동안 미국
+뉴욕에서 열린다고 외무부가 오늘 밝혔습니다. 외무부는 오늘 중국 북경에서
+열린 미국과 북 한간의 고위급 회담에서 북한측이 이같은 일정에 동의해왔다고
+전했습니다. 
+
+</tdmsfiletext>

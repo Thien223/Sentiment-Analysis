@@ -1,0 +1,18 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110216.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.02 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+주거용 비닐하우스 불
+오늘 오후 4시40분쯤 서울 내곡동 산 6번지의 주거용 비닐하우스에서 불이 나 비닐하우스 2개동 2백여평을 태우고 20여분만에 진화됐습니다. 
+
+오늘 불로 인명피해는 없었지만, 47살 진영호씨 등 비닐하우스에 살던 8가구 27명의 이재민이 발생했습니다. 
+
+경찰은 행인이 버린 담배꽁초가 근처에 있던 건축 폐기물에 옮겨붙어 불이 난 것으로 보고 있습니다. 
+</tdmsfiletext>

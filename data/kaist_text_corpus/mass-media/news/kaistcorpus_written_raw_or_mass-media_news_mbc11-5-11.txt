@@ -1,0 +1,17 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_mbc11-5-11.txt </filename>
+<title> MBC뉴스데스크 </title>
+<author> </author>
+<date> 1997.11.4  </date>
+<publisher> MBC  </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+"부산 신항 건설은 미래 향한 국가적 위업" 
+
+
+◆ 이인용 앵커 : 
+김영삼 대통령은 오늘 부산 신항 기공식에 참석해 부산 신항 건설은 우리 나라가 바다로, 세계로, 미래로 나아가는 원대한 꿈이 담긴 국가적 과업 이라고 말했습니다. 김 대통령은 부산 신항 건설은 민간 기업과 정부가 함께 참여하는 사업이라고 강조하고, 정부는 부산 신항 일대가 동아시아의 물류와 경제의 중심이 되도록 모든 지원을 아끼지 않겠다고 말했습니다.
+</tdmsfiletext>

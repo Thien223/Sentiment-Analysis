@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-9_18.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.09 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+현대, 잠수함 사업'경쟁체제'건의
+
+현대중공업은 사실상 독점체제로 유지돼온 잠수함 사업이 경쟁체제 로
+바뀌면 값을 30% 이상 낮출 수 있으며 국가안보 차원에서도 복수의 업체가
+잠수함 건조 와 정비를 하는 것이 바람직하다고 주장하고 해군의 잠수함
+사업에 경쟁체제를 도입해 달라 고 정부에 건의했습니다. 
+
+
+
+</tdmsfiletext>

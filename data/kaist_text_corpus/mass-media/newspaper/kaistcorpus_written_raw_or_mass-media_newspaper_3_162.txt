@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_162.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.06.05</date>
+<publisher> </publisher>
+<kdc> 070.11</kdc>
+<tdmsfiletext>
+[NA0402.0730CSM930605
+[조선다이제스트]
+일그러진 대국 일본(조선 다이제스트)
+◎현지 캐나다인의 객관적 비판/R토머스 지음/장진한옮김 교문사간 
+3백30쪽 5천원※ 캐나다인으로 와세다대에서 일본사, 일본문학을 배우고
+25년동안 일본에 머물렀던 인물의 눈으로 본 현대일본의 해부.
+한마디로날카롭다.※ 『일본은 그 역사 속에서 가장 괴로운 전환점에 서
+있다.앞으로 더욱 위대한 민주주의로 진보할 것인가, 아니면 권위주의나
+군국주의로 회귀할 것인가. 서구에는 별로 전달되고 있지 않%C
+</tdmsfiletext>

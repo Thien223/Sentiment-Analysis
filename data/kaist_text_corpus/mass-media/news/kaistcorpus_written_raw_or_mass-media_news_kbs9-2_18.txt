@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-2_18.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.9.2  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+한은 10원 동전모아 이웃돕기
+
+한국은행은 오늘 유니세프 한국위원회가 벌이는 사랑의 10원짜리 동 전모으기
+운동을 지원하기 위해서 오늘부터 초중고등학교와 외환은행 창구에 모금함을
+설치 하고 10원짜리 동전 모으기에 나섰습니다. 한국은행은 모금운동을 통해서
+모아진 성금은 개 발도상국의 어린이들을 도울 수 있다고 발표했습니다. 
+
+종이상자서 5살 어린이 사체 발견
+
+오늘 오후 3시반쯤 대전시 중천동 대전천에서 이 동네에 사는 5살 전윤철군이
+종이상자 속에 숨진 채 들어있는 것을 주민이 발견해서 경찰에 신고했습니다. 경
+찰은 전군이 교통사고로 숨진뒤 뺑소니 운전자에 의해서 버려졌을 가능성이 큰
+것으로 보고 정확한 사망 원인을 조사하고 있습니다. 
+</tdmsfiletext>

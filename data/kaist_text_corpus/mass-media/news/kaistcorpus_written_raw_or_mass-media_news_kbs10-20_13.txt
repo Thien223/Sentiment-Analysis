@@ -1,0 +1,27 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-20_13.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"北, 유엔사에 송환의사 전달"
+유엔군 사령부는 오늘 홍승순 모자 납치사건과 관련해서 북한측과 접촉을
+갖고 북한측과 함께 피랍지점에서 현장조사를 벌인 것으로 알려졌습니다.
+오늘 접촉 에서 북한측은 주민들의 월경을 주장하면서도 원칙적으로 홍씨
+모자를 돌려보내겠다는 의사 를 유엔사측에 전한 것으로 알려졌습니다. 
+
+
+ABU대표단 아.태 방송협력 다짐
+카민 ABU회장과 에비사와 NHK 회장 등 ABU총회에 참석한 대표단 4백여명은
+오늘 저녁 덕수궁에서 만찬을 함께 하며 친선을 도모했습니다. 이 자리에서
+송태 호 문화체육부 장관은 이번 총회는 디지털 방송시대의 협력강화 등
+방송문화 발전과 아태지 역 문화교류 증진에 중요한 기회라고 강조했습니다.
+
+
+
+</tdmsfiletext>

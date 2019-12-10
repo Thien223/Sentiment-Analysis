@@ -1,0 +1,26 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-3_11.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.04 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+신한국, '비교내신제' 적극 추진
+
+역 학생들이 학교 내신제로 인해서 일반 고등학교 학생들에 비해서 상대적인
+불이익을 받지 않도록 비교내신제를 도입하는 방안을 적극 추진하고 있습니다.
+당 사교육비 대책특위의 함 종헌 위원장은 특히 지역과 학교에 따라서 학교
+내신제와 비교내신제 중 학생에게 유리한 제 도를 적용하는 이원화 방안을
+고려중이라고 말했습니다. 
+
+김종필 총재, 주병덕 지사 만나
+
+자민련의 김종필 총재는 오늘 지난해 1월에 자민련을 탈당한 주병덕 충북지사와
+만나 환담했습니다. 오늘 만남에서 김종필 총재는 그동안의 마음의 부담을 잊었
+으며 서로의 인연을 중시하면서 도정에 전념하는 것이 자민련과 함께 하는
+것이라고 말했습 니다. 
+</tdmsfiletext>

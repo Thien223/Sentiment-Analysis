@@ -1,0 +1,50 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-12_4.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-12_4.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.12 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.08</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[북한] 경제난 타개위해 마약 대량 제조 밀매 , 11-12.hwp/Titleend
+Inf/조선일보, 1997년 11월 12일 /Infend
+Text/ 1/12(수) 20:20 
+     11/12(수) 19:12 
+
+
+
+
+                     [교육부] "지나친 학교경쟁 막게 수석입학
+                     공개맙시다" 
+
+                     교육부는 12일 과열입시 경쟁을 막고 학교교육을
+                     정상화시키기 위 해 서울대 등 주요 대학에 전체 및 계열별
+                     수석합격자와 고교별 대학합격 자 수를 공개하지 않도록
+                     요청키로 했다. 
+
+                     또 전국의 각 고교에도 서울대를 포함한 이른바 일류 대학
+                     합격자 수와 명단을 공개하지 말도록 요청키로 했다. 
+
+                     교육부는 이와 함께 학력평가기관을 운영하는 입시학원에
+                     대해 대 학수학능력시험 당일 수능 점수대별 지원가능 대학
+                     예상표 등 부정확한 진학지도 자료를 남발하지 않도록 당부할
+                     방침이다. 
+
+                     교육부는 "대학의 수석합격자 발표와 고교의 일류대 합격자
+                     수 발 표 등이 과열입시경쟁을 부추겨 인성이 무시된
+                     성적위주의 교육풍토를 조 성하는 부작용을 낳았다는 판단에
+                     따른 것"이라고 배경을 설명했다. 
+
+                     <김형기기자> 
+/Textend 
+</tdmsfiletext>

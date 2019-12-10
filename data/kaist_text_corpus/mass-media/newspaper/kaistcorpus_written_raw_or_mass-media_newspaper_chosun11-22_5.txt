@@ -1,0 +1,52 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-22_5.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-22_5.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.22 </date>
+<publisher> 조신일보 </publisher>
+<kdc>news.04</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/ 26일 서울서 한일어업실무회의 , 11-22.hwp/Titleend
+Inf/조선일보, 1997년 11월 22일 /Infend
+Text/ 1/22(토) 17:41 
+     11/22(토) 13:54 
+
+
+
+
+                     미-북한 내주 준고위급접촉 
+
+                     미국과 북한은 내주초 뉴욕이나 워싱턴에서 준고위급접촉을
+                     갖고 양자간 현안을 논의할 예정인 것으로 22일 알려졌다. 
+
+                     외무부 관계자는 『미국은 4자회담 본회담이 성사될 경우
+                     북한측이 요구해온 金桂寬 북한외교부 부부장과 찰스 카트만
+                     미국무부 동아태담당 부차관보간의 준고위급 접촉을 다시
+                     개최한다는 방침을 정하고 있었다』면서 『21일 열린 3차
+                     예비회담에서 본회담 개최에 합의한 만큼 내주초 미북
+                     양자접촉이 이뤄질 것으로 보인다』고 밝혔다. 
+
+                     이 관계자는 『미국은 특히 본회담이 성사된 만큼 미북
+                     양자접촉을 뉴욕이 아니라 워싱턴에서 가질 가능성이
+                     높다』고 말했다. 
+
+                     미국과 북한은 이번 접촉에서 실종미군 유해수색작업의 확대,
+                     미북 미사일협상의 재개문제, 상호연락소 설치문제등 미북
+                     양자현안을 논의할 것으로 관측된다. 
+
+                     북한은 특히 4자회담 본회담 참석을 대가로 ▲미북 양자접촉
+                     채널의 격상 ▲테러국가 지정의 해제 ▲추가 경제제재의
+                     완화등을 요구할 것으로 전망되고 있어 논의결과가 주목된다.
+
+/Textend 
+</tdmsfiletext>

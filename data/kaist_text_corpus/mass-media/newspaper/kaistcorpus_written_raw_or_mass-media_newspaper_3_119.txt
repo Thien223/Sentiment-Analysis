@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_119.txt </filename>
+<title> 조선일보  </title>
+<author> 홍준호(기자)</author>
+<date> 93.06.02</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0686CSM930602
+{홍준호}
+「개혁풍」속 야 위상찾기/「김영삼정부 백일」 맞는 민주당
+◎「야당목소리」 안먹혀 부심/「12.12」 재평가­사정형평제기
+성과/“이번에 지면끝장” 6·11보선 총력※ 김영삼정부가 개혁 1백일을
+자축하는 지금, 민주당의원들은 여름 햇살이 따가운 보선현장으로 달려가고
+있다.※ 지난 4·23보선보다도 관심도가 더 떨어져 화제권 밖으로
+밀려나있는 게 이번 보선이다.※ 그런데도 민주당은 이 선거전에 목이라도
+맨듯 벌써부터 총력지원 체�%
+</tdmsfiletext>

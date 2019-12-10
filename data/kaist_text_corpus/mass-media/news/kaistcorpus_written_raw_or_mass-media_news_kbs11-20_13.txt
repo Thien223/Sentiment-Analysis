@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-20_13.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.19 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+이병철 前 삼성회장 10주기 추모식
+
+삼성그룹의 창업주인 이병철 전 회장의 10주기 추모식이 오늘 정계 와 관계
+그리고 재계인사 등이 참석한 가운데 호암아트홀에서 열렸습니다. 오늘
+추모식에서 추모위원과 유족들은 고인이 생전에 쌓은 업적 등을 기렸습니다.
+
+</tdmsfiletext>

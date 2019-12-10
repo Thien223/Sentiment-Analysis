@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-24_9.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.23 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+주택기금 152억 다른 곳에 전용
+
+
+
+⊙이한숙 앵커 :
+          감사원은 지난해 12월부터 최근까지 주택은행의 국민주택기금 사용
+실태를 감사한 결과 주택은행이 건설회사에 장기저리로 대출해준
+국민주택기금 152억원이 골 프장 공사나 토지구입 주식매입 등 주택건설이
+아닌 다른 용도로 사용돼 온 사실이 드러났다 고 밝혔습니다. 감사원은 이에
+따라 주택건설이 아닌 다른 용도로 사용된 기금을 모두 회수 하고
+주택은행의 기금관리 책임자 4명을 문책하라고 재정경제원에 통보했습니다. 
+
+
+</tdmsfiletext>

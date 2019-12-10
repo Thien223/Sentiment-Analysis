@@ -1,0 +1,19 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-7_9.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.7  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+감사원, "한보철강서 800억 회수"
+
+감사원은 지난 4월 전국 각 부처를 대상으로 한보철강 인허가 과정 에 대해
+특별감사를 실시한 결과 한보철강이 당진제철소 공유수면 매립공사를 하면서
+사업비 를 크게 부풀린 사실을 적발해 한보철강으로 부터 모두 8백여억원을
+회수하도록 건설교통부 등에 통고한 것으로 알려졌습니다. 
+
+</tdmsfiletext>

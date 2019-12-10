@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-15_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.15 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+물리학상 발표
+
+
+⊙류근찬 앵커 :
+          스웨덴 왕립과학원은 올해 노벨물리학상은 미국 스탠포드 대학의
+스티븐추 교수와 미국 국립표준연구소의 윌리엄 필립스 박사 그리고 프랑스
+파리 교원대학의 플로르드 쿠엔 타노지 교수 등 3명을 공동수상자로
+결정했다고 발표했습니다.
+
+
+
+</tdmsfiletext>

@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-15_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.15 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+제일은행에 2조원 특별융자
+
+
+⊙황수경 앵커 :
+          한국은행은 제일은행에 대해서 2조원 가량의 특별융자를 이달중에 실시할
+방침입니다. 한국은행측은 제일은행의 신용도가 국제적 신용평가기관의
+하향평가로 해외 차입 불능 상태까지 악화되기 전에 연리 3%로 2조원의
+특별융자를 실시하는 것이 바람 직하다고 밝혔습니다.
+</tdmsfiletext>

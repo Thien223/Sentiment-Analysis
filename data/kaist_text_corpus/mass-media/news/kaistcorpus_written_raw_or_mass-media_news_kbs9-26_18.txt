@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-26_18.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.26  </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+이순신 장군 동상 세척작업
+
+삼성 지구환경연구소는 오늘 오전 살수차 등을 동원해서 서울 세종 로에 있는
+이순신 장군 동상에 대한 세척 작업을 벌였습니다. 이번 세척작업은 물과 특수
+세 척제 등을 사용해서 이끼와 매연 등으로 오염된 동상과 좌대 부분을
+청소하기 위한 것으로 일주일 동안 계속됩니다. 
+
+</tdmsfiletext>

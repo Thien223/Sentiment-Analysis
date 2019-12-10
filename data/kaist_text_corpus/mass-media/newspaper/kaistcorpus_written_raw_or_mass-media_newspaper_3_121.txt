@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_121.txt </filename>
+<title> 조선일보  </title>
+<author> 정해영(기자)</author>
+<date> 93.06.02</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0688CSM930602
+{정해영}
+클린턴 인기만회 작전/백악관 진용개편/홍보팀 대폭보강
+◎과거 세대통령 홍보담당 공화당출신 거겐 전격기용/중도노선 복귀…
+경제문제 집중할듯/인기 트루먼이후 최저※ 【워싱턴=정해영기자】 『빌
+클린턴은 문제를 해결하는 역할도 하지만 종종 문제를 일으키는 역할도
+한다.※ 』뉴욕 타임스지는 31일 백악관 참모의 말을 인용, 클린턴대통령의
+이중적 역할을 이렇게 표현했다.※ 클린턴대통령이 취임후 4개월여동안
+경솔한 말과 행동%
+</tdmsfiletext>

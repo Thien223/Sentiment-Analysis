@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-22_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+한.중 수교5주년 축하 리셉션
+
+
+⊙류근찬 앵커 :
+          주한 중국대사관은 오늘 저녁 롯데호텔 크리스탈볼륨에서 장정현 대사
+주최로 한중 수교 5주년 기념리셉션을 갖고 두나라 관계의 발전을 축하했습니다.
+오늘 축 하리셉션에서는 권오기 부총리와 유종하 외무부 장관 등 각계인사
+8백여명이 참석했습니다. 
+
+</tdmsfiletext>

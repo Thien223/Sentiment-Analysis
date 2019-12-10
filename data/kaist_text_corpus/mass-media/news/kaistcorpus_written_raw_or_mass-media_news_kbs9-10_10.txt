@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-10_10.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.10  </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"대만 핵폐기물 北 반출 무기한 연기"
+
+
+⊙황수경 앵커 :
+          대만의 중국시보는 오늘 대만과 북한이 최근 핵폐기물의 북한 반출을
+계약체결일로 부터 2년내에 완료하기로 했던 당초의 계약 내용을 첫번째 선박
+수송이 시 작된뒤 2년내에 하기로 변경해서 핵폐기물 반출계획을 무기한
+연기했다고 보도했습니다. 
+</tdmsfiletext>

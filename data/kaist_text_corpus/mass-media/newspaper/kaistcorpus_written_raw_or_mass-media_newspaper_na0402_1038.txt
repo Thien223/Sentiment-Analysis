@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_1038.txt </filename>
+<title> 조선일보  </title>
+<author> 이경희(기자)</author>
+<date> 93.07.06</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.1044-5M930706    
+｛이경희｝                                                                    
+뒷목  아플땐  중지  손등쪽  자극／수지침：３（건강메모）                      
+  성인의  경우  신경성과  혈압이상，  과격한  운동，  자세불량  등으로 
+뒷목이  아프면서  운동하기  곤란한  증상을  겪는  수가  종종  있다．  소위 
+항강（항강）증이라  하여  웬만한  치료법으로는  잘  낫지  않는다．  이때는  가운데 
+손가락의  끝마디와  가운데  마디를  이용한다．※  손등쪽  가운데  손가락의  이 
+부위는  뒷목의  경추에  해당한다．  볼펜자루로  약간  힘을  주어  이곳을 
+굴리면  매우  아픈  곳（상응점）이  나타난다．  여기에  수지침을  놓거나  압박을 
+가하면  뒷목이  빨리  가벼워진다．  압봉  또는  은박지구（은박지를 
+녹두만하게  만든  것）를  붙이거나  서암뜸  치료를  해도  좋다．※  치료는  양손 
+모두에  하며  만성적인  통증은  매일  ２０∼３０분간  자극한다．〈이경희·서울 
+한도한의원장·의학박사〉※                                                       
+
+</tdmsfiletext>

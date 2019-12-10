@@ -1,0 +1,27 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-5_9.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.8.5  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+당정, 초.중등 학급당 30명 수준으로
+
+
+⊙황수경 앵커 :
+          정부와 신한국당은 오늘 이회창 대표 등 고위당직자 등과 서울대 총장 등이
+참석한 가운데 사교육비 대책 특별위원회를 열고 오는 2천10년까지 초중등
+학교의 학급당 학생수를 30명 수준으로 낮추기로 했습니다. 오늘
+당정회의에서는 그러나 당초 신한국당 쪽에서 도입을 주장했던 본고사 부활과
+대학정원 자율화 그리고 고교 비 교내신제 도입 등은 논의 끝에 백지화 하기로
+했습니다. 
+
+안양 만안구 보선 9월4일 확정
+정부는 오늘 국무회의를 열어서 자민련의 권수창 의원의 사망에 따라 실시되는
+경기도 안양 만안구의 국회의원 보궐선거 투표일을 다음달 4일로 최종 확
+정했습니다. 
+</tdmsfiletext>

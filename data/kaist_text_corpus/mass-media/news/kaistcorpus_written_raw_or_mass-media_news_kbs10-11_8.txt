@@ -1,0 +1,29 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-11_8.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.11 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+시험지 유출 교사 구속
+
+
+⊙황수경 앵커 :
+          서울지검 형사1부는 오늘 학교 시험지를 훔쳐서 학부모에게 넘겨준뒤
+사례금을 받은 서울 대치동 모 중학교 전 과학교사 49살 김한규씨를 절도와
+위계에 의한 공무집행 방해의 혐의로 구속했습니다. 김씨는 지난해 12월
+기말고사를 앞두고 학교 등사실 등 모두 2백만원을 받은 혐의를 받고
+있습니다. 
+
+이화여대 한총련 탈퇴 결정
+
+이화여대 총학생회는 지난 7일부터 나흘간 한총련 탈퇴 여부를 놓고
+총투표를 실시한 결과 재학생 만5천여명 가운데 52.%의 학생이 투표에
+참여해서 73.6%의 찬 성으로 한총련 탈퇴를 결정했다고 발표했습니다. 
+
+
+</tdmsfiletext>

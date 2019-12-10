@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-19_6.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.18 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+김 대통령, 4개국 대사 신임장 받아
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 김영삼 대통령은 오늘 오전 청와대에서 오구라
+가즈오 신임 주한 일본대사 등 4개 나라 대사들로 부터 각각 신임장을
+받았습니다. 오늘 신임장을 제정한 주한대사는 오구라 일본대사 외에
+에리트리아 대사와 피지 대사 그리고 우크라이나 대사 등입니다. 
+
+</tdmsfiletext>

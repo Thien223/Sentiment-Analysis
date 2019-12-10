@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_academic_study95_mh2-0339.txt </filename>
+<title> 소설의 죽음과 포스트모더니즘 </title>
+<author> 김성곤 </author>
+<date> 1992 </date>
+<publisher> 글 </publisher>
+<kdc> 809.3 </kdc>
+<tdmsfiletext>
+;corpus 작성일자:1995. 
+
+&{
+
+
+</tdmsfiletext>

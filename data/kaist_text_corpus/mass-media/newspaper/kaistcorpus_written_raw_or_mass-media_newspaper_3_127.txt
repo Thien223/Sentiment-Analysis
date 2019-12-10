@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_127.txt </filename>
+<title> 조선일보  </title>
+<author> 윤영신(기자)</author>
+<date> 93.06.02</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0694CSM930602
+{윤영신}
+취미 등 부부 「함께주의」 바람직(50대 건강론:4)
+◎팔짱끼기 등 「성인병 전성기」 극복 도움※ 「미니
+AIDS현상」­.※ 50대 들어서면 신체능력이 급격히 떨어지고 면역력도 저하돼 마치
+AIDS처럼 병에 잘 걸리고 잘 낫지도 않는다고해서 나온 용어이다.※
+그만큼 50대는 작은 스트레스, 약간의 피로에도 쉽게 영향받는 「성인병
+전성기」라는 것이다.※ 따라서 50대의 부부관계, 특히 아내들이
+갱년기우울증에 빠지기 쉬운 이때의 부부관계는 잘하면 �%E
+</tdmsfiletext>

@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-3_4.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.12.03 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+한라그룹 부도위기 모면
+
+
+
+⊙황수경 앵커 :
+          한라그룹이 부도위기에서 벗어난 것으로 보입니다. 한라그룹은 주거래
+은행인 외환은행 등 채권은행들이 어제 교환해 돌아왔으나 오늘 오전까지
+결재하지 못한 어음 4천억원을 포함해서 연말까지 추가로 자금을 지원하기로
+합의했다고 밝혔습니다. 
+</tdmsfiletext>

@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-18_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.18</date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+재야.노동계, 국민후보 추진 움직임
+
+
+⊙황수경 앵커 :
+          민주노총과 전국연합은 오늘 오후 프레스센터 국제회의장에서 대통령선거
+국민후보 추진을 위한 선언자 대회를 열고 권영길 민주노총 위원장과 이창복
+전국연 합 상임의장을 공동대표로 하는 공동선거대책기구 가칭 국민승리 21
+추진위원회를 구성했습 니다. 가칭 국민승리 21추진위원회는 빠르면 다음달
+7일로 예정된 발기인 대회를 거쳐서 후 보를 확정할 예정입니다. 
+
+</tdmsfiletext>

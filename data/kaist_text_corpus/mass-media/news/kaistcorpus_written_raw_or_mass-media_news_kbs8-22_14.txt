@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-22_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+서울시, 월드컵 전용구장 짓기로
+
+
+⊙황수경 앵커 :
+          서울시가 월드컵 축구 개막식을 치를 6만5천석 규모의 축구 전용구장을
+서울시내에 짓기로 최종 결정했습니다. 서울시는 오늘 월드컵 개최 후보도시
+설명회에 서 그동안 논란이 돼왔던 축구 전용구장 건립 문제에 대해서 정부와
+월드컵 조직위원회 등에 서 예산지원을 해주는 조건으로 서울시내 제3의 장소에
+전용구장을 새로 건립하겠다고 밝혔 습니다. 
+</tdmsfiletext>

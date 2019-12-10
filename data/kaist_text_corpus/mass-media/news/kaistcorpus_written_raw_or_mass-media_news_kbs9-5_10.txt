@@ -1,0 +1,20 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-5_10.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.5  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+제5차 한.일포럼 개막
+한일 두나라간의 우호협력 증진을 위한 제5차 한일포럼이 오늘 부터 사흘간의
+일정으로 시작됐습니다. 양국의 정계와 학계 언론계 재계인사 등 양측에서
+20명씩 참석하는 이번 포럼에서는 한국과 일본의 국내정세와 동북아정세와 한일
+안보협력 등 5개 주 제가 논의되며 양국간의 교류협력 증진을 담은 서울성명도
+채택될 예정입니다. 
+
+
+</tdmsfiletext>

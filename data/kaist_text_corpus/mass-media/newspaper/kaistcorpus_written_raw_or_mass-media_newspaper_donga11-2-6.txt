@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga11-2-6.txt </filename>
+<title> 동아일보</title>
+<author> 한기흥(기자)</author>
+<date> 1997.11.02 </date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+北 당간부들， 군부우선 정책 불만 커져
+북한의 김정일(金正日)이 당총비서로 공식 권력을 승계한 뒤에도 군부우선정책을 유지하고 있는데 대해 당간부들이 불만을 갖고 있으며 정책 집행에 대한 회의감도 피력하고 있다고 정부 당국자가 2일 밝혔다.
+이 당국자는 『김정일은 모든 정책을 단독으로 결정 집행하고 있으며 군부 우선정책을 계속하고 있다』면서 『이에 따라 당비서들은 무력감에 빠져 불만의 목소리를 내고 있는 것으로 알고 있다』고 말했다.
+이 당국자는 『황장엽(黃長燁)씨의 진술과 대북 수집첩보 등에 따르면 최근 김정일의 측근인 김국태(金國泰) 김용순(金容淳) 김기남(金基南) 등 당비서들은 자신들이 건의한 정책들을 김정일이 제대로 채택하지않고 있는데 대해 불만과 함께 무력감을 보이는 것으로 전해지고 있다』고 밝혔다.
+
+</tdmsfiletext>

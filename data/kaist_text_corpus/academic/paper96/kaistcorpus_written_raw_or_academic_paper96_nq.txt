@@ -1,0 +1,1880 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_academic_paper96_nq.txt </filename>
+<title> 한국의 자생 및 재배종 배나무속 식물에 관한 분류학적 연구 </title>
+<author> 정경호 </author>
+<date> 1994 </date>
+<publisher> 서울대학교  </publisher>
+<kdc> TD 525.63  </kdc>
+<tdmsfiletext>
+抄     錄
+
+   59가지 형태 형질 및 glutamate oxaloacetate transaminase (GOT), peroxidase (PER), glucose phosphate isomerase (GPI) 등 3가지 동위효소의 밴드 유형을 이용한 다변량해석 및 주사전자현미경을 이용한 화분 외벽의 표면 무늬 관찰을 통하여, 우리 나라 자생종, 재래종 및 주요 재배종 배나무속 식물 등 51개 분류군들의 분류 체계를 확인하고, 재래배에 대한 기존 분류 체계를 재확인하므로써 배 신품종 육성 및 분류 연구에 기초 자료를 제공키 위하여 수행되었던 본 연구로부터 얻어진 결과는 다음과 같이 요약될 수 있었다. 
+
+I. 형태 형질
+  1. 39가지 질적 형질 중 유과 과형이 9가지로 가장 큰 변이를 보였으며, 서양배형인 중국배나 원형에 가까운 일본배와는 구별되게 우리 나라 재래배들은 다양한 과형을 가지고 있었다.
+
+  2. 엽연 거치는 대부분 분류군들이 세예거치였으나, 논산콩배가 세둔거치였고, 청당로리 백리는 거치 발달이 극히 불량하여 다른 분류군들과 구분되었다. 
+거치상 침 길이는 참배 괴산황배 영목리가 1.5 mm 이상으로 길었고, 산돌배 청당로리 사탕배가 0.5 mm 미만으로 짧았다. 
+
+  3. 참배, 장성청배, 평창수향리 및 신흥의 葉 표면에 밀생한 흰색 털은 늦은 시기까지 잔존하여 이들 분류군들의 동정에 유용한 형질이었다. 
+
+  4. 화경 길이는 논산콩배 울릉청배 참배 산돌배가 3 cm 미만이었고, 화홍 진유가 5 cm 이상이었다. 
+
+  5. 葉 크기는 논산콩배를 제외하면 청당로리 평창수향리 백리가 길이 11 cm, 폭 6 cm 내외로 작았으며, 중국배와 일본배는 대부분 큰 잎을 가지고 있었다. 
+  6. 형태 형질을 이용한 집괴분석에서 51개 분류군들은 유클리드 거리 10.5를 기준으로 할 때 7개 군으로 분류될 수 있었으며, 우리 나라 재래배들은 일본배나 중국배와 동일 군, 또는 독립적인 군을 형성하였다. 
+
+  7. 주성분분석 결과 유과 화기 관련 형질, 엽 크기 털 발생 정도, 엽연 침 발달 정도 등의 형태 형질이 제 1～3 주성분과 높은 상관관계를 나타내어 이들이 배나무속 식물의 분류에 중요한 형질인 것으로 판단되었다. 
+
+  8. 주성분 득점치를 이용한 집괴분석에서 51개 분류군들은 유클리드 거리 2.1을 기준으로 할 때 5개 군으로 분류될 수 있었으며, 우리 나라 재래배들은 일본배나 중국배와 대등한 분류적 관계를 나타내었다.
+
+II. 동위효소분석
+  1. 배나무속 식물로부터 조사된 동위효소 중 GOT, PER, GPI만이 선명한 밴드를 보였으며, 그 중 PER와 GPI는 밴드 유형이 다양하여 배나무속 식물의 동정 및 분류에 유용할 것으로 판단되었다. 
+
+  2. 葉 內 GOT는 5가지 zymotype을 나타내었으며, 대부분의 분류군들은 Rf 0.36과 0.40에서 나타난 하나의 밴드를 각각 가지는 zymotype D와 E를 가지고 있었다. 
+
+  3. 葉 內 PER는 19가지 zymotype으로 구분되었으며, Rf 0.72에서 나타난 밴드는 중국배 팔달 봉리 그리고 금촌추에서만 나타났다.  또한 zymotype E는 우리 나라 재래배에, zymotype Q는 일본배에서만 나타났다. 
+
+  4. 幼果 과피 내 PER는 11가지, 신초 수피 내 PER는 8가지의 zymotype을 나타내었으며, 엽 내 PER보다는 훨씬 적은 수의 밴드를 가지고 있었다. 
+
+  5. 葉 內 GPI는 21가지 zymotype으로 구분되었으며, 우리 나라 재래배들은 zymotype J와 L을, 일본배는 zymotype K를 많이 가지고 있었다. 
+
+  6. 동위효소 밴드 출현 유무를 이용한 집괴분석에서 Jaccard의 유사 계수 0.44를 기준으로 할 때 51개 분류군들은 5개 군으로 분류될 수 있었으며, 형태 형질을 이용한 다변량해석의 결과와는 상이한 점이 있었으나 대략적인 분류적 관계 해석에는 도움을 줄 수 있었다. 
+III.  화분 표면 무늬
+  1. 조사된 21 분류군 중 둥글래배가 융기부 폭과 길이가 대단히 짧고, 분기 횟수가 많은 특이한 무늬를 가지고 있었다.  또한 청실리와 인계배는 크고 많은 표면 구멍을 가지고 있어 이들 간의 깊은 분류적 관계를 확인할 수 있었다. 
+
+  2. 논산콩배와 고당콩배는 형태 형질에서와 같이 표면 무늬에 있어서도 차이를 나타내어, 우리 나라에 자생하는 콩배 내에도 유전적인 변이가 상당할 것으로 추측되었다. 
+
+  3. 참배 해남참배와, 괴산황배 황실리 안동황실리는 서로 다른 표면 무늬를 가지고 있어, 이들은 다른 분류군임을 확인할 수 있었다. 
+
+IV. 우리 나라 배나무속 식물의 종 분류
+  이상의 다변량해석과 동위효소분석 및 화분 표면 무늬 관찰 등의 결과를 종합해 볼 때 본 연구에 공시된 우리 나라 배나무속 식물들은 다음과 같이 분류될 수 있었다.
+
+  1. 청당로리는 과형 엽연 거치 엽 크기 등에서 특이하였고, 형태 형질을 이용한 다변량해석에서도 재래배들과 먼 분류적 관계를 나타내어 P. ussuriensis Maxim.이나 P. pyrifolia Nakai와는 다른 분류군일 것으로 판단되었다. 따라서 이 분류군은 P. fauriei Schneid.와 같은 미지의 기본종과 P. ussuriensis Maxim.내 재배종과의 종간 잡종일 것으로 추정되었다. 
+
+  2. 형태 형질, 동위효소 밴드 유형 및 화분 표면 무늬에서 대단히 유사한 특성을 나타내었던 청실리와 인계배는 P. ussuriensis var. ovoidea Rehd.에 가장 근접한 한 forma일 것으로 판단되었다.   
+
+  3. 엽 크기, 과형, 과색에 있어 청실리와 서로 다른 특성을 나타내었던 거창청실리는 P. ussuriensis var. ovoidea f. dulcissima Uyeki와 동일한 것으로 판단되었다. 
+
+  4. 산돌배는 P. ussuriensis Maxim.와, 참배는 P. ussuriensis var. macrostipes T. Lee와 각각 다른 특성을 나타내었으며, 해남참배가 P. ussuriensis var. macrostipes T. Lee와 동일한 분류군일 것으로 판단되었다. 
+  5. 유사 분류군이었던 황실리와 괴산황배는 각각 P. ussuriensis var. ovoidea f. major Uyeki, f. ovata Uyeki와 동일한 분류군일 것으로 판단되었으나,  안동황실리는 무체종이고, 과형이 난형 내지 광난형으로 그들과 유사한 분류군은 아니었다.
+
+  6. 둥글래배 꿀배, 청서리, 평창수향리, 영목리는 모두 유체종이면서 세예거치연을 가지는 분류군이라는 점에서 이들은 각각 P. ussuriensis Maxim. 내 변종들로 분류될 수 있었다. 그러나 유사 분류군이었던 둥글래배 꿀배는 녹갈색인 난형의 과실 과정부가 융기되어 있는 중대과종의 분류군이었으며, 청서리는 녹갈색인 광난형의 소중과성 분류군이었다. 
+  평창수향리는 황색인 타원형의 중과성 분류군이었고, 영목리는 황갈색의 대과성 분류군이었다. 
+
+  7. 우리 나라 재래배나 중국배와 낮은 분류적 관계를 나타내었던 장성청배, 울릉청배, 횡성청리, 사탕배는 무체종으로서 일본배와 깊은 분류적 관계를 나타내었다.   따라서 이들은 P. pyrifolia var. culta Nakai내의 forma들일 것으로 추정되었다.
+
+  8. 백리는 고려백리인 P. rufa Nakai가 아닌 P. rufa var. Paili Nakai일 것으로 판단되었다. 
+
+주요어: 배나무속 식물, 집괴분석, 주성분분석, 동위효소분석, 다변량해석, 
+        화분 표면 무늬, 분류
+
+
+I. 緖   言  
+  우리 나라에서의 배나무 재배는 적어도 신라 시대까지 소급될 정도로 오랜 역사를 가지고 있는데, 이는 배나무가 명시되어 있는 齊民要術(북위 末年에서 동위 초년 사이, A.D. 530～550년경에 저술)과, 신라의 과실이 모두 중국의 것과 비슷하다는 隋書(7세기 수나라 正史)의 내용으로 미루어 짐작할 수 있다(韓國園藝發達史編纂委員會, 1980).  특히 배나무속 내 대부분 종들은 모두 2배체 염색체를 가지고 있고, 이들 종 간에는 유전적 장벽이 거의 없어 자유로운 종간 교잡이 가능한 것으로 알려져 있다(Lee, 1948; Thompson, 1981; Zielinski와 Thompson, 1967).
+  배나무는 薔薇科(Rosaceae), 배나무亞屬(Pomoideae), 배나무屬(Pyrus)에 속하며, 기본 염색체 수가 n = 17이고, 중국 서부와 남서부 山地가 그 원산지인 喬木 또는 灌木性 식물로서 전세계적으로는 21종의 基本種이 있다(梶浦, 1983; 梶浦, 1984).  이 중 우리 나라에 자생하는 기본종에 대해서는 異見이 있으나 P. calleryana Decne.와 비슷한 특징을 가지지만 우리 나라 특유의 종이면서 2 心室인 P. fauriei Schneid.(Faury 콩배),  5 심실이면서 일본배의 원시종으로서 경상도와 전라도에 주로 자생하는 돌배[P. pyrifolia (Burm. f.) Nakai]와, 제주도를 제외한 전국과 만주 지방에 이르기까지 널리 분포되어 있는 산돌배(P. ussuriensis Maxim.) 등 모두 3종의 기본종이 있다(李, 1985; 中井, 1914; 中井, 1976).   
+  이러한 기본종 외에 야생종으로서 전남 광양의 백운산에 자생하는 백운산배(P. hakunensis Nakai), 경기도 고양군에 자생하는 청위봉배(P. pseudocalleryana Uyeki)와 개위봉배(P. pseudouipongensis Uyeki), 위봉산에 자생하는 위봉배(P. uipongensis Uyeki), 전남 해남의 두륜봉에 자생하는 들배(P. uyematsuana Makino) 등이 있다.  
+  또한 고실네(P. maximowicziana Nakai), 백실네(P. rufa Nakai)를 비롯하여 P. ussuriensis Maxim.으로부터 대부분 유래된 추앙네(또는 취앙네, P. acidula Nakai), 참배(P. macrostipes Nakai), 청실네(P. ovoidea Rehd.), 합실네(P. vilis Nakai)등을 포함한 많은 재배 재래종 배가 있다.  
+  그러나 아직도 많은 재래종 배들에 대해서는 그 기원과 학명이 전혀 밝혀져 있지 못해(韓國園藝發達史編纂委員會, 1980), 同一한 種이면서도 서로 다른 學名을 가지고 있거나, 學名이 다르면서도 동일하거나 비슷한 우리 이름을 가진 것이 있고, 동일한 품종이면서도 재배되는 지역의 산지 명을 배나무 이름으로 표기하고 있어 분류 상의 混亂을 주고 있다. 
+  이와 같이 우리 나라의 자생종 및 재래종 배나무屬 식물에 대한 분류가 다소 미비한 채로 남아 있는 이유는 우리 나라 배나무屬 식물에 대한 분류가 대부분 일본의 식물 분류학자인 中井, 植木 등에 의하여 이루어졌을 뿐 아니라 일본의 敗戰과 더불어 그 방면의 연구가 단절된 채 이렇다 할 진전 없이 오늘에 이르게 되었기 때문이라고 생각된다. 더욱이 1901년에서 1910년 사이에 일본의 農業移民이 들어오게 되고, 纛島園藝模範場이 설치되어 長十郞 明月 今村秋 등을 위시한 동양배와 서양배 등 11품종의 재배종 배나무가 도입되게 됨으로써(韓國園藝發達史編纂委員會, 1980) 우리 나라 고유의 재래종들은 재배적 경제적 가치를 잃어 하나 둘씩 자취를 감추게 되었으리라 짐작할 수 있다. 
+  이러한 상황 속에서도 우리 나라의 몇몇 식물원에 몇몇 종이 보존되어 있고 (韓國植物園聯合會, 1991), 더욱이 70년대 후반기 이후에 들어와 농촌진흥청 과수연구소에서 전국적인 자생 및 재래종 배나무屬 식물들에 대한 대대적인 유전자원 수집이 이루어진 것(김 등, 1978; 김과 김, 1977; 문과 신, 1980; 신 등, 1986; 任 등, 1982)은 우리 나라의 기후, 풍토에 알맞는 신품종 및 왜화성 대목 육종을 위한 육종 소재의 확보와 소멸되어 가는 재래종 배나무들의 수집이라는 측면에서 대단히 값어치 있는 일이었지만 이들에 대한 정확한 분류 작업은 아직 이루어지지 못하고 있다. 
+  따라서 본 연구는 우리 나라의 自生種 在來種 및 主要 栽培種 배나무屬 식물들을 대상으로 그들 간의 分類的 關係를 밝히고, 在來種 배나무들에 대한 기존의 分類 體系를 재확인하여 앞으로의 배나무 육종 및 분류 연구에 기초 자료를 제공하고자 다음과 같은 一連의 실험을 遂行하였다.  첫째, 形態 形質을 이용한 집괴분석 및 주성분분석을 이용한 多變量解析을 실시하여 배나무屬 식물들 간의 분류적 관계를 밝히며, 둘째, 葉 新梢 樹皮 및 幼果 果皮 內 몇 가지  同位酵素들의 澱粉 겔 電氣泳動的 밴드 유형 분석 및 집괴분석을 통하여 분류군들을 동정 및 분류하고자 하였다. 또한 우리 나라 재래배에 대한 화분 표면 무늬 상 차이를 주사전자현미경으로 조사하여 형태 형질 및 동위효소분석에 의한 유사 분류군들의 분류적 관계 해석에 참고 자료로 활용하고자 하였다.
+
+II. 硏  究  史 
+
+1. 배나무屬 식물의 進化 및 地理的 分布 
+  배나무는 薔薇科(Rosaceae), 배나무亞科(Pomoideae), 배나무屬(Pyrus)에 속하는 落葉 喬木 또는 灌木性 식물로서 배나무아과(Pomoideae, n = 17)는 앵두나무아과(Prunoideae)의 원시형(n = 8)과 조팝나무아과(Spiraeoideae)의 원시형(n = 9) 간의 이질배수체에 의해 생겨난 것으로 推定되고 있다(Challice와 Williams, 1968; Challice, 1974; Sax, 1931; Sax, 1933; Zielinski와 Thompson, 1967).  또한 배나무아과에는 배나무屬 외에도 사과나무속(Malus), 비파속(Eriobotrya), 명자나무속(Chaenomeles) 등이 포함되어 있다. 
+  이러한 배나무속 식물들은 지리적 고립이나 적응 및 종간 교잡 등과 같은 종분화 과정을 거쳐 진화해 왔는데(Bell과 Hough, 1986), Rehder(1949)는 전세계적으로 27 種, 14 變種, 3 forma의 배나무屬 식물이 존재한다고 보고한 바 있다.  그러나 Challice와 Westwood(1973)는 Rehder가 기재한 배나무속 식물의 형태 형질 및 엽 내 phenol 화합물 조성 上 차이에 기초하여, 배나무屬 식물로는 현재 전세계적으로 21종의 기본종이 있으며, 이들은 대략 3개 군으로 분류될 수 있다고 하였다.  梶浦(1983, 1984)는 이 결과를 다소 개정하여 2 심실인 Pyrus calleryana Decne., P. fauriei Schneid. 등이 포함된 아시아産 콩배나무류와 5심실인 P. ussuriensis Maxim., P. pyrifolia Nakai 등이 포함된 아시아産 大果種 그리고 地中海 沿岸 種의 3개 군으로 대별하고, 지중해 연안 종은 다시 서아시아 종 북아프리카 종 그리고 P. communis L.이 포함되어 있는 유럽 종의 3개 小群으로 나누었다.  
+   한편 Rubtsov(1944)에 의해 배나무속 식물의 원산지에 대한 조사가 이루어졌는데, 그는 배나무屬 식물의 發祥地를 중국 서부와 남서부 山地라고 보고하였고, Vavilov(1951)는 배나무 재배종의 2차 중심지로서 첫째, P. pyrifolia P. ussuriensis가 생육하는 중국 중심지, 둘째, P. communis가 P. heterophylla P. boisseriana P. korshinsky와 교잡하여 2차 중심지를 이루고 있는 구소련의 Tadzhik공화국 Uzbeck공화국 인도 아프카니스탄 天山서부를 포함하는 중앙아시아 중심지, 셋째, P. communis의 재배종이 자라고 있는 Cocasus산맥과 소아시아의 近東 중심지 등 3 지역을 들고 있다.  현존하는 배나무屬 식물의 야생종은 서아시아 발상지를 중심으로 서쪽으로는 지중해를 중심으로 한 유럽 동부 서부 남부와 중근동의 지중해 연안으로부터 북아프리카에 이르기까지 분포하고, 동으로는 중국 대만 한반도 일본에 걸쳐 분포하고 있다(梶浦, 1984). 
+
+2. 우리 나라의 배나무屬 식물
+   2.1 基本種
+  우리 나라에 자생하는 배나무속 식물의 기본종들에 대한 최초의 조사 보고는 1873년  Maximowicz가 일본 및 만주의 배나무屬 식물에 대하여 기술하면서 우리 나라産의 것으로서 P. sinensis(지금의 P. ussuriensis Maxim.과 동일함)를 보고한 것이다(中井, 1976). 그 후 Schneider(1906)는 우리 나라 산 배나무屬 식물로서 P. sinensis(Syn. P. ussuriensis), P. calleryana Decne., P. fauriei Schneid. 3종을 보고하였다.  1915년에는 中井가 지리산 식물 조사 보고서에서 P. montana Nakai를 보고함으로써 우리 나라에 자생하는 3종의 기본종들이 세상에 알려지게 되었다(中井, 1976). 
+  그러나 P. calleryana Decne.가 우리 나라에 야생하는 또다른 한 기본종인지, 그리고 P. fauriei Schneid.가 P. calleryana Decne.의 한 변종(P. calleryana var. fauriei Schneid.)인지 아니면 독립된 종인지에 대해서는 학자들 간에 다소의 異見이 있다.  즉, 中井(1914, 1976)는 朝鮮森林植物編에서 비록 그 자신도 P. fauriei가 P. calleryana에 대해 독립된 종인지에 대해서 단언치 못하고 있지만, P. calleryana Decne.와 P. fauriei Schneid.를 別個의 種으로 기재하고 있다. 반면, Rehder(1915, 1949)는 P. fauriei Schneid.를 P. calleryana var. fauriei Rehd.로 기재하고 있다.  Rehder의 이같은 견해는 李(1985), Dirr(1990),  Haserodt와 Sydnor(1983) 등의 기재 내용에서도 찾아 볼 수 있다. 또한 植木(1921)는 그의 조사 내용과 中井(1976)의 조사 내용을 비교한 후 Faury 콩배는 Callery 콩배의 한 變種에 지나지 않는다고 기술하고 있다. 즉, 그는 중국 콩배의 수고가 2 m를 넘는데 반해, 우리 나라의 것은 수고가 낮았던 이유에서 우리 나라의 콩배를 P. calleryana var. minor (Nakai) Uyeki로 명명하였고, P. fauriei Schneid.와 P. fauriei var. major Nakai, P. calleryana var. fauriei Nakai는 동일 종이라고 보고하였다. 
+  그러나 Zielinski는 Reimer가 1917년 우리 나라로부터 채집하여 갔던 단일 표본에 기초하여 P. fauriei Schneid.는 P. calleryana Decne.의 변종이 아닌 하나의 독립된 종이라고 보고하고 있으며, 특히 Westwood(1968)는 1963년 우리 나라로부터 채집하였던 P. fauriei의 종자들로부터 획득된 실생 집단에 대한 주요 형질들의 관찰을 통하여 Zielinski의 보고 내용에 대한 일부 수정과 함께 P. fauriei를 하나의 독립된 종이라고 서술하고 있다. 또한 Santamour와 McArdle(1983)도 우리 나라 콩배가 단순한 P. calleryana라는 李(1976)의 주장을 배격하고, Westwood(1968)의 주장을 지지하여, Faury 콩배를 하나의 독립된 종인 P. fauriei로 기재하고 있다. 특히 Challice와 Williams(1968)는 paper chromatography에 의한 葉 內 phenol 化合物 組成 上 差異를 Rehder(1949)가 기재한 배나무屬 식물에 대하여 광범위하게 연구한 결과, Callery 콩배의 엽 추출물에서 나타났던 calleryanin과 flavone glycoside가 Faury 콩배에서는 나타나지 않음을 관찰하고, 이들 種의 相互關係에 대한 Westwood의 견해를 지지한 바 있다.  이와 같이 이들 보고들을 종합해 볼 때 P. fauriei Schneid.는 P. calleryana Decne.의 변종이 아닌 하나의 독립된 종일 가능성이 대단히 높다 하겠다.   
+
+   2.2 野生種 및 在來배
+  우리 나라에는 이들 기본종 외에도 P. ussuriensis Maxim.으로부터 대부분 유래된 재래배와 야생종이 존재한다.  이들 재래종과 야생종에 대한 가장 세밀한 조사 보고는 植木(1921, 1936)와 中井(1914, 1935a, 1935b, 1976)에 의하여 이루어졌다.  
+  植木(1921)는 P. montana와 P. montana var. culta에 대한 中井(1976)나 Rehder(1915)의 조사 내용을 비교 분석하였다. 또한 P. ussuriensis Maxim. 내의 재래배인 산돌배, 長肥梨, 秋梨, 平梨, 靑實네, 黃梨, 문배, 長문배, 半黃梨, 甁배, 澁梨 등을 상세하게 기술하고 있는데, 이들 대부분은 수원 및 華山지역 내의 배나무屬 식물의 조사 보고(植木, 1936)에서도 나타나고 있다.  
+  더욱이 Uyeki(1925)는 우리 나라에 야생하는 몇 가지 變種을 추가로 보고하였는데, 여기에는 P. uipongensis, P. pseudouipongensis, P. pseudocalleryana, P. pseudocalleryana f. obovoidea 그리고 P. ussuriensis var. diamantica가 新種으로 기재되어져 있다. 
+  또한 中井(1976)는 우리 나라에 자생 또는 재배되는 배나무屬 식물로서 P. calleryana, P. fauriei, P. ussuriensis, P. maximowicziana, P. macrostipes, P. montana, P. vilis, P. ovoidea, P. acidula 등을 記載하고 있다.  1935년에는 전남 광양 백운산에 자생하는 P. hakunensis, 경남 남해 용문사에 자생하는 P. nankaiensis, 미국인 Reimer가 경기도의 한 臺木 圃場에서 採集한 것을 그가 기재한 P. reimeri, 중국의 白梨나 일본의 耕之渡와 비슷하나 약간의 차이가 있는 종으로서 수원 華山과 청량리에 야생하는 P. rufa, 산돌배와 비슷하나 꽃이 크며 서울 청량리에 야생하는 P. seoulensis 등을 추가로 기재였다(中井, 1935). 이 외에도 Rehder(1915)와 上原(1971)가 일본 중부에도 자생한다는 P. uyematsuana Makino가 보고되어 있다(李와 安, 1963).  
+  한편 1923년 勸業模範場의 內山(1923)는 함경 남북도 평안 남북도 경기도 강원도 경상남도 등지에서 수집되어 勸業模範場에 재식되어 있던 우리 나라 재래배의 겨울 기간 중 가지에 대한 몇 가지 형질의 조사 보고에서, 우리 나라 재래종 배로서 過冬梨 林檎梨 靑實梨 甁배 합실네 돌배 天雪梨 靑堂梨 文錢梨 靑砂梨 水鄕梨 古砂梨 馬糞梨 奉化梨 靑梨 靑堂露梨 石梨 참배 棗梨등 21種 또는 品種을 열거하고 있는데, 이들 중 많은 것들은 植木(1921, 1936)가 보고하지 않았던 재래배들이다. 이들 재래배들 중 황실리 병배 청리 고사리 함흥리 합실리 봉화리 등은 우량 품종으로, 청당로리는 왜화성 대목으로 이용 가능한 품종인 것으로 보고되어 있다 (朝鮮總督府 農事試驗場, 1931). 
+  이상의 조사 보고 내용과 우리 나라 자생 또는 재래종 배에 대해 기재하고 있는 식물도감의 내용을 종합해 볼 때(표 1), 우리 나라에는 적어도 10種, 17變種, 10 forma가 存在하였다는 것을 알 수 있으며, 이 외에도 학명이 아직 밝혀지지 않은 것들로는 대략 30여 종의 배나무屬 식물이 있다.  
+
+
+
+
+
+
+
+Table 1. List of wild and native Pyrus species in Korea. 
+----------------------------------------------------------------------------------------------------
+Scientific name Korean name  Origin or 
+                                                       collected site 
+----------------------------------------------------------------------------------------------------
+Wild species 
+P. fauriei Schneid. Chomdolbae South districts of            
+ (Syn. P. calleryana var. minor (Nakai) Uyeki, Hwanghae-do
+  P. fauriei var. major Nakai, 
+  P. calleryana var. fauriei Nakai) 
+P. uipongensis Uyeki Wibongbae Mt. Wibong, Wanju
+P. pseudocalleryana Uyeki Cheongwibongbae Koyang, Kyeonggi-do
+   f. obovoidea Uyeki  Koyang, Kyeonggi-do
+P. pseudouipongensis Uyeki Kaewibongbae Koyang, Kyeonggi-do
+P. uyematsuana Makino Teulbae Turyun Peak, Haenam
+P. pyrifolia Nakai Tolbaenamu Central-southern districts
+ (Syn. P. montana Nakai, P. serotina Rehd.)
+   var. longipes Nakai ex Kawamoto Kkokchidolbae Kyeonggi-do
+
+Native species 
+P. maximowicziana Nakai Koshilne Mt. Kwaneum, Wando
+ (Syn. P. prematura Nakai)                                                
+P. rufa Nakai Koryeopaekri Kyeonggi-do, Seoul
+P. ussuriensis Maxim. Sandolbae Whole country 
+  except Cheju-do 
+   var. Chongkwaton Uyeki Cheongkwadong Pyeongyang
+   var. Pyonbe Uyeki Pyeongbae Suwon     
+   var. acidula T. Lee Chwiangne Pyeongyang
+    (Syn. P. acidula Nakai)   
+   var. diamantica Uyeki Keumgangsandolbae Mt. Keumkang   
+   var. fusca Uyeki Hwangshilne Suwon
+   var. hakunensis T. Lee Paekunsanbae Mt. Paekun, Kwangyang
+    (Syn. P. hakunensis Nakai)
+   var. macrostipes T. Lee Chambae Central-northern districts
+    (Syn. P. macrostipes Nakai)
+   var. maliformis Uyeki Munbae
+        f. austera Uyeki Seupri
+        f. Panfanli Uyeki Panhwangri Suwon    
+        f. Scleropoma Uyeki Munbae(Kyeonri) Suwon     
+   var. nankaiensis T. Lee Namhaebae Yongmun Temple, Namhae
+    (Syn. P. nankaiensis Nakai)
+   var. ovoidea Rehd. Cheongshilne Central-southern districts
+    (Syn. P. ovoidea Rehd.)
+        f. dulcissima Uyeki Hwangri(Oblate type) Pyeongyang
+        f. major Uyeki Hwangri
+        f. ovata Uyeki Hwangri(Ovate type) Pyeongyang
+   var. pubescens Nakai Teolsandolbae
+----------------------------------------------------------------------------------------------------
+                                       (Continued)
+Table 1. List of wild and native Pyrus species in Korea (continued).
+----------------------------------------------------------------------------------------------------
+Scientific name Korean name Origin or 
+                                          collected site 
+----------------------------------------------------------------------------------------------------
+P. ussuriensis        
+   var. pyriformis Uyeki Changmunbae Suwon     
+   var. seoulensis T. Lee Munbae(Wangdolbae) Seoul      
+    (Syn. P. seoulensis Nakai)
+   var. scabra Uyeki Hwangjuri
+   var. typica Uyeki Tolbae(Imkeumli)
+        f. Ringli Uyeki Pyeongri Manchuria
+        f. Shampali Uyeki Changbiri Manchuria
+        f. Shuli Uyeki Churi Manchuria
+   var. viridis T. Lee  Hwapshilne(Punshilne)
+        (Syn. P. vilis Nakai) 
+
+Unknown 
+P. reimeri Nakai Taeguri                                 
+
+Unidentified species
+ Kosari Hamkyeongnam-do
+ Kwadongri
+ Keumbonsaengri Kyeonggi-do 
+ Keumsaekri Kangwon-do
+ Keumsaengri Kyeonggi-do
+ Keumhwari Kangwon-do
+ Kkulbae 
+ Tunggeullaebae                                                                         Mabunri                                  
+ Munjeonri                               
+ Ponghwari
+ Punri                
+ Satangbae
+ Sangsaengri
+ Seokkal                                
+ Seokri  
+ Suhyangri Kangwon-do
+ Yeongmokri                                
+ Ingyebae
+ Chori   
+ Chinri Kyeonggi-do
+ Cheonseolli                               
+ Cheongdangrori
+ Cheongdangri                              
+ Cheongri Kangwon-do
+ Cheongri Kyeonggi-do
+ Cheongsari                               
+ Cheongseori                               
+ Cheongsuri
+ Cheongweonri Kyeonggi-do
+ Chusaengri Kyeonggi-do
+ Hamheungri
+ Hwangjinri Kyeonggi-do
+----------------------------------------------------------------------------------------------------
+3. 배나무屬 식물의 分類 硏究 
+   3.1 形態 形質에 의한 分類
+  배나무屬 식물에 대한 분류는 19세기 末頃부터 시작된 듯한데 이때에는 주로 체와부 상의 악편 잔존 유무 및 엽연 상의 거치 형태 등과 같은 형태 형질에 기초하여 분류하고자 하였다(菊池, 1924).    
+  1890년에 Koehne는 체와부 상의 악편 잔존 유무에 따라 배나무屬 식물을 유체종(Achras)과 무체종(Pashia)의 2개 節로 나누고자 하였다(北村와 村田, 1980; 植木, 1921).  그러나 이 대략적인 분류 방법은 동일 나무 내의 과실에 있어서도 악편이 있는 것과 없는 것이 共存하는 문제점을 가지고 있긴 하지만, 대체적으로 가장 편리한 구별 방법으로서 지금까지도 대부분 학자들(堀內 등, 1991; Lee, 1948; 中井, 1976; 兪, 1974)이 이 방법을 사용하여 種 檢索表를 작성하고 있다.   
+  그러나 최근 Terpo (1985)는 위의 두 가지 절 외에 Pontica節을 하나 더 추가하여 배나무屬 식물을 모두 3節로 나누어 사용하고 있다.  즉 Pyrus屬을 Pyrus節(Syn. Achras節) Pontica節 Pashia節로 나누고, Pontica節은 Pontica亞節(Syn. Argyromalon亞節) Xeropyenia亞節 그리고 P. ussuriensis가 포함된 Mongolica亞節(Syn. Sinensis亞節)로, Pashia節은 Aromoricana亞節 P. pyrifolia와 P. uyematsuana가 포함된 Pyrifolia亞節로 분류하였다. 따라서 이들은 분류의 가장 기본이 되는 악편 殘存 與否, 鋸齒 모양, 과실 크기 등과 같은 형태 형질에 의하여 배나무屬 식물의 分類 體系를 세웠던 것이다.  
+
+  3.2 二次 代謝物質에 의한 分類
+  소수 형태 형질을 이용한 인위적 분류 방식 외에도 수체 내 2차 대사 물질의 존재 유무를 종합적으로 이용하여 배나무속 식물의 분류를 시도한 예도 있다.    
+  Catlin과 Olsson(1966)은 서양배 재배에 큰 피해를 주는 pear decline에 抵抗性을 나타내는 臺木 判定 手段을 찾고, 기존의 엽 형태 형질에 의한 불확실성을 해결하고자 P. communis, P. serotina, P. ussuriensis, P. calleryana, P. betulaefolia 등의 대목으로부터 발생된 가지 상의 잎과 대목의 主幹 및 뿌리의 樹皮 組織 내 phenol 화합물의 組成을 paper chromatography로 분석하였다.  
+실험 결과 특정 종에만 특이하게 나타나는 phenol 화합물 종류를 관찰하였으며, 수피보다는 葉이 더 좋은 재료로 이용될 수 있음을 보고하였다. 
+  Challice와 Williams(1968)는 paper chromatography를 이용하여 장미과 내 다양한 屬에 속하는 197종의 엽 내 phenol 화합물의 광범위한 조사에서, 특정 종이나 분류학적 분류적 관계가 깊은 군 간에만 특이하게 나타나는 화합물 존재 유무를 이용하여 장미과 내의 여러 屬들 간의 관계를 밝히고, 배나무屬이 앵두나무아과(n = 8)와 조팝나무아과(n = 9)의 원시형들 간의 이질배수체에 의해 진화되었음을 제시한 바 있다. 
+  더욱이 Challice와 Westwood(1973)는 Rehder의 저서(1949)에 기재된 배나무속 식물에 대한 형태 형질 및 엽 내 flavonoid 조성 차이에 기초한 다변량해석으로, 전세계적으로는 21종의 배나무 기본종이 존재한다는 사실을 밝힘과 동시에 이들 기본종에 대한 계통수를 작성한 바 있다. 더욱이 이들 기본종은 크게 P. calleryana Decne.로 대표되는 아시아 콩배 군, P. pyrifolia로 대표되는 아시아 산 대과종 군, 유럽 종  서아시아 종 북아프리카 종 등이 포함되는 지중해 연안 종 군이라는 3개의 큰 군으로 분류될 수 있다고 하였다. 
+  梶浦 등(1983)은 대륙 산 20종과 일본 산 142품종에 대하여 2차원 paper chromatography에 의하여 엽 내 phenol 성분을 분석하였다. 그 결과 모두 32가지 spot을 얻었으며, 그들 중 14개 spot들이 특정 종에만 존재하는 것이라고 추정하였다. 이 중에서도 7개 spot가 중국의 P. ussuriensis, P. bretschneideri, P. dimorphophylla 및 그 외의 재배 품종을 구분할 수 있는 것이라고 하였다.  
+  Kajiura 등(1983)은 일본 내 배 품종들의 분류적 관계와 지리적 분화 관계를 밝힐 목적으로 31종, 171 아시아 산 배 품종 및 몇 가지 야생종의 엽 내 flavonoid를 paper chromatography로 분석하였다. 그 결과 P. ussuriensis Maxim., P. aromatica Nakai et Kikuchi에 특이하게 나타나는 flavonol aglycone이 일본의 일부 재래배들과 P. lasiogyna var. lanuginosa Nakai에 속하는 이십세기에서도 나타남을 보고한 바 있다. 따라서 그들은 이십세기가 종간 교잡을 통하여 P. aromatica의 유전적 특성 일부를 가지고 있는 것으로 추정하였다. 
+  또한 梶浦 등(1979)은 일본 재배 품종의 起源과 그 變遷을 명확히 할 목적으로 東洋 産 배나무屬 야생종 및 재배종 79품종의 과실 내에 함유되어 있는 果糖, 葡萄糖, 솔비톨, 蔗糖 등의 糖類에 대한 gas chromatography 분석을 통하여 과실 내 당 조성과 지리적 분포 간의 관계를 主成分分析에 의해 밝힌 바 있다.
+   3.3 同位酵素 및 DNA 分析에 의한 分類
+  동위효소분석은 다양한 생물들의 품종 동정, genome 동정 및 식물 분류군  동정을 위해 광범위하게 활용되어 왔다(Peirce와 Brewbaker, 1973). 동위효소의 이와 같은 광범위한 활용도는 동위효소가 환경적 영향을 받는 형태 형질이나 생합성 과정 중 유전자 조절을 받는 2차 대사 물질과는 달리 특정 polypeptide를 coding하고 있는 구조 유전자의 1차 생산물로서 유전적 차이의 직접적인 결과라는 사실에 있다고 하였다(Crawford, 1983).  
+  이와 같은 동위효소분석을 이용하여 張 등(1990, 1991)은 중국, 일본, 우리 나라 등지의 동양배 21種 또는 品種의 成葉 및 花芽 內 peroxidase 동위효소 밴드 유형을 polyacrylamide 겔 전기영동법으로 분석한 결과, 葉 및 花芽 內 peroxidase 동위효소의 밴드 유형에 의해 각각 4개 군으로 분류할 수 있었으며, 種 또는 品種 동정에 花芽 조직보다는 成葉 조직의 이용으로부터 더 좋은 결과를 얻을 수 있다고 보고하였다.  그러나 peroxidase 동위효소만으로는 이십세기와 그것의  芽條變異 품종인 おさ이십세기를 구분할 수 없어 앞으로의 계속적인 연구가 있어야 함을 지적하였다. 
+  Santamour와 Demuth(1980)는 전분 겔 전기영동법을 이용하여 P. calleryana Decne. 種 內 6품종의 엽과 形成層으로부터 peroxidase 동위효소를 분석한 결과 음극 쪽으로 10개, 양극 쪽으로 5개 밴드를 얻었으며, 이 두 가지 조직으로부터의 밴드 유형은 품종 간에 아주 상이하다고 하였다.  따라서 그들은 peroxidase 동위효소만으로도 이들 6품종을 동정해 낼 수 있다고 보고하였다.   
+  Menendez와 Daley(1986)는 34 種 또는 系統을 同定하기 위하여 gradient polyacrylamide 겔 전기영동법으로 신초 내 peroxidase, esterase 그리고 acid phosphatase 등의 동위효소를 분석한 결과 아주 선명한 밴드를 얻은 바 있다.  
+  더욱이 최근 일본에서는 DNA 지문법에 의한 배나무 품종의 식별이 시도되고 있고(寺本, 1992), 중국에서는 蒲 등에 의하여 중국의 배나무屬 식물에 대한 핵형 분석으로 그들 간의 進化圖가 작성된 바 있다(米와 眞田, 1990). 
+
+
+
+
+   3.4 花粉 表面 무늬 觀察에 의한 分類
+  최근에 들어와서는 走査電子顯微鏡(SEM)을 이용한 花粉 표면 무늬 등 극미세 구조상의 차이 관찰과 같은 새로운 방법을 이용하여 분류를 시도하고 있는 예들도 있다.  
+  Stanley와 Linskens(1974)는 화분 표면 무늬는 유전적으로 안정되어 있기 때문에 種 同定을 위해 사용될 수 있다고 하였으며, 이(1986)는 화분의 형태 및 외벽의 층상 구조가 기존의 식물 분류 체계 상의 오류를 수정하는데 유용한 수단이 될 수 있다고 언급하였다. 이와 같이 SEM을 이용한 화분 표면 무늬 조사를 통하여 沈 등은 배나무속 식물의 화분 발아구는 三孔溝形(tricolporate)이고, 그 층상 구조는 流線狀(striate)이었음을 보고하였으며(沈 등, 1988), 더욱이 우리 나라에서 육성된 몇 가지 배 신품종들과 그들 양친들의 표면 무늬 상의 유사성을 관찰한 바 있다(沈 등, 1990). 
+  Westwood와 Challice(1978)는 18종의 배나무屬 식물을 재료로 花粉 및 葯 표면 무늬 상 차이를 SEM으로 관찰한 결과 화분 크기, 모양 그리고 화분, 약 표면 무늬 상 차이를 종합적으로 이용하여 개개 종을 구분할 수 있다고 보고함으로써 이 방법이 배나무屬 식물의 분류, 동정에 이용될 수 있음을 시사하였다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III. 材料 및 方法
+
+1. 形態 形質에 의한 分類
+   1.1 供試 材料 
+  본 시험은 우리 나라 야생종, 재래종 및 중국배와 일본배 등 모두 51개 분류군(표 2)을 供試하여 수행되었으며, 이들은 모두 농촌진흥청 과수연구소와 서울대학교 농업생명과학대학 附屬 과수원에 재식되어 있는 것들이었다. 특히 우리 나라 야생종과 재래종 배들은 농촌진흥청 과수연구소에서 왜화성 대목의 탐색과 재래배 수집을 목적으로 1977년부터 1983년까지 전국에서 수집된 것들이었다.
+
+   1.2 調査 方法
+  51개 분류군에서 花器에 관한 형태 형질 24가지, 幼果에 대한 형질 13가지, 葉에 관한 것 19가지, 그리고 신초 및 가지에 대한 형질 3가지를 포함하여 종합 59개 형태 형질을 조사하였는데(표 3), 이 중 질적 형질은 39가지, 양적 형질은 20가지였으며, 그들에 대한 조사 방법은 다음과 같았다.  
+  花型(형질 1)은 화판 수가 기본 5매인 것을 홑꽃(1)으로, 5매보다 많은 것은 반겹꽃(2)으로 나타내었으며, 형질 2와 9는 花柱 基部의 털 발생 정도와 그 색을 표시하였다.  
+  형질 12~14는 花柱 기부 및 花筒의 상부가 맞물려 융합된 부위인 花盤 색 및 깊이를 조사한 것이며, 형질 18 19(그림 1)는 梗窪部와 체와부가 隆起되었는가(impressed), 扁平한가(compressed) 또는 陷入되었는가(depressed)로 구분하였다. 특히 본 연구에서는 유과의 과실 형질이 조사되었는데, 이는 공시된 분류군들의 숙기가 서로 달라 동시 비교가 불가능하였기 때문에 유과 時의 형질을 조사함으로써 그러한 문제를 해결하고자 하였다.  
+  형질 32와 33은 각각 葉緣 鋸齒 上에 발달된 바늘 모양인 針 길이와 거치 높낮이를 조사한 것이며, 형질 37은 오래된 가지의 가시 존재 유무를 조사한 것이다.  그 외 형태 형질의 상태(state) 표현과 용어 사용을 위해서는 Vascular Plant Systematics(Radford 등, 1974)를 참고하였다.  
+
+Table 2. List and parentage of taxa used in this study.
+-----------------------------------------------------------------------------------------
+No. Taxon                        Parentagez      
+-----------------------------------------------------------------------------------------
+ 1. Pea pear, Nonsanz P. fauriei Schneid.
+ 2. Sandolbae ? P. ussuriensis Maxim.
+ 3. Chambae ? P. ussuriensis var. macrostipes T. Lee
+ 4. Cheongbae, Changseong Unknown
+ 5. Cheongbae, Ulleung Unknown
+ 6. Cheongri, Hoengseong Unknown
+ 7. Cheongshilli, Keochang Unknown
+ 8. Cheongshilli ? P. ussuriensis var. ovoidea Rehder
+ 9. Cheongseori Unknown
+10. Cheongdangrori Unknown                                             
+11. Dunggeullaebae Unknown                                            
+12. Kkulbae Unknown
+13. Hwangbae, Koesan Unknown
+14. Hwangshilli, Andong Unknown
+15. Hwangshilli Unknown 
+16. Suhyangri, Pyeongchang Unknown
+17. Satangbae Unknown
+18. Yeongmokri Unknown
+19. Ingyebae Unknown 
+20. Baili ? P. bretschneideri Rehder 
+21. Jokoku Unknown 
+22. Tsuli P. bretschneideri Rehder cv. Tsuli
+23. Yali P. bretschneideri Rehder cv. Yali
+24. Shinchu Open pollinated seedling                                                     
+25. Chojuro Chance seedling
+26. Imamuraaki Chance seedling                                                     
+27. Okusankichi Open pollinated seedling of Wasesankichi                                     
+28. Choju Asahi (Nijisseiki×Chojuro)×Kimizukawase (Shinkozo×Doitsu)      
+29. Hakataao Unknown                                                             
+30. Kumoi Ishiiwase (Nijisseiki×Doitsu)×Yakumo (Akappo×Nijisseiki)        
+31. Matsushima Shinchu×Imamuraaki                                                
+32. Sagami Nijisseiki×Taihaku                                                 
+33. Seigyoku Nijisseiki×Chojuro                                                 
+34. Shinsetsu Okusankichi×Imamuraaki                                            
+35. Taihei Unknown                                                             
+36. Tosa Unknown
+37. Shinsui Kikusui (Taihaku×Nijisseiki)×Kimizukawase (Shinkozo×Doitsu)     
+38. Kosui Kikusui(Taihaku×Nijisseiki)×Wasekozo                             
+39. Hosui Ri-14 [Kikusui (Taihaku×Nijisseiki)×Yakumo]×Yakumo              
+40. Niitaka Amanogawa×Imamuraaki                                              
+41. Shinko A seedling of Nijisseiki
+42. Hori Yali×Nijisseiki
+43. Shichiho Tsuli×Nijisseiki
+44. Kobi Nijisseiki×Honli
+45. Hattatsu Yali×Nijisseiki
+46. Kako Nijisseiki×Yali
+47. Senken Yali×Nijisseiki                                                    
+48. Kamiri Unknown
+49. Tanbae Chojuro×Cheongshilli                                                
+50. Hwangkeumbae Niitaka (Amanogawa×Imamuraaki)×Nijisseiki                        
+51. Yeongsanbae Niitaka (Amanogawa×Imamuraaki)×Danbae (Chojuro×Cheongshilli)      
+-----------------------------------------------------------------------------------------
+zLocality names after comma are the collected locality of each taxon.
+
+Table 3. List of 59 morphological characters and their states or values for
+         multivariate analyses of 51 taxa in genus Pyrus. 
+----------------------------------------------------------------------------------------------------
+No.  Character                                Character state or value
+----------------------------------------------------------------------------------------------------
+                               Qualitative characters         
+ 1. Flower type (1)single, (2)semi-double
+ 2. Hair on style (1)glabrous, (2)slightly pubescent, (3)moderately pubescent 
+ 3. Hair on pedicel, proximal part (1)glabrous, (2)slightly pubescent, (3)moderately pubescent,
+ (4)heavily pubescent, (5)tomentose                            
+ 4. Hair on pedicel, distal part (1)glabrous, (2)slightly pubescent, (3)moderately pubescent,
+ (4)heavily pubescent, (5)tomentose                            
+ 5. Hair on sepal, ventral surface (1)partially tomentose, (2)tomentose
+ 6. Hair on sepal, dorsal surface (1)glabrous, (2)slightly pubescent, (3)heavily pubescent
+ 7. Hair on receptacle (1)glabrous, (2)slightly pubescent, (3)moderately pubescent,
+ (4)heavily pubescent                            
+ 8. Color of anther (1)pinkish white, (2)pink, (3)purple, (4)dark purple
+ 9. Color of style (1)green, (2)purple
+10. Color of petal, apex (1)white, (2)pink 
+11. Color of petal, foundation (1)white, (2)pinkish white, 
+12. Color of flower disk, surface (1)green, (2)yellow green, (3)purple
+13. Color of flower disk, perianth (1)green, (2)purple
+14. Depth of flower disk (1)flatten, (2)< 0.5, (3)0.5 ～ 1, (4)> 1 mm 
+15. Young fruit shape (1)oblate, (2)circular, (3)widely elliptic, (4)elliptic, 
+ (5)widely ovate, (6)ovate, (7)widely obovate, 
+ (8)obovate, (9)pyriform 
+16. Glossiness of young fruit skin (1)dull, (2)slightly shining, (3)shining, (4)glossy 
+17. Lenticel on young fruit skin (1)very sparse, (2)sparse, (3)slightly dense, (4)dense
+18. Shape of stem end (young fruit) (1)depressed, (2)compressed, (3)impressed
+19. Shape of calyx end (young fruit) (1)compressed, (2)impressed    
+20. Hair on peduncle (young fruit) (1)glabrous, (2)slightly pubescent, (3)moderately pubescent 
+21. Color of young fruit peduncle (1)green, (2)light green, (3)yellowish green, (4)brownish green
+22. Color of young fruit skin (1)dark green, (2)light green, (3)brownish green, (4)brown
+23. Leaf shape (1)elliptic (2)elliptic to ovate (3)ovate
+24. Leaf apex (1)caudately acuminate, (2)acuminate, (3)acuminate to acute,
+ (4)acuminate to cuspidate, (5)acute
+25. Leaf base (1)acute, (2)acute to rounded, (3)rounded,   
+ (4)rounded to subcordate, (5)subcordate
+26. Leaf margin (1)crenulate, (2)setosely serrate, (3)aculeately serrate
+27. Hair on leaf, ventral surface (1)glabrous, (2) slightly pubescent, (3)moderately pubescent,
+ (4)heavily pubescent, (5)tomentose
+28. Hair on leaf, dorsal surface (1)glabrous, (2)slightly pubescent, (3)moderately pubescent,
+ (4)heavily pubescent, (5)tomentose                            
+----------------------------------------------------------------------------------------------------
+                                                                                    (Continued)
+Table 3. List of 59 morphological characters and their states or values for
+         multivariate analyses of 51 taxa in genus Pyrus (continued). 
+----------------------------------------------------------------------------------------------------
+No.  Character                                Character state or value
+----------------------------------------------------------------------------------------------------
+29. Hair on leaf, dorsal midrib (1)glabrous, (2)slightly pubescent, (3)moderately pubescent,
+ (4)heavily pubescent, (5)tomentose                            
+30. Hair on petiole, ventral part (1)heavily pubescent, (2)tomentose
+31. Hair on petiole, dorsal part (1)glabrous, (2)slightly pubescent, (3)moderately pubescent,
+ (4)heavily pubescent, (5)tomentose                            
+32. Length of seta (1)0, (2)< 0.5, (3)0.5 ～ 1, (4)1 ～ 1.5, (5)> 1.5 mm
+33. Vertical length of tooth (1)very short, (2)short, (3)long, (4)very long 
+34. Color of petiole, ventral part (1)light green, (2)yellowish green, (3)purplish green,
+ (4)purple
+35. Color of petiole, dorsal part (1)light green, (2)purplish green
+36. Color of leaf margin (1)light green, (2)purplish green, (3)purple
+37. Thorn on twig (1)no, (2)yes
+38. Hair on shoot apex (1)slightly pubescent, (2)moderately pubescent, 
+ (3)heavily pubescent, (4)tomentose
+39. Hair color of shoot apex (1)white, (2)dark yellow 
+
+                           Quantitative characters                   
+40. Flower number per inflorescence (ea) 5.0 ～ 9.2
+41. Petal number (ea) 5.0 ～ 8.7 
+42. Style number (ea) 2.0 ～ 6.7 
+43. Stamen number (ea) 19.4 ～ 33.0 
+44. Width of flower disk (cm) 0.32 ～ 0.68 
+45. Length of pedicel (cm) 2.8 ～ 5.2 
+46. Length of petal (cm), A 0.94 ～ 2.07 
+47. Width of petal (cm), B 0.78 ～ 1.79 
+48. A/B ratio 0.91 ～ 1.24 
+49. Flower width  (cm) 2.25 ～ 4.71 
+50. Length of peduncle (cm) (young fruit) 2.59 ～ 5.93 
+51. Width of peduncle (cm) (young fruit) 0.10 ～ 0.41 
+52. Height of young fruit (cm), C 1.18 ～ 4.74 
+53. Width of young fruit (cm), D 1.12 ～ 4.01 
+54. C/D ratio 0.79 ～ 1.48 
+55. Leaf length (cm), E 7.0 ～ 17.7 
+56. Leaf width (cm), F 3.9 ～ 11.7 
+57. E/F ratio 1.4 ～ 2.0 
+58. Length of petiole (cm) (adult leaf) 2.3 ～ 7.5 
+59. Length of petiole (cm) (newly expanded leaf) 1.46 ～ 3.92 
+----------------------------------------------------------------------------------------------------  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+                                                                           
+                   +----------------------------------------------------+
+   Compressed                          Impressed                    
+                                      
+                                                            
+Shapes of calyx end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                        
+                                                +-----------------+
+    Depressed         Compressed                  Impressed      
+
+
+Shapes of stem end
+
+
+
+
+
+
+
+
+Fig. 1. Schematic diagram of shapes of calyx and stem end in young fruit.
+
+  1.3 集塊分析 및 主成分分析 
+  供試된 51個 분류군들에 대한 分類的 關係 分析을 위한 집괴분석은 personal computer용 통계 package인 SPSS/PC+(ver. 3.0)를 이용하여 수행되었으며, 분석 조건은 高(1988)가 가장 적절한 것이라고 권장한 Euclidean distance에 기초한 평균결합법(average linkage)인 비가중평균결합법(UPGMA)이었다.  또한 SPSS/PC+를 사용한 集塊分析은 동일 프로그램 내의 표준화 절차를 이용하여 모든 질적 형질 및 양적 형질의 자료 값을 Z score로 표준화시킨 후 실시되었다(李, 1987).  평균 결합에 의한 집괴분석으로 얻어진 유클리드 距離를 이용하여 樹枝圖를 작성하였다. 
+  주성분분석(PCA)은 농촌진흥청 VAX컴퓨터 통계 package SAS (Release 6.03)의 PRINCOMP 절차를 이용하여 수행되었다. 주성분분석 시에는 59개 형태 형질이 모두 이용되었으며, 표준화된 이들 자료로부터 계산된 상관 계수 행렬로부터 주성분이 유도되었다(James와 McCulloch, 1990; Sneath와 Sokal, 1973). 또한 주성분분석을 위한 프로그램 작성에는 SAS/STAT User's Guide(Sas Institute Inc., 1988)가 이용되었으며, 얻어진 결과 해석을 위해서는 주성분분석에 관한 review(Broschat, 1979; Iezzoni와 Pritts, 1991; 高, 1988)를 참조하였다.   主成分分析에서는 제 1, 2, 3주성분을 조합한 2개의 주성분 축상에 개개 분류군의 주성분 득점(component score)을 배열함으로써 공시된 배나무屬 식물들 간의 분류적 관계가 비교 분석되었다.  특히 제 1, 2, 3 주성분을 각각의 축으로 하는 3차원 공간에서의 분류군들 간 관계를 규정 지우는 것이 어렵기 때문에, 이 경우에는 각 분류군이 갖는 주성분 득점치를 새로운 변량으로 이용한 SPSS/PC+ UPGMA 집괴분석으로부터 얻어진 수지도를 이용함으로써 3차원 공간에서의 분류군들 간의 분류적 관계를 간접적으로 해석코자 하였다. 
+  SPSS/PC+를 이용한 UPGMA 집괴분석 조건 및 주성분분석을 위해 사용된 SAS 프로그램은 부표 3, 4와  같다. 
+
+
+
+
+
+2. 同位酵素分析에 의한 分類
+   2.1 供試 材料 
+  同位酵素分析에 이용된 배나무屬 식물은 형태 형질을 이용한 集塊分析에 供試된 51개 분류군들 중 논산콩배를 제외한 나머지 50개 분류군들이었다.
+  시료로 사용된 것들은 7월 하순경의 신초 기부에서 발생된 成葉, 신초 수피, 유과 과피였다. 葉 시료로서 成葉이 사용되었던 것은 예비 실험 결과 幼葉이나 새로 전개된 新葉에서는 동위효소 밴드가 잘 나타나지 않았지만 완전히 성숙된 잎에서는 그것이 잘 나타났기 때문이었다.  
+  시료 채취는 기온이 그다지 높지 않은 오전 중에 이루어졌으며, 酵素活性 低下를 방지하기 위하여 채취된 시료를 휴대용 ice box에 넣어 실험실로 운반하였다.  이들 시료들은 동위효소분석을 위해 곧바로 추출되었다.  다양한 효소에 대하여 동위효소 사용 여부를 조사하였지만, 葉 內 GOT, GPI, PER 등 3가지 효소와, 그리고 수피와 유과 과피 내 PER 효소만이 사용 가능하였으며, 이들로부터 얻어진 밴드 유형을 이용하여 集塊分析이 실시되었다.  
+
+   2.2 同位酵素의 抽出
+  예비 실험 결과 Weeden과 Lamb(1985, 1987)이 사과나무에서, Tao와 Sugiura(1987)가 감나무 엽 내 同位酵素 분석에서 사용하였던 추출용 완충액으로는 뚜렷한 밴드를 얻을 수 없었다.   이는 배나무屬 식물의 엽 내에 다량으로 존재하는 phenol 화합물에 基因된다고 판단하고, 이를 해결하기 위하여 Kuhns와 Fretz(1978)가 역시 phenol 化合物의 함량이 높은 장미 엽 내 동위효소분석에 사용하였던 추출액을 참고하여 표 4와 같은 改良된 抽出液을 사용하였다.   즉,  Weeden과 Lamb(1985, 1987)의 추출액을 기본으로 하였지만 과량으로 존재하는 phenol 화합물에 의한 효소 酸化 방지를 위하여 phenol 화합물의 흡착제인 PVP 농도를 10%에서 15%로 증가시키고, 여기에 1 mM EDTA를 첨가하였으며, PVP만으로 phenol 화합물에 의한 산화를 완전히 해결하지 못할 것을 예상하여 항산화제인 ascorbic acid 2%를 가용하였다. 또한 50 mM Tris-maleate buffer(pH 8.5) 대신에 50 mM Tris buffer(pH 8.0)로 대체하였으며, 그 조제 방법은 Sigma社의 General Chemical Catalog의 Trizma편에 기재된 것이었다.  이렇게 조제된 抽出 溶液 2 ml를 cork borer를 이용하여 얻은 약 2.3 cm2 葉 切片體가 들어 있는 유발에 넣고 곱게 마쇄하였다.  이를 2～3oC로 유지되는 microcentrifuge에서 15분 동안 15,000 rpm으로 遠心分離하였다. 원심분리로 얻어진 上澄液을 냉동고에 보관하면서 전기영동에 사용하였다.  
+
+Table 4. Extraction buffer for isozyme electrophoresis. 
+--------------------------------------------------------------------------------
+      Ingredient                                               Amount/250 ml 
+--------------------------------------------------------------------------------
+50 mM Tris buffer (pH 8.0)            
+        Tris-HCl 0.66 g
+        Tris-base 1.11 g
+15% PVP-40T 37.50 g
+14 mM 2-Mercaptoethanol 0.28 ml
+1 mM EDTA 0.093 g 
+0.5% Triton X-100 1.25 ml
+2 % Ascorbic acid 5.00 g
+--------------------------------------------------------------------------------
+
+
+  2.3 電氣泳動
+  電氣泳動에 이용된 gel plate는 자가 제조된 것으로 가로×세로×높이가 23×15×1 cm인 水平式 전기영동 장치였다.  12% starch(Sigma社 S-4501)를 사용하여 겔을 만든 후 하룻밤 동안 室溫에 방치하였다. 이것을 전기영동 30분전 냉장고에 넣어 미리 차게 만든 다음 사용하였다. 냉동고에 보관 중이던 葉 抽出液을 녹이고, 이를 폭 5 mm, 길이 10 mm되는 Whatman 3 MM 濾過紙 박편에 흡착시켜, 겔에 형성된 홈속에 꽂고 전기영동을 시작하였다. 시료 주입용 홈은 음극 쪽으로부터 2 cm되는 곳에 幅 5 mm, 間隔 5 mm로 형성되어 있었다.  전기영동은 4oC로 유지되는 냉장고 내에서 실시되었으며, 겔 건조를 방지를 위해 wrap을 씌웠다. Electrode 緩衝액이 들어있는 水槽와 겔 사이를 연결하는 전기 통전 물질로는 paper chromatography용 Whatman 3 MM 여과지 또는 거즈가 이용되었다. 전기영동은 bromophenol blue dye가 원점으로부터 9 cm 정도 이동되었을 때 끝내었다. 전기영동이 끝난 겔은 slicer를 이용하여 두께가 약 3 mm 정도 되게 3～4장으로 자른 후 각종 동위효소의 染色에 이용하였다.    
+  전기영동에 이용된 겔 및 electrode 완충액은 표 5에서와 같이 GOT, GPI, PER 모두 Tris-citrate/lithium borate buffer(pH 8.0)였다.  
+  染色液은 표 6에서와 같이 Arulsekar와 Parfitt(1986)가  核果類의 엽 내 동위효소 염색에 사용하였던 것과 동일한 것이었다. 
+
+Table 5. Composition of electrophoresis buffers for isozyme analysis.
+------------------------------------------------------------------------------------
+ Isozyme   Gel buffer                 Electrode buffer                     Voltage
+------------------------------------------------------------------------------------
+GPI, GOT, Tris-citrate (pH 8.3)    Lithium borate (pH 8.3)                250 V   
+PER (adjust with HCl)      Lithium hydroxide    1.2 g/l 
+            Tris-base     6.2  g/l   Boric acid           11.8 g/l
+            Citric acid    1.46 g/l    
+            (Made as 9 parts  Tris-citrate buffer : 1 part electrode buffer)
+------------------------------------------------------------------------------------   
+
+Table 6. Staining solutions for isozyme electrophoresis. 
+--------------------------------------------------------------------------------
+    Ingredient                                                   Amount/100 ml
+--------------------------------------------------------------------------------
+Glutamate oxaloacetate transaminase 
+  L-Aspartic acid 250 mg
+   -Ketoglutaric acid 150 mg
+    (Dissolve the above in 100 ml water and                   
+     adjust pH to 8.0 with 1 N NaOH)                            
+  Fast Blue BB salt 150 mg
+
+Glucose phosphate isomerase 
+  NADP 10 mg
+  PMS    5 mg
+  MTT 15 mg
+  1 M Tris-HCl (pH 8.0) 10 ml
+  0.1 M MgCl2 6H2O 10 ml
+  DI water 80 ml
+  0.18 M Fructose-6-phosphate  2 ml
+  Glucose-6-phosphate dehydrogenase 40 units
+                                                              
+Peroxidase 
+  3-Amino-9-ethyl cabazole 50 mg
+    (Dissolve the above in 5 ml of dimethyl formamide)        
+  0.1 M CaCl2  2 ml
+  30% Hydrogen peroxide  0.2 ml
+  0.05 M Sodium acetate (pH 5.0) 95 ml 
+--------------------------------------------------------------------------------
+   2.4 集塊分析
+  집괴분석을 위한 資料 行列은 특정 Rf치에서 동위효소 밴드가 나타나면 (1)로, 그렇지 않으면 (0)으로 코드화된 것이었으며, 형태 형질을 이용한 집괴분석에서와는 달리 標準化 값이 아닌 원래 자료 값을 그대로 이용하였다. 
+  그러나 形態 形質을 이용한 集塊分析과는 달리 동위효소분석에서 얻어진 자료가, Sneath와 Sokal(1973)이 설명한 바와 같이, 특정 Rf치에서 밴드가 출현했는가,  그렇지 않는가라는 두 가지 경우로 나뉘어 질 수밖에 없는 질적 형질의 범주에 속하기 때문에, 이런 경우에 가장 적절하다고 인정되고 있는 Jaccard 유사 계수를 이용하여 樹枝圖를 작성하였다(高, 1988).  Jaccard 유사 계수에 기초한 비가중평균결합법의 집괴분석은 수리분류학(高, 1988)의 계산 예를 참조하여 직접 계산함으로써 이루어졌다. 
+
+3. 花粉 表面 무늬 觀察
+   3.1 供試 材料
+  집괴분석 및 주성분분석으로부터 얻어진 품종군 분류 결과의 해석에 참고 자료로 활용하기 위하여 SEM을 이용한 화분 표면 무늬를 관찰하였다. 공시된 재료들은 표 2에서 공시된 1～20번까지의 분류군 중 화분을 얻지 못했던 거창청실리를 제외한 19개 분류군 외에 경기도 용인군에서 수집된 고당콩배, 전남 해남에서 수집된 해남참배가 추가된 21개 분류군들이었다. 
+
+   3.2 SEM에 의한 花粉 表面 무늬 觀察
+  SEM을 이용한 화분 표면 무늬 관찰은 초산분해 과정이 생략된 화분을 직접 사용하여 수행되었으며, 관찰 및 촬영은 15,000배에서 이루어졌다. 
+  본 연구에 사용된 주사전자현미경은 성균관 대학교 생물학과의 일본 Jeol社 제품인 JEM - 100 CM II 전자현미경이었다. 
+
+
+
+
+
+                    
+IV. 結果 및 考察 
+
+1. 形態 形質에 의한 分類
+   1.1 質的 形質 
+  調査된 39가지 質的 形質을 표 3에서와 같은 형질 상태 별로 코드화시켰던 결과가 표 7이며, 각 질적 형질의 형질 상태 별로 51개 분류군들이 어떤 빈도 분포를 보이는가를 나타낸 것이 표 8이다.  
+  花型(표 3의 형질 1)은 51개 분류군 중 34개 분류군에서 홑꽃이었어, 홑꽃인 것이 67%(표 8)였다. 그 나머지는 花瓣 數가 기본 5매보다 많아 반겹꽃의 성질을 띠고 있었는데, 특히 장성청배 靑實梨 幸水가 7매 이상의 花瓣을 가지고 있었다(표 3의 형질 41).  
+  花柱 基部 털 발생은 괴산황배 黃實梨 抗眉에서 다소 많았으며, 중국 栽培種인 中國梨種 鴨梨 慈梨와 長十郞 今村秋 晩三吉 등을 포함한 나머지 일본 품종에서는 거의 없었다.
+  花梗 基部 털 발생은 榮山배 白梨 長十郞 長壽 雲井 등에서 거의 없었고, 靑實梨 靑胥梨 둥글래배 꿀배 安東黃實梨 인계배 등의 우리 나라 재래배들에서는 매우 많았다. 
+  또한 花梗 上部 털 발생은 대부분 분류군에서 花梗 基部 털 발생과 비슷한 양상을 보였다. 그러나 단배 가미리 眞鍮 등에서는 기부의 털 발생이 다소 많거나 密生하는데 반해, 상부의 털 발생은 거의 되어 있지 않았다. 
+  악편 表面 털 발생은 참배와 永睦梨를 제외한 대부분 분류군에서 密生하였으며, 악편 裏面 털 발생은 黃金배에서만 상당히 많이 발생되어 있었을 뿐 나머지 대부분의 분류군들에서는 약간 발생하거나 거의 발생되지 않았다. 
+  화탁 털 발생은 거의 무모인 것이 62.7%였으나, 黃實梨 안동黃實梨 괴산황배 등의 黃實梨 계통에서는 상당히 많이 발생되어 있었다.   
+  葯色에 있어서는 榮山배 黃實梨 幸水 단배가 연분홍 색이었으며, 횡성청리 靑堂露梨 평창수향리 사탕배 등의 우리 나라 在來배들은 적자색의 약을 가지고 있었고, 화주 기부색은 다른 것들에서 연녹색인데 반해 콩배에서만 붉은색이었다.
+Table 7. Coded data matrix for 39 qualitative characters of 51 taxa in 
+         genus Pyrus.
+-------------------------------------------------------------------------------------------------
+                                          Assigned numbers for qualitative charactersz       
+No.    Taxon                  -----------------------------------------------------------------
+ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+-------------------------------------------------------------------------------------------------
+ 1. Pea pear, Nonsan 1 1 4 4 2 2 4 2 2 2 1 1 1 4 3 1 4 2 1 3   
+ 2. Sandolbae 2 1 3 3 2 2 3 2 1 1 2 1 1 4 2 1 4 2 1 3   
+ 3. Chambae 1 1 2 2 1 1 1 4 1 2 2 2 1 4 1 1 4 1 1 2   
+ 4. Cheongbae, Changseong 2 1 2 2 2 1 1 3 1 1 2 1 2 3 2 3 1 2 1 1   
+ 5. Cheongbae, Ulleung 1 2 2 1 2 1 1 2 1 1 2 3 2 4 1 1 4 1 1 1   
+ 6. Cheongri, Hoengseong 1 1 2 1 2 1 1 4 1 1 2 2 1 3 7 2 4 1 1 1   
+ 7. Chungshilli, Keochang 1 1 4 4 2 2 4 2 1 1 2 2 1 4 4 2 2 3 2 3   
+ 8. Cheongshilli 2 1 5 5 2 1 1 3 1 2 2 2 1 4 8 1 4 2 2 3   
+ 9. Cheongseori 1 1 5 5 2 2 1 3 1 1 2 2 1 4 5 1 4 3 1 2   
+10. Cheongdangrori 1 1 4 4 2 1 4 4 1 1 2 2 1 4 6 1 4 1 2 2   
+11. Tunggeullaebae 1 1 5 5 2 2 4 3 1 1 2 1 1 2 4 2 4 3 2 3   
+12. Kkulbae 1 1 5 5 2 1 4 3 1 1 2 2 1 4 4 1 4 1 2 3   
+13. Hwangbae, Koesan 2 3 4 4 2 1 4 3 1 1 2 2 1 4 3 1 3 1 1 2   
+14. Hwangshilli, Andong 1 2 5 5 2 1 4 3 1 1 2 2 1 3 5 1 4 1 1 2   
+15. Hwangshilli 1 3 5 5 2 1 4 1 1 1 2 2 1 4 3 1 4 1 1 3   
+16. Suhyangri, Pyeongchang 2 2 4 4 2 2 1 4 1 1 2 2 1 3 4 3 1 2 1 3   
+17. Satangbae 2 2 2 2 2 1 1 4 1 1 2 3 2 2 2 4 1 1 1 1   
+18. Yeongmokri 1 1 2 2 1 1 4 3 1 2 2 2 1 4 3 1 4 1 1 2   
+19. Ingyebae 2 1 5 5 2 1 1 4 1 1 2 2 1 4 3 1 4 2 1 2   
+20. Baili 1 1 1 1 2 1 1 4 1 1 2 1 1 3 2 3 1 3 1 1   
+21. Jokoku 1 1 2 2 2 1 1 3 1 1 2 2 1 4 9 1 4 3 2 2   
+22. Tsuli 1 1 3 3 2 1 1 2 1 1 2 2 1 4 9 1 4 2 2 1   
+23. Yali 1 1 5 5 2 1 4 4 1 1 2 2 1 4 9 2 2 3 2 2   
+24. Shinchu 1 1 4 1 2 1 1 4 1 1 2 1 2 4 2 4 4 1 1 2   
+25. Chojuro 1 1 1 1 2 1 1 2 1 1 2 2 1 4 2 1 4 1 1 1   
+26. Imamuraaki 1 1 2 2 2 1 1 2 1 1 2 1 1 4 6 1 4 1 2 1   
+27. Okusankichi 1 1 2 2 2 1 1 4 1 1 2 1 2 4 7 1 4 3 1 1   
+28. Choju 2 1 1 1 2 1 1 3 1 2 2 1 2 1 1 1 4 1 1 1   
+29. Hakataao 2 1 2 1 2 1 1 3 1 1 2 1 1 4 2 1 4 2 1 1   
+30. Kumoi 1 1 1 1 2 1 1 2 1 2 2 1 1 3 2 1 4 1 1 1   
+31. Matsushima 2 1 2 2 2 1 4 4 1 2 2 2 1 1 4 2 3 2 2 1   
+32. Sagami 2 1 5 5 2 1 1 4 1 1 2 1 1 4 2 4 1 2 2 2   
+33. Seigyoku 1 2 2 1 2 1 2 4 1 1 2 1 1 3 2 4 1 1 1 2   
+34. Shinsetsu 1 1 2 2 2 1 1 3 1 1 2 2 1 4 3 1 4 2 1 1   
+35. Taihei 1 1 2 1 2 1 1 4 1 1 2 1 2 4 1 1 4 1 1 1   
+36. Tosa 1 1 2 2 2 1 4 3 1 2 2 2 1 1 4 2 1 2 2 1   
+37. Shinsui 1 1 2 2 2 1 1 3 1 1 2 3 2 4 1 1 4 1 1 2   
+38. Kosui 1 1 2 1 2 1 1 1 1 1 2 1 2 4 2 2 4 2 1 1   
+39. Hosui 1 2 2 1 2 1 1 4 1 1 2 1 2 4 2 1 4 1 1 2   
+40. Niitaka 2 1 2 2 2 1 1 2 1 1 2 2 1 4 3 1 4 1 1 1   
+41. Shinko 2 1 4 4 2 2 4 4 1 1 2 1 1 4 2 1 3 2 1 3   
+42. Hori 1 1 2 2 2 1 1 3 1 1 2 2 1 3 7 1 4 2 1 2   
+43. Shichiho 2 1 4 4 2 1 4 4 1 2 2 1 1 1 4 3 2 2 2 1   
+44. Kobi 1 3 4 2 2 1 1 3 1 1 2 2 1 4 6 2 3 1 1 2   
+45. Hattatsu 1 2 4 4 2 1 1 4 1 1 2 1 1 3 7 1 2 2 1 2   
+46. Kako 1 1 4 4 2 1 2 4 1 1 2 2 1 4 9 1 4 3 1 2   
+47. Senken 2 1 2 2 2 1 2 2 1 1 2 1 2 4 3 4 3 1 1 2   
+48. Kamiri 1 2 4 1 2 1 1 4 1 1 2 2 1 4 3 1 4 2 1 2   
+49. Tanbae 1 1 5 1 2 1 1 1 1 1 2 2 1 4 2 1 4 1 1 2   
+50. Hwangkeumbae 2 2 2 2 2 3 4 4 1 1 2 2 1 3 3 2 2 1 1 1   
+51. Yeongsanbae 2 1 1 1 2 1 1 1 1 1 2 2 1 3 3 1 3 1 1 1   
+-------------------------------------------------------------------------------------------------
+zSee Table 3.                                                           (Continued)
+Table 7. Coded data matrix for 39 qualitative characters of 51 taxa in 
+         genus Pyrus (continued).
+-------------------------------------------------------------------------------------------------
+                                        Assigned numbers for qualitative charactersz      
+No.    Taxon                  -----------------------------------------------------------------
+ 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39   
+-------------------------------------------------------------------------------------------------
+ 1. Pea pear, Nonsan 3 1 1 5 2 1 4 3 5 2 4 1 3 4 1 3 2 3 1   
+ 2. Sandolbae 3 1 3 2 4 2 4 5 4 2 3 2 4 2 1 2 1 4 2   
+ 3. Chambae 3 3 2 3 2 2 5 4 4 2 4 5 4 2 1 1 1 4 2   
+ 4. Cheongbae, Changseong 1 2 2 2 4 2 5 4 4 2 2 3 1 3 2 2 1 3 1   
+ 5. Cheongbae, Ulleung 3 3 3 2 4 2 2 4 5 2 3 3 2 4 2 1 1 3 1   
+ 6. Cheongri, Hoengseong 2 2 2 3 4 2 4 5 4 2 2 4 3 3 1 1 1 4 2   
+ 7. Chungshilli, Keochang 4 2 1 1 2 2 4 5 5 2 4 3 3 3 2 2 1 3 2   
+ 8. Cheongshilli 4 1 2 2 4 2 4 5 5 2 4 4 3 3 1 2 1 4 2   
+ 9. Cheongseori 4 3 2 3 4 2 4 5 5 2 5 3 3 1 1 1 1 4 1   
+10. Cheongdangrori 4 3 2 3 5 2 2 3 3 2 2 2 2 4 2 3 1 4 1   
+11. Tunggeullaebae 4 1 3 2 2 3 4 5 5 2 4 4 1 3 1 3 1 4 1   
+12. Kkulbae 4 1 2 2 2 3 3 5 4 2 4 4 1 3 1 2 1 4 1   
+13. Hwangbae, Koesan 3 3 3 2 2 2 5 5 5 2 4 5 2 1 1 1 1 4 1   
+14. Hwangshilli, Andong 3 3 2 2 2 2 4 4 4 2 3 3 2 1 1 1 1 4 1   
+15. Hwangshilli 3 3 3 3 4 3 5 4 5 2 4 4 1 1 1 1 1 4 1   
+16. Suhyangri, Pyeongchang 3 3 2 1 2 3 5 5 5 2 5 4 1 3 1 2 1 4 1   
+17. Satangbae 3 2 3 5 2 2 1 1 2 2 2 2 3 3 2 2 1 2 1   
+18. Yeongmokri 4 3 3 2 3 2 3 4 4 2 2 5 3 1 1 3 1 4 1   
+19. Ingyebae 3 1 3 2 2 2 4 5 5 2 4 4 3 3 1 3 1 4 2   
+20. Baili 3 3 1 2 1 2 2 1 1 1 1 3 3 3 1 1 1 2 2   
+21. Jokoku 3 3 2 2 2 2 2 3 4 1 1 5 4 3 1 2 1 3 2   
+22. Tsuli 4 3 1 2 2 2 2 4 3 1 1 5 4 3 1 3 1 3 2   
+23. Yali 3 3 2 2 2 2 4 5 4 2 4 4 3 4 2 3 1 4 2   
+24. Shinchu 2 3 2 5 4 2 4 5 4 2 2 4 3 1 1 1 1 3 1   
+25. Chojuro 3 3 2 5 5 2 4 4 4 2 1 3 2 1 1 1 1 2 1   
+26. Imamuraaki 3 4 2 4 1 2 2 1 2 1 1 3 3 3 1 1 1 3 1   
+27. Okusankichi 4 3 1 4 2 2 3 4 3 1 2 4 3 3 1 1 1 1 1   
+28. Choju 3 3 2 3 2 2 4 4 4 1 2 4 4 3 2 3 1 3 1   
+29. Hakataao 1 2 3 3 3 2 4 3 4 1 2 4 3 3 1 1 1 4 1   
+30. Kumoi 3 3 2 5 4 2 4 4 4 2 2 3 2 3 2 2 1 3 1   
+31. Matsushima 3 2 2 2 2 2 4 4 4 1 2 4 3 2 1 3 1 3 2   
+32. Sagami 3 2 2 5 5 2 4 3 4 2 4 4 3 1 2 1 1 4 1   
+33. Seigyoku 2 2 2 2 5 3 4 5 5 2 4 4 1 1 1 1 1 3 1   
+34. Shinsetsu 3 3 2 3 4 2 4 4 4 2 2 3 3 3 1 3 1 4 2   
+35. Taihei 3 3 2 3 4 2 3 4 4 1 1 4 3 3 2 1 1 2 1   
+36. Tosa 3 2 2 2 2 2 5 5 4 1 2 5 3 2 1 3 1 2 2   
+37. Shinsui 1 3 3 3 4 2 3 4 4 2 3 4 3 4 2 3 1 3 1   
+38. Kosui 1 2 2 4 4 2 3 3 2 1 1 4 3 3 1 1 1 2 1   
+39. Hosui 3 3 2 5 4 2 3 4 3 1 2 4 3 3 1 1 1 2 1   
+40. Niitaka 2 3 2 4 4 2 4 4 3 1 2 4 3 1 1 1 1 2 1   
+41. Shinko 3 1 2 2 4 2 5 5 5 2 5 3 3 1 1 3 1 4 1   
+42. Hori 3 3 3 3 3 2 1 1 1 1 1 4 3 3 2 1 1 4 2   
+43. Shichiho 3 2 2 2 2 2 4 4 4 1 2 5 3 2 2 3 1 3 2   
+44. Kobi 1 3 2 3 4 2 3 3 4 2 3 4 3 4 2 1 1 4 2   
+45. Hattatsu 2 2 2 2 2 2 4 4 4 2 3 4 3 2 1 1 1 3 2   
+46. Kako 2 3 2 3 2 2 4 5 5 1 3 4 3 3 1 1 1 4 2   
+47. Senken 3 3 2 2 2 2 4 5 4 2 3 5 3 3 2 3 1 3 1   
+48. Kamiri 1 3 2 3 4 2 5 5 5 2 4 2 2 3 1 1 1 4 1   
+49. Tanbae 4 3 3 3 4 2 4 4 4 1 2 3 2 1 1 2 1 4 1   
+50. Hwangkeumbae 3 2 3 5 4 2 3 4 3 1 2 4 4 1 1 1 1 2 2   
+51. Yeongsanbae 3 3 3 5 5 2 4 3 3 1 1 3 2 3 2 1 1 2 1   
+-------------------------------------------------------------------------------------------------
+zSee Table 3.
+Table 8. Frequency of each character state in 39 qualitative characters.
+----------------------------------------------------------------------------------------------------
+                                            Frequency of each character state (%)
+No.  Character                       --------------------------------------------------------------
+         1   2  3  4 5     6 7 8 9z
+----------------------------------------------------------------------------------------------------
+ 1. Flower type 66.7 33.3              
+ 2. Hair on style 76.5 17.6 5.9            
+ 3. Hair on pedicel, proximal part 9.8 43.1 3.9 23.5 19.6   
+ 4. Hair on pedicel, distal part 29.4 31.4 3.9 17.6  17.6  
+ 5. Hair on sepal, ventral surface 3.9 96.1                 
+ 6. Hair on sepal, dorsal surface 84.3 13.7 2.0            
+ 7. Hair on receptacle 62.7 5.9 2.0 29.4        
+ 8. Color of anther 7.8 19.6 31.4 41.2       
+ 9. Color of style 98.0 2.0                 
+10. Color of petal, apex 82.4 17.6                
+11. Color of petal, foundation 2.0 98.0 
+12. Color of flower disk, surface 39.2 54.9 5.9 
+13. Color of flower disk, perianth 78.4 21.6 
+14. Depth of flower disk 7.8 3.9 21.6 66.7
+15. Young fruit shape 9.8 27.5 21.6 13.7 5.9 3.9 7.8 2.0 7.8
+16. Glossiness of young fruit skin 64.7 17.6 7.8   9.8 
+17. Lenticel on young fruit skin 13.7 9.8 11.8 64.7
+18. Shape of stem end (young fruit) 49.0 35.3 15.7
+19. Shape of calyx end (young fruit) 74.5 25.5
+20. Hair on peduncle (young fruit) 41.2 41.2 17.6 
+21. Color of young fruit peduncle 11.8 11.8 56.9 19.6
+22. Color of young fruit skin 13.7 25.5 58.8 2.0 
+23. Leaf shape 9.8 62.7  27.5 
+24. Leaf apex 3.9 41.2 29.4 7.8  17.6 
+25. Leaf base 3.9 41.2 5.9 39.2 9.8 
+26. Leaf margin 2.0 88.2 9.8 
+27. Hair on leaf, ventral surface 3.9 11.8 17.6 51.0 15.7 
+28. Hair on leaf, dorsal surface 7.8 15.7 41.2 35.3 
+29. Hair on leaf, dorsal midrib 3.9 5.9 13.7  49.0  27.5 
+30. Hair on petiole, ventral part 37.3 62.7 
+31. Hair on petiole, dorsal part 17.6 35.3 15.7 25.5 5.9 
+32. Length of seta 2.0 7.8 25.5  49.0  15.7
+33. Vertical length of tooth 11.8 17.6 58.8 9.8 2.0
+34. Color of petiole, ventral part 25.5 11.8 51.0  11.8
+35. Color of petiole, dorsal part 68.6 31.4 
+36. Color of leaf margin 51.0 19.6  29.4 
+37. Thorn on twig 98.0 2.0 
+38. Hair on shoot apex 2.0 19.6  31.4  47.1
+39. Hair color of shoot apex 62.7 37.3
+----------------------------------------------------------------------------------------------------
+zCharacter states are the same as Table 3.
+  花瓣 바탕색은 논산콩배를 제외하면 나머지 모든 분류군들에서 동일하게 흰색이었으나, 화판 선단부 색은 분류군들 간에 약간 차이가 있었다.  즉, 대부분 분류군들에서 흰색을 나타내었으나, 논산콩배 참배 靑實梨 등에서는 분홍색을 띠고 있었다. 
+  花盤 표면색에서도 분류군들 간에 약간 차이를 관찰할 수 있었는데, 울릉청배 사탕배 신수 등에서는 그 색이 적자 색이었으나, 나머지들에서는 연녹색 또는 녹색을 띠고 있었다. 반면, 花盤 테두리 색은 78.4%에서 녹색을 띠었으나, 장성청배 울릉청배 사탕배 등에서는 자주색이었다.  花盤은 長壽 松島 土佐 七寶 들만에서 편평하였을 뿐, 나머지 대부분에서는 움푹 들어간 형태였다. 
+  幼果 果形은 조사된 39가지 질적 形質 중에서 가장 큰 變異를 보여주었는데, 대략 9가지로 구분될 수 있었다(그림 2).  가장 특이한 果形을 가지고 있는 것은 中國梨種 慈梨 鴨梨 등이었는데 이들은 서양배 모양의 과실을 가지고 있었으며, 이들 중국배와 일본배의 교잡종인 花虹 七寶 鳳梨 등도 서양배형에 근접한 倒卵形의 과실 모양을 가지고 있었다. 그러나 대부분의 일본배 품종들은 편원형, 원형, 광타원형으로 원형에 가까운 果形을 가지고 있었다(그림 3).  또한 우리 나라 분류군들은 다양한 유과 과형을 가지고 있었는데, 그 중에서도 靑堂露梨는 長卵形 또는 圓錐形의 果形을 가지고 있어 다른 재래배 분류군들과 쉽게 구별될 수 있었다.  
+  비록 梶浦와 鈴木(1980)가 일본 재래배 품종과 육성 품종 그리고 중국 白梨 계통(P. bretschneideri Rehd.), 산돌배 계통(P. ussuriensis Maxim.) 등을 포함한 432품종의 果形圖를 문헌으로부터 조사하여 果形 變異를 연구한 바 있지만 특정 품종의 同定에 도움을 줄만한 결과는 제시하지 못하였다. 그러나 이들의 결과는 과형이 배나무 품종군 분류에 유용한 형질임을 시사하고 있다.   
+  幼果 果皮 光澤은 供試된 51개 분류군 중 64.7%가 과점이 많은 거친 과피를 가지고 있어 광택이 없었으며, 사탕배 眞鍮 相模 淸玉 洗檢 등은 果點 발달이 적어 광택이 좋았다. 이러한 果皮 광택 정도는 果皮의 果點이 적은 것일수록 좋은 경향을 보였다. 
+  幼果 梗窪部 모양은 3가지 경우로 대별할 수 있었는데(그림 1), 49%에서 함입된 梗窪部였고, 거창靑實梨 靑胥梨 둥글래배 白梨 등에서는 융기된 모양이었다.  
+
+
+
+
+
+ Oblate Circular Widely
+   elliptic
+ 1 2 3
+
+
+
+
+
+
+ Elliptic Widely Ovate 
+   ovate  
+ 4 5 6
+
+
+
+
+
+
+ Widely Obovate Pyriform
+ obovate  
+ 7 8 9
+
+
+
+
+
+
+        Fig. 2. Schematic diagram of young fruit shape.
+  한편 체와부는 74.5%에서 편평한 모양이었으나, 거창靑實梨 靑實梨 靑堂露梨 등의 우리 나라 在來種, 今村秋 松島 土佐 등의 일본배, 慈梨 鴨梨 中國梨種 등의 중국배에서는 융기된 모양을 가지고 있었다.  菊池(1924)에 의하면 만주에서 반야생 상태인 P. ussuriensis var. ovoidea Rehd.의 체와부가 융기되어 있음을 보고하고 있는데, 본 연구에 供試된 거창靑實梨와 靑實梨도 이와 동일한 특성을 보였다. 따라서 이들은 菊池(1924)가 설명하고 있는 청실리에 상당히 근접되어 있는 것으로 판단되었다.   
+  幼果 과피색은 58.8%에서 녹색의 바탕색 위에 갈색의 果點이 발생되어 있는 녹갈색이었으며, 今村秋에서만 幼果 時에도 완연한 황갈색이었다. 
+  엽형은 대부분에서 난형 내지 난상 타원형이었지만, 동일 나무 내에서도 變異가 상당히 심하여, 特定種 또는 品種의 대략적인 판별에만 이용될 수 있을 것으로 생각되었다.  다만, 거창靑實梨는 마름모꼴에 가까운 장난형상의 葉을 가지고 있어 엽형만으로도 다른 분류군들과 쉽게 구분될 수 있었다.    
+  葉先 모양은 대부분에서 漸尖頭 내지 銳頭였으나, 거창靑實梨와 평창水鄕梨에서는 다른 분류군들과는 쉽게 구분되게 尾狀의 漸尖頭였다.
+  葉底는 대부분에서 圓形狀 銳底 圓底 亞心臟底였으나, 白梨와 今村秋에서는 銳底였다. 
+  葉緣은 논산콩배에서만 細鈍鋸齒였을 뿐 나머지 대부분에서는 細銳鋸齒였다.  그러나 둥글래배, 꿀배, 黃實梨, 평창수향리, 淸玉 등에서는 針狀 細銳鋸齒로 鋸齒의 발달이 상당히 빈약하여 때로는 全緣에 가까운 경우도 있었다.  반면 산돌배, 참배, 中國梨種, 慈梨, 長壽, 黃金배 등은 鋸齒 발달이 아주 뚜렷하여 다른 분류군들과 잘 구별될 수 있었다.  또한 鋸齒 상에 발생되어 있는 침 길이에 있어서도 상당한 變異가 있었는데, 참배 괴산황배 永睦梨 등은 그 길이가 1.5 mm 이상이었으나, 산돌배 靑堂露梨 사탕배 등은 0.5 mm 미만으로 짧았다.  
+  이와 같이 논산콩배를 제외한 모든 분류군들에서 침 발달이 잘되어 있었는데, 이러한 결과는 菊池(1924)가 葉緣 鋸齒와 과실 체와부의 악편 잔존 여부가 배나무속 식물의 분류에 가장 중요한 檢索 形質이며, 특히 일본배 및 중국배 재배 품종과 그들 간의 교배로부터 얻어진 그 어느 것에서나 모두 針狀鋸齒가 존재한다는 보고 내용과 일치하였다. 다만, 본 연구에서의 葉緣 모양은 鋸齒상에 발달되어 있는 침을 고려하지 않은 상태를 의미하는 것으로, 針狀 세거치연은 鋸齒 발달이 빈약하다는 것을 의미할 뿐 菊池(1924)의 기재 내용과 상이함이 없다.  따라서 거치 발달 정도를 나타내는 거치 높낮이와 거치 上에 발달된 침 길이의 長短을 조합하여 사용한다면 이들은 배나무속 식물의 분류 및 동정을 위한 좋은 검색 자료로 사용될 수 있을 것으로 생각되었다.   
+  한편 植木(1921)는 葉緣 2 cm 내에 존재하는 鋸齒 수를 變種 또는 forma 기재에 사용하고 있으나, 본 연구에서의 관찰 결과 葉底 쪽일수록 鋸齒와 鋸齒 간의 거리가 멀어 많은 경우 全緣에 가까웠고, 葉先 쪽일수록 단위 길이당 鋸齒 數가 많았으며, 더욱이 幼葉과 成葉 간에도 차이가 다소 심하여 분류군 동정 및 분류용 검색 자료로 사용하는 것은 어려울 것으로 생각되었다. 
+   葉 表面 바탕의 털은 사탕배와 鳳梨에서 거의 발생되지 않았으나, 참배 장성청배 新興 평창수향리 등에서는 흰털로 密生되어 있었다.  특히 이들 분류군에 있어서 密生된 털은 9월 정도까지도 잔존하여 이들의 식별을 쉽게 하였다.
+  葉柄 裏面의 털 발생은 많은 털이 密生되었던 葉柄 表面의 털 발생과는 달리 분류군 간에 다소 큰 차이를 보여주었다.  靑胥梨 평창수향리 新興 등은 裏面에서도 털이 密生되어 있었으나, 白梨 中國梨種 慈梨 長十郞 今村秋 등은 裏面이 無毛였다.     
+  葉柄 표면색은 대부분에서 자주색을 띠고 있었으나, 靑胥梨 괴산황배 안동黃實梨 黃實梨 永睦梨 長十郞 등에서는 연녹색이었다.  그러나 논산콩배 울릉청배 靑堂露梨 신수 鴨梨 등에서는 진자주 색이었다. 특히 우리 나라의 여러 지방에서 수집되어 과수연구소에 보존 중인 콩배(신 등, 1986)인 경우 그들의 수집 장소에 따라 葉 表面 主脈色에 있어 약간의 차이를 나타내었다. 즉, 본 연구에 供試된 논산 지방에서 수집된 논산콩배는 主脈 뿐만 아니라 細脈까지도 붉은색을 띠고 있었던 반면, 타지역에서 수집된 것은 그렇지 않았다.  콩배에 있어서의 이러한 형태적 변이는 신 등(1986)의 조사 내용에서도 확인할 수 있었으며, 더욱이 Rehder가 중국 각지에서 수집하였던 것들에서도 존재한다고 보고되어 있다(Hedrick, 1921).  따라서 우리 나라에 자생하고 있는 콩배 내에도 유전적인 變異가 상당히 존재할 것으로 추정되었는데, 이 점에 대해서는 앞으로의 보다 정확한 究明이 있어야 할 것으로 생각되었다.  
+  가지 上의 가시는 논산콩배에서만 있었을 뿐 나머지 분류군들에서는 존재하지 않았다. 
+  신초 선단의 털 발생 정도는 대부분에서 密生되어 있었으나, 晩三吉에서는 약간 발생되어 있었다.  특히 신초 上에 발생된 털색은 황색과 백색으로 대별될 수 있었으며, 62.7%에서 흰색 털이 존재하였다. 
+
+   1.2 量的 形質
+  20가지 量的 形質에 대한 각 분류군의 평균값을 나타낸 것이 표 9로, 화총당 꽃 수는 평균 6～7개 정도였으나, 산돌배에서 가장 많은 9개였고, 단배에서 가장 적은 5개였다. 
+  암술 수는 원시종에 가까운 논산콩배에서 2개로 가장 적었고, 幸水에서 6.7개로 가장 많았으나, 대부분에서는 5개로 아시아 원산의 대과종이 5 심실이라는 梶浦(1983, 1984), 兪(1974)의 보고 내용과 일치하였다. 그러나 청당로리는 암술 수가 3～5개로 재배종 분류군 중에서는 가장 적은 암술 수를 가지고 있었다.
+  수술 수는 논산콩배에서 가장 적어 약 19개였고, 암술 수가 가장 많았던 幸水에서 33개로 가장 많았으나, 평균적으로는 20여 개의 수술을 가지고 있었다.   
+  花梗 길이는 野生種인 논산콩배 산돌배 참배 울릉청배에서 3 cm 미만이었고, 花虹 眞鍮에서 5 cm 이상으로 길었다. 
+  꽃 크기는 논산콩배에서 2.3 cm로 가장 작았고, 거창靑實梨에서 4.7 cm로 가장 컸다. 
+  幼果 果梗 길이는 靑堂露梨에서 2.6 cm로 가장 짧았고, 雲井에서 5.9 cm로 가장 길었다. 또한 永睦梨, 鴨梨, 眞鍮 등은 5 cm 이상의 果梗을 가지고 있었다.    
+  幼果 크기는 논산콩배에서 1.2 cm로 가장 작았고, 慈梨에서 4.8 cm로 가장 컸는데, 中國梨種 鴨梨와 이들 중국 栽培種배들의 혈통을 가진 것들은 대체적으로 4 cm 이상의 과실을 가지고 있었다.   
+  엽 크기는 논산콩배에서 길이 7 cm, 폭 4 cm로 가장 작았으며, 慈梨에서 길이 18 cm, 폭 12 cm로 가장 컸다.  그러나 鴨梨, 中國梨種, 이들의 혈통을 가진 七寶 花虹 , 그리고 土佐 松島 幸水 등과 같은 일본배 품종은 큰 잎을 가지고 있었다. 반면, 청당로리, 평창수향리 및 백리는 엽장 11.3 cm, 엽폭 5.9～6.3 cm로 비교적 작은 잎을 가지고 있었다.  
+  葉幅에 대한 葉長의 比는 횡성청리 鳳梨 黃金배에서 가장 작은 1.4였으며, 거창靑實梨 둥글래배 꿀배에서 2.0으로 길어 이들은 긴 잎을 가지고 있었다.  
+Table 9. Coded data matrix for 20 quantitative characters of 51 taxa in
+        genus Pyrus. 
+------------------------------------------------------------------------------------------------
+                                         Assigned numbers for quantitative charactersz          
+No. Taxon                      -------------------------------------------------------------
+ 40 41 42 43 44 45 46 47 48
+------------------------------------------------------------------------------------------------
+ 1. Pea pear, Nonsan 5.45 5.00 2.00 19.35 0.32 2.82 0.94 0.78 1.21     
+ 2. Sandolbae 9.15 5.60 5.20 23.40 0.46 2.90 1.51 1.31 1.16     
+ 3. Chambae 7.50 5.00 5.00 22.38 0.54 2.89 1.65 1.55 1.05     
+ 4. Cheongbae, Changseong 7.95 8.65 5.00 27.30 0.58 3.98 1.89 1.60 1.19     
+ 5. Cheongbae, Ulleung 7.70 5.00 5.00 26.00 0.50 2.86 1.48 1.32 1.13     
+ 6. Cheongri, Hoengseong 7.55 5.00 5.00 29.85 0.46 3.25 1.24 1.28 0.97     
+ 7. Chungshilli, Keochang 5.40 5.05 5.00 20.10 0.56 4.64 2.07 1.76 1.19     
+ 8. Cheongshilli 6.35 7.35 5.00 20.35 0.46 4.44 1.92 1.61 1.19     
+ 9. Cheongseori 5.44 5.00 5.00 21.25 0.55 4.24 1.63 1.41 1.15     
+10. Cheongdangrori 5.60 5.00 4.45 19.95 0.40 3.05 1.35 1.15 1.18     
+11. Tunggeullaebae 5.15 5.00 5.00 20.79 0.50 4.43 1.63 1.59 1.03     
+12. Kkulbae 5.65 5.00 5.00 20.55 0.44 3.45 1.75 1.56 1.12     
+13. Hwangbae, Koesan 6.20 5.25 5.00 21.20 0.55 3.80 1.60 1.64 0.97     
+14. Hwangshilli, Andong 7.50 5.00 5.00 20.20 0.52 3.63 1.54 1.48 1.04     
+15. Hwangshilli 5.50 5.00 5.00 20.85 0.48 3.07 1.58 1.58 1.01     
+16. Suhyangri, Pyeongchang 5.55 5.15 5.00 20.90 0.45 4.13 1.75 1.51 1.16     
+17. Satangbae 7.50 5.30 5.70 22.50 0.55 4.05 1.49 1.41 1.06     
+18. Yeongmokri 6.25 5.05 4.95 25.39 0.68 4.78 1.57 1.57 1.00     
+19. Ingyebae 6.15 6.95 5.00 19.45 0.47 4.51 1.96 1.58 1.24     
+20. Baili 7.05 5.00 5.00 20.95 0.42 4.16 1.67 1.44 1.16     
+21. Jokoku 5.55 5.00 5.00 20.25 0.48 4.48 1.67 1.44 1.16     
+22. Tsuli 5.55 5.00 5.00 19.85 0.52 4.43 1.76 1.56 1.13     
+23. Yali 6.90 5.00 5.00 19.65 0.48 4.74 1.64 1.39 1.18     
+24. Shinchu 5.80 5.00 5.00 20.45 0.52 5.01 1.26 1.30 0.97     
+25. Chojuro 6.05 5.00 5.00 20.80 0.46 3.43 1.23 1.28 0.96     
+26. Imamuraaki 6.95 5.00 5.00 22.80 0.56 2.94 1.71 1.47 1.17     
+27. Okusankichi 5.55 5.00 5.00 19.75 0.50 3.39 1.48 1.40 1.06     
+28. Choju 8.35 5.50 5.00 22.40 0.58 3.13 1.43 1.37 1.05     
+29. Hakataao 6.50 5.40 5.00 29.90 0.51 2.99 1.21 1.14 1.07     
+30. Kumoi 5.95 5.00 5.00 21.55 0.54 4.74 1.26 1.39 0.91     
+31. Matsushima 5.70 5.40 5.00 24.25 0.51 4.17 1.84 1.60 1.16     
+32. Sagami 6.60 6.50 4.75 25.25 0.45 3.58 1.63 1.35 1.21     
+33. Seigyoku 8.50 5.00 5.00 28.95 0.54 4.08 1.64 1.53 1.09     
+34. Shinsetsu 6.75 5.00 5.00 22.90 0.52 4.30 1.50 1.39 1.08     
+35. Taihei 7.65 5.00 4.95 20.50 0.48 3.78 1.43 1.20 1.20     
+36. Tosa 6.35 5.00 5.00 21.40 0.49 4.01 1.83 1.57 1.17     
+37. Shinsui 7.65 5.00 5.00 25.60 0.52 3.17 1.51 1.44 1.06     
+38. Kosui 7.30 7.05 6.65 33.00 0.58 3.29 1.64 1.54 1.07     
+39. Hosui 7.70 5.00 5.00 25.25 0.56 3.51 1.79 1.76 1.02     
+40. Niitaka 6.55 5.10 5.00 24.30 0.50 3.93 1.58 1.53 1.03     
+41. Shinko 7.30 6.00 5.00 28.20 0.53 3.31 1.55 1.41 1.09     
+42. Hori 6.70 5.00 5.00 20.50 0.50 4.71 1.76 1.56 1.13     
+43. Shichiho 6.10 5.40 5.00 22.70 0.54 4.24 1.82 1.56 1.17     
+44. Kobi 6.40 5.00 4.60 20.15 0.43 2.98 1.90 1.79 1.06     
+45. Hattatsu 6.95 5.00 5.00 19.90 0.44 3.22 1.66 1.41 1.19     
+46. Kako 6.70 5.00 5.00 19.85 0.47 5.17 1.73 1.44 1.21     
+47. Senken 6.70 5.80 5.00 25.75 0.58 3.05 1.44 1.38 1.05     
+48. Kamiri 7.35 5.00 5.00 24.32 0.51 3.13 1.43 1.46 0.98     
+49. Tanbae 5.00 5.00 5.00 20.80 0.48 3.72 1.24 1.08 1.16     
+50. Hwangkeumbae 8.15 6.15 5.00 23.90 0.56 3.05 1.66 1.47 1.13     
+51. Yeongsanbae 6.95 5.15 5.00 21.65 0.44 3.78 1.37 1.34 1.03     
+--------------------------------------------------------------------------------------------
+zSee Table 3.                                                       (Continued)                   
+Table 9. Coded data matrix for 20 quantitative characters of 51 taxa in  
+        genus Pyrus (continued). 
+----------------------------------------------------------------------------------------------------                                                     
+                                             Assigned numbers for quantitative charactersz                                  
+No. Taxon                        -----------------------------------------------------------------
+ 49 50 51 52 53 54 55 56 57 58 59     
+----------------------------------------------------------------------------------------------------
+ 1. Pea pear, Nonsan 2.25 3.96 0.10 1.18 1.12 1.05 7.0 3.9 1.8 2.5 1.46   
+ 2. Sandolbae 3.48 4.79 0.21 2.34 2.51 0.93 12.5 6.9 1.8 6.8 2.29   
+ 3. Chambae 3.89 3.46 0.29 3.00 3.45 0.87 11.7 7.2 1.6 6.9 2.68   
+ 4. Cheongbae, Changseong 4.40 4.92 0.33 3.33 3.72 0.90 13.9 9.5 1.5 4.8 2.07   
+ 5. Cheongbae, Ulleung 3.46 2.72 0.26 2.72 3.25 0.84 11.8 7.8 1.5 3.4 2.05   
+ 6. Cheongri, Hoengseong 2.95 3.83 0.25 2.76 2.90 0.95 10.7 7.6 1.4 5.1 2.48   
+ 7. Chungshilli, Keochang 4.71 4.82 0.31 4.44 3.95 1.13 13.2 6.6 2.0 7.5 2.42   
+ 8. Cheongshilli 4.29 4.85 0.31 3.65 3.25 1.12 13.9 8.5 1.6 5.2 3.05   
+ 9. Cheongseori 3.81 4.90 0.35 4.13 3.81 1.08 12.8 7.8 1.6 4.8 2.51   
+10. Cheongdangrori 3.09 2.59 0.22 3.51 2.85 1.23 11.3 5.9 1.9 4.0 2.48   
+11. Tunggeullaebae 3.79 4.88 0.29 4.12 3.48 1.18 13.9 7.1 2.0 6.0 2.20   
+12. Kkulbae 3.94 3.36 0.34 4.05 3.50 1.16 13.2 6.5 2.0 5.3 1.98   
+13. Hwangbae, Koesan 3.74 5.12 0.29 3.63 3.33 1.09 14.2 8.4 1.7 6.5 2.45   
+14. Hwangshilli, Andong 3.60 3.33 0.26 3.04 3.05 1.00 13.1 7.8 1.7 6.0 1.89   
+15. Hwangshilli 3.65 3.31 0.34 3.52 3.27 1.08 14.3 8.1 1.8 5.5 2.47   
+16. Suhyangri, Pyeongchang 3.94 4.41 0.26 3.76 3.30 1.14 11.3 6.3 1.8 4.0 2.23   
+17. Satangbae 3.52 3.45 0.33 3.70 4.01 0.92 12.8 7.5 1.7 4.8 2.70   
+18. Yeongmokri 3.82 5.63 0.31 3.75 3.82 0.98 12.8 7.6 1.7 5.2 2.55   
+19. Ingyebae 4.40 4.77 0.28 3.52 3.12 1.13 13.8 8.1 1.7 7.3 3.05   
+20. Baili 3.77 4.18 0.25 2.95 2.93 1.01 11.3 6.2 1.8 5.4 3.12   
+21. Jokoku 3.81 4.49 0.39 4.35 3.25 1.34 15.4 10.7 1.5 6.1 2.62   
+22. Tsuli 4.03 4.51 0.36 4.74 3.31 1.43 17.7 11.7 1.6 7.1 2.53   
+23. Yali 3.75 5.46 0.26 4.14 2.96 1.40 15.3 9.7 1.6 6.7 3.06   
+24. Shinchu 3.04 5.15 0.22 2.53 2.70 0.95 14.2 8.7 1.6 4.4 2.28   
+25. Chojuro 2.92 3.64 0.25 2.79 2.98 0.94 13.0 8.9 1.5 3.4 2.16   
+26. Imamuraaki 3.97 2.82 0.32 3.73 3.86 0.94 13.5 9.2 1.5 4.1 2.94   
+27. Okusankichi 3.46 4.27 0.28 3.84 3.59 1.07 14.6 9.5 1.6 5.3 2.40   
+28. Choju 3.44 4.41 0.30 3.20 3.56 0.90 14.3 9.4 1.5 5.6 3.04   
+29. Hakataao 2.93 3.57 0.41 3.69 3.61 1.03 14.4 9.8 1.5 5.4 2.90   
+30. Kumoi 3.06 5.93 0.30 3.40 3.62 0.94 15.0 9.9 1.5 5.2 2.26   
+31. Matsushima 4.20 4.61 0.34 4.50 3.89 1.15 15.9 8.6 1.9 6.6 2.28   
+32. Sagami 3.71 3.81 0.26 2.69 2.75 0.98 13.3 8.7 1.5 3.3 1.88   
+33. Seigyoku 3.83 4.25 0.24 3.13 3.35 0.93 13.9 9.0 1.5 4.2 1.88   
+34. Shinsetsu 3.51 4.61 0.26 3.16 3.05 1.01 13.8 8.3 1.7 3.3 1.68   
+35. Taihei 3.35 3.75 0.27 2.50 3.14 0.79 11.4 7.1 1.6 4.9 2.30   
+36. Tosa 4.16 4.36 0.35 4.38 3.58 1.22 16.7 9.0 1.9 5.7 2.38   
+37. Shinsui 3.54 2.64 0.32 3.00 3.49 0.86 14.0 9.4 1.5 4.1 2.14   
+38. Kosui 3.86 3.70 0.30 2.76 3.02 0.92 16.3 9.8 1.7 4.6 1.99   
+39. Hosui 4.15 4.06 0.26 2.64 2.70 0.98 13.7 8.1 1.7 3.0 1.99   
+40. Niitaka 3.67 3.49 0.29 3.25 3.15 1.03 13.8 9.4 1.5 2.3 1.52   
+41. Shinko 3.62 3.46 0.25 2.47 2.52 0.98 13.8 7.9 1.7 5.8 2.13   
+42. Hori 4.02 4.50 0.27 3.11 2.86 1.09 13.0 9.2 1.4 5.4 3.04   
+43. Shichiho 4.18 4.69 0.33 4.57 3.75 1.22 16.2 8.5 1.9 6.7 2.49   
+44. Kobi 4.24 3.25 0.29 2.80 2.91 0.96 12.3 8.5 1.5 4.9 3.35   
+45. Hattatsu 3.76 3.10 0.31 3.50 3.37 1.04 15.3 9.7 1.6 5.4 3.10   
+46. Kako 3.94 5.63 0.32 4.66 3.14 1.48 16.1 8.9 1.8 6.4 3.92   
+47. Senken 3.47 3.54 0.30 2.76 2.75 1.01 14.9 8.4 1.8 4.7 2.84   
+48. Kamiri 3.36 3.26 0.32 3.60 3.29 1.09 12.6 7.5 1.7 4.8 3.03   
+49. Tanbae 2.96 4.00 0.28 3.59 3.66 0.98 12.9 8.3 1.6 4.9 2.37   
+50. Hwangkeumbae 3.88 3.01 0.29 3.36 3.43 0.98 11.7 8.2 1.4 5.5 1.59   
+51. Yeongsanbae 3.19 3.66 0.22 3.27 3.18 1.03 11.8 6.6 1.8 6.0 2.34   
+----------------------------------------------------------------------------------------------------
+zSee Table 3.                     
+  成葉 엽병 길이는 논산콩배에서 2.5 cm로 가장 짧았으며, 거창靑實梨에서 7.5 cm이고 인계배에서 7.3 cm로 길었는데, 큰 잎을 가진 분류군일수록 葉柄 또한 긴 편이었다.    
+  이상의 59가지 형태 형질 간의 상관관계를 나타낸 것이 부표 5이다.   
+  유과 과피의 광택 정도(표3의 형질 16)와 유과 과피 상의 과점 발생 정도(형질 17) 간에는 고도로 유의한 부의 상관(r = -0.714)이 있어, 과점 발생이 많을수록 광택은 나빠지는 것으로 나타났다. 유과 과고(형질 52)와 엽장(형질 55), 성엽의 엽병장과의 상관 계수는 각각 r = 0.617, 0.542였는데, 배나무에서는 큰 잎을 가진 것일수록 유과의 크기가 큰 것으로 나타났다.  
+  59개 형태 형질 중 15개 이상의 형질들과 높은 상관관계를 보였던 형질은 화경상 털 발생 정도(형질 3, 4) 유과 과형(형질 15) 엽선 모양(형질 24) 화판 길이(형질 46) 유과 과고(형질 52) 유과 과형 지수(형질 54) 등의 7개였으며, 반대로 2개 이하의 형질과 높은 상관관계를 보였던 형질은 악편 표면의 털 발생 정도(형질 5) 葯色(형질 8) 화반 바탕색(형질 12) 유과 과피 광택 정도(형질 16) 엽형(형질 23) 엽병 裏面과 表面色(형질 34, 35) 등의 7개였다. 
+
+   1.3 集塊分析 
+  이상의 59가지 形態 形質 값을 표준화한 후 SPSS/PC+의 비가중평균결합법에 의한 집괴분석으로 얻은 51개 분류군들에 대한 樹枝圖가 그림 4로, 유클리드 距離 10.5를 기준으로 할 때 51개 분류군은 7개 군으로 분류될 수 있었다.   
+  제1군에는 중국배인 中國梨種 慈梨 鴨梨와, 이십세기와 鴨梨 慈梨 등의 교잡종인 七寶 花虹, 그리고 특이하게 일본 재래종 배로 알려져 있는 土佐가 포함되어 있었다.  또한 진유에 금촌추를 교배하여 얻었던 松島와 우리 나라 재래배인 청실리, 인계배, 거창청실리가 포함되어 있었다. 
+  여기에서 土佐와 松島가 중국배와 대단히 밀접한 분류적 관계를 나타내고 있었던 것은 그림 3에서와 같이 유과 과형 및 크기를 비롯한 유과 관련 형질들이  분류에 상당히 큰 영향을 미치고 있기 때문인 것으로 생각되었다. 또한 이러한 결과는 梶浦 등(1979)이 동아시안 산 142품종의 과실 내 당 함량을 이용한 주성분분석에서 일본 재래종 품종중에는 중국배와 분류적 관계가 깊은 품종이 존재할 가능성이 높다는 보고 내용과도 어느 정도 일치한다. 
+
+                                           Euclidean distance 
+                           3.75 5.0       7.5      10.0      12.5 20.0      22.5 
+Group Taxon              No.+----+---------+---------+---------+-//-+---------+
+    +-Matsushima         31 -+                         .   
+    |                        +-+                       .
+    | Shichiho           43 -+ +-----------------+     .Distance=10.5
+    |                          |                 |     .
+    | Tosa               36 ---+                 |     .
+    |                                            ++    .
+    | Jokoku             21 --+                  ||    .
+    |                         +-------------+    ||    .
+    | Tsuli              22 --+             |    ||    .
+   I|                                       +----+|    .
+    | Yali               23 ----------+     |     |    .
+                                      +-----+     +----.+
+    | Kako               46 ----------+           |    .|
+    |                                             |    .|
+    | Cheongshilli        8 --------+             |    .|
+    |                               +------------+|    .|
+    | Ingyebae           19 --------+            ||    .|
+    |                  z                         ++    .|
+    +-Cheongshilli (KC)   7 ---------------------+     .|
+                                                       .|
+    +-Chambae             3 ----------------+          .|
+  II|                                       +----------.+
+    +-Yeongmokri         18 ----------------+          .|
+                                                       .|
+    +-Satangbae          17 -------------------------+ .|
+ III|                                                +-.+
+    +-Hwangkeumbae       50 -------------------------+ .|
+                                                       .|
+    +-Choju              28 ---------------+           .|
+    |                                      +----+      .|
+    | Senken             47 ---------------+    |      .|
+    |                                           |      .+-+
+    | Taihei             35 ------------+       |      .| |
+    |                                   +--+    |      .| |
+    | Hosui              39 ------------+  +--+ |      .| |
+    |                                      |  | |      .| |
+    | Okusankichi        27 ---------------+  | |      .| |
+    |                                         | |      .| |
+    | Chojuro            25 -------+          | |      .| |
+    |                              +---+      | |      .| |
+    | Niitaka            40 -------+   +--+   | +--+   .| |
+    |                                  |  |   ++|  |   .| |
+    | Shinsetsu          34 -----------+  |   |||  |   .| |
+    |                                     +-+ |||  |   .| |
+    | Yeongsanbae        51 --------------+ | |||  |   .| |
+    |                                     | ++|||  |   .| |
+    | Tanbae             49 --------------+ |||||  |   .| |
+    |                                       |++||  |   .| |
+    | Kumoi              30 ----------------+| ||  |   .| |
+    |                                        | ++  |   .| |
+    | Shinchu            24 -----------------+ |   |   .| |
+    |                                          |   |   .| |
+    | Cheongbae (UL)      5 ------+            |   +--+.| |
+    |                             +-----------+|   |  |.| |
+    | Shinsui            37 ------+           ||   |  |.| |
+    |                                         ||   |  |.| |
+    | Cheongri (HS)       6 -------------+    ++   |  |.| |
+    |                                    +--+ |    |  |.| |             
+  IV| Kamiri             48 -------------+  | |    |  |.| +------------+       
+    |                                       +-+    |  |.| |            |       
+    | Hakataao           29 ----------------+      |  |.| |            |       
+    |                                              |  |.| |            |       
+    | Kobi               44 -------------+         |  |.| |            |       
+    |                                    +-------+ |  | | |            |       
+    | Hattatsu           45 -------------+       | |  ++| |            |       
+    |                                            | |  ||| |            |       
+    | Imamuraaki         26 ----------------+    +-+  ||| |            |       
+    |                                       +--+ |    ||| |            |       
+    | Hori               42 ----------------+  | |    ||| |            |       
+    |                                          +-+    ||| |            |       
+    | Baili              20 -------------------+      ||| |            |       
+    |                                                 ||| |            |       
+    | Sagami             32 ---------------------+    ||| |            |       
+    |                                            +---+||| |            |       
+    | Seigyoku           33 ---------------------+   |||| |            |       
+    |                                                |||| |            |       
+    | Sandolbae           2 ----------+              |||| |            |       
+    |                                 +------------+ |||| |            |       
+    | Shinko             41 ----------+            | ++|| |            |       
+    |                                              | | || |            |       
+    | Tunggeullaebae     11 ----------+            | | ++ |            |       
+    |                                 +------+     | | |  |            |       
+    | Kkulbae            12 ----------+      +-+   +-+ |  |            |       
+    |                                        | |   |   |  |            |       
+    | Suhyangri (PC)     16 -----------------+ |   |   |  |            |       
+    |                                          |   |   |  |            |       
+    | Hwangbae (KS)      13 ---------+         +---+   |  |            |       
+    |                                +-+       |       |  |            |       
+    | Hwangshilli (AD)   14 ---------+ +-----+ |       |  |            |       
+    |                                  |     | |       |  |            |       
+    | Hwangshilli        15 -----------+     +-+       |  |            |       
+    |                                        |         |  |            |       
+    +-Cheongseori         9 -----------------+         |  |            |       
+    +-                                                 |  |            |       
+   V+-Cheongdangrori     10 ---------------------------+  |            |       
+                                                       .  |            |       
+    +-Cheongbae (CS)      4 ---------------------+     .  |            |       
+  VI|                                            +-----.--+            |       
+    +-Kosui              38 ---------------------+     .               |       
+    +-                                                 .               |       
+ VII+-Pea pear (NS)       1 ---------------------------.---------------+       
+Group Taxon              No.+----+---------+---------+---------+-//-+---------+
+                           3.75 5.0       7.5      10.0      12.5 20.0      22.5
+                              
+ Fig. 4. Dendrogram obtained from UPGMA cluster analysis based on
+        Euclidean distance using 59 morphological characters of 51 taxa 
+        in genus Pyrus.
+         zSee Table 2 for full name of collected locality within parenthesis.
+  특히 청실리와 낮은 유클리드 거리에서 동일 단위군을 형성하고 있는 인계배는 대부분의 형태 형질이 본 연구에 공시된 청실리와 동일하였다.  그러나 본 연구에 공시된 청실리는 P. ussuriensis var. ovoidea Rehd.보다 더 큰 葉과 과실을 가지고 있었기 때문에 인계배와 청실리는 P. ussuriensis var. ovoidea Rehd.의 한 forma 수준에 위치한다고 판단되었다. 
+  또한 청실리와 동일 분류군 또는 유사 분류군일 것으로 예상되었던 거창靑實梨가 비록 제1군 내의 동일 소군 내에 포함되어 있었지만 이들은 분명 동일한 것은 아니었다.  이들 두 분류군 간에 가장 뚜렷한 차이를 보였던 형질로는 피목의 발생 정도, 경와부 융기 유무, 화판 수 및 엽병 길이, 엽 길이에 대한 폭의 比 등이었다.  즉 거창청실리는 청실리에 비해 유과 상의 피목이 덜 발생되었으며, 경와부 및 체와부가 융기된 형태였고, 화판 수가 5장 정도로 반겹꽃이 아니었다. 또한 거창청실리가 엽장과 엽폭의 比가 2.0인데 반해 청실리는 1.6으로 차이가 있었는데, 후자는 전자에서와 같은 장타원형의 葉을 결코 가지고 있지 않아 中井(1976)가 기재한 P. ovoidea Rehd.와 근접하였던 것은 청실리였다.  
+  그러나 거창청실리는 엽형이 장난형이며, 성숙된 과실의 체와부가 편평하고, 경와부가 함입되어 있으며, 황숙 또는 홍숙되는 과실은 감미가 높고, 산미가 없으며, 석세포가 적으면서 향기를 발한다는 점 등에서, 이 분류군은 植木(1921)가 기재하였던 扁平種의 黃梨인 P. ussuriensis var. ovoidea f. dulcissima Uyeki와 동일한 것으로 판단되었다. 
+ 제2군에는 영목리와 참배가 포함되었는데, 참배의 경우 中井(1976)나 李(1985)가 기재하고 있는 내용과는 다소 차이점이 있었다.  즉, 그들은 葉 兩面에 털이 없고, 葉柄이 2.5～5 cm로 無毛이며, 果梗이 6 cm에 달하는 것으로 기재하고 있으나, 본 연구에 供試된 것은 葉과 葉柄에 털이 密生하고 있었으며, 葉柄이 成葉의 경우 6.8 cm이고, 果梗이 3.5 cm 정도였다. 그러나 경와부와 체와부가 함입되어 있으며, 편원형의 유체종이라는 점에서는 일치하고 있었다.   
+  비록 형태 형질을 이용한 집괴분석에는 공시되지 않았지만 과수연구소에서 보존 중인 해남참배가 中井(1976)가 기재하고 있는 참배의 原圖와 대단히 유사하여, 이것이 참배(P. macrostipes Nakai)일 가능성이 대단히 높았다.  그러나 이 두 가지 분류군들 간의 가장 큰 차이점은 해남참배가 거치 높이가 매우 낮은 침상거치연을 가지는데 반해, 참배는 거치의 높이 매우 높은 세예거치연을 가지고 있다는 점이었다. 
+  한편 유체종이면서 圓錐狀 단타원형으로 체와부와 경와부가 깊게 함입된 대과성, 갈색배인 영목리가 참배와 동일한 군을 형성하였던 점은 다소 특이한 결과였다. 
+  제3군에는 成熟果의 과피색이 연황녹 색인 청배이고, 무체종이며, 과형이 원형인 사탕배와 황금배가 포함되어 있었다. 이러한 결과는 P. ussuriensis Maxim.과 어느 정도의 유전적 관계를 가지고 있는 이십세기가 P. lasioyna var. lanuginosa Nakai라는 독립된 종으로 분류되어 있는 점(上原, 1971; 梶浦, 1983)과 일치된다고 판단되었다.   
+  제4군에는 일본배들이 포함된 소군과 우리 나라 재래배들이 포함된 소군으로 구성되어 있었다.  제1소군에는 우리 나라 지방 수집 분류군인 울릉청배, 횡성청리와 장십랑, 만삼길을 비롯한 대부분의 일본배가 포함되었다.  또한 금촌추, 백리, 중국배와 일본배의 교잡종인 항미 팔달 봉리 등의 분류군들이 동일한 제4군 내에 포함되었으나, 그들과는 다소 먼 분류적 관계를 나타내었다.  제2소군에는 산돌배, 둥글래배, 꿀배, 평창수향리, 황실리, 청서리 등의 우리 나라 재래배와 상모, 청옥, 신흥과 같은 일본배 몇 품종이 포함되어 있었다. 
+  제4군에서 중국배가 아닌 일본배와 동일 군을 형성하였던 백리는 과폭을 제외하면(P. bretschneideri Rehd.의 과폭은 2.5～3.0 cm임), 과실의 감미가 대단히 높고(糖度 16.5～18.5oBx), 葉이 무모에 가까우며, 불완전한 침상거치연을 가진 무체종으로서, 이는 기재 내용(Rehder, 1915; Bailey, 1953; 上原, 1971; 中村, 1978)으로 비교된 중국 백리(P. bretschneideri Rehd.)와 일치하였다. 그러나 중국 북부 및 만주 산의 재래 품종 중에는 白梨 紅梨 圓把梨 등과 같이 P. bretschneideri Rehd.에 속하는 품종들이 많이 있으며(菊池, 1924; 兪, 1974), 고려백리(P. rufa Nakai)와는 비슷하나 중국의 재배 품종인 白梨(P. rufa var. Paili Nakai)의 과실 크기가 길이 8 cm, 폭 7 cm이고, 엽장 11 cm, 엽폭 8 cm라고 기재된 바 있다(中井, 1935a). 따라서 본 연구에 공시된 백리는 성숙된 과실 길이와 폭이 5.5～8 cm 범위이고, 나머지 형태 형질이 중국의 재배 품종의 하나인 白梨에 대한 기재 내용과 동일하였던 점으로 미루어 보아 이것은 P. rufa var. Paili Nakai일 것으로 추정되었다. 
+  그러나 中井(1935b)는 이 재배 품종과 P. bretschneideri Rehd.와의 관계에 대해서는 명백히 하지 않았다. 하지만 P. bretschneideri Rehd.가 만주에 자생하는 야생종 콩배인 P. betulaefolia Bunge와 P. ussuriensis Maxim.(上原, 1971)이나 P. pyrifolia(Shen, 1980)와 같은 재배종 품종과의 교잡종일 가능성이 높은 것으로 보고되어 있는 점으로 미루어 볼 때, P. bretscheneideri Rehd.의 재배 품종인 백리와 P. rufa var. Paili Nakai는 동일한 것일 가능성이 대단히 높은 것으로 판단된다. 
+  제4군의 2소군 내에 포함되었던 황실리는 성숙된 과실이 향기를 가지며, 과피 일부가 홍숙하는 난형의 대과성 배라는 점에서 植木(1921)가 기재하고 있는 P. ussuriensis var. ovoidea f. major Uyeki에 해당되는 것으로 생각되었다. 
+  또한 황실리나 안동황실리와 가장 깊은 분류적 관계를 나타내었던 괴산황배는 성숙 시의 과형이 난형으로 경와부가 깊게 함입되고, 체와부가 다소 함입되어 있을 뿐 아니라, 과육이 단단하면서 향기를 가지며, 산미가 다소 강하고, 석세포가 많았다는 점으로 보아 植木(1921)가 기재한 P. ussuriensis var. ovoidea f. ovata Uyeki와 동일한 것으로 판단되었다. 
+  그러나 안동황실리는 성숙된 과실의 체와부에 악편이 남지 않는 무체종이며, 단단한 과육 내에 석세포가 대단히 많고, 향기가 없으며, 감미와 산미가 적은 녹갈색으로 익는 난형의 분류군이라는 점에서 괴산황배나 황실리와는 깊은 분류적 관계를 가지고 있지 않았다.  또한 이 분류군은 植木(1921)가 기재하고 있는 재래배 그 어느 것에도 해당되지 않았다.  
+  한편 지금까지 우리 나라 在來배라고 추정되고 있는 꿀배, 둥글래배, 평창수향리, 청서리(韓國園藝發達史編纂委員會, 1980)는 제4군의 2소군 내의 황실리 계통과 깊은 분류적 관계를 나타내고 있으나 이들 역시 植木가 기재하고 있는 그 어느 재래배에도 해당되지 않았다.  그러나 이들 모두는 체와부에 악편이 남는 유체종이며, 거치가 잘 발달되어 있는 분류군이라는 점으로 미루어 볼 때,  이들은 분명 P. ussuriensis Maxim. 종 내에 포함되는 분류군들이었다.  
+  그러나 분류적 관계가 깊었던 꿀배와 둥글래배는 과정부가 융기되어 있는 중대과성 배로 황실리, 평창수향리, 청서리와는 다른 계통이었다.   특히 꿀배는 과실이 갈녹색으로 익으며, 특유의 향기가 있는 단단한 과육을 가지며, 감미가 높고, 산미가 적은 특징을 가지고 있다.  따라서 梶浦(1983)가 P. bretschneideri Rehd.의 한 품종으로 소개하고 있는 蜜梨가 본 연구에 供試된 꿀배와 서로 동일한 것일 가능성도 있다.  그러나 그것의 형태 형질에 대한 기재 내용을 찾을 수 없었으므로,  이 점에 대해서도 앞으로의 비교 조사가 있어야 할 것이다. 
+  평창수향리는 유체종으로 연황녹색 때로는 홍색을 띠는 과피를 가지며, 다소 단단한 과육은 산미가 적고, 감미와 향기가 다소 있는 타원형 내지 장타원형의 과형을 가지는 분류군이라는 점에서 개량된 종임을 짐작할 수 있다.  그러나 평창수향리 역시 王(1988)이 P. bretschneideri Rehd.의 한 품종으로 소개하고 있는 栖霞香水梨와 대단히 유사하였다.  
+  청서리는 과형이 광난원형으로 체와부와 경와부가 깊게 함입 되지 않은 유체종이며, 다소 연한 과육에는 석세포가 많으며, 감미와 산미가 적고, 과즙이 다소 많은 중～소과성 분류군이었다.   
+  또한 우리 나라와 만주가 원산지인 산돌배가 일본배 품종들과 同一群을 형성하고 있는 점은 다소 특이한 결과였다.  中井(1976)의 산돌배(P. ussuriensis Maxim.)에 대한 기재 내용을 보면 葉 裏面 花梗과 악편에 털이 없고, 葉柄이 길며, 花梗이 3.5 cm 정도라고 기재하고 있는데, 본 연구에서의 조사 결과 葉柄이 6.8 cm, 花梗이 3.5 cm로 그의 보고 내용과는 대부분 일치하였다. 그러나 葉 裏面, 花梗, 악편에 털이 많거나 密生하고 있었다. 하지만 中井(1976)가 종을 기재함에 있어서 사용한 털 발생 정도에 대한 기재 기준이 본 연구에서의 그것과 다를 가능성도 있기 때문에 털 발생 정도에 있어서의 차이만으로 기재 내용을 판단하는 것에는 곤란한 점이 있을 것으로 생각되었다. 
+  이러한 차이 외에도 中井(1976)가 기재하고 있는 산돌배와 본 연구에 공시된 산돌배 간의 가장 큰 차이점은 中井의 시료에서는 거치의 침 발달이 대단히 잘 되어 있었던 점이다. 반면, 본 연구에 공시된 것은 거치는 잘 발달되어 있었지만 침의 발달은 대단히 빈약하였다. 그렇지만 中井(1976)가 7월에 채집하였던 P. montana의 과실에는 악편이 존재치 않았다는 점으로 미루어 볼 때, 본 연구에 공시된 산돌배가 유체종이었으므로, 이 분류군은 적어도 우리 나라의 남부 지방에 자생하는 것으로 알려져 있는 돌배는 아니었다.
+  菊池(1924)는 만주나 시베리아 원산의 산돌배는 果梗이 대단히 짧은 특징을 가지고 있으나 우리 나라의 산돌배 중에는 3 cm 이상의 果梗을 가지고 있는 것도 있다고 보고하였는데, 본 연구에서 조사된 것은 幼果 時의 果梗이 4.8 cm로 길어 그의 보고 내용과 일치하고 있다. 따라서 본 연구에 供試된 산돌배는 P. ussuriensis Maxim.이 아니었으며, 과실의 크기만을 제외하면 植木(1921)가 기재하였던 P. ussuriensis var. typica f. Shuli Uyeki에 근접한 종이었다. 
+  그러나 기후 조건의 상이함이 果形 변화를 초래하듯이(石原, 1926; Kikuchi, 1925),  기후 조건이나 토양 조건의 상이함이 수체 생장에 큰 영향을 미쳐 식물체 각부의 크기에도 영향할 수 있기 때문에, 그들이 유전적으로 서로 다른 분류군이라고 단정할 수는 없다.  
+  제5군에서 독립된 군을 형성하였던 청당로리는 악편이 남는 유체종이면서, 엽 크기가 작고, 과형이 특이하게 원추형에 가까웠다.  특히 엽연의 거치 및 거치 上의 침 길이는 대단히 짧아 거의 全緣에 가까운 특성을 나타내기도 하였으며, 더욱이 이 분류군은 왜화성을 보유하고 있는 것으로 보고되어 있다(朝鮮總督府 農事試驗場, 1931).  또한 菊池(1924)는 일본과 중국의 재배 품종 모두가 침상 거치연을 가지고 있으며, 이들 상호간의 교배로부터 얻어진 실생에서도 모두 침상거치연이 존재한다고 보고한 바 있다. 
+  이러한 사실들로 미루어 볼 때 청당로리는 P. pyrifolia Nakai나 P. ussuriensis Maxim. 내의 단순한 한 변종이라기 보다는 P. fauriei Schneid.와 같은 어떤 미지의 원시종과 P. ussuriensis Maxim. 내의 재배 품종과의 종간 잡종일 가능성이 높을 것으로 생각되었다. 이러한 종간 잡종은 배나무속 내 대부분의 종들이 동일한 염색체 수를 가지고 있다는 점에서 매우 자연적인 것이 될 수 있는데(Bell과 Hough, 1986; Thompson, 1981), 그러한 예가 P. bretschneideri Rehd.(Bell과 Hough, 1986; 堀內 등, 1991; 中村, 1978), P. serrulata Rehd.(Bell과 Hough, 1986), P. phaeocarpa Rehd.(Shen, 1980), P. shinkiangensis Y (Shen, 1980)이다.  
+  또한 植木(1921)가 기재하고 있는 靑過冬은 과형이 도란형이며, 거치가 대단히 잘 발달되어 있기 때문에 청당로리는 그것과는 다른 분류군임이 분명하였다. 
+  제7군에는 논산콩배가 다른 재배종 분류군과는 상당한 거리를 가지고 독립적인 군을 형성하고 있는데, 이는 Challice와 Westwood(1973)가 엽 내 phenol 화합물과 몇 가지 形態 形質의 분석에 의하여 얻었던 결과에서도 이미 지적하였 듯이 동아시아 산의 콩배나무로부터 대부분의 배나무속 식물이 분화되었다는 결과와 일치되는 결과이다. 
+  그러나 上原(1971)에 의하면 P. calleryana Decne.(Callery 콩배)는 葉長이 2～9 cm, 폭이 1.5～5.5 cm, 花徑이 2～2.5 cm인 반면, P. calleryana var. fauriei Nakai(Syn. P. fauriei Schneid.)는 葉長이 2.5～5 cm라고 기재하고 있다.  또한 北村과 村田(1980) 역시 Callery 콩배의 葉長이 3.5～8.5 cm, 葉柄 1.5～4 cm, 花梗 길이가 2～2.5 cm이고, 화주 기부가 無毛라고 기재하고 있다.   하지만 본 연구에서의 조사 결과 葉長이 7.0 cm, 葉幅이 3.9 cm, 花徑이 2.5 cm, 花梗 길이가 2.8 cm로, 본 연구에 供試된 논산콩배가 Faury 콩배라기보다는 Callery 콩배에 가까운 특성을 나타내었다. 이와 같은 결과는 Westwood(1968)가 한국의 콩배는 Callery 콩배가 아닌 Faury 콩배라는 사실과 일치되지 않고 있다. 그러나 Westwood(1968)가 보고한 Callery 콩배와 Faury 콩배의 生態的 차이들을 고려한다면 본 연구에 공시된 논산콩배는 Faury 콩배에 가까운 특성을 나타내고 있는데, 이는 곧 中井(1976)가 보고하였 듯이 우리 나라에는 P. calleryana Decne. 뿐만 아니라 P. fauriei Schneider 두 종이 공존하고 있을 가능성이 높을 것으로 생각되었다. 
+  그림 5와 6은 각각 39가지 질적 형태 형질과 20가지 양적 형태 형질을 이용하여 비가중평균결합법으로 집괴분석한 결과이다.
+  질적 형질을 이용한 집괴분석(그림 5)의 경우, 우리 나라 지방 수집종인 장성청배 울릉청배 횡성청리, 中國梨種, 慈梨, 白梨 등의 중국배, 거의 대부분의 일본배 들이 제1군을 형성하였다. 그러나 제3군에 포함되었던 참배와 영목리를 제외하면 우리 나라 재래배 모두는 鴨梨, 신흥, 상모, 청옥 등과 함께 독립적인 제2군을 구성하고 있었다. 
+  양적 형질을 이용한 집괴분석(그림 6)에서는 대부분의 일본배들과 동일한 제 2군을 형성하였던 안동황실리, 참배, 산돌배, 울릉청배, 횡성청리를 제외하면 나머지 대부분의 우리 나라 재래배들은 중국배와 동일한 제1군을 형성하였다. 
+또한 청당로리는 재배종 분류군들과는 다소 먼 분류적 관계를 가지면서 독립적인 군을 형성하였다. 
+  이와 같이 두 가지 집괴분석 그 어느 경우에서나 많은 우리 나라 재래배들은 서로 깊은 분류적 관계를 나타내었으며, 우리 나라 재래배들은 중국배와 일본배의 특성을 겸비하고 있는 것으로 판단되었다. 이러한 결과는 우리 나라 재래배들이 중국배와 일본배의 가교적인 역할을 담당하고 있음을 시사한다. 
+                                         Euclidean distance 
+                         2.5       5.0       7.5      10.0      15.0      17.5
+Group Taxon            No.+---------+---------+---------+----//---+---------+
+    +-Jokoku           21 ----+                      
+    |                         +-----------+        .
+    | Tsuli            22 ----+           |        .Distance=8.25            
+    |                                     +---+    .
+    | Imamuraaki       26 --------------+ |   |    .
+    |                                   +-+   +-+  .
+    | Hori             42 --------------+     | |  .
+    |                                         | |  .
+    | Baili            20 --------------------+ |  .
+    |               z                           |  .
+    | Cheongbae (CS)    4 --------------+       |  .
+    |                                   +-----+ |  .
+    | Senken           47 --------------+     | +-+.
+    |                                         | | |.
+    | Cheongri (HS)     6 -------+            | | |.
+    |                            +----+       | | |.
+    | Shinsetsu        34 -------+    |       | | |.
+    |                                 +-+     | | |.
+    | Hattatsu         45 ----------+ | |     | | |.
+    |                               +-+ |     | | |.
+    | Kako             46 ----------+   +----++-+ |.
+    |                                   |    ||   |.
+    | Kobi             44 -------------+|    ||   |.
+    |                                  ++    ||   |.
+    | Kamiri           48 -------------+     ||   |.
+    |                                        ||   |.
+    | Cheongbae (UL)    5 ---------+         ||   |.
+    |                              +---------+|   |.
+    | Shinsui          37 ---------+         ||   |.
+    |                                        ++   |.
+    | Taihei           35 -----+             |    |.
+   I|                          +-----+       |    |.
+    | Hosui            39 -----+     +---+   |    |.
+    |                                |   |   |    |
+    | Okusankichi      27 -----------+   ++  |    ++
+    |                                    ||  |    ||
+    | Shinchu          24 ---------------+|  |    ||
+    |                                     |  |    ||
+    | Hakataao         29 ------------+   +--+    ||
+    |                                 +--+|       ||
+    | Kosui            38 ------------+  ||       ||
+    |                                    ||       ||
+    | Chojuro          25 ------+        ||       ||
+    |                           +---+    ++       ||
+    | Niitaka          40 ------+   |    |        ||
+    |                               +-+  |        ||
+    | Yeongsanbae      51 ----------+ |  |        ||
+    |                                 +-+|        ||
+    | Kumoi            30 ------------+ ++        ||
+    |                                   |         ||
+    | Tanbae           49 --------------+         ||
+    |                                             ||
+    | Matsushima       31 ----+                   ||
+    |                         +--+                ||
+    | Tosa             36 ----+  +---------+      ||
+    |                            |         |      ||
+    | Shichiho         43 -------+         +------++-+
+    |                                      |       | |
+    +-Choju            28 -----------------+       | |
+                                                   | |
+    +-Hwangbae (KS)    13 ---------+               | |
+    |                              +--+            | |
+    | Hwangshilli (AD) 14 ---------+  +-------+    | |
+    |                                 |       |    | |
+    | Hwangshilli      15 ------------+       +-+  | |
+    |                                         | |  | |
+    | Suhyangri (PC)   16 ----------------+   | |  | |
+    |                                     +---+ |  | |
+    | Seigyoku         33 ----------------+     |  | |
+    |                                           |  | |
+    | Tunggeullaebae   11 -----------+          |  | |
+    |                                +--------+ |  | |
+    | Kkulbae          12 -----------+        | |  | |
+    |                                         | |  | ++
+    | Cheongshilli (KC) 7 ------------+       +-+  | ||
+    |                                 +------+| ++ | ||
+  II| Yali             23 ------------+      || || | ||
+    |                                        || || | ||
+    | Cheongshilli      8 -----------+       ++ || | ||
+    |                                +----+  |  || | ||
+    | Ingyebae         19 -----------+    |  |  || | ||
+    |                                     |  |  || | ||
+    | Sandolbae         2 ---------+      +--+  || | ||
+    |                              +-----+|     |+-+ ||
+    | Shinko           41 ---------+     ++     || . |+--------------+       
+    |                                    |      || . ||              |
+    | Cheongseori       9 ---------------+      || . ||              |       
+    |                                           || . ||              |
+    | Cheongdangrori   10 ----------------------+| . ||              |       
+    |                                            | . ||              |
+    +-Sagami           32 -----------------------+ . ||              |       
+                                                   . ||              +-
+    +-Chambae           3 ------------+            . ||              |       
+ III|                                 +------------.-+|              |
+    +-Yeongmokri       18 ------------+            .  |              |       
+    +-                                             .  |              |
+  IV+-Satangbae        17 -------------------------.+ |              |       
+    +-                                             .+-+              |
+   V+-Hwangkeumbae     50 -------------------------.+                |       
+    +-                                             .                 |
+  VI+-Pea pear (NS)     1 -------------------------.-----------------+       
+Group Taxon            No.+---------+---------+---------+----//---+---------+
+                         2.5       5.0       7.5      10.0      15.0      17.5
+                                                                                
+ Fig. 5. Dendrogram obtained from UPGMA cluster analysis based on 
+        Euclidean distance using 39 qualitative morphological characters 
+       of 51 taxa in genus Pyrus.
+        zSee Table 2 for full name of collected locality within parenthesis.                     
+                                            Euclidean distance 
+                            0        2.5       5.0       7.5      12.5      15.0
+Group  Taxon             No.+---------+---------+---------+---//----+---------+
+    +- Matsushima        31 -----+                                                     
+    |                            +-+                .
+    |  Shichiho          43 -----+ +-------+        .Distance=6.0
+    |                              |       |        .
+    |  Tosa              36 -------+       +--+     .
+    |                   z                  |  |     .
+    |  Cheongshilli (KC)  7 ---------------+  |     .
+    |                                         |     .
+    |  Kkulbae           12 -------------+    +--+  .
+    |                                    +--+ |  |  .
+    |  Suhyangri (PC)    16 -------------+  | |  |  .
+    |                                       | |  |  .
+    |  Hwangshilli       15 ------------+   | |  |  .
+    |                                   +-+ | |  |  .
+    |  Okusankichi       27 ------------+ | +-+  |  .
+    |                                     ++|    |  .
+    |  Tunggeullaebae    11 ------------+ |||    |  .
+    |                                   +-+||    ++ .
+   I|  Hwangbae (KS)     13 ------------+  ++    || .
+    |                                      |     || .
+    |  Cheongseori        9 ---------------+     || .
+    |                                            || .
+    |  Yeongmokri        18 ---------------------+| .
+    |                                            || .
+    |  Cheongshilli       8 ---------+           || .
+    |                                +---------+ || .
+    |  Ingyebae          19 ---------+         | ||   
+    |                                          +-++-+
+    |  Hori              42 ----------------+  |  | | 
+    |                                       +--+  | | 
+    |  Kobi              44 ----------------+     | | 
+    |                                             | | 
+    |  Jokoku            21 ----------+           | | 
+    |                                 +------+    | | 
+    |  Tsuli             22 ----------+      |    | | 
+    |                                        +----+ | 
+    |  Yali              23 ------------+    |      | 
+    |                                   +----+      | 
+    +- Kako              46 ------------+           | 
+                                                    | 
+    +- Shinchu           24 --------------+         | 
+    |                                     +---+     | 
+    |  Kumoi             30 --------------+   |     | 
+    |                                         +---+ |   
+    |  Chojuro           25 ---------------+  |   | |   
+    |                                      +--+   | |   
+    |  Tanbae            49 ---------------+      | |   
+    |                                             | |   
+    |  Hwangshilli (AD)  14 -----------+          | |   
+    |                                  +--+       | |   
+    |  Yeongsanbae       51 -----------+  +-+     | +--+
+    |                                     | |     | |  |
+    |  Chambae            3 --------------+ +-+   | |  |
+    |                                       | |   | |  |
+    |  Baili             20 ---------------+| |   | |  |
+    |                                      ++ ++  | |  |
+    |  Taihei            35 ---------------+  ||  | |  |
+    |                                         ||  | |  |
+    |  Sandolbae          2 ------------------+|  | |  |
+    |                                          |  | |  |
+    |  Imamuraaki        26 -------------+     |  +-+  |
+    |                                    +--+  |  | |  |
+    |  Hattatsu          45 -------------+  |  |  | |  |
+    |                                       |  |  | |  |
+    |  Satangbae         17 -------------+  +--+  | |  |
+  II|                                    +-+|  |  | |  |
+    |  Kamiri            48 -------------+ ||  ++ | |  |
+    |                                      ++  || | |  |
+    |  Choju             28 ---------------+   || | |  |
+    |                                          || | |  |
+    |  Shinko            41 -----------+       || | |  |
+    |                                  +-----+ || | |  |
+    |  Senken            47 -----------+     | || | |  +-+
+    |                                        | || | |  | |
+    |  Shinsetsu         34 -----------+     | || | |  | |
+    |                                  +--+  | || | |  | |
+    |  Niitaka           40 -----------+  |  | || | |  | |
+    |                                     +--+ || | |  | |
+    |  Seigyoku          33 --------------+  | |+-+ |  | |
+    |                                     |  | ||   |  | |
+    |  Hosui             39 --------------+  +-+|   |  | |
+    |                                        |  |   |  | |
+    |  Cheongbae (UL)     5 ----------+      |  |   |  | |
+    |                                 +---+  |  |   |  | |
+    |  Shinsui           37 ----------+   |  |  |   |  | +--------------+         
+    |                                     +--+  |   |  | |              |         
+    |  Hwangkeumbae      50 --------------+  |  |   |  | |              |         
+    |                                        |  |   |  | |              |         
+    |  Sagami            32 -----------------+  |   |  | |              |         
+    |                                           |   |  | |              |         
+    +- Cheongri (HS)      6 --------------------+   |  | |              |         
+    +-                                              |  | |              |         
+ III+- Hakataao          29 ------------------------+  | |              +--       
+    +-                                              .  | |              |         
+  IV+- Cheongdangrori    10 ------------------------. -+ |              |         
+                                                    .    |              |         
+    +- Cheongbae (CS)     4 -----------------------+.    |              |         
+    |                                              +.----+              |         
+   V+- Kosui             38 -----------------------+.                   |         
+    +-                                              .                   |         
+  VI+- Pea pear (NS)      1 ------------------------.-------------------+         
+Group  Taxon             No.+---------+---------+---------+---//----+---------+
+                            0        2.5       5.0       7.5      12.5      15.0          
+
+ Fig. 6. Dendrogram obtained from UPGMA cluster analysis based on 
+        Euclidean distance using 20 quantitative morphological characters 
+        of 51 taxa in genus Pyrus.
+         zSee Table 2 for full name of collected locality within parenthesis.                     
+   1.4 主成分分析
+  표 7과 9의 59가지 형태 형질의 표준화된 자료를 이용한  주성분분석으로부터 얻어진 주성분들의 고유치(eigenvalue) 및 각 주성분의 기여도는 표 10과 같다. 
+
+Table 10. Eigenvalues of the first twenty principal components from PCA 
+          using 59 morphological characters of 51 taxa in genus Pyrus.     
+----------------------------------------------------------------------------------------
+                                       Principal components         
+                    --------------------------------------------------------------------
+ PC1 PC2 PC3 PC4 PC5 PC6 PC7 PC8 PC9 PC10
+----------------------------------------------------------------------------------------
+Eigenvalue 9.91 8.62 5.48 3.86 3.09 2.70 2.40 2.04 1.97 1.72
+Contribution (%) 16.8 14.6 9.3 6.5 5.2 4.6 4.1 3.5 3.3 2.9
+Cum. contribution 16.8 31.4 40.7 47.2 52.5 57.0 61.1 64.6 67.9 70.8
+----------------------------------------------------------------------------------------
+                                       Principal components         
+                   ----------------------------------------------------------------------
+ PC11 PC12 PC13 PC14 PC15 PC16 PC17 PC18 PC19 PC20
+----------------------------------------------------------------------------------------
+Eigenvalue 1.67 1.47 1.28 1.20 1.15 1.15 1.03 0.85 0.78 0.74 
+Contribution (%) 2.8 2.5 2.2 2.0 1.9 1.9 1.8 1.4 1.3 1.2 
+Cum. contribution 73.6 76.1 78.3 80.3 82.3 84.2 86.0 87.4 88.7 90.0
+----------------------------------------------------------------------------------------
+
+   각 주성분이 갖는 고유치의 전체 합은 주성분분석에 이용된 형질 수와 동일하므로, 제1주성분은 59개 형태 형질 중 약 10개의 형질을, 제2주성분은 약 9개의 형질을 대표하는 가상적인 새로운 변수가 된다. 따라서 최초의 20개 주성분은 약 53개의 형태 형질을 함축하여 90.0%의 기여도를 나타내었으며, 제5주성분까지의 누적 기여도가 52.5%로 전체 형질 중의 절반 이상을 함축하고 있었다.  또한 17번째 주성분까지 고유치가 1 이상으로 1개 이상의 형질을 함축하고 있었다. 
+   표 11은 주성분 부하량(component loading)을 나타낸 것으로, 이는 가상적인 개개의 주성분이 59개 형태 형질 중 어떤 형질을 함축하고 있는가를 추정 가능케 하는 개개 주성분과 원래 형태 형질 간의 상관 계수이다(Broschat, 1979; Iezzoni와 Pritts, 1991).  
+  제1주성분은 표3의 59개 형질 중 유과 과고(형질 52), 꽃의 크기(형질 49), 화판 길이(형질 46), 엽장(형질 45), 화판 폭(형질 47), 성엽의 엽병 길이(형질 58), 유과의 과경 폭(형질 51), 유과 과고와 과폭 간의 比(형질 54), 유과 과폭(형질 51)의 순서대로 높은 상관관계를 나타내었다. 
+
+Table 11. Loadings of principal components in 59 morphological characters.
+--------------------------------------------------------------------------------        
+                            Loadings of principal components
+        ------------------------------------------------------------------------ 
+Character PC1 PC2 PC3 PC4 PC5 PC6 PC7 PC8 PC9 PC10  
+----------------------------------------------------------------------------------------------------------------------
+X1z 0.0895 -.0425 0.2324 0.5790 -.0078 0.0498 0.0372 0.1783 -.2467 -.0776
+X2 -.0288 -.0220 0.4730 -.2105 0.3220 -.1213 0.1884 -.3199 0.1519 -.4085
+X3 0.2845 0.6954 0.2827 -.2052 0.2192 0.0979 -.1271 0.0709 -.0568 0.0169
+X4 0.4044 0.7280 0.1508 -.0396 0.1855 0.0088 -.0175 0.0722 -.1366 0.0325
+X5 -.0471 0.0437 -.0986 0.0777 0.4728 -.0502 -.5874 0.1478 -.1672 -.2364
+X6 -.0808 0.4422 0.1561 0.2695 0.0208 -.0401 0.0807 -.2461 -.4069 0.1854
+X7 0.2193 0.5615 0.1245 0.1455 -.2295 -.3581 0.1379 -.0741 -.1910 -.1365
+X8 0.2175 0.0541 0.0097 0.2521 0.2092 0.1529 0.1311 -.2818 0.3633 0.0891
+X9 -.5828 0.6034 -.3336 0.1693 -.1222 0.0251 0.0057 -.0430 0.0572 -.1892
+X10 0.0601 0.1690 -.2323 0.3171 -.6381 -.0672 0.3067 0.0520 0.1946 -.1516
+X11 0.5828 -.6034 0.3336 -.1693 0.1222 -.0251 -.0057 0.0430 -.0572 0.1892
+X12 0.1543 -.0162 0.0769 -.4009 0.1491 -.1815 0.4009 0.2287 -.0067 -.0448
+X13 -.2655 -.4795 0.0327 0.2543 0.0577 -.0462 -.1186 0.2895 0.2386 0.0658
+X14 -.2663 0.1173 0.1300 -.5014 0.1874 0.4268 -.0554 0.0558 -.1262 0.2842
+X15 0.4959 0.2544 -.4418 -.3314 0.1845 0.2321 -.1416 -.0449 -.0033 -.1065
+X16 0.0686 -.1113 0.1636 0.5524 0.2381 -.2108 -.2675 -.1449 0.3810 0.1187
+X17 -.2293 0.0081 -.0986 -.6069 -.3522 0.2565 0.0819 0.2626 -.2411 0.0530
+X18 0.4514 0.3502 -.3654 0.1404 0.1509 0.2498 -.2723 -.0758 -.0213 0.1537
+X19 0.5415 0.2805 -.3265 0.0647 0.0593 -.2598 -.1277 0.1901 -.1592 -.0488
+X20 0.0946 0.7367 0.3668 -.1329 0.1209 0.0717 0.0791 0.0058 -.0219 0.1415
+X21 0.2332 0.3814 -.1980 -.1642 -.2204 -.4253 0.0885 -.0096 -.2163 0.4368
+X22 -.0613 -.4906 -.1744 -.5339 -.0172 -.1058 0.0296 -.1171 0.3230 0.0253
+X23 -.0124 -.2050 0.4614 -.1369 -.0468 -.0984 0.3008 0.3026 -.2662 0.0083
+X24 -.6158 -.2831 -.1672 -.0588 -.0676 -.0497 -.1897 -.1324 -.0935 0.1094
+X25 -.4260 -.2079 0.4319 -.0965 0.0590 0.1327 -.2210 0.1558 -.1542 0.2235
+X26 0.3918 0.0023 0.5535 -.1716 0.1422 -.3692 -.1975 -.1122 0.0178 -.0305
+X27 0.0755 0.3355 0.5269 0.1699 -.3771 0.2593 -.1994 -.1079 0.1206 -.2372
+X28 0.2835 0.3581 0.5032 -.0027 -.3349 0.2677 -.2100 0.0442 0.0907 -.0253
+X29 0.1191 0.5573 0.5056 -.0559 -.2442 0.2326 -.0944 0.1560 0.1840 -.1863
+X30 -.1235 0.4358 0.5766 -.0671 0.0981 0.0636 0.1140 0.1914 0.3406 0.1635
+X31 0.1389 0.6597 0.5743 0.0268 0.0949 0.1464 0.0648 -.0036 0.1421 -.0392
+X32 0.5763 -.2832 0.0432 -.0109 -.2730 0.1412 0.0353 -.1600 0.1023 -.1591
+X33 0.0325 -.1796 -.5287 0.1763 -.1439 0.4564 0.3669 -.0910 -.1922 0.1033
+X34 -.0798 0.0577 -.4440 0.0032 0.3771 0.0104 0.1281 0.4961 0.2818 -.1241
+X35 -.0682 -.2028 -.0873 0.2193 0.2699 -.2311 0.1242 0.5461 0.3400 0.1164
+X36 0.2362 0.3781 -.1908 0.3072 -.3214 -.1659 0.0716 0.5103 0.0514 -.0025
+X37 -.5828 0.6034 -.3336 0.1693 -.1222 0.0251 0.0057 -.0430 0.0572 -.1892
+X38 0.2217 0.4739 0.3690 -.2914 0.0165 0.2855 0.2296 0.2541 0.0716 0.0462
+X39 0.4873 0.1169 -.3983 0.1260 0.1371 0.3450 0.3449 -.1880 -.0380 0.0006
+X40 -.2544 -.4346 0.2389 0.3875 0.1837 0.2685 0.3322 -.0394 -.0141 -.0175
+X41 0.1046 -.0778 0.2121 0.5997 0.1331 0.3299 -.1206 0.2969 -.2140 0.0952
+X42 0.4646 -.6705 0.2856 -.0110 0.0745 -.0049 -.0749 0.0486 -.1717 0.1633
+X43 -.2121 -.4428 0.3739 0.3673 -.0937 0.1984 -.0740 0.1035 -.1595 -.1400
+X44 0.3028 -.5343 0.2787 0.1646 -.4248 -.0278 0.1252 0.0277 0.0165 0.1660
+X45 0.5538 0.0639 -.1978 -.0140 -.1674 -.0086 -.2650 -.0405 0.2875 0.4722
+X46 0.7739y -.0177 0.0487 0.2382 0.3178 0.0248 0.1780 -.1280 -.0528 0.0372
+X47 0.6873 -.2195 0.2648 0.0723 0.1167 -.0535 0.1718 -.2185 0.0595 -.0139
+X48 0.2542 0.3754 -.3644 0.3276 0.4176 0.1058 0.0473 0.1241 -.1981 0.0604
+X49 0.7766 -.0771 0.0816 0.2595 0.2480 0.0213 0.1916 -.1242 -.0437 0.0543
+X50 0.4304 0.1868 -.1253 0.1351 -.4256 0.1935 -.2266 -.0326 0.3003 0.3955
+X51 0.6672 -.3810 0.0066 -.1215 -.0899 0.0138 -.0074 0.1557 -.1232 -.3146
+X52 0.8621 -.0210 -.1745 -.1766 -.0908 -.2105 -.0997 0.0572 -.0401 -.1222
+X53 0.6004 -.4376 0.1265 -.0560 -.1498 -.3250 0.0872 0.0978 -.0143 -.0481
+X54 0.6236 0.4190 -.3916 -.2104 0.0359 0.0342 -.2278 0.0094 -.0171 -.1249
+X55 0.6958 -.3425 -.0734 0.0183 -.2092 0.1340 -.3542 0.1179 -.0378 -.2082
+X56 0.4028 -.5827 -.1270 -.0942 -.1216 0.3651 -.3035 0.0979 -.0363 -.2013
+X57 0.2891 0.5299 0.0029 0.1188 -.0725 -.4763 -.0328 0.0312 -.0262 -.0119
+X58 0.6782 0.1192 -.0795 0.0538 -.1408 0.1123 0.2784 0.0135 -.0823 0.0007
+X59 0.4277 -.0840 -.2567 -.2233 0.2049 0.3022 0.2562 0.1167 0.3245 -.0790
+Eigenvalue 9.91 8.62 5.48 3.86 3.09 2.70 2.39 2.04 1.97 1.72   
+------------------------------------------------------------------------------------
+zThe related characters are the same as Table 3.
+yUnderlined loadings mean that character of row has higher correlation with PC of
+ column.
+  제2주성분은 유과 과경의 털 발생 정도(형질 20), 화경 상부 및 기부의 털 발생 정도(형질 4, 3), 화주 수(형질 42), 엽병 이면의 털 발생 정도(형질 31)의 순서대로 높은 상관관계를 나타내었으며, 제3주성분은 엽병 표면의 털 발생 정도(형질 30), 엽병 이면의 털 발생 정도(형질 31), 엽연 모양(형질 26), 거치의 침 길이(형질 32), 엽 표면 바탕의 털 발생 정도(형질 27)의 순서대로 높은 상관관계를 나타내었다. 
+  따라서 이들 20개 형태 형질이 배나무속 식물의 분류에 있어서 대단히 중요한 것으로 나타났다. 또한 제1주성분이 함축하고 있는 형질은 20가지 양적 형태 형질 중의 9가지로서 질적 형질보다는 양적 형질이 분류에 더 크게 기여하고 있음을 의미한다.    
+  표 12는 51개 분류군들이 갖는 주성분 득점치를 나타낸 것으로, 이는 기여도가 가장 높았던 2～3개의 주성분을 직교 축으로 하는 공간에 분류군들이 갖는 득점치를 배열시킴으로써 분류군들 간의 분류적 관계를 비교적 간단하게 알아볼 수 있게 해주는 것이기 때문에 품종군 분류에 있어서 중요한 자료로 활용된다. 이와 같은 51개 분류군들의 주성분 득점치를 제1주성분과 제2주성분, 제1주성분과 제3주성분을 각각 직교 축으로 하는 2차원 공간에 배열시킨 것이 그림 7, 8이다.   
+  그림 7에서 제1주성분의 득점치 0을 기준으로 하였을 때 득점치가 양인 영역에서는 중국배, 일본배와 중국배의 교잡종, 그리고 대부분의 우리 나라 재래종 배들과 특이하게 송도(31), 토좌(36)가 포함되었다.  득점치가 음인 영역에서는 산돌배(2), 참배(3)를 비롯한 울릉청배(5), 횡성청리(6), 청당로리(10), 안동황실리(14)와 같은 우리 나라 재래배와 거의 대부분의 일본배 품종들이 포함되었다. 
+  그러나 논산콩배(1)는 재배종 배와는 상당한 거리를 가지고 확연하게 구분되었고, 형태 형질을 이용한 집괴분석(그림 4)에서와 같이 청당로리(10)는 재배종 배들과는 다소 떨어진 곳에 위치하고 있어 이는 종 수준의 분류군일 것으로 판단되었다.
+  한편 제1주성분의 득점치가 양의 값을 가졌던 분류군들은 제2주성분의 득점치로는 뚜렷한 품종군 분류를 나타내지 못했지만(그림 7) 제3주성분의 득점치에 의해서는 상당히 명확하게 구분되었다(그림 8). 
+
+Table 12. Mean scores on the first 3 principal components from PCA using 
+          59 morphological characters of 51 taxa in genus Pyrus.     
+--------------------------------------------------------------------------------                                                   
+                                             Taxon mean scores
+                               -----------------------------------------------
+No. Taxon PC1 PC2 PC3        
+--------------------------------------------------------------------------------  
+ 1. Pea pear, Nonsan        -4.08052 4.22491 -2.33555
+ 2. Sandolbae               -0.56138 0.82364 0.75030
+ 3. Chambae                 -0.02811 -0.18757 0.46782
+ 4. Cheongbae, Changseong 0.20035 -0.90870 0.97466
+ 5. Cheongbae, Ulleung       -1.18258 -0.73329 0.70704
+ 6. Cheongri, Hoengseong     -0.88821 -0.38701 0.22113
+ 7. Chungshilli, Keochang 1.61889 1.28875 -0.12332
+ 8. Cheongshilli 1.16261 1.07215 0.06836
+ 9. Cheongseori 0.51096 0.74738 0.52789
+10. Cheongdangrori -0.71266 1.03477 -0.75458
+11. Tunggeullaebae 1.13780 1.56171 0.87793
+12. Kkulbae 0.77540 1.29021 0.79829
+13. Hwangbae, Koesan 0.56299 0.34466 1.55667
+14. Hwangshilli, Andong -0.09732 0.48142 0.82801
+15. Hwangshilli 0.22615 0.62394 1.97446
+16. Suhyangri, Pyeongchang 0.55926 1.20382 1.40350
+17. Satangbae -0.35432 -1.28199 -0.24877
+18. Yeongmokri 0.48946 -0.24071 0.49872
+19. Ingyebae 1.09569 0.94762 0.30171
+20. Baili -0.18921 -0.48249 -1.88787
+21. Jokoku 1.18396 -0.25710 -1.91982
+22. Tsuli 1.57082 -0.28252 -2.09916
+23. Yali 1.33931 1.04045 -0.86868
+24. Shinchu -0.82996 -0.38171 0.40727
+25. Chojuro                 -1.34040 -0.69489 0.13154
+26. Imamuraaki              -0.12058 -1.126051 -1.36556
+27. Okusankichi             -0.01603 -0.62167 -1.39257
+28. Choju                   -0.25850 -1.12229 -0.49433
+29. Hakataao                -0.40258 -0.94876 0.01903
+30. Kumoi                   -0.47860 -0.74520 -0.19965
+31. Matsushima 1.38666 0.02571 -0.80803
+32. Sagami                  -0.39034 0.29861 0.67690
+33. Seigyoku                -0.17235 -0.41528 1.94309
+34. Shinsetsu               -0.33838 -0.08138 -0.18846
+35. Taihei                  -1.05652 -0.79119 -0.46217
+36. Tosa 1.38845 0.03939 -0.88845
+37. Shinsui                 -0.68436 -0.92870 0.55530
+38. Kosui                   -0.43565 -1.81383 0.04685
+39. Hosui                   -0.65361 -0.99718 0.14212
+40. Niitaka                 -0.60746 -0.95354 0.07984
+41. Shinko                  -0.24674 1.01231 1.53033
+42. Hori 0.12488 -0.81215 -1.40519
+43. Shichiho 1.57623 0.18660 -0.78026
+44. Kobi -0.09548 -0.20225 0.25321
+45. Hattatsu 0.45798 0.16025 -0.14559
+46. Kako 1.43906 0.59636 -1.05015
+47. Senken                  -0.24291 -0.37928 0.44379
+48. Kamiri                  -0.42763 0.05042 1.04519
+49. Tanbae                  -0.56626 0.05370 0.12984
+50. Hwangkeumbae            -0.34579 -0.63501 0.37779
+51. Yeongsanbae             -1.00248 -0.69704 -0.32043
+----------------------------------------------------------------------------------------------------     
+즉, 제1주성분의 득점치가 양의 값이고 제3주성분의 득점치가 음의 값인 제2사분면에는 중국배들, 이들과 일본배의 교잡종인 鳳梨(42) 七寶(43) 花虹(46) 八達(45), 그리고 우리 나라 재래배인 거창청실리(7)가 분포하고 있는 반면, 제3주성분의 득점치가 양의 값인 영역에는 대부분의 우리 나라 재래배가 분포되어 있었다.  또한 그림 4에서 중국배와 서로 다른 군에 포함되었던 백리(20)는 제3사분면에 분포되어 그림 7에서보다 훨씬 분명하게 중국배 군과 가깝게 분포하였다.  그림 8에서도 그림 7에서와 같이 울릉청배(5), 횡성청리(6), 사탕배(17) 등은 일본배와 더 깊은 분류적 관계를 가지는 것으로 판단되었다.    
+  표 12의 제1, 2, 3주성분 득점치를 새로운 변량으로 이용한 비가중평균결합으로 집괴분석하였던 결과가 그림 9이다. 이는 3차원 공간에서 분류군들 간의 상호관계를 樹枝圖로 단순화시킨 것으로 유클리드 거리 2.1을 기준으로 하였을 때, 51개 분류군들은 5개 군으로 분류될 수 있었다. 
+  제1군에는 중국배, 이들과 일본배가 교잡된 분류군들, 그리고 백리가 포함되었고, 특이하게 만삼길 금촌추 등의 일본배들도 포함되어 있었다. 이들 일본배가 중국배 군에 속하여 있는 것은 과형이 중국배에 가깝기 때문인 것으로 생각되었다(그림 3). 
+  제2군에는 일본배인 신흥을 제외하면 모두 우리 나라 재래종 배들이 포함되었고, 제3군에는 대부분의 일본배 품종들이 속하여 있었다. 그러나 안동황실리가 괴산황배 황실리와 동일한 군을 형성하지 않고 있으며, 현재 그 기원을 정확하게 알고 있지 못하는 장성청배 울릉청배 횡성청리 사탕배 등이 제3군에 포함되어 있었다. 또한 청당로리는 하나의 독립된 제4군을 이루고 있어 형태 형질을 이용한 집괴분석의 결과(그림 4)와 일치하였다. 
+  주성분 득점치를 이용한 집괴분석의 결과와 형태 형질을 이용한 집괴분석 결과(그림 4)와의 가장 큰 차이점은 많은 우리 나라 재래배들이 후자에서와 같이 중국배나 일본배와 동일 군을 형성하는 것이 아니라 독립적인 군을 형성하고 있다는 것이다.  그러나 산돌배, 안동황실리, 사탕배와 지방 수집종인 장성청배, 울릉청배, 횡성청리 등은 여전히 일본배와 동일 군을 형성하였다. 
+  따라서 주성분분석 결과만을 고려할 때 우리 나라 재래배들은 慈梨 鴨梨로 대표되는 P. bretschneideri Rehd. 군이나, 진유 장십랑으로 대표되는 P. pyrifolia Nakai 군들과 대등한 분류적 위치를 점하고 있는 P. ussuriensis Maxim. 군 내의
+                                           Euclidean distance 
+                          0        1.0       2.0       3.0       6.0       7.0  
+Group Taxon           No. +---------+---------+---------+---//----+---------+
+    +-Matsushima       31  -+                  .
+    |                       +-+                .Distance=2.1
+    | Tosa             36  -+ +----+           .
+    |                         |    |           .
+    | Shichiho         43  ---+    +-----+     .
+    |                              |     |     .
+    | Yali             23  -----+  |     |     .
+    |                           +--+     +----+.
+    | Kako             46  -----+        |    |.
+    |                                    |    |.
+   I| Jokoku           21  ----+         |    |.
+    |                          +---------+    |.
+    | Tsuli            22  ----+              |.
+    |                                         +.----+   
+    | Okusankichi      27  --+                |.    |
+    |                        +--+             |.    |
+    | Hori             42  --+  +-+           |.    |
+    |                           | |           |.    |
+    | Imamuraaki       26  -----+ +-----------+.    |
+    |                             |            .    |
+    +-Baili            20  -------+            .    |
+                   z                           .    |
+    +-Hwangbae (KS)    13  ------+             .    |
+    |                            +--+          .    |
+    | Hwangshilli      15  ------+  +------+   .    |
+    |                               |      |   .    |
+    | Shinko           41  ---------+      |   .    |
+    |                                      |   .    |
+    | Cheongshilli      8  ---+            |   .    |
+    |                         +--+         +---.--+ |
+    | Ingyebae         19  ---+  +----+    |   .  | |
+  II|                            |    |    |   .  | |                     
+    | Cheongshilli (KC) 7  ------+    |    |   .  | +--------------------+   
+    |                                 |    |   .  | |                    |   
+    | Tunggeullaebae   11  -----+     +----+   .  | |                    |   
+    |                           +--+  |        .  | |                    |   
+    | Kkulbae          12  -----+  ++ |        .  | |                    |   
+    |                              || |        .  | |                    |   
+    | Suhyangri (PC)   16  --------++-+        .  | |                    |   
+    |                               |          .  | |                    |   
+    +-Cheongseori       9  ---------+          .  | |                    |   
+                                               .  | |                    |   
+    +-Cheongbae (CS)    4  -----------+        .  | |                    |   
+    |                                 +----+   .  | |                    |   
+    | Seigyoku         33  -----------+    |   .  | |                    |   
+    |                                      |   .  | |                    |   
+    | Hwangshilli (AD) 14  ----+           |   .  | |                    |   
+    |                          ++          |   .  | |                    |   
+    | Sagami           32  ----+|          |   .  | |                    |   
+    |                           +-+        |   .  | |                    |   
+    | Kamiri           48  -----+ +---+    |   .  | |                    |   
+    |                             |   |    |   .  | |                    |   
+    | Sandolbae         2  -------+   |    |   .  | |                    |   
+    |                                 |    |   .  +-+                    |   
+    | Shinsetsu        34  ----+      |    |   .  |                      |   
+    |                          +--+   |    |   .  |                      |   
+    | Tanbae           49  ----+  |   +-+  |      |                      |   
+    |                             |   | |  +---+  |                      |   
+    | Chambae           3  --+    +-+ | |  |   |  |                      |   
+    |                        +-+  | | | |  |   |  |                      |   
+    | Kobi             44  --+ |  | | | |  |   |  |                      |   
+    |                          +--+ | | |  |   |  |                      |   
+    | Senken           47  ---+|    | | |  |   |  |                      |   
+    |                         ++    +-+ |  |   |  |                      |   
+    | Hwangkeumbae     50  ---+     |   |  |   |  |                      +-- 
+    |                               |   |  |   |  |                      |   
+    | Yeongmokri       18  --------+|   |  |   |  |                      |   
+    |                              ++   |  |   |  |                      |   
+    | Hattatsu         45  --------+    |  |   |  |                      |   
+ III|                                   |  |   |  |                      |   
+    | Cheongbae (UL)    5  ------+      |  |   |  |                      |   
+    |                            ++     |  |   |  |                      |   
+    | Shinsui          37  ------+|     +--+   |  |                      |   
+    |                             ++    |      |  |                      |   
+    | Cheongri (HS)     6  --+    ||    |      |  |                      |   
+    |                        +---+||    |      |  |                      |   
+    | Shinchu          24  --+   ++|    |      |  |                      |   
+    |                            | |    |      |  |                      |   
+    | Chojuro          25  ------+ |    |      +--+                      |   
+    |                              +--+ |      |                         |   
+    | Taihei           35  --+     |  | |      |                         |   
+    |                        +----+|  | |      |                         |   
+    | Yeongsanbae      51  --+    ||  | |      |                         |   
+    |                             ||  | |      |                         |   
+    | Satangbae        17  ---+   ||  | |      |                         |   
+    |                         +--+||  | |      |                         |   
+    | Choju            28  ---+  |++  | |      |                         |   
+    |                            ||   | |      |                         |   
+    | Hosui            39  -+    ||   +-+      |                         |   
+    |                       ++   ++   |        |                         |   
+    | Niitaka          40  -+|   |    |        |                         |   
+    |                        +-+ |    |        |                         |   
+    | Hakataao         29  --+ | |    |        |                         |   
+    |                          +-+    |        |                         |   
+    | Kumoi            30  ----+      |        |                         |   
+    |                                 |        |                         |   
+    +-Kosui            38  -----------+        |                         |   
+    +-                                         |                         |   
+  IV+-Cheongdangrori   10  --------------------+                         |   
+    +-                                         .                         |   
+   V+-Pea pear (NS)     1  --------------------.-------------------------+   
+                                                                             
+Group Taxon           No.  +---------+---------+---------+---//----+---------+
+                           0        1.0       2.0       3.0       6.0       7.0                                     
+
+
+Fig. 9. Dendrogram obtained from UPGMA cluster analysis based on 
+        Euclidean distance using the first three principal component scores 
+       of 51 taxa in genus Pyrus by PCA.
+       zSee Table 2 for full name of collected locality within parenthesis.     
+분류군들이라고 판단되었다. 
+  한편, 제4군에 포함된 청당로리는 형태 형질의 집괴분석에서와 같이 재배종 분류군들과는 먼 분류적 관계를 유지하며 독립적인 군을 형성하였으나 주성분 득점치를 이용한 집괴분석에서는 이러한 類集이 보다 뚜렷하였다.  이러한 결과로 미루어 보아 청당로리는 분명히 P. ussuriensis Maxim.이나 P. pyrifolia Nakai와는 그 특성을 달리하는 종 단위 수준의 분류군일 것으로 판단되었다. 
+  그림 4에서와 같이 형태 형질을 이용한 집괴분석에서 영목리와 독립적인 제2군을 형성하였던 참배와 제4군의 일본배 군 내에서 우리 나라 재래배와 동일한 제2소군을 형성하였던 산돌배가 주성분 득점치를 이용한 집괴분석에서는 일본배와 동일한 제3군을 형성하였다. 이러한 결과는 본 연구에 공시된 일본배 19개 분류군 중 8개 분류군이 이십세기와의 잡종이라는 사실과, Kajiura 등(1983)이 보고하였듯이, 이십세기가 종간 교잡 과정을 통하여 P. ussuriensis Maxim.의 특성을 다소 가지고 있다는 사실로 설명될 수 있었다.  
+  이상에서와 같이 약 25개 형태 형질을 함축하고 있는 제1～3주성분의 주성분 득점치를 이용한 집괴분석에서, 51개 분류군들은 59개 형질을 모두 이용한 집괴분석의 결과와 큰 변동 사항 없이 비슷한 類集을 형성하였다. 이러한 결과는 주성분분석이 배나무속 식물 분류를 위한 유용한 수단임을 의미하는 것이었다. 
+
+2. 同位酵素 分析에 의한 分類
+   2.1 電氣泳動 
+  표 2에서 공시된 51개 분류군들 중에서 논산콩배를 제외한 50개 분류군을 대상으로 수평식 전분 겔 전기영동법을 이용하여 동위효소를 분석하였다. 
+  본 연구에서 개량된 동위효소 抽出用 완충액을 이용하였을 경우에는 phenol 화합물의 함량이 적은 것으로 판단되는 우리 나라 자생 콩배로부터는 어떠한 동위효소 밴드도 얻을 수 없었다.   
+  그러나 Weeden과 Lamb(1985, 1987)이 사용하였던 추출용 완충액으로 추출하여 電氣泳動을 수행하였던 예비 실험의 결과에서는 몇 개의 밴드를 얻을 수 있었으나, 장기 저장 시 추출된 용액이 쉽게 갈변되는 저장 상의 문제점 때문에 이용할 수 없었다. 그러나 Santamour와 Demuth(1980)가 5 mM potassium metabisulphite, 10 mM cysteine, 1% Tween 80 등이 함유된 0.1 mM Tris-maleic buffer(pH 7.0)를 사용하여 Callery 콩배 6품종으로부터 peroxidase 동위효소를 분석한 바 있기 때문에 이 抽出溶液을 이용한 전기영동도 추후 수행되어야 할 것이다. 
+  또한 표 4에서와 같이 개량된 추출용 완충액으로 동위효소를 추출한 후 Tris-citrate/lithium borate buffer(pH 8.3) (표 5)로 電氣泳動을 실시하였을 경우 GOT, GPI, PER 등의 3가지 효소에 대해서만 좋은 밴드를 얻었을 뿐 MDH, ShDH, GDH, TPI, AcPH, LAP 등의 효소에서는 분리가 잘 되지 않거나 밴드가 아주 희미하여 배나무속 식물의 同定이나 분류에는 이용할 수 없을 정도였다.   한편 L-histidine buffer(pH 6.5)를 사용하였을 경우 6-GPD는 아주 선명한 밴드를 보여주었지만, 供試된 50개 분류군들 간에 어떠한 變異도 나타내지 않았으며, MDH 또한 염색은 뚜렷하게 되었으나 분리가 잘 이루어지지 않아 분류군 동정에는 이용할 수 없었다.   반면, L-histidine buffer(pH 5.7)인 경우에서는 6-PGD, MDH 그 어느 것도 뚜렷한 밴드를 보여주지 않았으며, GDH와 ShDH는 밴드 염색 정도가 아주 나빴다. 
+  따라서 본 연구에서 조사된 효소 중 배나무속 식물들의 식별에 이용될 수 있었던 것은 GOT, GPI, PER 등 3가지뿐이었다.   
+  GOT의 경우는 그림 10과 표 13에 나타낸 바와 같이 다섯 가지 zymotype으로 분류될 수 있었다.  그러나 배나무속 식물에서의  GOT 동위효소분석 결과는 사과에서의 GOT 동위효소가 GOT-1, GOT-2로 존재하며 그들은 두 개의 서로 다른 polypeptide로 구성된 二量體型이라는 Weeden과 Lamb(1987)의 보고와는 다른 결과를 나타내었으며, 사과에서와 같은 두 가지 동위효소는 존재하지 않았다.  
+  이러한 결과는 GOT 효소는 최소한 3～4개의 동위효소를 보유하고 있으며,  그 어느 種도 그보다 적은 수의 동위효소를 보유하고 있지 않다는 Gottlieb(1982)의 보고 내용과,  포도에서 4개의 GOT 동위효소가 존재한다는 Weeden 등(1988)의 보고 내용과는 큰 차이가 있었다. 따라서 본 연구에서 얻어진 결과는 추출 과정이나 전기영동용 완충액의 조성이 동위효소 활성을 상실시켰던 것에 기인될 가능성도 있다. 
+  供試된 50가지 분류군 중 인계배 장성청배 둥글래배 단배 新興 가미리 등을 제외한 모든 것들은 Rf 0.36과 0.40에서 나타난 하나의 밴드만을 갖는 
+Table 13. Zymotypes of 3 isozymes of 50 taxa in genus Pyrus. 
+--------------------------------------------------------------------------------
+                                                   Zymotype                        
+No. Taxon                               --------------------------------
+        PER
+                                         GOT  ------------------  GPI
+                                                Leaf  Bark   Fruit
+                                                               skin
+------------------------------------------------------------------------   
+ 2. Sandolbae D E G D D   
+ 3. Chambae   E C D B L 
+ 4. Cheongbae, Changseong B K A E T 
+ 5. Cheongbae, Ulleung E H G C L 
+ 6. Cheongri, Hoengseong E N G A K
+ 7. Cheongshilli, Keochang  E R D I J
+ 8. Cheongshilli                              D E G A L
+ 9. Cheongseori D H G A P
+10. Cheongdangrori D S G H J
+11. Tunggeullaebae C E G H J
+12. Kkulbae D E G H J
+13. Hwangbae, Koesan E E G H J
+14. Hwangshilli, Andong E L D H C
+15. Hwangshilli E A G A J
+16. Suhyangri, Pyeongchang E E G B A      
+17. Satangbae E L G J G
+18. Yeongmokri D R G A J
+19. Ingyebae A E G B L
+20. Baili E O D B  S
+21. Jokoku E M C A R
+22. Tsuli E M D B R
+23. Yali D M B I S
+24. Shinchu D J G C K
+25. Chojuro D E D F M
+26. Imamuraaki D K G H F
+27. Okusankichi D I F H O
+28. Choju D K E C U
+29. Hakataao E N F H K
+30. Kumoi E K G K P
+31. Matsushima D Q D I  B
+32. Sagami D F G E U
+33. Seigyoku D Q D G K
+34. Shinsetsu D K G K E
+35. Taihei E G G C K
+36. Tosa D J D I B
+37. Shinsui E H G C I
+38. Kosui D D D H I
+39. Hosui D Q D H N  
+40. Niitaka D H G K K
+41. Shinko C C G H P
+42. Hori E P G H H
+43. Shichiho D D D I K
+44. Kobi E D H B Q
+45. Hattatsu D M D B U
+46. Kako D N G H K
+47. Senken E Q H A P
+48. Kamiri C B G A P
+49. Tanbae C S G H J
+50. Hwangkeumbae D S G J K
+51. Yeongsanbae D E G A N
+----------------------------------------------------------------------------------------------------
+D와 E 형태의 zymotype을 가지고 있었는데, 이들 밴드는 同形 二量體로 구성되어 있을 것으로 추측되었다.  
+  또한 GOT 효소의 경우 Rf 0.36과 0.40에서 나타난 밴드들은 50개 분류군 중 각각 31개 분류군과 21개 분류군에서 보유되고 있었으며, 지리적 분포가 다른 분류군들에만 특이하게 존재하는 밴드는 존재치 않았다(표 14).   
+   葉 內 PER 동위효소는 그림 11과 표 13에서와 같이 19가지 밴드 유형을 나타내 보였다.  지리적 분포가 다른 분류군들에 특이하게 나타났던 성엽 내 PER의 밴드들로는 중국배와 일본배의 교잡종과 중국배가 공통적으로 모두 갖는 Rf 0.50 0.60에서 나타난 것들이 있었으며, Rf 0.67과 0.72에서의 밴드는 鴨梨 慈梨, 中國梨種에서 모두 나타났다.  그렇지만 Rf 0.72에서의 밴드는 우리 나라 재래배에서는 전혀 관찰되지 않았고, 일본배에서도 금촌추 만삼길에서만 나타날 뿐이었다.  따라서 이 밴드는 중국배에서만 특이하게 보유되고 있는 것으로 판단되었다(표 14).  
+  한편 Rf 0.48과 0.56에서 나타난 밴드들은 중국배에서는 전혀 관찰되지 않았으며, Rf 0.48과 0.50에서만 밴드가 출현하였던 zymotype E는 우리 나라 재래배에서만, Rf 0.50 0.60 0.69에서 각각 하나 씩의 밴드가 출현되었던 zymotype Q는 일본배에서만 특이하게 보유되고 있었다.  
+  그러나 엽 내 PER의 경우에는 상당히 많은 밴드가 나타났지만 양극 쪽에 가까운 밴드들은 염색 후 시간이 경과됨에 따라 소멸되는 밴드가 많았다. 따라서 밴드의 염색이 다소 안정된 7가지 밴드만을 식별에 사용하였다.  이들 밴드 중에서도 가장 선명한 밴드는 Rf 0.48, 0.50에서 나타난 두 개의 밴드들이었는데 이들은 아마도 한 유전자좌 내의 서로 다른 두 가지 대립 인자에 의해 형성된 單量體型 동위효소일 것으로 추측되었다. 그러한 가정에서 zymotype A에서 E까지는 a와 b 대립 인자로부터 생성된 두 개의 subunit로 구성된 異形 單量體이며, 그 나머지는 서로 다른 대립 인자로부터 유래된 한 종류의 polypeptide chain만을 갖는 同形 單量體일 것이다. 
+  또한 Rf 0.56과 0.60에서 나타난 밴드들은 두 개의 대립 인자에 의한 單量體型 동위효소일 것으로 추측되었다. 그러나 Rf 0.67과 0.69에서 나타난 밴드들은 Rf 0.72에서 나타난 밴드 때문에 單量體型 동위효소로 해석하기에는 곤란한 점이 있었다. 만일 이들이 單輛體 동위효소가 보인 밴드 유형이라면 Rf 0.72에서 나타난 밴드는 null allele(Kerphart, 1990; Pasteur 등, 1988)에 의한 同質 單量體型 동위효소일 가능성도 있다. 이러한 가정에서 본 연구에 공시된 배나무속 식물들에 있어서는 최소한 3가지 이상의 동위효소가 존재할 것으로 추측되었다.     이와 같은 엽 내 PER 동위효소 밴드 유형은 張 等(1990, 1991)이 42種 또는 品種의  배나무속  식물을  대상으로  실시하여 얻은 결과와 상당히 일치하고 있으나 얻어진 밴드 수에서는 다소 차이가 있었다.  이와 같은 차이는 그들의 실험이 polyacrylamide 겔 電氣泳動法으로 수행되었던 반면 본 실험은 전분 겔 電氣泳動法으로 수행된 것에 기인되는 듯하다.  또한 Santamour와 Demuth(1980)가 수평식 전분 겔 전기영동 장치를 이용하여 6품종의 Callery 콩배를 대상으로 실시하였던 엽 내 peroxidase 동위효소 전기영동의 실험에서 얻은 밴드 유형이 본 연구의 결과와도 어느 정도 일치하였다.   
+  한편, 신초 수피와 유과 과피 내에 존재하는 PER 동위효소의 전기영동 결과, 과피로부터는 11가지(그림 12), 수피로부터는 8가지(그림 13)의  zymotype을 얻을 수 있었다.  이들 조직으로부터 얻어진 밴드 유형은 엽 내 PER 동위효소에서 얻어진 결과와는 대조적으로 밴드 유형이 비교적 간단하였으며, 염색 결과에서도 흐릿한 밴드 수가 적은 경향을 나타내었다.   
+  신초 수피 내 PER인 경우 대부분의 분류군들이 D, G 형태의 zymotype을 가지고 있었으며, 유과 과피 내 PER에 있어서는 zymotype H를 가진 분류군들이 가장 많았다. 
+  유과 과피 내 PER 동위효소의 경우 單量體型 동위효소로 생각되는 2가지 동위효소, 즉 Rf 0.34와 0.37 위치에서 나타난 PER-2 동위효소와 Rf 0.40과 0.44 위치에서 나타난 PER-1 동위효소가 존재하는 것으로 추측되었다. 그러나 유사 분류군들이 공통적으로 보유하는 zymotype은 두 경우 모두에서 존재치 않았다.   
+  신초 수피 내 PER 동위효소인 경우에서는 Rf 0.38과 0.40에서 나타난 PER-3과 Rf 0.46과 0.49에서 나타난 PER-2, 그리고 Rf 0.68과 0.71에서 나타난 PER-1 등의 3가지 동위효소가 존재하는 것으로 생각되었다. 특히 Rf 0.68, 0.71에서의 밴드들은 中國梨種, 鴨梨, 만삼길, 박다청에서만 보유되고 있을 뿐, 그 출현 빈도는 대단히 낮았다. 반면 Rf 0.46에서의 밴드는 장수에서만, Rf 0.49에서의 밴드는 항미, 세검에서만 나타나지 않았을 뿐 나머지 모든 분류군들에서는 보유되고 있었다(표 14).
+  그러나 신초 수피 내 PER 동위효소분석 결과는 Menendez와 Daley(1986)가 배나무속 식물 37종 또는 계통의 신초 내 peroxidase 동위효소를 polyacrylamide 겔 전기영동으로부터 상당히 많은 밴드를 얻었던 결과와는 다소 차이가  있었다.  이와 같은 밴드 수에 있어서의 차이는, 첫째, 본 연구에서는 원점으로부터 음극 쪽으로 이동되는 PER 동위효소는 취급되지 않았던 반면 polyacrylamide 겔 전기영동법에서는 시료 중의 모든 polypeptide가 나타나기 때문이며, 둘째, 본 연구에서 이용된 전분 겔 전기영동법에서는 얻어졌던 모든 PER 동위효소의 밴드 염색이 선명치 못하였던 점에 기인하리라 생각된다. 따라서 PER를 이용하여 배나무속 식물을 同定 또는 識別하고자 하는 경우에는 수직식 polyacrylamide 겔 전기영동법으로 수행할 경우 더 정확한 결과를 얻을 수 있을 것으로 판단된다.  
+  그러나 그 누구도 배나무속 식물에 있어서 PER 동위효소의 유전에 대해 정확한 연구를 수행한 바 없어 정확한 결과 해석에는 앞으로의 많은 연구가 있어야 할 것으로 기대된다.  특히 특정 교배 조합으로부터 얻어진 후손들 간이나, 세포 내 각 小器官別 동위효소의 밴드 유형을 정밀하게 분석하여야 할 것이며, 더욱이 반수체인 화분 내 동위효소 밴드 유형과 葉과 같은 이배체 조직의 밴드 유형을 비교함으로써 얻어지는 밴드들이 동위효소에 의한 것인지 allozyme에 의한 것인지도 밝혀야 할 것으로 생각된다(Crawford, 1983).
+  GPI 밴드 유형은 供試된 50개 분류군 간에 가장 큰 變異를 보여주었는데(그림 14와 표 13), 모두 21가지 유형으로 나눌 수 있었으며, 가장 많이 존재하였던 zymotype은 J와 K였다. 우리 나라 재래배들은 전자와 L 型을 대부분 가지고 있었으며, 일본배는 후자를 많이 가지고 있었다. 
+  또한 Rf 0.06에서 나타난 밴드는 우리 나라 재래배와 일본배 일부에서만 나타났을 뿐 중국배와 그 교잡종에서는 전혀 나타나지 않았으며,  Rf 0.11에서의 밴드는 중국배에서만 나타나지 않았다. Rf 0.28에서 나타난 밴드는 일본배 그리고 중국배와 일본배의 교잡종에서는 거의 출현되지 않았던 반면, 우리 나라 재래배와 중국배에서는 공시된 분류군의 절반 정도에서 출현되었다.  그러나 Rf 0.17, 0.21, 0.24에서 나타난 밴드는 분류군의 지리적 분포와는 무관하게 골고루 존재하는 것이었다. 
+ 이와 같이 GPI는 본 연구에서 분석된 다른 어떤 것보다 뚜렷하고 선명한 밴드 염색을 보여 PER와 함께 앞으로 배나무속 식물의 종 또는 품종 식별에 유용하게 이용될 수 있으리라 판단되었다.   
+  그림 14에서 나타내 보인 것과 같이 원점으로부터 보다 양극 쪽인 Rf 0.39 위치에서 모든 분류군에서 동일하게 출현되는 밴드가 있었는데, 이는 분명한 GPI-1 동위효소였다.  이러한 결과는 Tao와 Sugiura(1987)가 163품종의 일본 감에서, Parfitt과 Arulsekar(1989)가 145품종의 유럽종 포도에서 그리고  Hauagge 등(1987)이 아몬드와 복숭아에서 얻은 결과와 동일하였다.   
+  GPI-1과는 달리 GPI-2(Rf 0.28 ~ 0.06)는 매우 복잡한 밴드 유형을 나타내 보였다.  Weeden과 Lamb(1987)이 사과에서, Weeden 등(1988)이 포도에서 얻은 결과에 의하면 GPI-1은 색소체에 특이한 동위효소로서 화분이나 세포질에서는 나타나지 않으며, 반면에 GPI-2는 세포질 내에만 존재하는 동위효소이다.  또한 사과(Weeden과 Lamb, 1985; Weeden과 Lamb, 1987), 감(Tao와 Sugiura, 1987), 포도(Weeden 등, 1988)에서 얻어진 GPI 동위효소의 電氣泳動 분석 결과나 Kephart의 review 내용(Kerphart, 1990)으로 미루어 볼 때 배나무속 식물의 GPI-2 동위효소 역시 二量體型일 것으로 추정된다.  
+  그러나 본 실험에서 얻어진 GPI-2 동위효소의 7개 밴드가 어떤 유전 양식을 따르며, Gottlieb(1982)가 지적하고 있듯이 중복의 가능성은 없는지에 대해서는 정확한 해석이 어렵기 때문에, 이러한 밴드 유형을 정확하게 해석하기 위해서는 역시 앞으로의 더 많은 연구가 계속되어야 하리라 생각된다.  
+
+   2.2 集塊分析
+      이상에서와 같은 3가지 효소의 각 동위효소 밴드가 특정 Rf치에서 출현하였는가 아니하였는가를 코드화하고(표 15), 이를 이용하여  Jaccard 유사 계수에 기초한 비가중평균결합법으로 집괴분석한 결과가 그림 15이다.  
+  Jaccard 유사 계수 0.44를 기준으로 하였을 때 50개 분류군들은 5개 군으로 분류될 수 있었다. 제1군에는 산돌배 청실리 황실리 평창수향리 청서리 등의 우리 나라 배들과 일본배 품종들이, 제3군에는 中國梨種 慈梨 鴨梨 등의 중국배와 우리 나라 재래배로서 둥글래배 괴산황배 청당로리 꿀배 영목리 거창청실리 횡성청리 그리고 중국배와  일본배의 교잡종인 八達 鳳梨 花虹 抗眉 洗檢 등이 포함되어 있었으며, 제4군에는 상모 장성청배 장수가 포함되어 있었다. 
+Table 15. Coded data matrix of 3 isozyme band patterns for cluster analysis.
+------------------------------------------------------------------------------------------
+                                  GOT                  PER                    GPI     
+                                        ---------------------------------
+                                             Leaf         Bark    Fruit
+                                                                   skin
+No. Taxon               ------- ------------- ----------- ------- -------------
+                            1 2 3 4 1 2 3 4 5 6 7 1 2 3 4 5 6 1 2 3 4 1 2 3 4 5 6 7
+------------------------------------------------------------------------------------------
+ 2. Sandolbae 0 0 1 0 1 1 0 0 0 0 0 0 0 1 1 0 0 1 0 0 1 1 1 1 0 1 0 0
+ 3. Chambae   0 0 0 1 1 1 0 1 1 0 0 0 1 1 1 0 0 1 1 0 0 0 1 1 1 0 0 0
+ 4. Cheongbae, Changseong 0 1 1 0 1 0 0 1 0 0 0 1 0 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0
+ 5. Cheongbae, Ulleung 0 0 0 1 1 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 1 1 1 0 0 0
+ 6. Cheongri, Hoengseong 0 0 0 1 0 1 0 1 1 1 0 0 0 1 1 0 0 1 1 0 1 0 1 1 1 0 1 0
+ 7. Cheongshilli, Keochang  0 0 0 1 0 1 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 1 1 1 0 1 1
+ 8. Cheongshilli 0 0 1 0 1 1 0 0 0 0 0 0 0 1 1 0 0 1 1 0 1 0 1 1 1 0 0 0
+ 9. Cheongseori 0 0 1 0 1 0 1 0 0 0 0 0 0 1 1 0 0 1 1 0 1 0 0 1 1 0 1 0
+10. Cheongdangrori 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 1 0 1 0 1 1 1 0 1 1
+11. Tunggeullaebae 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1 0 0 0 1 0 1 0 1 1 1 0 1 1
+12. Kkulbae 0 0 1 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 1 0 1 0 1 1 1 0 1 1
+13. Hwangbae, Koesan 0 0 0 1 1 1 0 0 0 0 0 0 0 1 1 0 0 0 1 0 1 0 1 1 1 0 1 1
+14. Hwangshilli, Andong 0 0 0 1 0 1 1 0 0 0 0 0 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 1
+15. Hwangshilli 0 0 0 1 1 1 1 0 0 0 0 0 0 1 1 0 0 1 1 0 1 0 1 1 1 0 1 1
+16. Suhyangri, Pyeongchang 0 0 0 1 1 1 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 1 1 1 1 0 1 1
+17. Satangbae 0 0 0 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 1 0 1 0 0
+18. Yeongmokri 0 0 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 1 1 0 1 0 1 1 1 0 1 1
+19. Ingyebae 1 1 1 0 1 1 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 1 1 1 0 0 0
+20. Baili 0 0 0 1 0 1 0 1 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 0 1 1 1 1
+21. Jokoku 0 0 0 1 0 1 0 1 1 1 1 0 1 1 1 0 1 1 1 0 1 0 0 1 0 1 0 0
+22. Tsuli 0 0 0 1 0 1 0 1 1 1 1 0 1 1 1 0 0 1 1 0 0 0 0 1 0 1 0 0
+23. Yali 0 0 1 0 0 1 0 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0 0 0 1 1 1 1
+24. Shinchu 0 0 1 0 1 0 0 1 0 1 0 0 0 1 1 0 0 1 0 1 1 0 1 1 1 0 1 0
+25. Chojuro 0 0 1 0 1 1 0 0 0 0 0 0 1 1 1 0 0 0 1 1 1 0 1 1 0 1 0 1
+26. Imamuraaki 0 0 1 0 1 0 0 1 0 0 0 0 0 1 1 0 0 0 1 0 1 1 1 1 0 0 0 0
+27. Okusankichi 0 0 1 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 0 1 0 1 0 1 0 1 0
+28. Choju 0 0 1 0 1 0 0 1 0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 0 1 0 1 0
+29. Hakataao 0 0 0 1 0 1 0 1 1 1 0 0 0 1 1 1 1 0 1 0 1 0 1 1 1 0 1 0
+30. Kumoi 0 0 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 1 0 1 0
+31. Matsushima 0 0 1 0 0 1 0 1 0 1 0 0 1 1 1 0 0 0 1 0 0 1 1 1 1 0 1 0
+32. Sagami 0 0 1 0 1 0 1 1 1 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 1 0 1 0
+33. Seigyoku 0 0 1 0 0 1 0 1 0 1 0 0 1 1 1 0 0 0 1 1 0 0 1 1 1 0 1 0
+34. Shinsetsu 0 0 1 0 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 1 0 0 1 0
+35. Taihei 0 0 0 1 1 0 1 0 0 1 0 0 0 1 1 0 0 1 0 1 1 0 1 1 1 0 1 0
+36. Tosa 0 0 1 0 1 0 0 1 0 1 0 0 1 1 1 0 0 0 1 0 0 1 1 1 1 0 1 0
+37. Shinsui 0 0 0 1 1 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 0 0
+38. Kosui 0 0 1 0 1 1 0 1 0 1 0 0 1 1 1 0 0 0 1 0 1 0 1 1 1 1 0 0
+39. Hosui 0 0 1 0 0 1 0 1 0 1 0 0 1 1 1 0 0 0 1 0 1 0 1 1 0 1 0 0
+40. Niitaka 0 0 1 0 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 1 1 0 1 0
+41. Shinko 0 0 1 1 1 1 0 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0 1 0
+42. Hori 0 0 0 1 0 1 0 1 0 1 1 0 0 1 1 0 0 0 1 0 1 0 1 1 1 1 1 1
+43. Shichiho 0 0 1 0 1 1 0 1 0 1 0 0 1 1 1 0 0 0 1 0 0 0 1 1 1 0 1 0
+44. Kobi 0 0 0 1 1 1 0 1 0 1 0 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0
+45. Hattatsu 0 0 1 0 0 1 0 1 1 1 1 0 1 1 1 0 0 1 1 0 0 0 0 0 1 0 1 0
+46. Kako 0 0 1 0 0 1 0 1 1 1 0 0 0 1 1 0 0 0 1 0 1 0 1 1 1 0 1 0
+47. Senken 0 0 0 1 0 1 0 1 0 1 0 0 0 1 0 0 0 1 1 0 1 0 0 1 1 0 1 0
+48. Kamiri 0 0 1 1 1 1 0 1 1 1 1 0 0 1 1 0 0 1 1 0 1 0 0 1 1 0 1 0
+49. Tanbae 0 0 1 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 1 0 1 0 1 1 1 0 1 1
+50. Hwangkeumbae 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 0
+51. Yeongsanbae 0 0 1 0 1 1 0 0 0 0 0 0 0 1 1 0 0 1 1 0 1 0 1 1 0 1 0 0
+------------------------------------------------------------------------------------------
+                                 Jaccard's similarity coefficient           
+
+                       1.0       0.8       0.6       0.4       0.2        0        
+Group Taxon         No. +---------+---------+---------+---------+---------+
+                                           
+
+   +- Kosui          38 -------+                    .Similarity = 0.44
+   |                           +-------+            .
+   |  Hosui          39 -------+       |            .
+   |                                   |            .
+   |  Matsushima     31 -------+       +-----+      .
+                               |       |     |      .
+   |  Seigyoku       33 -------+       |     |      .
+   |                           +-------+     |      .
+   |  Tosa           36 -------+             +---+  .
+   |                           |             |   |  .
+   |  Shichiho       43 -------+             |   |  .
+   |                                         |   |  .
+   |  Chojuro        25 ---------------------+   |  .
+  I|                                             |  .
+   |  Yeongsanbae    51 ---------+               ++ .
+   |                             |               || .
+   |  Sandolbae       2 ---------+--------+      || .
+   |                             |        |      || .
+   |  Cheongshilli    8 ---------+        +----+ || .
+   |                                      |    | || .
+   |  Ingyebae       19 ------------------+    +-++-.+
+   |                                           |  | .|
+   |  Hwangshilli    15 ----------+            |  | .|
+   |                z             +------------+  | .|
+   |  Suhyangri (PC) 16 ----------+               | .|
+   |                                              | .|
+   +- Hwangkeumbae   50 --------------------------+ .|
+                                                    .|                                                           
+   +- Cheongbae (UL)  5 ----+                       .|
+   |                        +----+                  .|
+   |  Shinsui        37 ----+    +-------+          .+-+
+   |                             |       |          .| |
+   |  Taihei         35 ---------+       +--+       .| |
+   |                                     |  |       .| |
+   |  Shinchu        24 -----------------+  |       .| |
+   |                                        +-+     .| |
+ II|  Cheongseori     9 ------------+       | |     .| |
+   |                                +-------+ +-+   .| |
+   |  Niitaka        40 ------------+         | |   .| |
+   |                                          | |   .| |
+   |  Kumoi          30 ----------------------+ +---.+ |
+   |                                            |   .  |
+   |  Imamuraaki     26 ---------+              |   .  |
+   |                             +--------------+   .  |
+   +- Shinsetsu      34 ---------+                  .  |
+                                                    .  |
+   +- Jokoku         21 -------+                    .  |
+   |                           +------------+       .  |
+   |  Tsuli          22 -------+            |       .  |
+   |                                        +-+     .  |
+   |  Chambae         3 -------------------+| |     .  ++
+   |                                       ++ |     .  ||
+   |  Baili          20 -------------------+  +--+  .  ||
+   |                                          |  |  .  ||
+   |  Yali           23 ---------------+      |  |  .  ||
+   |                                   +------+  |  .  ||
+   |  Hattatsu       45 ---------------+         |  .  ||
+   |                                             |  .  ||
+   |  Tanbae         49 ----+                    |  .  ||
+   |                        +-+                  |  .  ||
+   |  Tunggeullaebae 11 ----+ |                  |  .  ||
+   |                          +-+                |  .  ||
+   |  Hwangbae (KS)  13 ------+ |                |  .  ||
+   |                            +--+             ++ .  ||
+   |  Cheongdangrori 10 ----+   |  |             || .  ||
+   |                        +---+  |             || .  ||
+III|  Kkulbae        12 ----+      +-----+       || .  ||
+   |                               |     |       || .  ||
+   |  Yeongmokri     18 -----------+     +--+    || .  ||
+   |                                     |  |    || .  ||
+   |  Cheongshilli(KC)7 ----------------+|  |    || .  ||
+   |                                    ++  |    || .  ||
+   |  Hori           42 ----------------+   |    || .  ||
+   |                                        |    || .  |+-----+
+   |  Cheongri (HS)   6 ---------+          |    || .  ||     |
+   |                             +-+        |    || .  ||     |
+   |  Hakataao       29 ---------+ +---+    +----++-.--+|     |
+   |                               |   |    |     | .   |     |
+   |  Kako           46 -----------+   |    |     | .   |     |
+   |                                   +----+     | .   |     |
+   |  Shinko         41 ---------+     |    |     | .   |     |
+   |                             +-----+    |     | .   |     |
+   |  Kamiri         48 ---------+          |     | .   |     |
+   |                                        |     | .   |     |
+   |  Okusankichi    27 --------------------+     | .   |     |
+   |                                              | .   |     +---
+   |  Kobi           44 ------------+             | .   |     |
+   |                                +-------------+ .   |     |
+   +- Senken         47 ------------+               .   |     |
+                                                    .   |     |
+   +- Sagami         32 -------------------------+  .   |     |
+   |                                             |  .   |     |
+ IV|  Cheongbae (JS)  4 -------------------------+--.---+     |
+   |                                             |  .         |
+   +- Choju          28 -------------------------+  .         |
+                                                    .         |
+   +- Hwangshilli(AD)14 ---------------------+      .         |
+  V|                                         +------.---------+
+   +- Satangbae      17 ---------------------+      .
+                                                    .
+                        +---------+---------+---------+---------+---------+           
+                       1.0       0.8       0.6       0.4       0.2        0            
+ Fig. 15. Dendrogram obtained from UPGMA cluster analysis based 
+         on Jaccard's similarity coefficient using 3 isozyme band
+         patterns of 50 taxa in genus Pyrus. 
+         zSee Table 2 for full name of collected locality within parenthesis.
+또한 제5군에는 안동황실리와 사탕배가 각각 독립적인 군을 형성하고 있었다.
+  59개 형태 형질을 이용한 다변량해석의 결과(그림 4, 9)에서 중국배나 이들과 일본배의 교잡종들과 동일한 군을 형성하였던 일본 재래배인 토좌와 송도는 동위효소 밴드 유형을 이용한 집괴분석에서는 풍수, 행수, 장십랑 등과 동일 군을 형성하였다. 그러나 그림 4, 9에서와 같이 이들은 여전히 청실리 인계배 칠보 등과 동일 군을 형성하고 있었는데, 이러한 결과는 토좌 송도가 P. ussuriensis Maxim.과 어느 정도 분류적 관계를 가지고 있기 때문인 것으로 생각되었다.  이러한 결과는 Kajiura 등(1983)이 보고하였듯이 flavonol aglycone이 33품종의 일본 재래배 중 Tosajo, Tosanashi 등과 같은 15품종에서도 존재하였다는 내용과도 일치된다.  
+  한편 우리 나라 분류군들은 형태 형질을 이용한 다변량해석과는 다소 상이한 類集 결과를 나타내었다. 가장 두드러진 차이로는 첫째, 청실리 인계배와 동일 군을 형성하였던 거창청실리가 이들과는 다른 군 내에 포함되었으며, 둘째, 괴산황배 황실리 안동황실리가 각각 독립적인 군 내에 포함되었고, 셋째, 둥글래배 꿀배 황실리 계통과 깊은 분류적 관계를 나타내었던 청서리가 이들과 다른 군 내에 포함되었으며, 넷째, 慈梨 鴨梨 中國梨種이 청실리 인계배 송도 토좌가 아닌 둥글래배 꿀배 청당로리 거창청실리 등과 동일 군을 형성하였다는 것이다. 이러한 결과는 우리 나라 재래배들의 종 분화 과정이 다양함을 시사한다.
+  이와 같이 동위효소 밴드 유형을 이용한 집괴분석의 결과는 59가지 형태 형질을 이용하여 분석된 주성분분석의 결과나(그림 7, 8, 9), 그들 형질을 이용한 비가중평균결합법의 집괴분석 결과(그림 4)와는 다소의 차이를 나타내었다. 즉, 주성분분석이나, 집괴분석 시 51개 분류군들은 우리 나라 재래배 군 중국배 군 일본배 군으로 명료하게 분류되었던 것과는 대조적으로, 동위효소 밴드 유형을 이용한 집괴분석 시에는 우리 나라 재래종 배들과 일본배 품종들이 명확하게 독립적인 군으로 분류되지 못하였다.  
+  그러나 그림 4, 9에서 깊은 분류적 관계를 나타내었던 우리 나라 재래배들이 그림 15에서는 서로 다른 군 내에 포함되는 경우가 많았다.
+  이와 같이 동위효소 밴드 유형을 이용한 집괴분석은 형태 형질을 이용한 집괴분석만큼 좋은 결과를 나타내지 않았지만, 유사 분류군들의 분류나 분류군들의 지리적 관계 판단에는 도움을 줄 수 있었다. 
+더욱이 3가지 효소 분석으로부터 얻어진 28가지 밴드를 이용하여도 대략적인 품종군 분류가 가능할 뿐 아니라, 형태 형질의 다변량해석 시 분류군의 정확한 분류 작업이나 지리적 관계를 밝히는데 있어서 참고 자료로 활용될 수 있는 점으로 미루어 볼 때, 葉 유과 과피 신초 수피 내 동위효소분석에 의한 集塊分析이 화분이나 冬芽 내 동위효소분석의 결과들과 종합적으로 이용되고, 더 많은 동위효소가 이용된다면, 形態 形質을 이용한 경우만큼 좋은 결과를 얻을 수 있을 것으로 생각되었다.  
+  그러나 동일 종 내 동위효소의 多形性은 비교적 적어 품종의 동정이나 종 내 품종군 분류를 위해서는 부족한 점이 많기 때문에, Strauss 등(1990)이 가솔송나무에서 이용하였듯이 모계 遺傳樣式을 따르는 엽록체 또는 미토콘드리아 내 DNA에 대한 RFLP 및 다양한 primer를 이용한 RAPD 등의 DNA 多形性 활용이 배나무속 식물의 분류에도 적극 활용되어야 할 것으로 기대된다.     
+
+3. 花粉 表面 무늬 觀察
+  그림 16은 우리 나라의 야생 또는 재래배들로 추정되는 것들에 대한 화분 표면 무늬를 SEM으로 관찰한 사진이다. 
+  우리 나라 자생 콩배들은 그들의 수집지에 따라 형태 형질에서 다소 변이를 보였는데 화분 표면 무늬에서도 다소 차이를 확인할 수 있었다. 즉, 논산콩배(1)는 융기부의 폭이 넓고 융기부 간의 골이 좁은 반면, 고당콩배(2)는 그것과 반대되는 특성을 나타내었다. 그러나 두 분류군 모두 표면 구멍이 거의 존재치 않았고, 융기부의 분기 빈도가 낮은 공통적인 특성도 나타내었는데, 이러한 결과는 沈 등(1988)의 보고 내용과 일치된 것이다. 또한 콩배는 화분 표면 무늬에 있어서도 다른 분류군들과 명확히 구분될 수 있었다. 
+  참배(4)와 해남참배(5)는 이들 간의 분류적 관계가 아직 밝혀져 있지 않는데, 화분 표면 무늬 관찰 결과 참배는 융기부 폭이 넓은데 반해, 해남참배는 그 폭이 좁은 특징을 나타내어, 이들은 동일 분류군이 아니었다. 이러한 판단은 해남참배가 긴 과경을 가지고 있었으나 참배는 짧은 과경을 가지고 있었으며, 엽연의 거치 발달 정도도 참배가 훨씬 잘 발달되어 있는데 반해 해남참배는 거치의 발달이 불완전한 침상거치이며, 엽선도 해남참배가 점첨두인데 반해 참배는 예두였던 점에서도 뒷받침된다고 할 수 있다.  그러나 두 분류군들 모두 융기부 사이의 골 폭이 좁고, 융기부 중간 중간에 마치 뼈 관절 형태와 같은 모양을 동일하게 가지고 있어, 이들은 유사 분류군으로서 P. ussuriensis var. macrostipes T. Lee의 서로 다른 forma 관계에 위치해 있을 것으로 판단되었다. 
+  형태 형질을 이용한 집괴분석 및 주성분분석 결과에서나 동위효소 밴드 유형을 이용한 집괴분석 결과 장성청배 울릉청배 횡성청리 모두 동일 군 내에 포함되지 않았고, 동일 군 내에 존재하는 경우에도 아주 깊은 분류적 관계를 나타내지 않았는데, 화분 표면 무늬에서도 이들은 다른 무늬들을 보여 주었다. 
+특히 형태 형질을 이용한 다변량해석 시 가장 높은 분류적 관계를 가졌던 울릉청배와 횡성청리도 융기부 사이의 골 간격에서 큰 차이를 나타내었다. 
+  청실리(9)와 인계배(20)는 다른 분류군들과 명확하게 구분되게 비교적 크고, 많은 표면 구멍(perforation)을 가지고 있었다. 또한 청실리에 대한 본 연구에서의 결과와 청실리는 융기부가 명확하게 존재하며, 표면 구멍이 많이 존재한다는 沈 등(1990, 1988)의 결과는 일치된 것이었다. 
+ 이와 같이 화분 표면 무늬에서 많은 유사성을 나타내었던 청실리와 인계배가 형태 형질이나 동위효소 밴드 유형을 이용한 다변량해석 그 어느 경우에서나 깊은 분류적 관계를 나타내었을 뿐만 아니라, 동위효소 밴드 유형에서도 과피 내 GOT PER 동위효소에서 약간의 차이를 제외하면 동일한 유형을 나타내었다. 이러한 사실로부터 그들은 P. ussuriensis var. ovoidea Rehd.와 가장 근접한 분류군들로서 이 변종 내의 동일 forma에 속하는 것으로 판단되었다. 
+  한편 형태 형질을 이용한 주성분분석이나 집괴분석의 결과 다소 깊은 분류적 관계를 나타내었던 괴산황배(14), 안동황실리(15), 황실리(16) 등의 표면 무늬 또한 그 특징이 다르게 나타나 이들은 동일한 분류군이 아님이 확인되었다.  
+  다변량해석 결과 우리 나라 야생 또는 재래배들과 종 단위 수준 이상으로 명확하게 분류되었던 청당로리(11)는 다른 분류군들과 명확히 구별되는 특징적인 화분 표면 무늬를 가지고 있지는 않았다.  
+  형태 형질을 이용한 다변량해석 시 참배와 가장 깊은 분류적 관계를 나타내었던 영목리는 해남참배나 산돌배와 비슷한 표면 무늬를 가지고 있었으며, 청서리 꿀배 안동황실리 평창수향리 사탕배 등은 산돌배와는 다른 형태의 표면 무늬를 가지고 있었다.  
+
+
+</tdmsfiletext>

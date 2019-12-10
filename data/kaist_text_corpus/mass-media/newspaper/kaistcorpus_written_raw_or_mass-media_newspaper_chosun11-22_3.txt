@@ -1,0 +1,52 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-22_3.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-22_3.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.22 </date>
+<publisher> 조신일보 </publisher>
+<kdc>news.02</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/ 26일 서울서 한일어업실무회의 , 11-22.hwp/Titleend
+Inf/조선일보, 1997년 11월 22일 /Infend
+Text/ 1/22(토) 17:41 
+     11/22(토) 17:36 
+
+
+
+
+                     [한일] 미국에 경수로 비용분담 요구키로 
+
+                     한.일 양국은 21일 미-북 제네바 핵동결협정 이행과 관련,
+                     북한에 공급되는 경수로 공사비에 미국이 기여해야 한다는데
+                     의견을 같이하고 미국측의 분담을 공동요구키로 했다. 
+
+                     유종하외무장관과 오부치 게이조(소연혜삼) 일본외상은 이날
+                     오후 아태경제협력체(APEC) 각료회의가 열리고 있는 캐나다
+                     밴쿠버에서 가진 회담을 통해 한반도에너지개발기구(KEDO)
+                     재원문제를 논의, 이같이 합의 했다. 
+
+                     양국 외무장관은 "대북 경수로 공급에 소요되는 대규모 재원
+                     조달 을 위해서는미국의 공사비 기여가 반드시 필요하다"는데
+                     인식을 같이 하 고 미국측의 기여를 유도할 수 있도록 양국이
+                     긴밀히 협의하기로 했다. 
+
+                     한.일 양국이 총 50억달러 정도가 소요될 것으로 추정되고
+                     있는 경 수로 비용에대한 미국측의 분담을 요구하고 나섬에
+                     따라 경수로 공사비 비용부담과 관련, 미국과의 마찰이
+                     예상된다. 
+
+                     미국은 그동안 제네바 합의사항의 하나인 연간 50만T의 대북
+                     중유 공급만을 책임지되, 경수로 공사비는 부담할 수 없다는
+                     태도를 고수해왔 다. . 
+/Textend 
+</tdmsfiletext>

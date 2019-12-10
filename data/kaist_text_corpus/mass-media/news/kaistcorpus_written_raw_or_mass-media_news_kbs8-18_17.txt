@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-18_17.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.18</date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+"北 옥수수 60-70% 말라죽어"
+최근에 북한을 방문했던 국제 적십자연맹 관계자는 극심한 가뭄에 시달리고
+있는 북한의 옥수수밭과 저수지 등의 실태를 촬영한 화면을 공개했습니다.
+북한의 개성과 농촌지역 등을 둘러본 국제 적십자연맹 발테스 공보실장은
+북한주민들이 올 여름 가 뭄으로 옥수수의 60-70%가 말라죽자 옥수수를
+뽑아버리고 배추와 콩 등 대체작물을 파종하고 있다고 밝혔습니다.
+</tdmsfiletext>

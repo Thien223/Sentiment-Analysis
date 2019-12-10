@@ -1,0 +1,32 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-23_14.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.23 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+"프랑스 월드컵 16강 자신"
+
+
+
+⊙황수경 앵커 :
+          정몽준 대한축구협회 회장은 오늘 간담회에서 내년 프랑스 월드컵
+본선에서 우리나라가 16강에 오를 수 있다고 전망하고 2천2년 월드컵 개최
+도시 중에 한곳을 북한에 배정해서 남북통일의 초석이 되도록 하겠다고
+밝혔습니다. 
+
+# 한국시리즈 4차전 해태 7:4승리
+          해태 타이거스가 프로야구 한국시리즈 우승을 눈앞에 뒀습니다. 해
+태는 오늘 광주구장에서 열린 엘지와의 한국시리즈 4차전에서 홍현우와
+김창일 김종국의 홈 
+
+런 3발을 앞세워 7:4로 승리했습니다. 이로서 해태는 3승1패를 기록해
+한국시리즈 우승에 1
+          승만을 남겨두게 됐습니다. 
+
+
+</tdmsfiletext>

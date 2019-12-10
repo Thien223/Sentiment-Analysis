@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_165.txt </filename>
+<title> 조선일보  </title>
+<author> 최구식(기자)</author>
+<date> 93.06.05</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0733CSM930605
+{최구식}
+참고서 채택료 부조리/출판업계 자체정화 나섰다
+◎“금품제공땐 제명” 근절선언/동아­한샘등 대형업체 참여 실효기대※
+학습 참고서 출판업계의 뿌리깊은 부조리인 채택료가 사라지게 됐다.
+참고서 전문출판사들의 모임인 학습자료협회는 최근 임시총회를 열고 협회내에
+「학습참고서 유통질서 확립추진위원회」를 구성했다. 「학습참고서를
+유통함에 있어 불공정거래행위를 근절한다」고 설립목적을 밝힌 위원회는
+유통질서위배�%
+</tdmsfiletext>

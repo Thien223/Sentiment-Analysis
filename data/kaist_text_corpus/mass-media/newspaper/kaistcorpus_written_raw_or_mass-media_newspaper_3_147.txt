@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_147.txt </filename>
+<title> 조선일보  </title>
+<author> 옥대환(기자)</author>
+<date> 93.06.04</date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+[NA0402.0715CSM930604
+{옥대환}
+말똥가리/등신과 머저리/「바닥인생」 조명 화제연극 2편
+◎74년 카빈총연쇄살인을 작품화/등신과…/폐허의 미군기지사람들
+이야기/말똥가리※ 우리 사회 밑바닥 인생의 거친 삶과 이들의 애환을
+표현하고있는 연극 두편이 관객들의 열띤 호응속에 공연되고 있다.※
+「지하생활자의 수기」라고도 볼 수 있는 이들 두 작품은 「등신과
+머저리」(김성노연출, 미리내소극장, 745­8535)와 「말똥가리」(공동연출,
+예술소극장 이화, 764­0964).※ 「�%E
+</tdmsfiletext>

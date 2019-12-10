@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_150.txt </filename>
+<title> 조선일보  </title>
+<author> 한삼희(기자)</author>
+<date> 93.06.04</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0718CSM930604
+{한삼희}
+저개발국 빈곤극복이 「환경열쇠」/내일 「세계 환경의 날」
+◎인구폭발… 대응여유 없어/산림황폐­토양침식등 「파괴」 집중발생※
+5일은 21번째 맞는 세계환경의 날. 올해 지구환경문제의 주제는
+「빈곤과환경」이다. 환경주제를 통해 본 세계인의 환경보전 과제와 지난해
+리우환경회의이후의 국제동향을 살펴보는 특집을 마련한다.〈편집자주〉※
+「빈곤과 환경」.※ 유엔환경계획(UNEP)이 정한 금년 세계환경의
+날(6월5일)의 주제이다.�%
+</tdmsfiletext>

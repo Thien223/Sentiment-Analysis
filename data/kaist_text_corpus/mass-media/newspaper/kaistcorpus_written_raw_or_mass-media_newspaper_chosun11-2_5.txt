@@ -1,0 +1,65 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-2_5.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-2_5.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.02 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.04</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/ [여야] 휴일없는 '양심수 사면'공방, 11-2.hwp/Titleend
+Inf/조선일보, 1997년 11월 2일 /Infend
+Text/ 
+                     미국, "통일보다 북 민주화 선택" 
+
+                     미국 해군 분석센터는 31일 북한이 내전 발생으로 붕괴했을때
+                     동아시아 전략 환경이 어떻게 변하는지를 주제로 안전보장
+                     시뮬레이션을 실시한 결과, 미국은 한반도 안정을 위해
+                     통일보다도 북 한의 민주화를 추구할 것이라는 의견등이
+                     제시됐다고 일본의 산케이 (산경)신문이 전했다. 
+
+                     이 시뮬레이션에는 슐레진저 전 미 국방장관, 레이니 전 주한
+                     대사, 솔로먼 전 국무 차관보등이 참석했다. 시뮬레이션은 미
+                     행정부가 북한 에 내전이 발생해 김정일이 정권에서
+                     이탈했다는 언론 보도를 전제로 백악관에서 국가안전보장
+                     회의(NSC)를 소집, 미국의 대응책을 대통령 에게 보고하기
+                     위한 협의를 벌이는 상황을 상정한 것이다. 
+
+                     【동경=이준기자】 
+
+     11/02(일) 17:27 
+
+
+   지난기사 
+   기사검색 
+   독자투고 
+   서비스지도 
+ ▼부가서비스
+   테마퀴즈 
+   클럽시네마 
+   가요베스트20 
+   북리뷰 
+   갤러리조선 
+   미팅정보듀오 
+   추천사이트 
+   게임동산 
+   대학위성강좌 
+   사이버인터뷰 
+   2002월드컵 
+   만화모음 
+   인물DB 
+   부동산뱅크 
+   유학세계 
+   산수도인운세 
+   특허검색 
+/Textend 
+</tdmsfiletext>

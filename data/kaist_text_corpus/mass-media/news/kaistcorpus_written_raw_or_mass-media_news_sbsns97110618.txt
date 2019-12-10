@@ -1,0 +1,16 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110618.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.06 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+종금사 해태 지원키로
+대한종금등 29개 종금사 임원들은 오늘 오전 모임을 갖고 전금융기관이 참여한다는 조건아래 해태그룹에 천5백억원의 협조융자를 지원하기로 합의했습니다. 
+
+채권은행들도 지난달 해태에 약속했던 천억원의 협조융자가운데 아직까지 지원하지 않은 453억원을 지원하는 방안을 검토하고 있어 해태는 부도 일주일만에 채권단의 도움으로 회생의 길을 찾게 됐습니다. 
+</tdmsfiletext>

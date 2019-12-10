@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga10-31-7.txt </filename>
+<title> 동아일보</title>
+<author> 이용재(기자)</author>
+<date> 1997.10.31 </date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+『크리스마스 선물은 유럽백화점서』…４일부터 인터넷세일
+올해 크리스마스 시즌에는  클릭만으로 유럽지역 백화점에서 선물을 구입할 수 있게 될 전망이다.
+에 따르면 유럽의 1백50여 대형백화점과 소매유통업체들은 다음달 4일부터 「e―크리스마스」로 명명된  온라인 세일을 시작한다.
+이번 행사에는 하루 2만명씩 모두 50만명의 들이 참가할 것으로 예상되며 소비자들은 세계 어디서나 으로 접속, 참가업체의 상품을 로 주문하면 유럽지역의 경우 이틀안에 배달된다.
+다음달에 개설될 홈페이지는 「http://www.e―christmas.」.
+
+</tdmsfiletext>

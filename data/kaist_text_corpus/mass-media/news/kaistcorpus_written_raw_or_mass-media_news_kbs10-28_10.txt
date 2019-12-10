@@ -1,0 +1,29 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-28_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+단국대「자주대오」조직원 10명 구속
+
+
+⊙황수경 앵커 :
+          경찰청 보안국은 오늘 북한의 사회주의 혁명노선을 추종하면서 각종
+시위를 주도한 혐의로 단국대학교 천안캠퍼스이 주사파 조직인 이른바
+자주대오를 적발해서 의장 26살 유모씨 등 조직원 10명을 구속했습니다. 
+
+
+경남 양산 국도 침하 복구공사
+경남 양산시 동면 석산리의 35번 국도 침하 현장에는 차량이 전면 통제되고
+있는 가운데 복구공사와 사고원인 조사가 이루어지고 있습니다. 진영
+국도유지 건 설사무소와 양산시는 중장비를 동원해서 오늘 아침부터 갈라진
+도로틈에 흙을 메우는 등 응 급복구와 함께 더이상의 침하를 막기 위해서
+도로에 쌓여있는 흙을 옮기고 있습니다. 
+
+
+</tdmsfiletext>

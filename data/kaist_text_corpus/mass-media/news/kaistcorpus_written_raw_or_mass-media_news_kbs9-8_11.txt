@@ -1,0 +1,18 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-8_11.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.8  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+원-달러 환율 최고치 기록… 907원80전
+오늘 외환시장에서 원화의 대미 달러환율은 매매기준율 보다 1원10 전이 높은
+908원50전에 거래가 시작돼서 907원80전으로 마감됐습니다. 이에 따라 내일
+고시 될 매매기준율은 907원90전으로 지난 90년 3월 시장 평균 환율제도
+도입이후 최고치를 기록 했습니다. 
+
+</tdmsfiletext>

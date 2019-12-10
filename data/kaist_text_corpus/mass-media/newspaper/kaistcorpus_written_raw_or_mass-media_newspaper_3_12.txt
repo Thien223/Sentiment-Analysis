@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_12.txt </filename>
+<title> 조선일보  </title>
+<author> 김영하(기자)</author>
+<date> 93.05.11</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0579CSM930511
+[영국은지금]
+{김영하}
+경제 제조업중심으로 선회/김영하(영국은 지금:상)
+◎“서비스업 위주는 판단착오” 인식 확산/「선성장 후증세」추진…
+경제회복 낙관※ 본사 김영하 논설위원은 최근 영국정부 초청으로
+런던,맨체스터,글래스고,에딘버러 등 영국의 주요 도시를 돌며 정부관리,기업인
+기술자 및 환경전문가들을 만나고 돌아왔다. 김 위원은 상하 두번에 걸쳐
+최근 변화하는 영국의 모습을 소개한다.＜편집자주＞※ 런던의 분위기는
+다�%D
+</tdmsfiletext>

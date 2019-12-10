@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_188.txt </filename>
+<title> 조선일보  </title>
+<author> 심재율(기자)</author>
+<date> 93.06.09</date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+[NA0402.0756CSM930609
+[대전세계박람회]
+{심재율}
+관심끄는 문화행사(대전 세계박람회:24)
+◎첨단과학과 예술의 「하모니」/테크노 아트전­백남준쇼 등 눈길※
+예술의 한계를 어떻게 극복할 것인가. 현대 예술가들은 과학기술을 이용하여
+예술의 새로운 지평을 여는 노력을 30여년전부터 시도해왔다.※
+대전엑스포 회장에는 테크놀로지를 통해 예술의 영역을 넓히는 방법이 다양하게
+선을 보인다. 과학기술과 미술, 음악, 오페라의 만남.※ 과학기술을
+예술에 접목함으로
+</tdmsfiletext>

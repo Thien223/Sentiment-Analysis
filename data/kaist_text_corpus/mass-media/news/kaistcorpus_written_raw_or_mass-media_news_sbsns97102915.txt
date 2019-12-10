@@ -1,0 +1,17 @@
+<language> korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102915.txt </filename>
+<title> SBS 뉴스</title>
+<author> </author>
+<date> 1997.10.29 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+인천LNG1단계준공
+수도권에 천연가스를 안정적으로 공급하기 위한 인천 액화천연가스 즉 LNG 인수기지 1단계 공사가 완료돼 김영삼 대통령을 비롯해 임창렬 통상산업부 장관과 지역주민 등이 참석한 가운데 준공식을 가졌습니다. 
+
+김영삼 대통령은 치사를 통해 정부는 앞으로 천연가스 공급을 확대하기 위해 총연장 2천3백40킬로미터의 전국 배관망을 2천년대 초까지 건설할 것이라고 말했습니다 
+
+</tdmsfiletext>

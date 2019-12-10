@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_189.txt </filename>
+<title> 조선일보  </title>
+<author> 심재율(기자)</author>
+<date> 93.06.09</date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+[NA0402.0757CSM930609
+{심재율}
+놀이마당/「꿈돌이동산」/3백80억 들여 16종시설 마련
+◎시속 95㎞ 고속열차 쾌감 짜릿※ 어느 전시회장이나 한쪽 구석에는
+놀이마당이 세워지게 마련이다. 대전엑스포회장 한쪽에도 「꿈돌이
+동산」이마련된다. 1만7천평에 이르는 꿈돌이동산에는 고속궤도열차를 비롯하여
+수로타기 바이킹 회전목마등 16종의 놀이시설이 들어서 있다.※
+그중에서도 초고속열차가 가장 인기를 끌 것 같다. 궤도도 길 뿐더러 탑승객을
+앞으로,옆으로,비스듬히 회�%
+</tdmsfiletext>

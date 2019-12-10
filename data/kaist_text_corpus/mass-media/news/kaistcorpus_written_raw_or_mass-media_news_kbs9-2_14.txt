@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-2_14.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.9.2  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+직능단체 통한 사전 선거운동 단속
+
+
+⊙황수경 앵커 :
+          중앙선거관리위원회는 오늘 정당의 직능자문위원 등으로 위촉된
+택시기사와 보험설계사 이미용사 등이 특정 정당이나 입후보 예정자를 선전
+지지하는 행위는 사전선거운동에 해당된다고 밝히고 일선 선거관리위원회에
+철저한 단속을 지시했습니다. 
+
+</tdmsfiletext>

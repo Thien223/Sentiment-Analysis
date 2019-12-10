@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-2_9.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.9.2  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+부르키나파소 대통령 訪韓
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 서부아프리카 국가인 부르키나파소의 블레스 콩파우르
+대통령이 김영삼 대통령의 초청으로 오늘 오후 우리나라에 왔습니다. 지난 62년
+수교이 후 브르키나파소 국가 원수로는 처음으로 우리나라를 방문한 콩파우르
+대통령은 내일 청와대 에서 김영삼 대통령과 정상회담을 갖습니다. 
+</tdmsfiletext>

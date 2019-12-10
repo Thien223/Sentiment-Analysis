@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-25_14.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.24 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+'97미스월드에 인도 헤이던양
+전세계 86개국 대표들이 참가한 가운데 인도양의 세이셀 공화국에서 열린
+올해 미스월드 선발대회에서 인도의 다이애나 헤이던양이 미스월드의 영예를
+안았습니 다. 
+
+</tdmsfiletext>

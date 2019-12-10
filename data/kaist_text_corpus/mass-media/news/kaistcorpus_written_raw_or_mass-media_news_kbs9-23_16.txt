@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-23_16.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.23  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+시속 1,107㎞최고기록 수립
+
+
+
+⊙황수경 앵커 :
+          롤스로이스 엔진 2개를 단 영국의 스라스트 에스시시 자동차가 미국
+네바다주 사막에서 시속 1,100㎞가 넘는 속도로 달려서 비공인 세계기록을
+세웠습니다. 영국 자동차팀은 오늘 미국 서부 사막지대에서 평균시속 1,107㎞를
+기록하는데 성공했다고 발표했 습니다. 
+</tdmsfiletext>

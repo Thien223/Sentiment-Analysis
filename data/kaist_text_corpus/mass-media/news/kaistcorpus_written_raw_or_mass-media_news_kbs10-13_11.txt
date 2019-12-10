@@ -1,0 +1,30 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-13_11.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.13 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+경비행기추락 사망
+맑고 아름다운 노래로 전세계 많은 사람들의 사랑을 받아온 미국의 인기
+컨트리송 가수 존덴버가 오늘 비행기 추락사고로 숨졌습니다. 국제부 백선기
+기자가 전해 드립니다. 
+
+⊙백선기 기자 :
+          오늘 낮 존덴버는 자신의 경비행기를 몰고 가다 캘리포니아주 몬터레이
+부근에서 추락해 숨졌습니다. 미국 해안경비대는 비행기 잔해와 심하게
+훼손된 조종사 버는 올해 53살로 지난해에는 월드컵 유치 기념으로 KBS
+열린음악회에 출연하기도 했습니다. 대표곡으로는 Take me home country
+road, Sunshine on my shoulder 등이 있습니다. 존덴버는 평소 환경문제에
+관심이 높아 시골에 묻혀살면서 환경운동에 적극 동참해 왔습니다. 이해하
+기 힘든 노랫말이 난무하는 가운데 아름다운 노랫말로 사랑을 받아온 존덴버
+그의 죽음은 많 은 음악팬들에게 안타까움을 주고 있습니다. KBS 뉴스,
+백선기입니다. 
+
+
+
+</tdmsfiletext>

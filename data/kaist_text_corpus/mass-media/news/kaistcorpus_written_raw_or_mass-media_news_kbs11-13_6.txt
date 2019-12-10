@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-13_6.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.11.13 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+"한일합병조약은 무효" 순종 유언 확인
+
+
+⊙류근찬 앵커 :
+          대한제국의 마지막 임금인 순종 황제가 한일합병조약은 무효임을 선언한
+유서를 남긴 사실이 확인됐습니다. 서울대학교 국사학과 이태진 교수는 오늘
+순종황제 가 1926년 4월 26일 붕어하기 직전 한일 합병조약은 자신이 인준한 것이
+아니므로 파기돼야 한다는 유언이 같은해 재미동포들을 상대로 발행됐던 신한민보
+7월8일자에 보도된 사실을 확 인했다고 밝혔습니다.
+</tdmsfiletext>

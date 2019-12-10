@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-9_4.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.09 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+김 대통령, '사랑의 열매'증정 받아
+
+
+⊙황수경 앵커 :
+          김영삼 대통령은 오늘 오전 청와대에서 부인 손명숙 여사와 함께
+이웃돕기운동 추진협의회 공동대표인 이영덕 사회복지협의회장과 홍두표
+한국 방송협회장으로 부터 사랑의 열매를 증정받고 성금을 전달했습니다.
+김영삼 대통령은 오늘 이웃돕기성금으로 금일봉을 KBS에 전달했습니다. 또
+서울시의회 부의장을 지낸 주식회사 동방 포루마의 이성 구 회장이
+5백만원을 맡겨왔고 최홍건 특허청장과 임직원들이 446만여원을 역시
+이웃돕기 성 금으로 기탁해 왔습니다. 
+
+</tdmsfiletext>

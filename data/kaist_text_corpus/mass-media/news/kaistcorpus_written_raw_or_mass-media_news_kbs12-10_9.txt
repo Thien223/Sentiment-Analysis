@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-10_9.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+기업 부도설 유포 2명 영장
+증권가의 악성루머를 수사하고 있는 서울지검 특수1부는 오늘 특정 기업의
+부도설을 퍼뜨린 대한 컴퓨터 정보통신 대표 김상우씨와 모 할부금융
+자금과장 김홍 균씨 등 2명에 대해서 신용훼손 혐의로 구속영장을
+청구했습니다. 
+
+</tdmsfiletext>

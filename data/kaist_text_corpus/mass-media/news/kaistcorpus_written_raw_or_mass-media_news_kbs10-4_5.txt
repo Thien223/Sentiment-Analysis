@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-4_5.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.04 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+차 시장 개방압력 美에 철회 요구
+
+
+⊙황수경 앵커 :
+          전국 자동차산업 노동조합연맹과 6개 완성차 노동조합은 오늘
+자동차시장 개방문제와 관련해서 성명을 내고, 미국에 대해서 부당한
+자동차시장 개방압력 즉각 철회, 조세체제 수정 등 내정간섭과 주권침해
+중단, 대미 무역적자 해소방안 강구 그리고 슈 퍼 301조 발동 즉각철회 등을
+요구했습니다. 
+
+</tdmsfiletext>

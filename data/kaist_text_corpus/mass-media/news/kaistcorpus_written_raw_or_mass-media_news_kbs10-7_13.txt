@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-7_13.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.07 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+ABU 서울총회 15일 개막
+
+
+⊙황수경 앵커 :
+          오는 15일부터 ABU 즉 아시아 태평양 방송연맹 서울총회를 개최하는
+KBS는 오늘 서울 프레스센터에서 내외신 기자회견을 열고 이번 총회는 40개
+국에서 115 개 방송기관이 참석하는 역대 최대규모로 치러질 것이라고
+밝혔습니다. 이번 34차 ABU총회 는 오는 23일까지 디지털 시대는 방송인에게
+무엇을 의미하는가라는 특별주제 아래 진행됩니 다. 
+
+</tdmsfiletext>

@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-4_9.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.12.04 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+북한産 추정 필로폰 대량 밀수
+
+서울 지방검찰청 강력부는 오늘 필로폰 1.6㎏을 중국에서 밀수입해서 팔아온
+43살 황옥택 금택 형제 등 10명을 구속하고 김사장으로 알려진 중국에서
+거주하고 있 는 조선족 필로폰 공급책을 찾고 있습니다. 검찰은 필로폰
+밀수총책 황옥택씨가 조선족 공급 책으로 부터 북한 제조공장에서 필로폰을
+가져왔다는 말을 들었다는 진술을 중시하고 필로폰 제조와 공급 과정에
+북한이 개입됐는지 여부를 밝히는데 수사력을 모으고 있습니다. 
+
+
+</tdmsfiletext>

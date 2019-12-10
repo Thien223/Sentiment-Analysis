@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-1_10.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.12.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+'사진으로 본 한국.한국인'전시회
+
+공보처와 한국 프레스센터가 주최한 제2회 사진으로 본 한국.한국인 공모전
+입상작 전시회가 오늘 세종문화회관에서 개막됐습니다. 오는 10일까지
+열리는 이번 전시회에서는 대통령상 수상작인 산업의 역군 등 입상작
+백여점이 전시됩니다. 
+
+
+</tdmsfiletext>

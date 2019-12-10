@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-15_11.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.15 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+한국전쟁 포로 즉각 송환 결의
+
+
+
+⊙황수경 앵커 :
+          세계 74개국 2백여개 참전 제대군인 단체로 구성된 세계제대군인연맹
+서울총회가 7일간의 일정을 마치고 오늘 폐막됐습니다. 폐회식에 앞서서 열린 오늘
+총회 에서 각국 대표단은 북한측에 한국전쟁 당시의 포로를 즉각 송환하라는
+내용의 결의안을 채 택했습니다. 
+
+</tdmsfiletext>

@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-20_8.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.20  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+월드컵 구장 건설 3,500억 국고지원
+
+
+⊙황수경 앵커 :
+          정부는 오늘 고건 국무총리 주재로 2천2년 월드컵 대회 지원대책회의를
+열고 월드컵을 치를 축구경기장의 총건설비 1조천4백억원 가운데 3천5백억원을
+오는 2 천1년까지 연차적으로 국고에서 지원하기로 했습니다. 국정감사 기관
+296개 확정 여야3당은 오늘 수석부총무 회담을 열어서 다음달 1일부터
+시작되는 국정감사의 대상기관을 296개로 최종 확정했습니다. 4자 예비회담
+입장차로 결렬 남북한과 미국 중국 등 4나라는 오늘 뉴욕에서 다시 만나 본회담
+의 제설정을 위한 2차 예비회담을 다시 열었으나 남북한 양측의 뚜렷한
+입장차이를 좁히지 못한 채 결렬됐습니다. 
+</tdmsfiletext>

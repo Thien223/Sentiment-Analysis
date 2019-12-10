@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-24_15.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.24  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+경제위기 극복 프로그램 제작 요청
+
+오늘 KBS에서 열린 9월의 시청자 위원회에서 위원들은 경제위기를 이겨나가기
+위해서 깊이있는 경제프로그램을 제작해줄 것을 요청했습니다. 오늘
+시청자위원 회에 앞서서 홍두표 KBS사장은 전응덕 위원장과 김재호 부위원장
+등 이달부터 새로 구성된 12명의 제8기 시청자위원들에게 위촉장을
+전달했습니다. 
+</tdmsfiletext>

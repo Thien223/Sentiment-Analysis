@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-22_10.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+해태, 3차전 승리…5:1
+
+
+⊙황수경 앵커 :
+          97 프로야구 한국시리즈 3차전에서 해태가 홈런 2개로 3타점을 올린 
+
+이종범의 활약에 힘입어서 엘지를 물리치고 2승1패를 기록했습니다. 해태의
+이종범은 1:0으
+          로 뒤지던 6회에 솔로홈런으로 동점을 만든뒤 7회에는 역전 투런
+홈런으로 팀에 5:1 승리를 이끌었습니다. 
+
+
+
+</tdmsfiletext>

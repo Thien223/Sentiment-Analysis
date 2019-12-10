@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-17_11.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.17 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+58회 순국선열의 날 기념식
+
+
+
+⊙황수경 앵커 :
+          올해 처음 법정기념일로 제정된 제58회 순국선열의 날 기념식이 오늘 오전
+정부주관으로 세종문화회관 대강당에서 열렸습니다. 오늘 행사에는 권오기
+부총리와 보훈처 관계자 그리고 광복회원 등 천6백여명이 참석해 순국선열의
+고귀한 희생을 기렸습니 다. 
+
+</tdmsfiletext>

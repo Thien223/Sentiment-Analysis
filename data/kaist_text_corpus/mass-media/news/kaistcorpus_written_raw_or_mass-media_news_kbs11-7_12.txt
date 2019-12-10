@@ -1,0 +1,28 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-7_12.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.07</date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+한.미 연례안보협의회 13-14일 개최
+
+
+⊙황수경 앵커 :
+          한미 양국은 오늘 제29차 한미 연례 안보협의회와 제19차 군사위원회 회의를
+오는 13일과 14일 이틀동안 서울에서 연다고 발표했습니다. 이번 회의에서는 최근
+북한의 정세와 군사위협에 대한 진지한 평가를 바탕으로 4자회담과 식량지원 등
+대북 정책에 관련된 양국간의 공조체제 문제를 비롯해서 한미 연합방위태세를
+검토하게 됩니다. 
+
+
+"北, 이봉원 인민군 대장 처형"
+일본의 도쿄신문은 오늘 러시아의 소식통을 인용해서 북한의 인민군 총정치국
+부국장인 이봉원 대장이 김정일 체제에 대한 비판과 독직을 이유로 지난 7월20일쯤
+평양 교외에서 처형됐다고 보도했습니다. 이와 함께 평안남도 노동당 간부와
+상사원 등 3명 도 독직을 이유로 처형됐다고 도쿄신문은 덧붙였습니다
+</tdmsfiletext>

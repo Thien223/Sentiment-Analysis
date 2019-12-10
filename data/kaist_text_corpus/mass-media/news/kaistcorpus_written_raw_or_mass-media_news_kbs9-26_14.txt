@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-26_14.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.26  </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+시민언론운동 방향 정립 토론회
+오늘 한국 프레스센터에서 열린 방송과 신문의 공정성 확보와 바람 직한
+시민언론운동의 방향 정립을 위한 토론회에서 참석자들은 바람직한
+시민언론운동을 위 해서는 언론에 대한 시민들의 자유로운 비판과 토론을
+저해하는 각종 제도와 법률에 대한 개 정 작업을 병행해야 할 것이라고
+주장했습니다. 
+
+</tdmsfiletext>

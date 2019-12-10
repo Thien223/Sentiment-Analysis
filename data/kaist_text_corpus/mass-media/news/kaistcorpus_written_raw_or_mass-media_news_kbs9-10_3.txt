@@ -1,0 +1,26 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-10_3.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.10  </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+김대통령, 평통 해외자문위원 격려
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 김영삼 대통령은 오늘 오후 제8기
+민주평화통일자문회의의 해외지역 자문위원 832명을 청와대로 초청해서
+다과회를 열고 격려했습니다. 김영삼 대통령은 이 자리 에서, 지금 남과 북
+사이의 가장 시급한 과제는 민족을 파멸로 이끌 전쟁을 막고 평화를 뿌리 내리는
+일이라고 강조했습니다. 
+
+"경제살리기 최선" 당부
+김영삼 대통령은 오늘 낮 청와대에서 경제5단체장과 오찬을 함께 하 며,
+경제계가 합심협력해서 당면 국정 최대현안인 경제살리기에 최선을 다해달라고
+당부했습 니다. 
+</tdmsfiletext>

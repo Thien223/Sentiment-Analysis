@@ -1,0 +1,57 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-26_7.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-26_7.txt </filename>
+<title>  </title>
+<author>  </author>
+<date>  1997.11.26</date>
+<publisher> 조선일보 </publisher>
+<kdc>news.06</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[자금 사정] 한나라, 451억 규모…"옛 여당과 큰 차이" , 11-26.hwp/Titleend
+Inf/조선일보, 1997년 11월 26일 /Infend
+Text/ 1/26(수) 20:16 
+     11/26(수) 20:00 
+
+
+
+
+                     [미국] 장거리통신시장 완전개방…WTO협정
+                     내년시행 
+
+                     미국은 세계무역기구(WTO)가 지난 2월 합의한
+                     장거리통신무역협정 을 내년 1월부터 시행, 국제전화를
+                     포함한 각종 장거리 통신서비스 시장 을 1백32개 WTO
+                     회원국에 완전 개방한다고 25일 밝혔다. 
+
+                     또 이번 개방조치로 미국 소비자들이 부담하는 국제통화료를
+                     70∼80% 인하하도록 유도하겠다고 말했다. 
+
+                     미연방통신위원회(FCC)의 이번 조치에 따라 내년부터
+                     WTO회원국의 관련기업들은 일반전화와 휴대전화, 새로운
+                     형태의 이동전화, 개인휴대용 데이터 서비스용 PCS, 외국소유
+                     위성을 통한 서비스 등에 대한 미국 시장 진출이 모두
+                     허용된다고 밝혔다. 
+
+                     특히 이들 통신서비스분야에 참여하는 WTO회원국 기업들에
+                     대해서 는 관련업체 설립이나 지분제한이 완전 폐지돼 1백%
+                     투자가 가능해진다. 
+
+                     종래에는 FCC가 특별히 허용하는 경우 외에는 최대
+                     25%까지만 지분 참여가 허용됐었다. 
+
+                     윌리엄 케나드 FCC의장은 이번 시장개방조치가 미국 통신 및
+                     위성 업체들의 해외진출을 지원하게 될 것이라고 강조, 미국
+                     관련업체의 해외 진출이 활발해질 것임을 시사했다. 
+
+
+/Textend 
+</tdmsfiletext>

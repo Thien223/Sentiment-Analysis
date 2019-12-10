@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-2_17.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+경기방송 개국
+
+경기 남부와 인천지역 850만 주민을 청취 대상으로 하는 민영 라디 오
+방송사 경기방송이 오늘 오전 9시 개국식을 갖고 첫 전파를 발사했습니다.
+24시간 자체 제작한 프로그램을 방송할 경기방송은 라디오 FM99.9㎒를
+맞추면 청취할 수 있습니다. 
+
+</tdmsfiletext>

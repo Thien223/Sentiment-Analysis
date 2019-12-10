@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_183.txt </filename>
+<title> 조선일보  </title>
+<author> 손성미(기자)</author>
+<date> 93.06.08</date>
+<publisher> </publisher>
+<kdc> 070.08</kdc>
+<tdmsfiletext>
+[NA0402.0751CSM930608
+{손성미}
+「청학동 청년」 신학문 길로/중학입학 검정고시 고득점 합격
+ 엉덩이까지 내려오는 댕기머리, 살짝 속이 보이는 흰 모시적삼과
+고무신을 신은 한재훈씨(22·서울 송파구 마천2동)는 93년도 중학교
+입학자격 검정고시에서 9백점 만점에 8백 95점을 맞아 합격했다.
+합격으로「신학문」의 길로 들어선 한씨는 『신학문은 다양한 세계를 접할 수
+있다는 장점도 있지만 역시 한학의 깊은 맛을 따를 수는 없다』고
+말했다.※ 7살 때 서당에서 천자문으로 시%C
+</tdmsfiletext>

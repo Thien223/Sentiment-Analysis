@@ -1,0 +1,655 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_academic_paper96_tei.txt </filename>
+<title> Finitely  Recursive Process를  이용한 유연생산 셀의 모형화  및 제어에 관한 연구 (A Finitely Recursive Processes Approach to  Modeling and Control of an FMC) </title>
+<author> 최재혁 </author>
+<date> 1994 </date>
+<publisher> 서울대학교 </publisher>
+<kdc> TM530.961 </kdc>
+<tdmsfiletext>
+초   록
+
+본 연구는 유연생산 셀의 모형화 및  셀 제어기 설계를 위한 정형화된 방법론을 다루고 있다. 일반적으로  유연생산 셀은 다양한 형태로 존재하고, 다양한  제어 요구 사항을 가지기  때문에 모든 시스템에 이용될 수 있는 일반적인 제어 구조를 만드는 것은 쉽지 않기 때문에 정형화된 모형화 기법과 제어  구조가 필요하다. 본 연구에서는 Finitely  Recursive Processes  (FRP)를 기본적인  모형화  기법으로 이용하여 supervisory control  이론을 적용함으로써 셀 내의  비동기적으로  일어나는 사건들이  제어  요구 사항을  만족하도록  하였다. FRP를 이용하여 구축된 셀  모형과 supervisor 프로세스를 중심으로 해서 유연생산  셀을 위한  제어 구조를 제시하였다.  실례로 서울대 자동화시스템 공동연구소(ASRI)에  설치되어 있는  유연생산 시스템의 가공 셀을 대상으로 FRP  모형의 수립과 supervisor 구축 과정을 보였다. 끝으로 기존의  FSM(Finite State Machine) 모형과 본 논문에서 이용한 FRP  모형을 유연생산 셀의 모형화에 있어서  정성적인 측면과 정량적인 측면으로 나누어 비교하였다.
+
+
+
+   주요어  :  유연생산 셀, FRP, FSM, supervisory control, 
+              셀 제어기
+
+
+목   차 
+
+
+
+
+초록
+목차
+표목차
+그림목차
+                                                                     (page)
+1. 서론                                         1
+   1.1. 연구의 배경                                               1
+   1.2. 연구의 목적                                               3
+
+2. 관련된 연구 현황                                          5
+   2.1. 생산 시스템의 모형화 기법                                    5
+   2.2. Supervisory Control                                           9
+
+3. FRP를 이용한 유연생산 셀의 
+  모형화 및 제어                                              11
+   3.1. Finitely Recursive Processes                                11
+   3.2. Supervisor Process Construction                            17
+   3.3. FRP를 이용한 유연생산 셀의 모형화 및 제어                 21
+
+     
+                                             (page)
+4. 유연생산 셀의 제어 구조                              27
+   4.1. 제안된 유연생산 셀의 제어 구조                           27
+   4.2. 제안된 유연생산 셀의 모형화 및 제어 절차                   31
+   4.3. ASRI 가공 셀의 모형화 및 supervisor의 구축                33
+   4.4. 유연생산 셀의 모형화 기법의 비교 : FSM vs. FRP          37
+
+5. 결론 및 추후 연구 방향                                46
+
+참고문헌
+ABSTRACT
+
+
+1. 서론
+
+1.1. 연구의 배경
+
+유연생산 시스템(FMS)은 컴퓨터의 통제하에서 여러 대의 NC 기계들이 AGV나 AS/RS와 같은 물류운반 시스템으로 연결되어 있는 통합된 생산 시스템이다. 유연생산 시스템의 장점으로는 생산성의 향상, 다품종 생산 능력, set-up 시간의 감소, 재고 수준의 감소, 품질 향상 등이 있다. 최근 부각되고 있는 컴퓨터통합 생산 시스템(CIM)의 구현을 위하여, 유연생산 시스템에 관한 연구가 매우 활발히 이루어지고 있다. 
+
+유연생산 시스템에 관한 연구 분야는 매우 많지만 본 연구에서 다루고자 하는 분야는 시스템의 모형화(modeling)에 관한 것이다. 유연생산 시스템의 모형화에 관한 연구는 다양한 이유로 이루어지고 있다. 새로운 시스템의 설계를 위해, 혹은 기존 시스템의 분석을 위해 모형화에 관한 연구는 필수적이다. 특히 최근에는 시스템의 정형화된 제어 구조의 개발 또는 제어 소프트웨어의 개발을 위한 수단의 하나로서도 많이 이용되고 있다(Naylor and Volz 1987, Chaudhury 1992).
+
+유연생산 시스템에 있어서 제어는 가장 핵심적인 부분이라 할 수 있다. 유연생산 시스템은 시스템의 다양함으로 인하여 시스템의 통합에 많은 문제점을 노출하고 있다(Chaar and Volz 1993). 이 문제를 해결하기 위해서 정형화된 제어 구조가 반드시 필요하고 그에 따라서 정형화된 모형화 기법이 필요하다. 최근 많이 이용되는 모형화 기법으로는 finite state machine(이하 FSM)이나 Petri net과 같은 이산사건 시스템의 모형화 기법들을 들 수 있다.
+
+이산사건 시스템(discrete event dynamic systems)이란 불연속적인 시간에 발생하는 물리적인 사건(event)으로 인하여 상태(state)가 변하는 동적 시스템이다. 그 대표적인 예로 생산 시스템, 통신 네트워크, 그리고 컴퓨터 운영체계 등이 있다. 이산사건 시스템을 모형화하고 제어함에 있어서, 과거에는 시스템이 비교적 단순하여서 그때 그때 대상 시스템에 맞는 특정한 방법으로도 가능하였지만, 컴퓨터 기술의 광범위한 응용 등으로 인하여 시스템이 복잡해지면서 보다 상세하고 정형화된 기법(formalism)들이 필요하게 되었다. 이에 따라 최근 많은 모형화 기법들이 제안되었고, 그 응용 범위도 매우 다양해졌다. 
+
+한편, 최근 이산사건 시스템의 제어 분야에서 새롭게 등장한 것이 supervisory control(Ramadge and Wonham 1989) 이론이다. super visory control은 기본적으로 FSM을 바탕으로 개발된 것으로, 기본적으로는 제어하려고 하는 시스템으로부터 supervisor를 구축하여 따로 분리함으로써 효과적으로 시스템을 제어하고자 하는 것이다. 최근 이러한 개념을 생산 시스템의 제어에도 응용하려는 연구들이 일부에서 이루어지고 있다.
+ 
+
+1.2. 연구의 목적
+
+앞에서 언급한 바와 같이 유연생산 시스템의 정형화된 제어 구조를 위해서는 시스템을 나타내는 정형화된 모형이 반드시 필요하다. 그리고 이 모형을 가지고 일반적인 정형화된 제어 구조를 제시하는 것이 필요하다. 지금까지는 이러한 모형화 기법으로 FSM과 Petri net이 가장 많이 사용되었다. 본 연구에서는 모형화 기법으로 finitely recursive process(이하 FRP)를 사용하고자 한다. FRP는 FSM이나 Petri net에서와 같이 상태(state)로써 시스템을 나타내는 것이 아니라, 프로세스로 시스템을 나타내는 기법이다. 따라서, 복잡한 시스템을 다룰 때 야기되는 complexity 문제를 어느 정도 완화시키고, 모형화를 더 쉽게 할 수 있을 것이라 생각한다.
+
+최근의 유연생산 시스템(FMS)에 관한 연구는 대부분 유연생산 셀(FMC) 수준으로부터 전체 FMS 수준으로 확장시켜 나가는 방법을 따른다. 따라서, 본 연구에서도 유연생산 셀에 그 초점을 맞추었다. 그리고, 본 연구에서는 시스템의 논리적인 행태의 제어에 초점을 맞추고 있으며 시간을 직접적으로 고려하지는 않았다. 이는 기존의 FSM이나 FRP가 시간을 고려하고 있지 않기 때문이며 본 연구의 결과로 시스템 내의 비동기적 사건들의 올바른 순서의 진행을 제어하기 위한 제어 구조가 제시될 것이다. 특히 supervisory control을 FRP 모형에 접목시켜서 효과적인 제어 구조를 제시하고자 한다. 본 연구의 목적을 요약하면 다음과 같다.
+
+
+   1) 유연생산 셀과 제어 요구 사항을 FRP를 이용하여 
+      수리적으로 정형화된 모형으로 나타낸다. 더불어 
+      FRP 모형의 장점을 제시한다.
+
+   2) FRP 모형을 이용하여 supervisory control을 구현한다.
+      즉, FRP 모형으로부터 주어진 제어 요구 사항에 부합
+      되는 시스템의 행태를 보장하는 supervisor를 구축한다. 
+
+   3) 유연생산 셀 제어기의 구현을 위한 정형화된 제어
+      구조를 제시한다.
+
+   4) 끝으로, 기존의 FSM 모형과 FRP 모형의 유연생산 
+      셀의 모형화에 있어서의 장단점을 비교한다.
+
+2. 관련된 연구 현황
+
+2.1. 생산 시스템의 모형화 기법
+
+일반적으로 생산 시스템을 모형화하는 기법은 다음과 같이 크게 4가지로 나눌 수 있다. 
+
+    1) 분석적 모형(analytical models)
+    2) 상태 기반 모형(state-based models)
+    3) 프로세스 기반 모형(process-based models)
+    4) 인공지능 기반 모형(AI-based models)
+
+각 모형에 대하여 차례로 알아 보기로 한다.
+
+2.1.1. 분석적 모형(analytical models)
+
+분석적 모형은 대상 시스템을 수학적인 등식을 이용하여 나타내는 기법이다. queueing network나 Markovian chain model 등이 대표적인 분석적 기법들이다. 이외에도 Cohen(1985)은 생산 시스템을 선형시스템으로 보고 (Max,+)-algebra를 이용하여 생산 시스템을 동적시스템으로 모형화하였다. 주로 시스템의 성능평가와 최적화에 이용되며, 실시간 제어에는 부적합하다. 
+
+
+2.1.2. 상태 기반 모형(state-based models)
+
+이산사건 시스템에서 최근 많이 사용되는 모형이다. 시스템의 상태(state)와, 상태들 사이의 전이(transition)로써 시스템을 나타낸다. 대표적인 것으로는 FSM과 Petri net 등이 있다. 이 모형의 장점으로는 첫째, 명확하고 시스템을 규정하기 쉽고, 둘째, 풍부하고 잘 발달된 개념과 이론들이 있다. 그러나 단점으로는 시스템이 복잡해지면, 상태의 수가 exponential하게 증가하는 complexity 문제가 있다.
+
+finite state machine(FSM)은 단순하고 명확한 구조때문에 연구가 많이 진행되어 있고 가장 보편적이다. 다른 이산사건 시스템의 모형화 기법들보다 오랜 시간 동안 많은 연구가 이루어졌기 때문에 바탕이 되는 이론이 매우 체계적이고 풍부하다. 그러나 시스템이 복잡해질수록 상태의 수가 급격히 증가하는 complexity 문제를 갖는다.
+Kim(1987)은 FSM의 상태 전이의 특징이 생산 시스템의 특성과 잘 일치한다는 점을 들어서, FSM이 생산 시스템을 수리적으로 표현하는 적절한 모형이라는 것을 보였다.
+FSM은 제어 소프트웨어의 설계에도 이용되었는데, Linn(1988)은 생산 시스템의 통신 프로토콜을 나타내는 정형화된 언어인 Estelle 개발에 있어서, Estelle을 구성하는 각 모듈을 FSM으로 모형화 하였다. 
+Ramadge와 Wonham(1989)은 FSM을 이용하여 supervisory control 이론을 개발하였다. 이에 대해서는 뒤에 더 자세하게 다룰 것이다. 
+
+또 하나의 대표적인 상태 기반 모형인 Petri net은 place와 tran sition으로 시스템을 나타낸다. Petri net 모형은 FSM에 비하여 더 높은 language complexity를 갖는다(Inan and Varaiya 1988). Petri net의 장점은 첫째, 시스템을 가시적으로 나타내어서 이해가 쉽게 되고, 둘째, 계층적으로 모형화할 수 있고, 세째, 잘 발달된 이론에 의하여 시스템의 정성적인 분석(boundedness, safety, deadlock 분석 등)이 가능하고, timed Petri net을 이용하면 시스템의 성능평가도 가능하다는 점이다. 하지만 Petri net도 시스템이 복잡해지면, 그래프로 나타내기가 어려울 뿐더러, 시스템의 분석이 매우 어려워진다는 단점이 있다.
+Narahari와 Viswanadham(1985)은 Petri net을 이용하여 유연생산 시스템을 모형화하고 정성적인 면을 분석하는 접근 방법을 제시하였다.
+Kamath와 Viswanadham(1986)은 colored Petri net을 유연생산 시스템의 시뮬레이터의 설계에, 또 제어기 설계시의 deadlock detec tion에 이용하였다.
+Merabet(1987)은 유연생산 셀 내에서 이루어지는 작업들의 동기화를 위해 Petri net을 이용하였다. 
+
+2.1.3. 프로세스 기반 모형(process-based models)
+
+프로세스 기반 모형은 시스템을 프로세스를 중심으로 해서 나타내는 모형이다. 여기서 프로세스는 시스템 내의 실행 가능한 사건(event)들의 순서(trace)로 규정지어진다. 따라서 이 모형에서는 상태(state)는 프로세스에서의 사건의 수행에 의해 부수적으로 야기되는 것이다. 이 모형의 기본적인 이론적 배경은 집합론과 선형대수이다. 프로세스 기반 모형의 장점은 첫째, 풍부한 시스템 결합 연산자가 제공되고, 둘째, 기존의 프로그래밍 언어 이론에서 개발된 개념과 기법들을 사용할 수 있는 기반을 제공한다. 세째는 시스템을 재귀적으로 표현하기 때문에 매우 간단하게 시스템을 나타낼 수가 있다. 그러나 현재로는 상태 기반 모형에 비하여 연구가 부족하고, 배경 이론이 부족하다. 또한 생산 시스템과 관련된 연구가 별로 없었다.
+Hoare(1985)의  communicating sequential processes(CSP)는 가장 대표적인 모형이다. 이는 원래 컴퓨터 시스템과 같은 concurrent 시스템을 설계, 구현하기 위한 수리적인 정형화된 방법으로서 개발되었지만, 점차 그 응용 범위가 넓어지고 있다. CSP는 여러가지 다른 정형화된 기법들의 근간이 되었다.
+본 연구에서 사용할 FRP도 CSP에서 나온 모형이다. FRP에 대한 자세한 내용은 3장에서 다루기로 한다. 
+
+2.1.4. 인공지능 기반 모형(AI-based models)
+
+인공지능 기반 모형은 오늘날 시스템의 모형화와 제어에 있어서 가장 많이 사용되는 방법 중의 하나이다. 이 모형의 장점은 수학적으로 최적은 아니지만 빠른 시간 안에 실용적인 해를 제공하고, 복잡하고 정성적인 상황을 우리가 익숙한 방식으로 쉽게 표현할 수 있다는 점이다. 대표적인 것으로 객체지향 모형과 전문가시스템, rulebase 모형, framebase 모형 등이 있다. 생산 시스템과 관련된 연구를 살펴보면, 주로 생산 계획과 스케쥴링, 그리고 시뮬레이션 쪽과 제어 소프트웨어의 정형화된 설계에 관련하여 폭넓게 많이 이용되고 있다.
+ISIS(Fox and Smith 1984)는 constraint-directed job scheduling 시스템으로서, 스케쥴의 스페이스를 계층적인 constraint-directed search를 수행해서 가능한 스케쥴을 찾는다.  
+Maimon과 Fisher(1988)는 객체지향 언어의 inheritance 와 instancing capability룰 이용하여 object-based controller(OBC)를 제안하였다.
+
+
+2.2. Supervisory Control
+
+supervisory control(Ramadge and Wonham 1989)은 기본적으로 FSM에 근간을 두고, 생산 시스템과 같은 이산사건 시스템의 제어를 위해 개발된 이론이다. 여기서 "supervisor"란 이름은 대상 시스템의 상태 전이에 따라 적절한 제어 형태를 주는 automaton의 이름에서 나온 것이다. 즉, super visor는 대상 시스템의 상태 전이를 계속 관찰하면서 상태 전이가 일어날 때마다 그 다음 일어날 수 있는 사건을 시스템에 준다. 따라서 supervisor에서 일어날 수 없는 사건은 대상 시스템 내에서 일어날 수 없다.
+
+기존의 기법과의 차이는 기존의 기법들은 대상 시스템과 제어 요구 사항을 모두 고려하여 하나의 모형을 만드는 데 비하여, 이들의 접근 방식은 제어를 받는 대상 시스템(plant라고 부른다)과 제어를 하는 제어기(supervisor)를 분리시킴으로써, 제어 요구 사항이 달라졌을 때 새로운 모델을 수립하기가 쉽고, 따라서 제어를 하지 않은 시스템(uncontrolled system)에 대한 각기 다른 제어 요구의 효과를 비교 평가할 수 있다. 
+supervisory control에 대하여는 많은 확장된 연구들이 이루어졌다. 예를 들면, modular synthesis, decentralized control, real-time control using temporal logic 등이 있다.
+
+한편 Petri net을 이용하여 supervisory control 개념을 구현한 연구도 있는데, Hasegawa(1990)는 layered Petri net을 이용하여 유연생산 시스템의 정상 작업과 이상 처리를 모형화 하였다. 여기서 Petri net은 supervisory layer와 operational layer 두가지를 두고, super visory layer로 하여금 operational layer의 전이를 제어하게 하였다.
+
+위의 FSM과 Petri net이 모두 상태 기반 모형인데 비하여, Smedinga(1987)는 trace theory를 이용하여 프로세스 모형에서 supervisor control을 구현하려고 하였다. 여기서는 기존의 프로세스 기반 모형이 아닌, 기초적 형태의 프로세스를 대상으로 하였다. 
+
+
+3. FRP를 이용한 유연생산 셀의 모형화 
+  및 제어
+
+
+본 연구에서 의미하는 유연생산 셀의 제어란 셀 모형 내에서의 일련의 사건들을 순서에 맞도록 실행시키는 것을 의미한다. 본 연구에서 대상 시스템을 모형화하는 방법으로서 FRP를 선택하였음은 앞서 언급한 바와 같다. 다음 절에서는 FRP에 대한 간단한 소개를 하고, 2절에서는 FRP 모형에서 supervisor를 구성하는 방법을 제시하고, 3절에서는 생산 시스템을 대상으로 FRP를 이용하여 어떤 식으로 모형화 및 제어가 이루어 지는지를 보일 것이다. 
+
+
+3.1. Finitely Recursive Processes
+
+finitely recursive processes(이하 FRP)는 이산사건 시스템의 정형화된 모형화 기법 중의 하나로서, 사건들의 순열(trace)로써 시스템을 나타내는 프로세스 기반 모형이다. FRP는 CSP(Hoare 1985)에 이론적 근거를 두고 있고, 부분적으로는 supervisory control theory (Ramadge and Wonham 1989)에서 동기를 얻었다([그림 3.1] 참조). 이하 FRP에 대한 기본적인 내용(Inan and Varaiya 1988)을 설명하고자 한다.
+
+3.1.1. Processes 
+
+A를 사건들의 유한한 집합이라고 하고, A*는 A안의 사건들의 모든 유한한 순열들의 집합이라 하자. 이때, 하나의 프로세스 P는 triple (tr P,  P,  P)로 정의된다. 여기서, tr P 는 P의 trace(즉, P가 실행시킬 수 있는 사건들의 순열)들의 집합이고,  P : tr P   2A 는 
+
+
+
+
+[그림 3.1] Finitely Recursive Processes
+
+
+event function이고,  P : tr P   {0,1} 는 termination function이다.  P(s)는 event s를 실행시킨 후에 P가 실행시킬 수 있거나 혹은 일어나지 못하게 할 수 있는 다음 사건을 나타내고,  P(s)는 s를 실행시킨 후에 끝이 났는지의 여부를 나타낸다. 프로세스 P는 반드시 다음을 만족해야 한다.
+
+       1. <>   tr P
+       2. s^t   tr P   s   tr P.
+       3. s^<a>   tr P   a    P(s).
+       4.  P(s) = 1   s^t   tr P unless t = <>.
+
+여기서, <>는 null을 나타내는 것이고, ^는 string의 con catenation을 나타내는 연산자이다. 예를 들면, <ac>^<d> = <acd>이다.
+
+간단하지만 아주 유용한 다음의 두 프로세스가 있다.
+
+     STOPB := ( {<>},  STOPB(<>),  STOPB(<>)=0 )
+     SKIPB := ( {<>},  SKIPB(<>),  SKIPB(<>)=1 }
+STOP과 SKIP의 차이는 STOP은 끝나지 않은 프로세스임에 비해서 SKIP은 끝난 프로세스라는 점이다.
+
+모든 프로세스의 집합을  라 하자. 프로세스에 대하여 정의된 연산자는  에서  로의 함수이다. 기본적인 연산자 중의 하나인 post-process P/s는 다음과 같이 정의된다. 
+
+ P/s = ( tr (P/s),  (P/s),  (P/s) )
+           for s   tr P, tr (P/s) := { t A* | s^t tr P },
+                          (P/s)(t) :=  P(s^t),
+                          (P/s)(t) :=  P(s^t).
+
+3.1.2. The function space  n
+
+FRP는 다음의 5가지 연산자에 의해 정의되는  n에서  로의 function space  n에서 정의된다. 
+
+ (1) Deterministic Choice 
+          Q = (a1   P1 |    | an   Pn
+    이때 Q는 어떤 ai를 실행시키고 Pi를 따르게 된다.(i=1...n)
+
+ (2) Synchronous Composition
+          R = P || Q
+          <>   tr (P||Q) and
+          If s tr (P||Q), then s^<a> tr (P||Q) if and only if
+          s^<a> P tr P, s^<a> Q tr Q, 
+          and a  P(s P)  Q(s Q).
+          여기서,  는 projection 연산자. 
+                 (예, <abcd> <a,d>:=<ad>)
+    이 연산자는 두개의 프로세스를 동기화시키는 연산자이다.
+
+ (3) Sequential Composition
+          R = P ; Q
+    이때의 R은 프로세스 P가 완전히 끝이 나면 프로세스 Q를
+    실행시키는 프로세스가 된다.
+
+ (4) Local event change
+          P   P[-B+C]   , where,  P = A,  B,C  A
+이 연산자는 프로세스의 event set을 변화시켜 주는 것이다. 이때 P[-B+C] 는 B에 속하는 사건은 처음 실행시킬 수가 없게 된다. 그리고 C에 속하는 사건들이 원래의 프로세스 P의 event set에 포함되게 된다.  
+
+ (5) Global event change
+          P   P[[-B+C]]  , where,  P = A,  B,C  A
+프로세스의 event set을 변화시키는 점은 local event change 연산자와 같지만 차이점은 처음 실행시키는 사건뿐만이 아니라 프로세스가 실행되는 내내 B에 속하는 사건들은 P의 event set에서 빠지게 되고, C에 속하는 사건들은 P의 event set에 속하게 된다는 점이다.
+
+이때, function space  n는 다음과 같이 정의된다.
+(정의 3.1) The function space  n 은 다음 1)-5)를 만족하는  n 에서
+         로의 function들의 가장 작은 class이다. 
+   1) For every B 2A, STOPB and SKIPB are in  n.
+   2) For i=1,...,n, Proji is in  n ,
+               where Proji(X1,...,Xn):=Xi. 
+   3) If f    n , then f[-B+C], f[[-B+C]]    n .
+   4) If f, g    n , then (f || g)    n .
+   5) If f, g    n , then (f ; g)    n .    
+
+3.1.3. Finitely Recursive Processes
+
+FRP의 정의에는 다음의 mutually recursive 프로세스 개념이 기
+초가 된다. 
+
+(정의 3.2) X=(X1, ... , Xn)    n is mutually recursive if for every 
+        s tr Xi, the post-process Xi/s has a representation 
+                Xi/s = f(X1, ... , Xn)  for some f    n .  
+(정리 3.3) X=(X1, ... , Xn) is mutually recursive if and only if X 
+        is the unique solution of the recursion equation Z = f(Z), 
+        Zi 0=Xi 0, with each component fi of f has the form
+         , each fij  n.
+(정의 3.4) Y   is an FRP if it can be represented as
+                    X = f(X)
+                    Y = g(X)
+         where, f is in the form of (정리 3.3) and g    n .
+      이때, (f,g)를 FRP Y의 realization이라고 한다.
+
+이러한 FRP가 갖는 특징은 강력한 descriptive power를 가지며, algebraic complexity가 높고, recursive equation를 사용하여 매우 간단하게 시스템을 모형화 할 수 있다. 그 예로서 모든 Petri net은 FRP로서 표현될 수 있음이 증명되었다(Inan and Varaiya 1988). 
+
+3.2. Supervisor Process Construction 
+
+이 장에서는 FRP를 이용한 모형에서 Ramadge and Wonham (1989)의 supervisory control을 구현하는 방법이 제시된다. super visory control 개념을 따르면 제어가 되는 부분과 제어를 하는 부분을 분리할 수 있기 때문에 다양한 제어 정책에 대하여 쉽게 모형을 만들어 주고 비교를 할 수 있게 한다. 여기서 제시한 방법은 trace theory (Smedinga 1987)에 그 기반을 두고 있다. 기존의 Smedinga의 이론을 기반으로, 본 논문에서는 이 이론을 FRP 모형에 적용할 수 있도록 새로운 연산자들을 추가시켜서 수정을 하였다. 
+
+3.2.1. 관련 용어 및 연산자 정의
+
+plant는 제어 대상이 되는 시스템의 모형을 의미한다. supervisor는 제어기와 같은 의미로서, plant를 제어하는 모형이다. 결론적으로 말하면 supervior는 대상 plant 프로세스로부터 구해지는 또 하나의 프로세스이다. 기본적으로 plant 모형이 완성된 상태라고 가정하고 완성된 plant 모형을 나타내는 프로세스를 P라고 하자. 이 P는 여러 하부 프로세스들로 구성되어 있을 수 있다. 그리고 다음과 같은 새로운 연산자를 정의한다. 
+
+(정의 3.5) Interleaving operator ||| is defined by,
+          given processes P,Q with each event set A,B,
+                  P ||| Q := (P || Q)[[-(A B)]] .
+          여기서, || 는 synchronous composition 연산자이다.
+
+Plant 프로세스의 event set을 다음과 같은 두가지로 구분한다.
+          behavior events
+          communication events
+behavior events는 프로세스의 고유의 행동을 나타내는 사건들이다. 즉 다른 프로세스에서는 나타나지 않는 사건들이다. com munication events는 다른 프로세스와 공유되는 사건들을 나타낸다. 즉, 프로세스 P의 전체 events set을 aP라 하면 , aP는 다음과 같이 나누어진다.
+          aP := bP + cP, 
+여기서 bP는 behavior events set을 나타내고 cP는 com munication events set을 나타낸다. 이때 bP   cP =   이어야 한다.
+
+우리가 plant P에 요구하는 바람직한 행동을 나타내는 프로세스를 desired behavior 프로세스 R이라 하면, 이 R은 P의 behavior events set 으로만 이루어져야 한다. 즉, R은 다음과 같이 정의된다.
+
+(정의 3.6) Given a process P, a desired behavior process R is
+          R = ( tr R,  P[[-cP]],  P[[-cP]] ).
+          여기서, tr R   tr P이고 aR = aP[[-cP]] = bP이다.
+
+3.2.2. supervisor construction
+
+우리가 고려해야 할 프로세스는 다음의 세가지 이다.
+
+    P = ( tr P,  P,  P )            : plant process
+    R = ( tr R,  P[[-cP]],  P[[-cP]] )   : desired behavior process 
+    S = ( tr S,  P[[-bP]],  P[[-bP]] )    : supervisor process
+
+supervisor 프로세스는 R과는 반대로 P의 communication events set으로만 이루어진다. 우리가 하고자 하는 것은 S를 P와 R로부터 구하여, P와 S만으로 원하는 시스템의 행동을 얻고자 하는 것이다. 다음과 같은 두가지 새로운 function을 정의한다.
+
+(정의 3.7)  F(R) = (P ||| R) \ (P ||| (P[[-cP]] \ R))
+           G(R) = (P ||| F(R))
+  여기서, \ 는 프로세스 모형의 기본적인 연산자 중의 하나로  con cealment 연산자이다. 예를 들면, <acdb> \ <c,d> = <ab>이다.
+
+살펴보면, 결과적으로 F(R)은 P의 communication events set으로만 이루어지고, G(R)은 P의 behavior events set으로만 이루어진다.
+이때 supervisor process S는 다음과 같이 구해진다.
+
+(정리 3.8) supervisor process S는 다음과 같이 구해질 수 있다.
+     주어진 R에 대하여, G(R)   R 이면, 이때 S := F(R) 이다.
+
+일반적으로 주어진 P와 R이 있을 때, (P ||| R) 만으로는 올바른 supervisor를 구할 수 없다. F(R)의 의미를 더 상세히 따져보면 다음과 같다.
+    
+    (P ||| R) : all possible controls,
+    (P ||| (P[[-cP]] \ R)) : possible but undesired controls,
+    (P ||| R) \ (P ||| (P[[-cP]] \ R)) : desired controls.
+
+이때 (P || S)는 controlled system을 나타내는 프로세스가 된다.
+이 절차를 그림으로 나타내면 [그림 3.2]와 같다.
+
+
+
+
+
+[그림 3.2] Supervisor Construction Procedure
+
+
+이 절차를 다시 요약하면 다음과 같다.
+Supervisor construction procedure with a process P
+      1) event set의 분리
+      2) Building a desired behavior process R 
+      3) Computation of F(R),G(R)
+      4) If G(R)   R, then the supervisor process S := F(R)
+
+3.3. FRP를 이용한 유연생산 셀의 모형화 및 제어
+
+유연생산 셀에 대한 정의는 매우 다양하다. 일반적인 셀에 대한 정의 중의 하나는 "셀 제어기의 제어를 받는 하나 혹은 그 이상의 기계들이 공통의 물자 운송 시스템으로 연결되어 있는 시스템"이다(Ravindranath 1992). 셀의 크기는 기계 하나로 이루어진 가장 작은 것부터, 크게는 미국의 The National Bureau of Standards(현재의 NIST)의 AMRF(Automated Manufacturing Research Facility)에서와 같이 하나의 생산 품목을 생산하기 위해 필요한 모든 장비를 포함하는 것까지 다양하다. 여하튼 모든 셀을 구성하는 요소는 컴퓨터 기반 셀 제어기, 기계, 로봇 혹은 물자 운송 시스템, 그리고 저장 설비 등이다(O'Grady 1987). 실례로 서울대학교 자동화시스템 공동연구소 내에 설치되어 있는 유연생산 시스템의 가공 셀은 한 대의 CNC-lathe와 한 대의 machining center 그리고 AGV로 이루어져 있다. 
+
+이런 다양한 셀의 형태 때문에 셀을 모형화하고 제어 소프트웨어를 구현하는 일반적인 정형화된 방법을 개발하는 것은 쉽지 않다. 하지만, 셀에서 유연생산 시스템으로의 확장에 핵심이 되는 부분이 셀 제어 소프트웨어이기 때문에, 셀 제어 소프트웨어를 개발하기 위한 정형화된 방법이 많이 연구되고 있고, 본 논문도 이런 연구들 중의 하나라고 할 수 있다.
+
+셀 제어기의 가장 기본적인 요소는 다음 세가지로 나눌 수 있다.  
+
+     셀 운용 제어
+     시스템내 상태 개선
+     다른 셀 혹은 상위 제어기와의 통신
+
+3.3.1. 셀 운용 제어
+
+여기서 다루는 셀 운용 제어는 모형의 정성적인 분석에 의해 이루어진다. 일반적으로 셀 운용의 제어가 만족시켜야 할 요건으로는 셀의 capacity, buffer underflow/overflow의 방지, process plan 만족, deadlock의 방지 등이 있다. 여기서는 예를 가지고 FRP 모형이 이러한 요건들이 어떻게 만족되는지, 그리고 어떤 특징을 갖는지를 보기로 한다.
+
+다음의 [그림 3.3]과 같은 생산 셀을 생각해보자. 기계 2대로 이루어진 셀로서, 생산되는 부품의 종류는 K개이고 각 부품은 순서에 상관없이 2대의 기계를 차례로 거쳐서 가공이 된다. 일단 한 기계에서 작업이 시작되면 다른 작업을 시작하기 전에 그 작업이 끝이 나야 한다. 끝으로 셀 내에는 작업중인 부품을 포함하여 반드시 각 종류마다 하나의 부품만 존재하여야 한다.
+
+
+[그림 3.3] 2-Machines Job Shop
+
+
+이런 셀을 모형화 하기 위해서는 먼저 관련된 사건들을 정의해야 한다. 다음과 같은 사건들을 정의한다.
+    
+          ak = admission of new type k job
+          bki = beginning of job k on machine i
+          fki = finishing of job k by machine i
+
+FRP로 이 셀을 나타내면 다음과 같이 (K+3)개의 recursion equation으로 나타내진다.
+
+  Y0 = (a1 (X1[[+a1]];SKIP{})||Y0| ... |ak (Xk[[+ak]];SKIP{})||Y0)A,0
+  Xk = (bk1 (S1;bk2 S2)|bk2 (S2;bk1 S1),0 
+                                  for k=1, ..., K
+  S1 = (f1 SKIP{}){B1,f1},0   
+  S2 = (f2 SKIP{}){B2,f2},0   
+                 where, A = {a1, ... ,aK}, Bi = {b1i, ... bKi}.
+
+여기서 Y0를 계속 반복되는 master 프로세스로 보면 된다. 이 시스템의 행위를 보면 처음 상태에서 Y0는 ak를 실행시킴으로써 종류 k인 부품을 받아 들인다. 일단 ak가 실행되면, 우리는 post-process
+          Y0/<ak> = (Xk[[+ak]];SKIP{}) || Y0
+를 얻을 수 있다. 그러면 Y0/<ak>는 종류 k이외의 다른 부품은 받아들일 수 있지만 Xk[[+ak]]가 끝날 때까지는 ak를 실행시킬 수가 없다. 따라서 이 모형은 셀의 capacity 제약을 만족시킨다. 일단 작업이 시작되면 다른 작업을 시작하기 전에 끝이 나기 때문에, 프로세스 Xk는 type k인 부품이 두 기계를 거쳐서 올바르게 가공이 되는 것을 보장한다. 
+이 모형에서는 임의의 순서로 두 기계를 거치기만 하면 되었지만 어떤 부품 k는 기계 1을 거친 후 기계 2를 거쳐야 하는 process plan을 가질 수가 있다. 일반적으로 FRP 모형에서 process plan은 셀 모형안에 포함된다. 부품 k가 위와 같은 process plan을 갖는 경우, 부품 k의 가공을 나타내는 프로세스인 Xk를 다음과 같이 수정하면 된다. 
+           Xk = (bk1 (S1;bk2 S2),0  
+
+이와같이 process plan을 모형에 쉽게 구현할 수 있다. 한편 buffer가 존재하는 경우에 셀의 모형은 좀 다르다. buffer는 별도의 프로세스로 구현된 후에 기존의 셀 프로세스와 동기화가 되어(즉, FRP의 synchronous composition 연산자 사용) 전체 시스템을 이룬다. 4장에서 제시된 예에서 이를 보이고 있다.
+deadlock의 방지 문제는 위의 process plan과 buffer의 제약조건에 비하면 반드시 필수적인 부분은 아니다. 일반적으로 deadlock을 처리하는 방법으로 deadlock avoidance와 deadlock detection /recovery의 두가지를 주로 사용한다. 위의 예제에서는 deadlock이 없음을 쉽게 알 수 있지만, 현재까지 FRP 모형에서 deadlock 여부를 알 수 있는 정형화된 방법은 존재하지 않으나 FRP 모형의 시뮬레이션을 통하여 이를 해결하고자 하는 연구가 진행되고 있다(Cieslak and Varaiya 1992). 시뮬레이션이 완전히 구현되면 이를 통해서 시스템의 행동을 구함으로써 deadlock 여부를 알 수 있을 것이다.
+
+3.3.2. 시스템 상태 개선 및 셀 간의 통신 제어
+
+이 절에서는 셀 모형 상에서 특정 사건이 일어날 때마다 해야 하는 시스템의 상태 개선 및 통신에 관한 전반적인 제어 구조를 제시하고자 한다. 일반적으로 생산 시스템과 같은 이산사건 시스템에서의 시스템 상태의 개선이나 통신 같은 작업은 사건의 발생으로 인하여 일어나게 된다. 즉, 시스템내 어떤 사건이 발생하면 그에 따라서 시스템의 상태를 개선하고 필요에 따라서 통신을 하게 된다. 생산 시스템의 경우, 만약 기계의 고장이 발생하면 그것을 상위 제어기에 알려야 한다. 
+이와 같이 시스템 내의 특정 사건에 따라서 취해주어야 할 기능을 따로 모아 제어 구조 내에 하나의 모듈로 만드는 것이 필요하다. 이런 기능을 위하여 최근 많이 사용하는 접근방법이 rulebase를 이용하는 방법이다. 여기서 rule은 각 사건의 의미를 나타내기 위해서 사용된다. 이 rule에 따라서 특정 사건이 발생하면, 시스템의 상태를 전이시키고 필요한 일련의 기능을 수행하게 된다. 
+필요한 요소로서 셀의 정보, 상태를 담고 있을 database, 특정 사건에 따라 수행해야 할 기능들을 담고 있는 rulebase, 그리고 발생 사건을 입력으로 받아서 rulebase를 access하고 database를 개선할 system manager가 있다. system manager는 다음과 같은 함수를 갖는다.
+                      : aP   H  ,
+여기서 aP는 프로세스 P의 events set이고 H는 일어난 사건에 대하여 취해야 할 기능들을 수행하는 부분이다. 즉,  (a) = h, a   aP & h   H 라고 할 수 있다. 다시 말하면, H는 발생한 사건을 입력으로 받아서 rulebase를 access하여 필요한 기능을 수행하는 프로그램이라 할 수 있고, system manager안에 들어 있게 된다.
+전체적인 제어 구조는 다음 장에서 제시될 것이다.
+
+4. 유연생산 셀의 제어 구조
+
+이 장에서는 유연생산 셀의 FRP 모형이 어떤 구조하에서 제어가 이루어지는지를 보여준다. 1절에서는 제어 구조를 이루는 각 구성요소를 설명하고, 2절에서는 제안된 제어 구조에 맞추어서 제어 소프트웨어를 구현하는 절차를 제시할 것이다. 3절에서는 실제 예를 가지고 FRP 모형화와 supervisor construction의 과정을 보일 것이다. 마지막으로 4절에서는 유연생산 셀의 모형화에 있어서 기존의 FSM 모형과 FRP 모형의 차이점을 서로 비교할 것이다.
+
+4.1. 제안된 유연생산 셀의 제어 구조
+
+
+[그림 4.1] Proposed Controller Architecture
+
+ 
+제안된 제어 구조는 [그림 4.1]과 같다. 제어 구조의 구성 요소는 event scheduler, system manager, supervisor, post-process generator의 4가지 모듈과 셀 database(DB), rulebase(RB)이다. 
+supervisor는 3장에서 제시된 절차에 따라 plant 프로세스에서 구한 프로세스이다. supervisor는 셀에서 수행된 사건을 입력으로 받아서 프로세스를 진행시킨 후에 event scheduler에 다음 가능한 사건들의 집합을 제공한다. post-process generator는 plant와 supervisor 프로세스 모두에 연결되어서, 각 사건이 발생하였을 때, 각 프로세스를 진행시켜 주는 부분이다. event scheduler는 post-process를 만든 후에 다음 실행 가능한 사건을 구하여 plant로 실행 명령을 내리는 부분이다. system manager는 앞에서 언급했던 것과 같이 셀에서 어떤 사건이 발생하였을 때 요구되어지는 기능들(셀 DB 수정이나 다른 셀과의 통신 등)을 수행하는 부분이다. 즉, 수행된 사건을 입력으로 받아들여서  에 의해 필요한 기능을 수행하는 프로그램 h로 대응시켜주는 부분이다. rulebase는 h가 수행할 기능들을 담고 있고, 셀 database는 셀 내의 각종 정보를 유지하는 곳이다.
+이중 post-process generator와 event scheduler에 대해 좀 더 자세히 알아 보기로 한다.
+
+4.1.1. Post-process generator
+
+우리는 앞에서 X=f(X), Y=g(X) 로 표현되었을 경우, (f,g)를 FRP Y의 realization이라고 했다. 더 풀어 쓰면 다음과 같은 형태를 갖는다.
+
+     Xi = ( ai1   fi1 | ... | ain   fin )Ai, i , 1 i n,      (1)
+     Y = g( X1, ... , Xn ).                              (2)
+
+그러면 (1),(2)를 Y의 realization이라 할 수 있다. 여기서 다음과 같은 가정을 한다. 모든 f,g 안에서 각 변수는 단 한 번 씩만 나타날 수 있다. 즉, 같은 변수의 반복은 다른 첨자를 붙임으로써 구별을 한다. 예를 들면 
+     X1 = ( a   X1 | b   X1 ), Y = X1;X1
+은 
+     X1 = ( a   X11 | b   X12 ), Y = X13;X14 
+과 같다.  물론 Xij = Xi 이므로 프로세스 Y는 변함이 없다.
+
+g와 관련하여 다음과 같은 3가지를 새로 정의한다.
+         g : the set of enabled events of g,
+         g : the set of executable next events of g,
+      g(a) : the set of processes, in the formula g, 
+            that must execute g, for each a  g.
+
+ g에 속해있는 임의의 사건 a가 실행된 후의 post-process는 다음과 같은 절차 Proc(a)에 의해 구해진다.
+
+Proc(a)
+   1) g안의  g(a)에 속해 있는 모든 변수 Xij를 변수 xi로 
+      대치시킨다.
+   2) Xij는 a를 반드시 실행시키는 프로세스이므로 a는 (1)식의
+     우변에 있는 aij 중의 하나가 될 것이다. 그러면 각 변수 xi
+     를 formula fij로 대치시킨다. 그다음 각 변수는 한 번 씩만 
+     나타나야 하므로 반복된 변수는 새로운 첨자를 써서 대치한다.
+
+위와 같은 Proc(a)에 의해 구해진 프로세스 Y/a는 g/a(X)와 같다.
+
+4.1.2. Event scheduler
+
+event scheduler는 다음과 같은 형태를 갖는다. 
+      ES(a) = ( g ;  g,  g,  g,  g ),  g: a'    g(a'), a'  g,
+여기서 g는 사건 a가 실행된 후의 프로세스를 나타내고,  g, g, g는 앞에서 정의한 것과 같다.  g는 실행을 기다리는 사건들의 집합으로 일종의 queue이다. 
+ES의 행동을 보면, 셀에서 어떤 사건 a가 실행되고, post-process가 다시 만들어지면 그 상태에서 가능한 사건들( g)과 실행이 가능한 사건들( g)을 구한다. 어떤 알고리즘이나 rule에 의해 다음 실행할 사건을 정하면  g로 보낸다. 이런 것이 필요한 이유는 사건들의 실행이 차례로 이루어질 수 있기 위한 것이다.
+한편 event scheduler는 실행할 사건이 정해지면, 셀에 그 사건이 일어나게 하기 위하여 명령을 보낸다. 따라서 사건에 해당하는 명령을 갖고 있는 일종의 database는 event scheduler 안에 포함되어 있다.
+
+
+4.2. 제안된 유연생산 셀의 모형화 및 제어 절차
+
+FRP를 이용하여 유연생산 셀을 모형화하고 제어기를 구현하기 위해서 다음과 같은 절차가 필요하다.
+1) 셀 프로세스의 구축
+   셀에 해당하는 FRP 프로세스를 구축하고, 알고리즘에 따라
+   supervisor 프로세스를 구축한다.
+2) 각 모듈의 구축
+   event scheduler, post-process generator, system manager,  
+   rulebase를 구축한다. 
+
+제어 소프트웨어의 개발과 밀접한 관련이 있는 것이 rulebase 부분이다. 이것은 사건의 발생에 따라 취해주어야 할 기능들을 시스템 변수들을 이용하여 나타낸 부분으로 나중에 제어 소프트웨어를 만드는데 직접적인 도움을 줄 수 있다. 이런 rulebase의 구축은 시스템 전문가에 의해 이루어져야 한다. event scheduler는 다음 실행할 사건을 위하여 필요하고, post-process generator는 프로세스의 진행을 위해 필요하다. 
+이와같은 제어 구조를 통해서 우리는 유연생산 셀의 제어기를 정형화된 방법으로 구현할 수 있으며, 필요에 따라서 구성 요소들을 쉽게 수정, 추가 등의 작업을 할 수 있다. 또한 실제 제어 소프트웨어의 개발에도 많은 도움을 줄 수 있다. 
+
+위에서 제시한 제어 구조는 FRP 모형 안에서 이루어지는 것이다. 우리가 생각해야 할 한 가지는 모형의 제어가 실제 시스템의 제어와 직접적으로 바로 연결되지는 않는다는 점이다. 따라서, 실제로 구현을 할 때는 이 둘 사이를 연결해 주는 것이 필요하다. 실제 생산 시스템과 이 제어기를 연계시키기 위해서는 다음과 같은 요소들이 필요하다. 
+  
+    FRP를 표현하는 적절한 프로그래밍 언어
+    FRP 프로그램을 기존의 프로그래밍 언어로 
+     바꾸어 주는 컴파일러
+
+위와 같은 요소들이 갖추어 졌을 경우에 실제 생산 셀과 연계되어 수행되는 구조는 [그림 4.2]와 같다.
+
+
+
+[그림 4.2] FRP Implementation Framework
+
+4.3. ASRI 가공 셀의 모형화 및 supervisor의 구축
+
+서울대학교 자동화시스템 공동연구소(ASRI) 내에 설치되어 있는 유연생산 시스템은 유연가공 셀, 유연조립 셀, 검사 셀, 물류저장 셀(AS/RS)의 4개 유연생산 셀로 구성되어 있다. 그리고 한 대의 loading/unloading station이 있고 한 대의 AGV가 있다. 이중 유연가공 셀을 대상으로 본 논문에서 제안된 제어기의 구현 방법을 적용하여 본다. 
+
+ASRI 유연가공 셀은 두 부분으로 나누어져 있다. 한 부분은 한 대의 machining center와 rotational buffer([그림 4.3] 참조)로 이루어져 있고, 다른 한 부분은 한 대의 CNC-lathe 와 input/output buffer 그리고 부품을 옮기는 한 대의 로봇으로 이루어져 있다([그림 4.4] 참조). 현재 machining center와 CNC-lathe는 서로 상호 작용이 없기 때문에 각기 따로 모형화를 하기로 한다. 3장에서 제안된 절차에 따라 모형화 및 supervisor construction을 하기로 한다. 먼저 machining center를 모형화 한다.
+
+
+[그림 4.3] ASRI FMS machining center
+
+[그림 4.4] ASRI FMS CNC-lathe
+
+(1) plant 프로세스의 모형화
+
+먼저 대상 셀을 FRP 프로세스로 모형화하여야 한다. 이때 셀을 이루는 요소들을 따로 모형화하여 동기화 시켜 주면 된다. 하나 주의할 점은 FRP는 자원(resource) 중심이 아니라 작업(task) 중심으로 모형화를 한다는 점이다. 관련된 사건들을 [표 4.1]과 같이 정의하였다.
+
+[표 4.1] ASRI 가공 셀의 사건들
+  
+
+machining center는 기계와 buffer를 각각 따로 모형화하여 동기화 시켜 주면 된다. 그러면 다음과 같이 4개의 recursion equation으로 machining center를 나타낼 수 있다.
+
+      P = MC || BF
+      MC = (pa   (X[+pa];SKIP||MC) | e   r   MC)  
+     X = (pi   pc   po   SKIP | e   r   X)
+      BF = (li1   lr   (Y[+li1];SKIP||BF) | 
+                        li2   lr   (Y[+li2];SKIP||BF)) 
+      Y = (pa   po   lr   lo   SKIP)
+
+(2) Event set의 분리
+
+대상 plant의 사건들을 다음과 같이 두가지로 나눈다.
+        bP = { pi, po, e, r }
+        cP = { pa, pc, li1, li2, lo, lr }
+
+(3) Desired behavior process R 의 구축
+
+R은 bP에 속하는 사건으로써 시스템의 바람직한 행동을 나타내는 프로세스이다. 여기서는 기계가 한 번에 하나의 부품만 가공해야 한다는 점, 그리고 고장이 발생했을 때 그 다음 사건은 반드시 기계의 수리라는 점으로 R을 나타낼 수 있다. 이 R은 설계자의 제어 정책에 따라서 다르게 만들어 줄 수도 있다.
+
+        R = ( pi   po   SKIP| e   r   R)
+        즉, tr R = ( pi ; po | e ; r )*
+
+(4) Computation of F(R), G(R)
+
+   F(R) = (P ||| R) \ (P ||| (P[[-cP]] \ R))
+        = (P ||| R)   (이 경우, (P[[-cP]] \ R)= )          
+        = (P || R)[[-bP]]
+
+   G(R) = (P ||| F(R))
+        = (P ||| (P ||| R))
+        = (P ||| P[[-bP]])
+        = P[[-cP]]
+         R (실제로 이 경우에는 G(R)=R)  
+
+따라서, F(R) = S = (P ||| R)는 프로세스 P의 supervisor (제어기) 프로세스이다. 이 때, 실제 controlled system은 (P || S)이다.
+
+
+CNC-lathe의 경우도 위와 같은 방법으로 하면 된다. machining center와 CNC-lathe 사이의 상호 관련이 없기 때문에 각각의 supervisor 프로세스를 구하면 된다. CNC-lathe의 FRP 모형과 supervisor는 다음과 같다.
+
+      P = LC || BF
+      LC = (pa   (X[+pa]||LC) | e   r   LC)
+      X = (pi   pc   po   SKIP | e   r   X)
+      BF = (li1   pa   Y[+li1+pi];SKIP||BF |
+                     li2   pa   Y[+li2+pi];SKIP||BF)
+      Y = (pc   po   lo   SKIP) 
+
+
+      S = F(R) = (P ||| R) 
+            (이때, R은 machining center와 같이 하였다.)
+
+
+4.4. 유연생산 셀의 모형화기법의 비교 : 
+     FSM  vs.  FRP
+
+이 절에서는 기존의 대부분 연구들이 취하고 있는 모형인 FSM(finite state machine)과 본 논문에서 취하고 있는 FRP (finitely recursive processes)를 유연생산 셀의 모형화 분야의 응용에 있어서 비교하려고 한다. 비교는 크게 두 가지 측면으로 이루어질 수 있다. 그 하나는 정성적인 비교로서 각 모형 자체의 정성적인 특징들을 비교하는 것이고, 다른 하나는 정량적인 비교로서 실제로 모형화를 할 때 각 방법의 복잡도의 척도(complexity measure)를 정하여 놓고 비교를 수행하는 것이다.
+
+
+4.4.1. 정성적 비교(qualitative comparison)
+
+모형화에 있어서 FSM 모형과 FRP 모형의 정성적인 비교는 밑의 [표 4.2]와 같이 요약할 수 있다.
+
+[표 4.2] FSM  vs.  FRP
+
+
+
+
+4.4.2. 정량적 비교(quantitative comparison)
+
+먼저 각 모형의 복잡도(complexity)를 나타내는 척도(measure)를 정해야 한다. FSM 모형은 구해야 할 모형의 상태의 수를 척도로 할 수 있다. FRP는 프로세스가 trace로 정의되기 때문에 프로세스의 가능한 trace의 수를 척도로 정할 수 있다. 즉, 하나의 프로세스를 만들때 고려해야 할 전체 trace의 수를 복잡도의 척도로 할 수 있다. FSM은 새로운 모형을 만들때 구해야 할 전체 상태의 수를 척도로 한다.
+
+일반적인 모형의 비교보다는 유연생산 셀을 모형화 할 경우에 있어서 두 모형을 상대적으로 비교하고자 한다. 기존의 모형에서 모형이 확장될 경우나 수정될 경우의 각 모형의 복잡도가 어떻게 되는 지를 살펴 보는 것이다. 다음과 같이 다음 세가지 경우로 나누어서 생각할 수 있다.
+
+   1) 자원(resource)이 증가한 경우(예, 새로운 기계의 도입 등)
+   2) 생산 부품의 종류가 증가한 경우
+   3) 자원의 사건이 증가한 경우
+
+다음과 같이 각 경우에 있어서 두 방법을 비교해 보았다.
+
+(1) 자원이 증가한 경우
+이 경우는 시스템 내에 새로운 자원이 들어와서 확정된 경우를 나타낸다. 가장 쉬운 예가 새로운 기계가 들어 오는 경우이다. 
+
+■ FSM
+원래 시스템의 전체 상태의 수를 n이라 하고 새로 들어온 기계의 상태의 수를 m이라 하자. FSM에서는 새로운 시스템을 모형화 할 경우에 전체 기존의 FSM 모형에 새로 추가된 기계를 나타내는 FSM 모형을 동기화 시켜 주어야 한다. 이 경우의 구해야 할 상태의 수는 nm이 된다. 따라서 기존의 n에서 nm으로 n(m-1)만큼 상태가 늘어나게 된다.
+■ FRP
+기존의 시스템을 나타내는 프로세스에 새로운 기계가 추가되면 process plan에 맞게 새로운 기계를 나타내는 모듈을 추가시키면 된다. 즉, sequential composition operator를 이용하면 된다. 따라서 각 부품의 새로운 기계를 포함하는 process plan이 확정되어 있을 경우, 부품의 갯수만큼 새로 구해야 할 trace가 생긴다. 따라서 생산하는 부품의 종류가 k개라면 여기서 새로 구해야 하는 trace의 수는 k이다. 일반적으로 하나의 셀에서 가공되는 부품의 수는 셀 전체의 상태의 수보다 작다고 할 수 있다.
+
+(2) 생산 부품의 종류가 증가한 경우
+■ FSM
+FSM 모형에서는 각 작업 모형과 기계 모형이 모두 동기화 되어 전체 시스템을 이룬다. 여기서 작업 모형은 각 부품에 따른 process plan을 나타내는 모형이다. 이 경우 역시 기존의 시스템의 상태를 n이라 하고 새로 추가된 부품의 process plan을 이루는 상태의 수를 m이라 하면 전체 구해야 될 시스템의 상태의 수는 nm이 된다.
+
+■ FRP
+FRP 모형은 작업(task)을 중심으로 이루어지는 모형이기 때문에 일반적으로 각 부품에 따라 그 부품의 가공을 나타내는 프로세스가 존재한다. 따라서 새로운 부품이 증가되는 경우에는 그 부품을 나타내는 프로세스를 추가로 만들어주면 된다. 즉, 하나의 trace만 구하면 된다. 
+
+(3) 자원의 사건이 증가한 경우
+이 경우 쉽게 생각할 수 있는 예가 기계의 고장을 고려하지 않은 경우와 고려하는 경우이다. 즉, 기계의 고장 사건이 추가된 경우이다.
+
+■ FSM
+이 경우 기계를 나타내는 상태의 수를 m이라 하고, 나머지 전체 시스템의 상태의 수를 n이라 하면, 기계의 고장을 고려하지 않다가 고려하게 되면 새로운 사건이 하나 추가되는 것이므로 새로운 시스템의 구해야 될 상태의 수는 n(m+1)이 된다. 
+
+■ FRP
+이 경우는 프로세스 안에 고장을 나타내는 사건이 추가되는 것이다. 따라서 이 경우에도 각 부품의 가공을 나타내는 프로세스마다 고장 사건을 추가하면 된다. 즉, 부품의 가지 수만큼 trace를 구하면 된다. 
+
+
+위와같이 보면 일반적으로 FSM보다는 FRP의 복잡도가 낮다고 할 수 있다. 이 이유는 FSM에서는 동기화 이외에 다른 연산자가 없기 때문이라고 생각된다. 즉, FRP에서는 특히 sequential composition operator가 있기 때문에 새로운 모형을 구성할 때 많은 편리함을 주었다. 다음에 실례를 가지고 비교해 보일 것이다.
+
+4.4.3. Example : 2-machines 가공 셀  
+
+3장에서 나왔었던 2-machines 가공 셀을 대상으로 FSM과 FRP 모형을 비교한다. 셀의 모양은 밑의 [그림 4.5]와 같다.
+
+
+
+[그림 4.5] 2-machines 가공 셀
+
+
+전체 기계는 2대이고 생산하는 부품의 종류는 2가지라고 하자. 부품은 기계의 순서에 상관없이 두 기계를 모두 거치기만 하면 된다. 기계의 고장은 고려하지 않은 상태이다. 위 시스템을 나타내는 FSM 모형과 FRP 모형을 구하면 다음과 같다.
+
+■ FSM 모형 : J1 || J2 || M1 || M2
+          이때 Ji는 8개의 상태를 갖고 Mi는 3개의 상태를 갖는다. 
+          결국, 전체 82*32( = 576)개의 상태를 갖는다.
+
+■ FRP 모형 : 
+         Y0 = (a1 (X1[[+a1]];SKIP{})||Y0 | a2 (X2[[+a2]];SKIP{})||Y0)A,0
+         Xk = (bk1 (S1;bk2 S2)|bk2 (S2;bk1 S1),0 
+                                     for k=1, 2
+         S1 = (f1 SKIP{}){B1,f1},0   
+         S2 = (f2 SKIP{}){B2,f2},0   
+                    where, A = {a1, a2}, Bi = {b1i, b2i}.
+         이와같이 5개의 프로세스로 이루어진다.
+
+(1) 자원이 증가한 경우 
+새로운 기계 M3가 들어와서 마지막 가공을 담당한다고 하자. 이 겨우 새로운 모형은 다음과 같이 구해진다.
+
+■ FSM 모형 :  J1 || J2 || M1 || M2 || M3
+           이때 기계 3의 상태는 3이므로 구해야 할 전체 시스템의 
+           상태는 576*3이 되고 이는 기존의 시스템보다 1152만큼 
+           상태의 수가 늘어난 것이다.
+
+■ FRP 모형 : 기존의 모형에서 Xk를 수정하고 S3를 추가하면 된다.
+           Xk = (bk1 (S1;bk2 S2;bk3 S3) 
+                          | bk2 (S2;bk1 S1;bk3 S3),0 
+           S3 = (f3 SKIP{}){B3,f3},0   
+           S3는 Xk의 하부 프로세스이므로 결국은 부품의 종류만큼
+           새로 프로세스를 구한 것이 된다.
+
+(2) 부품의 종류가 증가한 경우
+새로운 부품을 함께 생산한다고 하자. 
+
+■ FSM 모형 :  J1 || J2 || J3 || M1 || M2 
+           이 경우, J3의 상태는 8이므로 전체 시스템은 576*8이 
+           되고 이전보다 576*7만큼 상태가 늘어난 것이 된다.
+
+■ FRP 모형 : 
+           이 경우 새로운 프로세스 X3만 만들어주면 된다.
+           즉, 위에서 Xk, for k=1,2,3 이라 하면 된다.
+
+(3) 자원의 사건이 증가하는 경우
+기계 1의 고장을 고려한다고 하자.
+
+■ FSM 모형 : J1 || J2 || M1 || M2  
+           모형은 같지만 기계1의 상태가 하나 더 추가된다. 
+           따라서 전체 시스템의 상태는 8*8*4*3(=768)이 되고,
+           201개의 상태가 더 늘었다.
+
+■ FRP 모형 : 다음과 같이 두 프로세스만 고쳐주면 된다.
+           Y0 = (a1 (X1[[+a1]];SKIP{})||Y0 |
+                      a2 (X2[[+a2]];SKIP{})||Y0 | e   Z0)A {e},0                 S1 = (f1 SKIP{} | e   SKIP{}){B1,f1,e},0        
+
+위의 예에서처럼 FRP 모형을 이용하면 기존의 FSM 모형에서 가졌던 상태의 수의 급격한 증가로 인한 어려움을 피하면서, 보다 쉽게 모형화를 할 수 있음을 알 수 있다. 물론 이것은 특정한 구체적인 예에서의 결과이기 때문에 일반적으로 증명이 된 것은 아니다. 그러나 우리가 유연생산 셀을 모형화할 때 가능한 경우는 제한된 가지수이기 때문에 이러한 비교가 의미를 가질 수 있다고 생각한다.
+
+5. 결론 및 추후 연구 방향
+
+본 연구에서는 유연생산 셀의 모형화와 제어를 위한 정형화된 방법을 제시하였다. 기본적인 모형화 도구로서 FRP를 이용하였으며 본 연구에서는 시간을 고려하지 않은 시스템 내의 논리적 행태를 제어하는 것을 목적으로 하고 있다. 즉 셀 내에서 발생하는 사건에 의해 시스템을 전개시켜 나가면서 원하는 제어 요구 사항을 만족시키도록 하는 것이다. FRP의 특징을 이용하여 유연생산 셀을 보다 편리하게 모형화를 할 수 있음을 보였다. 한편, 기존의 supervisory control의 장점을 이용하기 위하여 FRP 모형에 supervisory control 이론을 적용하였다. 그리고 셀 모형에 우리가 원하는 제어를 이루기 위한 정형화된 제어 구조를 제안하였다. 본 연구는 다음과 같은 특징을 갖는다. 첫째, 본 모형은 셀 내의 사건들의 이산적 성질을 반영하고 있다. 둘째, 본 모형은 수학적으로 안정된 모형이다. 끝으로 실제 유연생산 셀에 적용을 하였고, 실시스템을 바탕으로 기존의 모형화 방법인  FSM과 본 연구에서 이용한 FRP를 서로 비교하였다.
+앞으로 더 연구해야 할 부분은 몇 가지로 나눌 수 있다. 첫째, 본 모형은 시간을 고려하고 있지 않기 때문에 실제 시스템을 대상으로 실시간 제어기 개발을 위해서는 기존의 FRP 모형에 시간을 고려하도록 수정을 하던지, 다른 기법을 같이 혼용하도록 해야 한다. 또한 기존의 supervisory control을 FRP 모형에 적용한 것이기 때문에 좀 더 이론적인 보완이 필요하다. 그리고 FSM 모형과의 정량적인 비교에 있어서 수리적으로 증명 될 수 있도록 하여야 할 것이다. 그리고 실제 시스템에 적용될 수 있도록 모형과 실제 시스템을 연결해 주는 인터페이스 부분을 더 연구해야 할 것이다. 
+
+
+
+
+</tdmsfiletext>

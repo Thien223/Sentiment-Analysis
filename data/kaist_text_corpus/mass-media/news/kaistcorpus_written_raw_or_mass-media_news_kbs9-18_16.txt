@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-18_16.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.18  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+카이로 도심 무장괴한.경찰 총격전
+
+이집트 수도 카이로 중심가에서 무장괴한들과 경찰 사이에 총격전이 이슬람
+원리주의자로 보이는 무장괴한 3명이 카이로 박물관을 향해서 총격을 가했으며
+이에 대해 경비 경찰들이 응사하면서 20여분간 치열한 총격전이 벌어졌다고
+말했습니다. 
+
+후세인, 티그리스강에서 수영
+
+사담후세인 이라크 대통령이 수영하는 장면이 공개됐습니다. 이라크 TV방송은
+오늘 흰모자를 쓴 후세인 대통령이 수영선수권대회 참가자들을 격려하기 위해
+폭 백미터의 티그리스강을 세차례 헤엄쳐 건넜다고 보도했습니다. 
+
+</tdmsfiletext>

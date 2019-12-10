@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_220.txt </filename>
+<title> 조선일보  </title>
+<author> 심재율(기자)</author>
+<date> 93.06.11</date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+[NA0402.0788CSM930611
+{심재율}
+여권 자동조회 「핸디아이」 개발/2초만에 암호해독 첨단장치
+◎표준여권 사용 늘어 수요많아/외국제품보다 저렴…
+7월시판/문서작성­전자우편등 기능 새SW도※ 여권을 자동조회하는 첨단시스템이 국내에서
+처음 개발됐다.한국과학기술원 출신 석­박사등 고급인력 36명으로 세워진
+모험기업 「핸디소프트」사는 최근 성능이 우수하고 가격이 저렴한
+여권자동인식장치 「핸디아이」를 개발하고 7월 판매를 목표로 마무리작업에
+한창이다.
+</tdmsfiletext>

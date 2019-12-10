@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_191.txt </filename>
+<title> 조선일보  </title>
+<author> 박성희(기자)</author>
+<date> 93.06.09</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0759CSM930609
+{박성희}
+국립 예술단체 “후원회 환영”
+◎국립발레단에 첫 결성… 활용 제도화 모색※ 국립 예술 단체들에
+대한후원회 활동이 본격화 되고 있다.※ 국고에 의존해 왔던 국립극장
+산하단체들이 서서히 외부의 지원을 모색하고, 이를 적극적으로 무대활동에
+활용할 기반을 마련해 가고 있는 것. 국립극장은 곧 각 산하 단체가
+외부 기금을 활용할 수 있도록 하기 위해 기금 운영규정및 위원회 구성에
+대한 초안을 작성할 것으로 알려졌다.※ 이같은 움직임�%C
+</tdmsfiletext>

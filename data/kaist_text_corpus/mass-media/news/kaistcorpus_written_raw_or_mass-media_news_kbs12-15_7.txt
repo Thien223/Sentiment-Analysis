@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-15_7.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.15 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+고영복 교수 등 4명 간첩혐의 기소
+
+
+⊙황수경 앵커 :
+          서울대 명예교수 고영복씨 등 고정간첩 사건을 수사하고 있는 서울지검
+공안1부는 오늘 고영복 교수와 서울지하철공사 동작 설비분소장 신정웅씨
+일가 등 4명 을 국가보안법상 간첩혐의 등으로 구속 기소했습니다. 
+
+</tdmsfiletext>

@@ -1,0 +1,20 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-9_14.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.9  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+북한군 병사 1명 사살
+
+
+⊙황수경 앵커 :
+          국방부는 오늘 오전 9시반쯤 강원도 양구군 북쪽 동부전선 비무장지대
+안에서 우리 초소쪽으로 침투하던 북한군 병사 한명을 사살했다고
+발표했습니다. 이 북한 군 병사는 소총을 가지고 우리 초소에 50미터까지 접근한
+상태였다고 국방부는 밝혔습니다. 
+</tdmsfiletext>

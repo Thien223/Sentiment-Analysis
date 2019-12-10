@@ -1,0 +1,25 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110605.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.06 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+10일:공동선거대책위원회 
+박태준의원이 오늘 DJP연합에 정식 합류했습니다. 김대중, 김종필 총재와 국민회동을 갖고 정권교체 실현을 다짐했습니다. 국민회의와 자민련은 다음주 부터 공동선거대책위원회를 가동하기로 했습니다. 
+정승민 기자가 보도합니다. 
+
+김대중, 김종필 총재와 박태준 의원 이른바 DJT 세명이 김대중 단일후보의 대선승리를 위해 한 자리에 모였습니다. 
+
+점심을 곁들여 1시간 20분 동안 회담에서 세 사람은 굳건한 DJT 연대를 통한 정권교체를 다짐했습니다. 
+
+세사람은 청와대의 신당지원 의혹과 관련해 김 대통령의 선거중립 의지 확립을 촉구하고 선거를 앞두고 안보문제 돌출 가능성에 대해서도 우려를 표명했습니다. 
+국민회의와 자민련은 오늘 회담에서 가칭 '김대중 후보 선거대책위원회'를 다음주초인 10일 출범시키기로 합의했습니다. 
+
+선대위 규모는 3백여명 정도로 하고 의장은 김종필 총재가 맡되 DJT 3인이 수시로 만나 주요 현안을 논의하는 회의체 형식으로 공동선대위를 운영하기로 했습니다. 
+SBS 정승민입니다. 
+</tdmsfiletext>

@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-28_5.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"정부 솔선수범해 생산성 높여야"
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 김영삼 대통령은 오늘 제34회 저축의 날을 맞아서
+수상자와 원로 금융인 등 65명을 청와대로 초청해서 오찬을 함께 한
+자리에서 최근의 어려운 경제 여건을 극복하기 위해 모든 국력을 한데 모아
+나가야 할 것이라고 강조하고 정부와 공 공기관부터 솔선수범해서 비능률을
+몰아내고 생산성을 높여야 할 것이라고 강조했습니다. 
+
+
+</tdmsfiletext>

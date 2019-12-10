@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-12_5.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.11.12 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+내일 표결
+
+
+⊙류근찬 앵커 :
+          금융감독기구를 일원화하는 것을 핵심으로 하는 금융개혁관련법안이 빠르면
+내일 통과될 것으로 보입니다. 오늘 국회 재정경제위원회의 금융개혁법안
+소위에서는 그동안 금융감독기구의 통합에 반대해온 야당측이 당론대로 통합안에
+반대는 하되 신한국당 이 표결처리할 경우 이를 저지하지 않기로 한 것으로
+알려졌습니다. 
+
+</tdmsfiletext>

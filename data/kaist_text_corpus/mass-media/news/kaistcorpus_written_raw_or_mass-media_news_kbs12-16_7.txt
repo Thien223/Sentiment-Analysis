@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-16_7.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.16 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+선경그룹, 2세 경영체제 구축
+
+
+⊙황수경 앵커 :
+          선경그룹은 오늘 최종현 회장이 주력 기업인 SK의 대표이사직을 내놓고
+최 회장의 장남인 최태원 SK 상무를 대표이사 부사장으로 승진시키는 등
+사장단 인사 를 단행했습니다. 이에 따라 선경그룹은 최태원 부사장을
+축으로 하는 2세 경영체제를 사실 상 구축하게 됐습니다. 
+
+
+</tdmsfiletext>

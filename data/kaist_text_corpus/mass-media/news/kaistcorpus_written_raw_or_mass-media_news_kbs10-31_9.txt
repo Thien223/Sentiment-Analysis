@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-31_9.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.31 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"북한돕기 축구대회 내년 홍콩 개최"
+아시아 축구연맹 총회에 참석하고 돌아온 정몽준 대한축구협회 회장 은 오늘
+공항 기자회견에서 남북 단일팀과 아시아 올스타가 대결하는 북한돕기
+자선축구대회 가 내년 1월에 홍콩에서 열릴 것이라고 밝히고 남북 단일팀
+구성이 여의치 않을 경우 우리나 라 월드컵팀과 아시아 올스타가 경기를
+벌일 것이라고 말했습니다. 정 회장은 또 내년 3월 일본에서 열리는 4개국
+다이너스티컵에도 북한의 참가를 적극 권유했다고 밝혔습니다.
+
+
+</tdmsfiletext>

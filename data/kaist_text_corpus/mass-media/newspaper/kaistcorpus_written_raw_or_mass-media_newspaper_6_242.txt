@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_6_242.txt </filename>
+<title> 조선일보 </title>
+<author> </author>
+<date> 93.09.10</date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+[NA0402.1859CSM930910
+컴퓨터게임디자이너/반짝 아이디어 생명…1년코스 학원 개설(새직종)
+ 컴퓨터 세대들은 단순히 게임을 즐기는데서 한걸음 더 나아가 『나도
+저런 게임을 한번 만들어 볼 수는 없을까』하는 생각을 하게된다.※
+그들에게 열려있는 새로운 직종이 바로 「컴퓨터 게임 디자이너」. 전문
+교육기관으로는 지난 3월 국내 처음으로 금성 소프트웨어
+교육원(369­9823)에 개설된 게임 디자이너 과정이 있다.※ 번뜩이는 기지와
+창의력을생명으로 하는 컴퓨터 게임 디자이너 교육과정은
+그래픽­음악­프로그램­기획등 4개분야로 구성된 1년 코스. 현재 22~24세의 컴퓨터
+매니어1백명이 교육을 받고 있으며, 국내 20여개 컴퓨터 게임업체가
+이들을기다리고
+있다.※
+
+
+</tdmsfiletext>

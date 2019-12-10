@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_4258.txt </filename>
+<title> 조선일보  </title>
+<author> 이정규(기자)</author>
+<date> 93.05.25</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.4213CSM930525    
+［건강메모］                                                                  
+｛이정규｝                                                                    
+단전호흡／배꼽아래까지  숨  들여마셔（건강  메모）                            
+  단전호흡이  최근  직장인의  건강­정신수련법으로  인기를  끌고  있다． 
+서울  용산구청  부구청장으로，  대한  국선도협회  사범인  이정규씨（５７）가 
+일상생활  속에서  쉽게  활용할  수  있는  간단한  호흡법들을 
+소개한다．〈편집자주〉※  단전호흡은  숨을  코를  통해  배꼽  ３㎝  정도  아래  단전  자리까지 
+서서히  길게  들여  마시는  것이다．  단전  자리  밑에  은은히  가벼운  힘을 
+주어  코로  공기를  들여  마셔  그곳까지  들어가게  한다．  이때  아랫배가 
+볼록하게  튀어  나오는  것이  보일  정도다．  코로  숨을  내쉴  때는  아랫배가 
+안으로  들어가게  한다．호흡과  동작이  조화를  이루어야  하며，  명치， 
+가슴，  어깨에  힘이  들어가지  않도록해야  한다．  눈을  가볍게  감아  잡념을 
+버리고，  의식은  강하게  단전에  집중시킨다．〈이정규·대한국선도협회  사범〉※ 
+
+</tdmsfiletext>

@@ -1,0 +1,15 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-7_15.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.7  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+영상취재
+< 견지 낚시 > 
+
+</tdmsfiletext>

@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-11_8.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.11 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+승용차 히터 과열 운전자 불타 숨져
+
+오늘 새벽 2시반쯤 울산시 온양면 우진 주유소 앞에서 25살 서기훈 씨의
+승용차에서 불이 나 차에서 잠을 자고 있던 서씨가 불에 타 숨졌습니다.
+경찰은 서씨가 히터를 켜놓고 잠을 자다 히터가 과열돼서 불이 난 것으로
+보고 정확한 화재 원인을 조사하 고 있습니다. 
+
+</tdmsfiletext>

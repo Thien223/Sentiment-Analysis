@@ -1,0 +1,15 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102824.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+10억 배럴 대형유전 발견
+한국석유개발공사를 비롯한 국내기업 컨소시엄이 리비아 육상 NC174광구에서 우리나라의 해외유전 개발 사상 최대규모인 매장량 10억 배럴규모의 초대형 유전을 발견했습니다. 
+유개공은 원유발견지역이 유전개발을 위한 기반시설이 이미 갖춰져 있는 곳이어서 빠르면 오는 99년초부터 원유생산이 개시될 것으로 전망했습니다. 
+</tdmsfiletext>

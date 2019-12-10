@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-11_4.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.11 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"어려운때 일수록 장애인 돌봐야"
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 김영삼 대통령은 오늘 오전 서울 구산동
+은평천사원에서 장애인 복지발전 5개년 계획 보고회의를 주재하고 어려운때
+일수록 장애인을 돌보는 마음을 발휘해서 국민 통합을 이뤄나가자고
+강조했습니다. 김영삼 대통령은 보고회의에 이어 서 장애인 특수학교인 은평
+복지학교와 장애인 종합복지관을 둘러보고 시설 종사자와 장애인 들을
+격려했습니다. 
+</tdmsfiletext>

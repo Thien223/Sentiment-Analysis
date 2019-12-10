@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-20_4.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.20  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+28년만에 우승
+
+
+⊙황수경 앵커 :
+          우리나라가 제19회 아시아 남자농구 선수권대회에서 일본을 물리치고
+28년만에 대회 정상에 올랐습니다. 우리나라는 오늘 새벽 사우디아라비아에서
+벌어진 이 번 대회 결승에서 7번의 동점을 주고받는 치열한 접전끝에 일본을
+78대76으로 꺾고 우승을 차지했습니다. 
+
+김대통령, 남자농구팀에 축전
+
+김영삼 대통령은 오늘 제19회 아시아 남자농구 선수권대회에서 28년 만에
+아시아 정상을 차지한 우리 선수단에 축전을 보내서 노고를 치하했습니다. 
+</tdmsfiletext>

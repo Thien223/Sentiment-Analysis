@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_231.txt </filename>
+<title> 조선일보  </title>
+<author> 김민배(기자)</author>
+<date> 93.06.13</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0799CSM930613
+{김민배}
+「6·11희비」 양당행보 주목
+◎민자,호흡조절 “신한국작업 불변” 강조/민주 “긴 터널은 지났다”
+목청높일 태세※ 「명주­양양 이변」은 12일 민자­민주 양당의 명암을
+극명하게 갈랐다.※ 민자당과 여권은 『뼈아픈 자성의 기회』라며,
+호흡을가다듬는 자세였다. 충격에서 하루빨리 탈출하겠다는 의지가 역력했다.
+그 시간 민주당사는 환호가 가득했다.※『김영삼정부의 개혁정책은 이제
+궤도수정을 해야한다』는 목소리도 섞였다.※ %
+</tdmsfiletext>

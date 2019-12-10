@@ -1,0 +1,30 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-19_11.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.19 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+O.B형 부모에 A형 아이 출생
+
+
+
+⊙황수경 앵커 :
+          혈액형이 각각 O형과 B형인 부모 사이에서 태어난 아이의 혈액형이 A형인
+경우가 발견됐다고 일본 오사까 의과대학 연구팀이 밝혔습니다. 연구팀의
+스즈끼 고 이치 교수는 아이에 대한 DNA 테스트 결과 생물학적으로 이 부모가
+낳은 아이가 틀림없는 것으로 확인됐다면서 수정 과정에서 어머니 유전자가
+A형으로 바뀌면서 아이의 혈액형이 결 정된 것으로 보인다고 말했습니다. 
+
+영국령 몽세라섬 화산폭발
+
+카리브해에 있는 영국령 몽세라섬의 스프리에로 화산폭발이 오늘 재 개되자
+영국은 군함을 긴급 파견해서 자국민의 소개작전에 나섰습니다. 스프리에로
+화산은 오늘 새벽 40여분에 걸쳐서 화산재 등을 분출했다고 몽세라
+화산관측소가 발표했습니다.
+
+</tdmsfiletext>

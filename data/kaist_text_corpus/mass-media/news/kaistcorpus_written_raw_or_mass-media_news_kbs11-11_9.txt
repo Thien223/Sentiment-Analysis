@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-11_9.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.11.11 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+미.이라크 충돌 위기 고조
+
+
+⊙류근찬 앵커 :
+          미국은 오늘 이라크의 유엔대사를 통해서 군사행동을 다시 경고하는 한편,
+걸프만에 항공모함 니미츠호를 비상대기시키는 등 이라크에 대한 압력을 강화하고
+있습 니다. 이에 대해서 이라크는 수천명의 시민들이 반미구호를 외치는 등
+후세인의 미국인 사찰 거부를 거국적으로 지지하고 있어서 미국과 이라크의
+긴장상태는 더욱 고조되고 있습니다. 
+
+</tdmsfiletext>

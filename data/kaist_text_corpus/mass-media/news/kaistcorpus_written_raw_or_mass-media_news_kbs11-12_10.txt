@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-12_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.11.12 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+올해 쌀 3천 784만섬 생산
+
+
+⊙황수경 앵커 :
+          올해 쌀 생산량이 지난 90년이후 최고수준인 3,784만섬으로 최종
+집계됐습니다. 농림부는 오늘 올해 최종 쌀 생산량이 지난해의 3,696만섬보다
+2.4%가 늘어났으 며, 9월 15일 작황조사때의 예상 수확량 3,716만섬보다 1.8%
+증가했다고 발표했습니다.
+</tdmsfiletext>

@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-3_12.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.04 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+의료보험 수가.시내전화료 인상
+
+재정경제원의 관계자는 의료보험 수가는 한자리수 범위 안에서 시내 전화요금은
+통화당 40원에서 50원으로 인상하는 방안을 검토하고 있다고 밝혔습니다. 이 관
+계자는 당정 협의를 거친뒤에 빠르면 이달안에 이들 요금을 올릴 방침이라고
+발표했습니다. 
+</tdmsfiletext>

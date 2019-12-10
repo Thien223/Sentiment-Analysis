@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-20_19.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+단수
+
+
+
+⊙황수경 앵커 :
+          내일과 모레 이틀 동안 서울 강북지역 8개 72만여가구에 대한 수돗물
+공급이 일시 중단됩니다. 내일 오전 9시부터 밤9시까지 12시간 동안
+단수되는 지역은 강 북구와 도봉구 노원구 일대 44개동 31만여 가구입니다.
+또 광진구와 중랑구 동대문구 성북구 성동구 강북구 등 6개구 78개동
+41만여가구는 내일 오전 9시부터 모레 오전 6시까지 21시간 동안
+단수됩니다. 
+
+
+</tdmsfiletext>

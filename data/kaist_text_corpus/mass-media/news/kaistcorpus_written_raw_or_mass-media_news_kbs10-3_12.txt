@@ -1,0 +1,37 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-3_12.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.03 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+"김정일 당총비서 지명절차 진행중"
+
+
+
+⊙황수경 앵커 :
+          유엔총회 북한측 수석대표로 참석한 최수헌 외교부 부부장은 공석중인
+노동당 총비서에 김정일을 추대하기 위한 지명절차가 진행되고 있다고
+밝혔습니다. 
+
+
+IAEA, 北劾 관련자료 보존결의 채택
+
+오스트리아 빈에서 열리고 있는 국제원자력기구 제41차 총회는 오늘 북한이
+과거 핵활동 규명에 필요한 관련자료를 보존할 것을 촉구하는 내용의
+대북한결의를 회원국들의 압도적인 지지로 채택했습니다. 
+
+'북괴' 등 냉전용어 법령에서 삭제
+
+통일원의 한 당국자는 현재 2북5도에 관한 특별 조치법 등에서 시대 변화에
+맞지 않은 북한 괴뢰집단, 수복지구 등 냉전시대의 용어들이 아직 정비되지
+않고 있어 서 법무부 등 관련부처와의 협의를 거쳐 삭제를 추진할
+예정이라고 말했습니다. 
+
+
+
+</tdmsfiletext>

@@ -1,0 +1,80 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-1_3.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-1_3.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.01 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.03</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[보이지않는 손] YS가 반DJP연대 막후연출？, 11-1.hwp/Titleend
+Inf/조선일보, 1997년 11월 1일 /Infend
+Text/ 
+                     [국민회의] "모든 양심수 사면 뜻 아니다" 해명 
+
+                     김대중총재의 '양심수 사면' 발언에 대한 검찰의 반발이
+                     알려지 자, 국민회의는 또다시 색깔론 시비가 재연하지
+                     않을까 내심 당혹해 하 면서, "모든 양심수를 사면하겠다는
+                     뜻이 아니다"고 한발 물러났다. 
+
+                     박지원총재특보는 1일 아침 김 총재와 통화후 "김 총재 발언
+                     진의 는 모든 양심수를 무차별적으로 사면하겠다는 뜻이
+                     아니라, 공산주의에 반대하고, 대한민국을 지지하면서,
+                     앞으로 절대 재범하지 않겠다고 약속 하는 양심수는 사면을
+                     고려할 수 있다는 것"이라고 말했다. 
+
+                     박 특보는 "이런 뜻인데 김 총재가 간략히 얘기하다보니
+                     그렇게 말 한 것"이라고 주장했다. 
+
+                     국민회의는 또 "양심수 석방 얘기는 여야 정치인 누구나 다
+                     하는 얘기"라며 "정부는 우리나라에 양심수가 한명도 없다고
+                     하지만, 현실적으 로 있는 것도 사실 아니냐"고 주장했다. 
+
+                     국민회의는 "김 총재가 이번에 처음 한 말도 아닌데
+                     새삼스럽게 검 찰이 반발하는 이유를 모르겠다"며 검찰
+                     분위기를 파악하기도 했다. 
+
+                     박 특보는 "검찰도 김 총재의 진의를 알고 이해한 것으로 알고
+                     있 다"고 주장했다. 
+
+                     그러면서 국민회의는 김 총재 발언이 정치쟁점으로 부상해
+                     색깔론 시비로 이어질 가능성을 경계하면서 여당등의 비난에
+                     대해 일절 대응하지 않았다.<김민철기자> 
+
+     11/01(토) 19:43 
+
+
+   지난기사 
+   기사검색 
+   독자투고 
+   서비스지도 
+ ▼부가서비스
+   테마퀴즈 
+   클럽시네마 
+   가요베스트20 
+   북리뷰 
+   갤러리조선 
+   미팅정보듀오 
+   추천사이트 
+   게임동산 
+   대학위성강좌 
+   사이버인터뷰 
+   2002월드컵 
+   만화모음 
+   인물DB 
+   부동산뱅크 
+   유학세계 
+   산수도인운세 
+   특허검색 
+
+/Textend 
+</tdmsfiletext>

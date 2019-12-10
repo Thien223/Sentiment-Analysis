@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-29_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.29 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+「자녀 안심하고 학교보내기」봉사대회
+
+서울 지방검찰청은 오늘 서울 올림픽공원 역도경기장에서 자녀 안심 하고
+학교보내기 운동 자원봉사 대회를 열고 학교폭력과 청소년 유해환경을
+없애기 위한 예 방활동에 적극적으로 참여할 것을 결의했습니다. 오늘
+대회에서 자원봉사자들은 청소년 문제 를 국가와 정부에게만 맡기지 말고
+자발적인 봉사활동에 앞장설 것을 다짐했습니다. 
+
+
+</tdmsfiletext>

@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_199.txt </filename>
+<title> 조선일보  </title>
+<author> 허용범(기자)</author>
+<date> 93.06.10</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0767CSM930610
+{허용범}
+“대통령과 PC통신” 인기
+◎「청와대 큰마당」 하이텔에 개설… 「편지」 빗발/“컴퓨터 아셔야
+할텐데…” 「아이디어」 쏟아져※ 『어렸을 적엔 대통령과 악수 한번 하면
+집안의 큰 영광이었는데, 이렇게 쉽고 편하게 대통령을 만날 수 있어
+기쁩니다.』 자신을 고3이라고 밝힌 이 학생은 먼저 이렇게 소감을
+말했다. 그는 그러면서 『이번 엑스포가 대학 수학능력시험 날짜와 겹쳐
+일생일대의 기회를 놓치게 됐다』며 『고3학생들에겐 정식 �%
+</tdmsfiletext>

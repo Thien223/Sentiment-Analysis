@@ -1,0 +1,24 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_4_47.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.06.25</date>
+<publisher> </publisher>
+<kdc> 070.09</kdc>
+<tdmsfiletext>
+[NA0402.0920CSM930625
+[새영화]
+못말리는 람보(새영화)
+◎「못말리는 비행사」 속편※ 「못말리는 비행사」의 성공에 힘입어
+제작된 속편. 유명한 영화의 인상적인 장면들을 비틀어 재현해내 웃기는,
+패러디 수법의 난센스 코미디다. 이번에는 영화 「람보3」을 주로 하여
+고전 「카사블랑카」 등을 패러디했다. 중동의 사담 후세인에게 인질로
+잡혀있는 미국인들을 구출하기 위해 주인공 할리(찰리 쉰)가 종횡무진
+활약한다는 줄거리. 전편의 연기자가 거의 대부분 출연하며, 벤슨
+사령관(로이드 브릿지스)을 미국 대통령으로 설정해 눈길을 끈다. 감독은 짐
+에이브러햄.(20세기폭스
+
+</tdmsfiletext>

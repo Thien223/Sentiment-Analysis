@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-9_12.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.9  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+제185회 정기국회 내일 개회
+
+현 정부 임기중의 마지막 정기국회인 제185회 정기국회가 70일간의 단축 회기로
+내일 개회 됩니다. 국회는 내일 본회의를 열어서 서성 대법관 임명 동의안과 손
+봉숙 중앙선거관리위원 추천안 등의 안건을 처리한 뒤에 모레부터
+상임위원회별로 국정감사 대상기관 선정 등 국정감사 준비에 들어갈
+예정입니다. 
+
+손명순 여사, 여야의원 부인 초청 오찬
+
+김영삼 대통령의 부인 손명순 여사는 오늘 낮 여야 국회의원 부인 2 백여명을
+청와대로 초청해서 오찬을 함께 하며 환담했습니다. 오늘 행사에는 이회창
+신한국 당 대표 부인 한인옥 여사를 비롯해서 김대중 국민회의 총재 부인 이희오
+여사와 조순 민주 당 총재 부인 김남희 여사 등이 참석했습니다. 
+
+</tdmsfiletext>

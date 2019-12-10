@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-8_8.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.08 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+"전화방 회선 폐쇄는 정당"
+음란성 영업을 하는 전화방에 대한 회선 사용 정지 등의 제한조치는 정당한
+것이라는 법원의 결정이 내려졌습니다. 서울 지방법원 민사50부는 오늘 한국
+전기통 신공사측이 전화방 전화회선에 대한 사용정지 조치를 하려는 것은
+부당하다면서 서울 논현동 의 전화방 업주 이 모씨가 낸 영업방해금지
+가처분 신청에 대해서 이유없다며 기각했습니다. 
+
+</tdmsfiletext>

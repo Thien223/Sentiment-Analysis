@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-1_17.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.1  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+세계 여자 아마 바둑대회 전야제
+
+KBS와 한국 경제신문이 공동주최한 제1회 세계 여자 아마바둑 선수 권대회
+전야제가 세계 28개국에서 온 28명의 선수와 바둑계 인사 등 4백여명이 참석한
+가운 데 오늘 오후 서울 63빌딩 컨벤션센터에서 열렸습니다. 
+
+</tdmsfiletext>

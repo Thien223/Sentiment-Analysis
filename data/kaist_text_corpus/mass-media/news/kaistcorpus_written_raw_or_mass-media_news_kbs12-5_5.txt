@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-5_5.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.05 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"한미 연합방위 확고히 유지"당부
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 김영삼 대통령은 부인 손명순 여사와 함께 한미
+연합사 사령관 존 틸러리 대장 부부를 비롯한 주한미군 장성 부부 29명을
+오늘 저녁 청와대 로 초청해서 만찬을 함께 하고 한반도 평화와 안정을
+지키기 위해서 한미 연합방위태세를 더 욱 확고히 유지해달라고
+당부했습니다. 
+
+</tdmsfiletext>

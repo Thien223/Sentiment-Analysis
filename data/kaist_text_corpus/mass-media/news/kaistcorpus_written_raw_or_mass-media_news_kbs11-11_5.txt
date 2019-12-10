@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-11_5.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.11.11 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+김 대통령, 2단계 농정개혁 지시
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 김영삼 대통령은 오늘 수원농촌진흥청에서 열린 제2차
+농업인의 날 기념식에 참석해서, 지난 5년간의 농정개혁성과를 바탕으로 한단계 더
+발전된 농업과 살기좋 은 농촌을 만들기 위한 제2단계의 농정개혁을 준비할 것을
+당부했습니다. 김영삼 대통령은 오늘 시상식의 기념식에서 농업발전에 공이 많은
+원철희 농협중앙회장 등 14명에게 훈장과 포장 그리고 대통령 표창을
+수여했습니다. 
+
+</tdmsfiletext>

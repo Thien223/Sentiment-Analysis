@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-11_21.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.11  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+이명박 의원 벌금 700만원 선고
+
+서울 지방법원 형사합의23부는 오늘 선거비 8천여만원을 초과 지출 하고 선거
+당시 개인비서였던 김유찬씨의 해외도피에 개입한 혐의로 기소된 이명박
+의원에게 벌금 7백만원을 선고했습니다. 현행 선거법에는 국회의원 본인이
+선거법 위반 혐의로 벌금 백만원 이상을 선고받으면 의원직을 잃도록 돼
+있습니다. 
+
+</tdmsfiletext>

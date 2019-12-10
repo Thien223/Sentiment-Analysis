@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-13_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.13 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+"사회단체 대선후보 토론회 위법"
+중앙선거관리위원회는 언론사가 주최하는 토론회는 국민들이 궁금해 하는
+사항을 취재 보도하는 고유 업무 영역에 해당돼서 적법한 반면 대선후보들의
+입후보 기 간 전에 사회단체가 개최하는 토론회는 고유업무에 관한
+사항이라고 볼 수가 없어 통합선거 법상 사전선거운동이라고 설명하고 이를
+계속할 경우 선거법 절차에 따라서 조치할 것이라고 발표했습니다. 
+
+
+
+
+</tdmsfiletext>

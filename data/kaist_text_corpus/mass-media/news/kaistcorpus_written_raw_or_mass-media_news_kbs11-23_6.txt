@@ -1,0 +1,26 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-23_6.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+北, KBS프로그램 내용 비방
+
+북한은 지난 16일부터 방송매체를 통해서 KBS폭파와 또 살해 위협 을 연일
+계속한데 이어서 어제는 중앙방송을 통해서 KBS프로그램을 트집잡아서
+문화전파자 로서의 위상을 갖추지 못하고 있다고 비방했습니다. 
+
+이북도민회, 北 협박 즉각중지 촉구
+
+한편 이북도민회 중앙연합회 의장단은 오늘 성명을 내고 북한의 협 박은
+북한 권력집단의 패륜행위가 폭로되는 것을 두려워하는 신경질적인
+발작이라면서 세계 공론의 웃음거리가 될 이같은 협박을 즉각 중지하라고
+촉구했습니다. 
+
+
+</tdmsfiletext>

@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_161.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.06.05</date>
+<publisher> </publisher>
+<kdc> 070.11</kdc>
+<tdmsfiletext>
+[NA0402.0729CSM930605
+[조선다이제스트]
+신실학의 탐구(조선 다이제스트)
+◎“유학현대화” 교수 15명 논문집/윤사순등 지음/열린책들간
+2백78쪽 6천원※ 유학은 낡고 쓸모라고는 전혀 없는 것인가. 한때 그렇다는
+답변이 쉬 나왔던 적이 있다. 지금도 대개는 그렇게 인식되는 것 또한
+사실이다. 한국공자학회(회장 윤사순)의 학술논문을 모은 이 책은
+유학이현재에도 여전히 의미를 가지는 고등한 사상이라는 전제에서 출발한다.
+유학이 원래 불교나 노장사상에 비해 유용한 학문이라는 의미%B
+</tdmsfiletext>

@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-22_16.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.22  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+국회 보건복지위원장
+
+국회는 오늘 공석중인 보건복지위원장에 국민회의의 채영석 의원을
+선출했습니다. 채영석 신임 위원장은 올해 63살로 군산 갑 출신의 3선의원이며
+민추협 대변 인과 신민당보 주간 등을 역임했습니다. 
+
+</tdmsfiletext>

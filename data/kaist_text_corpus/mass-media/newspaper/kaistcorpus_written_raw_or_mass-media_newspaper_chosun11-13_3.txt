@@ -1,0 +1,67 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-13_3.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-13_3.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.13 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.01</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[판도변화 조짐] "이회창이 추월한다" 대선길 비상 , 11-13.hwp/Titleend
+Inf/조선일보, 1997년 11월 13일 /Infend
+Text/ 
+     11/13(목) 19:05 
+
+
+
+
+                     [신한국-민주] 후보단일화 서명…당명 `신민주' 유력
+
+
+                     신한국당 이회창 총재와 민주당
+                     조순 총재는 13일 정치혁신을 통한
+                     3김정치 종식, 국민대통합에 기반한
+                     국가대혁신, 선진경제 풍토 확립등
+                     3대 과제를 합당을 통해
+                     실현하겠다고 말했다. 
+
+                     두 총재는 이날 오전 국회에서
+                     '대선후보 이회창, 통합당 총 재
+                     조순'등 후보단일화 3개항 합의문에
+                     서명한뒤, 공동기자회견 을 갖고
+                     이같이 말했다. 
+
+                     신한국당 구범회 부대변인은
+                     이와관련, 당 고위대책회의가 끝
+                     난뒤 "통합당의 당명은 신민주당 한국민주당 선진민주당등
+                     세가 지로 압축됐으나 신민주당으로 결정될 가능성이 높다"고
+                     말했다. 또 양당통합전당대회는 오는 21일 대전에서 개최키로
+                     잠정 결정 된 것으로 전해졌다. 
+
+                      관련기사
+                        [이회창-조순회견] "정치9단보다 정치신인 필요" 
+                        [이회창-조순전략] "뭐든지 함께"…＋α 극대화 
+
+
+                     두 총재는 "양당의 통합을 대통령선거 후보등록일인 오는 26
+                     일 이전에 마무리하되, 실무적 합당절차는 양당 사무총장이
+                     추진 하기로 했다"며 "21세기 문턱에서 극도의 혼란에 빠진
+                     우리나라 의 현실을 걱정하는 모든 국민들에게 우리의 구국적
+                     결단을 적극 지지하고 동참해주실 것을 호소한다"고 말했다. 
+
+                     김태호 신한국당 사무총장과 이규정 사무총장은 이날 오후 접
+                     촉을 갖고, 14일부터 공식 협상기구를 발족, 20일전까지
+                     당명과 당헌당규정강정책등을 확정짓기로
+                     했다.<주용중-손정미기자> 
+
+/Textend 
+</tdmsfiletext>

@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_212.txt </filename>
+<title> 조선일보  </title>
+<author> 김창기(기자)</author>
+<date> 93.06.11</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0780CSM930611
+{김창기}
+당시 「국민운동본부」 관계자 초청 오찬
+◎김 대통령 “6·10명예혁명 따라 나라살리겠다”/지금 기회놓치면
+우리는 영원히 낙오/김 대통령/문민정부는 그때 피­땀으로
+이뤄진것/유시춘씨※ 김영삼대통령이 10일 6·10민주화운동 6주년을 맞아 당시
+운동을주도했던 「민주헌법 쟁취 국민운동본부」 관계자들을 청와대로 초청한
+오찬은 6·10의 역사적 의미를 정부적 차원에서 새로 조명하는 계기가
+된자리였다. 또한 김대통령은 변함없는 개혁 추진을 다짐하면서 각계의
+
+</tdmsfiletext>

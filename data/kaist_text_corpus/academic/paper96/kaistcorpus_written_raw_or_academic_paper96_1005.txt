@@ -1,0 +1,255 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_academic_paper96_1005.txt </filename>
+<title> ¾Ï¼®Àý¸®¸éÀÇ Àü´Ü½ÃÇè¿¡¼­ ¹Ì¼ÒÆÄ±«À½ ¹ß»ý(A.E.)¿¡ °üÇÑ ¿¬±¸ </title>
+<author> ±èÅÂÇõ </author>
+<date> 1993</date>
+<publisher> ¼­¿ï´ëÇÐ±³  </publisher>
+<kdc> TM 559.623  </kdc>
+<tdmsfiletext>
+      ÃÊ ·Ï   
+  º» ¿¬±¸¿¡¼­´Â ÀÎ°øÀûÀ¸·Î Á¦ÀÛµÈ Àý¸®¸¦ ÀÌ¿ëÇÏ¿©  Àý¸®ÀÇ Àü´Ü½ÃÇè½Ã ¹ß»ýµÇ
+´Â ¹Ì¼ÒÆÄ±«À½À»  Á¶»çÇÏ±â À§ÇØ Á÷Á¢Àü´Ü½ÃÇèÀ» ½Ç½ÃÇÏ¿´´Ù. ±×¸®°í Àü´ÜÆ¯¼ºÀÇ 
+º¯È­¸¦ ºñ±³ÇÏ¿´´Ù. 
+  ¿¬±¸¿¡ »ç¿ëÇÑ ¾Ï¼®½Ã·á´Â  È²µîÈ­°­¾Ï°ú ÀÍ»ê´ë¸®¼®ÀÌ´Ù. Àý¸®ÀÇ °ÅÄ¥±â´Â °Å
+Ä¥±â  profile °ÔÀÌÁö·Î  ÃøÁ¤ÇÏ¿©   ±× profileÀ»  ¼öÄ¡È­ÇÏ¿© Rp   (Roughness 
+Profile Index) °ªÀ¸·Î  Ç¥½ÃÇÏ°í ÀÌ¸¦ JRC·Îµµ È¯»ê ºñ±³ÇÏ¿´´Ù. 
+  È­°­¾Ï½Ã·áÀÇ Àü´Ü½ÃÇè¿¡¼­  ÃÖ´ëÀü´Ü°­µµ, ÀÜ·ùÀü´Ü°­µµ, Àü´Ü°­¼º µîÀº °ÅÄ¥
+±â¿Í ¼öÁ÷ÀÀ·Â¿¡ ºñ·ÊÇÏ¿© Ä¿Áö´Â°ÍÀ¸·Î ³ªÅ¸³µ´Ù. ±×·¯³ª ÆØÃ¢°¢Àº °ÅÄ¥±â°¡ Å¬
+¼ö·Ï  ¼öÁ÷ÀÀ·ÂÀÌ ÀÛÀ»¼ö·Ï Ä¿Á³´Ù. ´ë¸®¼®½Ã·á¿¡¼­´Â Àü´ÜÆ¯¼ºµé¿¡ ´ëÇÑ °ÅÄ¥±â
+ÀÇ ¿µÇâÀÌ È­°­¾Ï¿¡ ºñÇÏ¿©  ´úÇÑ °ÍÀ¸·Î ³ªÅ¸³µÀ¸³ª, ¼öÁ÷ÀÀ·Â¿¡ ´ëÇÏ¿©´Â È­°­
+¾Ï°ú ºñ½ÁÇÑ °æÇâÀ» º¸¿´´Ù.  
+  È­°­¾ÏÀÇ Àü´Ü½ÃÇè½Ã ¹ß»ýÇÏ´Â AE´Â Àü´ÜÀÀ·ÂÀÌ ¼±ÇüÀûÀ¸·Î Áõ°¡ÇÏ´Â ÃÊ±â¿¡´Â 
+¾ÆÁÖ ÀûÀº °ªÀÌ ÃøÁ¤µÇ´Ù°¡ ÃÖ´ëÀü´Ü°­µµ¿¡¼­ ÀÜ·ùÀü´Ü°­µµ·Î ¶³¾îÁö´Â ÁöÁ¡¿¡¼­ 
+AE °ªÀÌ ÃÖ´ë·Î ÃøÁ¤µÇ¾úÀ¸¸ç, ÀÜ·ùÀü´Ü°­µµ ¼öÁØ¿¡¼­´Â Àü´ÜÀÀ·ÂÀÌ °©ÀÚ±â ¶³¾î
+Áö´Â ÁöÁ¡¿¡¼­ ¸¹Àº¾çÀÇ AE°¡  ÃøÁ¤µÇ¾ú´Ù. ´ë¸®¼®ÀÇ °æ¿ì´Â È­°­¾Ï°ú´Â ´Þ¸® ½Ã
+ÇèÀÇ Àü ±¸°£¿¡ °ÉÃÄ¼­  È­°­¾Ï¿¡ ºñÇØ ¾ÆÁÖ ÀûÀº °ªÀÇ AE°¡ ÃøÁ¤µÇ¾úÀ¸³ª, ÀÜ·ù
+Àü´Ü°­µµ ¼öÁØ¿¡¼­ Àü´ÜÀÀ·ÂÀÌ  °©ÀÚ±â °¨¼ÒÇÒ¶§ AE°¡ ÃøÁ¤µÇ´Â Çö»óÀº ºñ½ÁÇÏ°Ô 
+ÀÏ¾î³µ´Ù. È­°­¾ÏÀÇ Àü´Ü½ÃÇè¿¡¼­  °ÅÄ¥±â ¹×  ¼öÁ÷ÇÏÁßÀÌ Ä¿Áü¿¡ µû¶ó ¹ß»ýÇÏ´Â 
+ÃÖ´ë  AE  °ªµµ   Áõ°¡ÇÏ¿´´Ù.  ÁÖÆÄ¼öºÐ¼®¿¡¼­  ÃÖ´ëÁÖÆÄ¼ö´Â    È­°­¾ÏÀÇ °æ¿ì 
+100kHz, ´ë¸®¼®ÀÇ  °æ¿ì´Â 900kHzºÎ±Ù¿¡¼­ ³ªÅ¸³µ´Ù. µÎ ¾ÏÁ¾ ¸ðµÎ¿¡¼­ ¼öÁ÷ÇÏÁß
+ÀÌ Ä¿Áú¼ö·Ï ÀüÃ¼ÀûÀÎ ÁøÆøÀÇ ºÐÆ÷ ¾ç»óÀÌ Á¡Á¡ ºÐ»êµÇ´Â °æÇâÀ»  º¸¿´´Ù.
+  ¹Ýº¹½ÇÇè¿¡ ÀÇÇÑ È­°­¾ÏÀÇ  Àü´Üº¯Çü°Åµ¿¿¡¼­ °ÅÄ¥±â, ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áú¼ö·Ï ½Ç
+ÇèÈ½¼ö¿¡ µû¸¥ Àü´ÜÀúÇ×µéÀÇ ÀúÇÏÆøÀÌ Ä¿Á³´Ù. ¹Ýº¹½ÇÇè¿¡ ÀÇÇÑ ´ë¸®¼®ÀÇ Àü´Üº¯
+Çü°Åµ¿¿¡¼­  ¼öÁ÷ÀÀ·Â¿¡ ´ëÇÏ¿©´Â È­°­¾Ï°ú ºñ½ÁÇÑ °æÇâÀ» º¸¿´À¸³ª, ¼öÁ÷ÀÀ·ÂÀÌ 
+°°À»¶§ °ÅÄ¥±â´Â Àü´ÜÆ¯¼ºÀÇ º¯È­¿¡ Å©°Ô °ü°è°¡ ¾ø´Â°ÍÀ¸·Î ³ªÅ¸³µ´Ù. 
+  µÎ ¹æÇâ¿¡ ´ëÇÑ  ¹æÇâ¼º Àü´Ü½ÃÇè¿¡¼­ Àü´ÜÆ¯¼ºµéÀº Àü´Ü¹æÇâ¿¡ µû¶ó Á÷Á¢ÀûÀ¸
+·Î °ü°èÇÏ¿© º¯ÇÏ¿´À¸³ª ÃÖ´ë AE °ªÀÇ °æ¿ì´Â ÇÑ ¹æÇâ¿¡ ´ëÇÑ ¹Ýº¹Àü´ÜÀÇ °æ¿ì¿Í 
+ºñ½ÁÇÑ °æÇâÀ» º¸¿´´Ù.
+   ÁÖ¿ä¾î : AE,  °ÅÄ¥±â, ¼öÁ÷ÇÏÁß, Á÷Á¢Àü´Ü½ÃÇè, ¹æÇâ¼º Àü´Ü½ÃÇè, ¹Ýº¹½ÇÇè,   
+               Àü´ÜÆ¯¼º
+1.  ¼­·Ð
+ÃÖ±Ù ¿øÀ¯, ¾×È­°¡½º µîÀÇ ÀúÀå½Ã¼³°ú ¾ç¼ö¹ßÀü¼Ò, ÅÍ³Î, ÁöÇÏµµ·Î µî ÁöÇÏ±¸Á¶¹°ÀÇ °Ç¼³ÀÌ Áõ°¡ÇÔ¿¡ µû¶ó  ÁöÇÏ°ø°£ÀÇ È¿À²ÀûÀÎ ÀÌ¿ë¿¡ °üÇÑ °ü½ÉÀÌ ³ô¾ÆÁö°í ÀÖ´Ù.  ÀÌ¿¡ µû¶ó ¾Ï¹Ý³»  ÁöÇÏ±¸Á¶¹°ÀÇ ¾ÈÁ¤¼ºÀº  Áß¿äÇÑ ¹®Á¦·Î ´ëµÎµÇ°í ÀÖÀ¸¸ç, ÀÌÀÇ ÇØ¼®°ú  °èÃø¿¡ °ü·ÃÇÏ¿© ´ë»ó¾Ï¹ÝÀÇ ¿ªÇÐÀû °Åµ¿À» ÆÄ¾ÇÇÏ´Â °ÍÀº ¸Å¿ì Áß¿äÇÏ´Ù.  ¾Ï¹Ý±¸Á¶¹°À» °Ç¼³ÇÏ°Ô µÇ´Â ÇöÁö ¾Ï¹ÝÀº ¿ªÇÐÀûÀ¸·Î ¸¹Àº ºÒ¿¬¼Ó¸éÀ» °¡Áö°í ÀÖ´Ù. ±×·¯¹Ç·Î ¾Ï¹Ý±¸Á¶¹°ÀÇ ¾ÈÁ¤¼º ¹®Á¦¿Í °ü·ÃÇÏ¿© ¾Ï¹Ý³» Á¸ÀçÇÏ´Â Àý¸®, ±Õ¿­, ´ÜÃþ µî°ú °°Àº ºÒ¿¬¼Ó¸éµéÀÇ ±âÇÏÇÐÀû ÇüÅÂ¿Í ¿ªÇÐÀû Æ¯¼ºÀÌ ¸Å¿ì Áß¿äÇÏ´Ù. ÀÏ¹ÝÀûÀ¸·Î ºÒ¿¬¼Ó¸é¿¡¼­ÀÇ ¾Ï¹ÝÀÇ º¯Çü¼ºÀº ½Å¼±¾Ï°ú´Â Å« Â÷ÀÌ¸¦ ³ªÅ¸³»¸ç, ÇÏÁß¹æÇâ¿¡ ´ëÇÑ Àý¸®ÀÇ Æ¯¼º, Àý¸® °ÅÄ¥±â, ÇöÁö¾Ï¹ÝÀÇ ÀÀ·Â»óÅÂ µîÀÌ ¸Å¿ì Å« ¿µÇâÀ» ¹ÌÄ£´Ù. ÇöÁö¾Ï¹ÝÀÇ °æ¿ì ±¸Á¶¹°ÀÇ ¾ÈÁ¤¼ºÀº ÀÌ  ºÒ¿¬¼Ó¸é¿¡ Á÷Á¢ÀûÀ¸·Î ¿µÇâÀ» ¹Þ±â ¶§¹®¿¡ ¾Ï¹Ý ±¸Á¶¹°ÀÇ ¾ÈÁ¤¼º ÇØ¼®°ú °èÃø¿¡´Â ÀÌ ºÒ¿¬¼Ó¸é¿¡ ´ëÇÑ ¿¬±¸°¡ ÇÊ¼öÀûÀÌ´Ù.
+¹Ì¼ÒÆÄ±«À½ ¹ß»ý (Acoustic Emission : AE )Àº ÁöÇÏ±¸Á¶¹°ÀÌ³ª ´Ù¸¥ ¾Ï¹Ý±¸Á¶¹° ¾ÈÁ¤¼ºÀÇ °üÃø¿¡ ÀÌ¿ëµÇ¾î ¿ÔÀ¸¸ç, ½ÇÇè½Ç ½ÃÇèÀÌ³ª ÇöÀå½ÃÇè¿¡¼­ ¾òÀº ¿¬±¸ °á°ú¿¡ ÀÇÇÏ¸é ¾Ï¼®ÀÇ ÆÄ±«¿¡´Â ÀÌ AE Çö»óÀÌ °üÃøµÇ´Â °ÍÀ¸·Î º¸°íµÇ¾ú´Ù. ±×·¯¹Ç·Î ÁöÇÏ±¸Á¶¹°ÀÇ ¾ÈÁ¤¼º¿¡ Á÷Á¢ÀûÀ¸·Î ¿¬°üµÈ  ºÒ¿¬¼Ó¸éÀÇ º¯Çü¹× ÆÄ±«°Åµ¿°üÃø°ú °ü·ÃÇÏ¿© AE¸¦ ¿¬±¸ÇÒ ÇÊ¿ä°¡ ÀÖÀ¸¸ç, ÇöÁö¾Ï¹ÝÀÇ º¯Çü°Åµ¿°ú °ü·ÃÇÏ¿© Àü´ÜÆ¯¼ºÀÇ º¯È­¿¡ ´ëÇØ¼­µµ »ìÆìº¼ ÇÊ¿ä°¡ ÀÖ´Ù. 
+ÇöÀç±îÁö ¿©·¯ ÇÐÀÚµé¿¡ ÀÇÇØ ÀÌ¿¡ °üÇÑ ¿¬±¸°¡ ÁøÇàµÇ¾î ¿Ô´Ù. Holcomb, Teufel[2] µîÀº  ¸Å²ô·¯¿î ÀÎ°øÀý¸®¸éÀ» °¡Áø ÀÀÈ¸¾ÏÀÇ »ïÃà½ÃÇè¿¡¼­ ¹ß»ýµÇ´Â AE¿¡ °üÇÏ¿© ¿¬±¸ÇÏ¿´À¸¸ç, Alheid ¿Í Rummel[1] Àº  ÀÏÁ¤ÇÑ °¢µµ¸¦ °¡Áø Sawcut ½Ã·á¿¡ ´ëÇÑ »ïÃà¾ÐÃà½ÃÇèÀ» ½Ç½ÃÇÏ¿© ÀÌ¶§ ¹ß»ýµÇ´Â AE¿¡ ´ëÇÏ¿© ¿¬±¸ÇÏ¿´´Ù. ±×¸®°í Li ¿Í Lordlund[3] ´Â ½ÇÁ¦ ¾Ï¹ÝÀÇ °æ¿ì¿Í ºñ½ÁÇÑ °ÅÄ¥±â¸¦ °¡Áø ÀÎ°øÀý¸®¸é¿¡ ´ëÇÑ Àü´Ü½ÃÇè½Ã ¹ß»ýµÇ´Â AE¿¡ ´ëÇÏ¿© ¿¬±¸ÇÏ¿´´Ù. ±×¸®°í ±¹³»¿¡¼­´Â ±è±âÁÖ[19] ¿¡ ÀÇÇØ ¿©·¯ °³ÀÇ Àý¸®¸éÀ» °®´Â ÀÎ°øÀý¸®¸éÀÇ Àü´Ü½ÃÇè½Ã ¹ß»ýÇÏ´Â AE¿¡ ´ëÇÑ ¿¬±¸°¡ º¸°íµÈ ¹Ù ÀÖ´Ù. ÀÌµé ¿¬±¸´Â  AE°èÃø¿¡ ´ëÇÑ ±âº»ÀûÀÎ ¿¬±¸°á°ú¸¦ Á¦½ÃÇÏ°í´Â ÀÖÀ¸³ª, ÇöÀç±îÁö  ÁÖ¿äÇÑ º¯¼öµéÀÎ ¼öÁ÷ÇÏÁß ¹× °ÅÄ¥±â¿¡ °ü°èÇÑ AEÀÇ ¿¬±¸´Â °ÅÀÇ ÀÌ·ç¾îÁöÁö ¸øÇÑ ½ÇÁ¤ÀÌ´Ù.
+¶ÇÇÑ R. W. Hutson, C. H. Dowding[8] µîÀº ½ÇÁ¦ ½ÇÇè°ú Àü»ê ÇØ¼®À» ÅëÇØ, ¾Ï¹ÝºÒ¿¬¼Ó¸é¿¡ ´ëÇÑ  ¹Ýº¹Àü´Ü½ÃÇè½Ã ¹ß»ýµÇ´Â Àü´ÜÀúÇ×ÀÇ º¯È­¸¦ ÀÏ (work)ÀÇ °³³ä¿¡¼­  ¿¬±¸ÇÏ¿´À¸¸ç, ±¹³»¿¡¼­´Â ¼öÁ÷ÇÏÁß¿¡ °ü·ÃÇÏ¿© È­°­¾ÏÀÇ ¹Ýº¹½ÇÇè¿¡ ÀÇÇÑ ¿¬±¸°¡ ±è¿µ±Ù[17] ¿¡ ÀÇÇØ ¼öÇàµÈ ¹Ù ÀÖ´Ù. ±×·¯³ª ±¹³»¿¡¼­ Àý¸®ÀÇ °ÅÄ¥±â ¹× ¼öÁ÷ÀÀ·Â¿¡ ´ëÇÑ Àü´Ü°Åµ¿ÀÇ °ü°è¸¦  ¹Ýº¹½ÇÇèÀ» ÅëÇÏ¿©  ¿¬±¸ÇÑ ¹Ù´Â  ¾øÀ¸¸ç, ÀÌ¿Í ÇÔ²² ¾Ï¼® ºÒ¿¬¼Ó¸éÀÇ Àü´Ü¹æÇâ¿¡ µû¸¥ Àü´Üº¯Çü¿¡ ´ëÇÏ¿©¼­µµ ¾ÆÁ÷ ¿¬±¸µÈ ¹Ù ¾ø´Â ½ÇÁ¤ÀÌ´Ù.  
+º» ¿¬±¸¿¡¼­´Â È²µîÈ­°­¾Ï°ú ÀÍ»ê´ë¸®¼®¿¡ ´ëÇÏ¿©  ÀÎ°øÀý¸® ¹ß»ýÀåÄ¡¸¦ ÀÌ¿ëÇÏ¿© ÀÎÀå±Õ¿­À» ¹ß»ý ½ÃÅ°¹Ç·Î½á Àý¸®¸¦ ÀÎ°øÀûÀ¸·Î Á¦ÀÛÇÏ¿´´Ù.  Àý¸®¸éÀº Ç³È­µÇÁö ¾ÊÀº ½Å¼±ÇÑ »óÅÂÀÌ¹Ç·Î Àý¸®¸éÀÇ °­µµ´Â ½ÃÇèÆíÀÇ ¾ÐÃà°­µµ¿Í °°À¸¸ç, Àý¸®¸éÀÇ °ÅÄ¥±â´Â Profile °ÔÀÌÁö¸¦ ½á¼­ ÃøÁ¤ÇÏ¿´´Ù. 
+º» ¿¬±¸¿¡¼­´Â ÀÌ·¯ÇÑ Àý¸®ÀÇ Àü´Ü½ÃÇè½Ã ¹ß»ýµÇ´Â AE¿Í Àü´ÜÆ¯¼ºÀÇ º¯È­¸¦ ¿¬±¸ÇÏ±âÀ§ÇØ ºñ±³Àû Å« Àý¸®¸éÀ» °¡Áø ½Ã·á¿¡ ´ëÇÑ Á÷Á¢Àü´Ü½ÃÇèÀ» ½Ç½ÃÇÏ¿´´Ù. 
+
+
+
+2.  ±âº»ÀÌ·Ð
+2.1  Àü´Ü°­µµ
+Àü´Ü°­µµ¸¦ Ç¥ÇöÇÏ´Â ½ÄÀº ¼öÁ÷ÀÀ·Â¿¡ ´ëÇÑ ¼±Çü°ü°è½ÄÀÎ CoulombÀÇ °ü°è½ÄÀ» ¸¹ÀÌ »ç¿ëÇÑ´Ù.
+
+
+
+    : Àü´Ü°­µµ       
+
+    : ¸¶Âû°¢         
+
+ c  : Á¡Âø·Â  
+
+  n : ¼öÁ÷ÀÀ·Â
+
+ÆíÆòÇÑ Àý¸®ÀÎ °æ¿ì c´Â 0À¸·Î ³ªÅ¸³ª°í ¸¶Âû°¢  ´Â ¸Å¿ì ÀÛÀº °ªÀ» °®´Â´Ù. ±×·¯³ª ÆíÆòÇÑ Àý¸®¸¦ Á¦¿ÜÇÑ ÀÏ¹ÝÀûÀÎ Àý¸®ÀÇ ÃÖ´ëÀü´Ü°­µµ¸¦ Ç¥ÇöÇÏ´Â ½ÄÀº CoulombÀÇ ½Ä°ú °°Àº Á÷¼±½ÄÀÌ ¾Æ´Ï°í °î¼±ÀÇ ÇüÅÂ·Î ³ªÅ¸³²ÀÌ ¸¹Àº ¿¬±¸ÀÚ¿¡ ÀÇÇØ ¹àÇôÁ® ÀÖÀ¸¸ç, ¿©·¯ °æÇè½ÄµéÀÌ Á¦½ÃµÇ¾ú´Ù. 
+°¡Àå ³Î¸® ¾²ÀÌ´Â °æÇè½ÄÀº 1973³â BartonÀÌ ¹ßÇ¥ÇÑ ½ÄÀ¸·Î¼­ ¼öÁ÷ÀÀ·Â»Ó¸¸ ¾Æ´Ï¶ó Àý¸®ÀÇ °ÅÄ¥±â, Àý¸®ÀÇ ¾ÐÃà°­µµ µîµµ °í·ÁÇÏ°í ÀÖ´Ù. 
+
+
+
+ n : ÃÖ´ëÀü´Ü°­µµ
+
+ n : À¯È¿¼öÁ÷ÀÀ·Â
+JRC : Àý¸® °Å¯s°è¼ö (Joint Roughness Coefficient)
+JCS : Àý¸®¸éÀÇ ¾ÐÃà°­µµ (Joint wall compressive strength)
+ b   : ±âº»¸¶Âû°¢ (Basic friction angle)
+
+À§ÀÇ ½Ä¿¡¼­ À¯È¿¼öÁ÷ÀÀ·ÂÀÌ ¾ÆÁÖ ÀÛ°í Àý¸®¸éÀÇ ¾ÐÃà°­µµ°¡ »ó´çÈ÷ Å©´Ù¸é JCS/ nÀº  ¾ÆÁÖ Å©°Ô µÇ¾î ½ÇÁ¦ÀÇ ¸¶Âû°¢¼ººÐÀº Çö½Ç¼ºÀÌ ¾ø¾îÁö°Ô µÈ´Ù. ÀÌ·¯ÇÑ ¹®Á¦Á¡¶§¹®¿¡  BartonÀº À¯È¿¸¶Âû°¢ÀÇ ÃÖ´ëÄ¡¸¦ 70¡Æ·Î Á¦ÇÑÇÏ¿´´Ù. 
+BartonÀÇ ½ÄÀ» Àû¿ëÇÏ´Âµ¥ ÀÖ¾î¼­ ¶Ç ÇÏ³ªÀÇ ¹®Á¦Á¡Àº  JRC¸¦ ÆÇº°ÇÏ´Â ¹æ¹ý¿¡ ÀÖ¾î¼­ ´Ù¼ÒÀÇ ÁÖ°ü¼ºÀÌ Æ÷ÇÔµÉ¼ö ÀÖ´Ù´Â Á¡ÀÌ´Ù. ÀÌ¸¦ °³¼±ÇÏ±â À§ÇØ °ÅÄ¥±â¸¦ ´Ù¸¥ ÆÄ¶ó¹ÌÅÍ·Î Ç¥½ÃÇÏ°í, ÀÌ°Íµé°ú JRC¿ÍÀÇ °ü°è¸¦ ÆÄ¾ÇÇÏ·Á´Â ¸¹Àº ¿¬±¸°¡ ÀÖ¾ú´Ù. ´ëÇ¥ÀûÀÎ °ÍÀ¸·Î¼­ Shadow profilometry¸¦ ÀÌ¿ëÇÏ¿© Àý¸®ÀÇ ProfileÀ» ÃøÁ¤ÇÏ°í, JRC¿Í °ÅÄ¥±â Çü»óÁö¼ö Rp (roughness profile index) ¿ÍÀÇ »ó°ü°ü°è¸¦ Á¶»çÇÑ Franklin, Maerz, BennettÀÇ ¿¬±¸[9]°¡ ÀÖ´Ù. ¿©±â¿¡¼­ Rp´Â Àý¸®¸éÀÇ Á÷¼±±æÀÌ¿¡ ´ëÇÑ Àý¸®Ç¥¸éÀÇ ½ÇÁ¦ ±æÀÌÀÇ ºñ·Î¼­ ´ÙÀ½°ú °°ÀÌ Ç¥½ÃµÈ´Ù.
+
+
+ FranklinµîÀÌ  Á¶»çÇÑ  Rp¿Í  JRCÀÇ »ó°ü°ü°è´Â ´ÙÀ½°ú °°´Ù.
+
+                 JRC = 411 ( Rp-1 )  
+
+º» ¿¬±¸¿¡¼­´Â Àý¸®ÀÇ °ÅÄ¥±â¸¦ °ÅÄ¥±â Çü»óÁö¼ö·Î Ç¥½ÃÇÏ¿´À¸¸ç,  JRC·ÎÀÇ È¯»ê¿¡´Â À§ÀÇ °ü°è½ÄÀ» ÀÌ¿ëÇÏ¿´´Ù.  ÇÑÆí Myers°¡ Á¦½ÃÇÑ Z2 (slope parameter)¿Í Sayles & Thomas°¡ Á¦½ÃÇÑ SF (structure function)¸¦ JRC¿Í ºñ±³ÇÑ Tse & CrudenÀÇ ¿¬±¸[11] µîµµ ÀÖ´Âµ¥, ÀÌµé ³í¹®µéÀ» »ìÆìº¸¸é °¢ ÆÄ¶ó¹ÌÅÍµéÀÌ JRC¿Í ¸Å¿ì ³ôÀº »ó°ü¼ºÀ» °¡Áö°í ÀÖÀ½À» ¾Ë ¼ö ÀÖ´Ù. °¢ ÆÄ¶ó¹ÌÅÍµéÀÇ °è»ê ¹æ¹ýÀº ´ÙÀ½°ú °°´Ù. 
+
+
+
+
+
+
+
+    xi, xi+1 : ÃøÁ¤ È½¼ö  i , i+1¿¡¼­ÀÇ xÁÂÇ¥
+     yi, yi+1 : ÃøÁ¤ È½¼ö  i , i+1¿¡¼­ÀÇ yÁÂÇ¥
+
+
+L : ÃøÁ¤ÁöÁ¡°£ÀÇ Á÷¼±°Å¸®
+
+2.2  ÁÖÆÄ¼ö ºÐ¼®
+½Ã°£ ¿µ¿ª¿¡¼­´Â ½Ã°£¿¡ µû¸¥ AEÀÇ Å©±â¸¦ ÃøÁ¤ÇÏÁö¸¸ ÁÖÆÄ¼ö ºÐ¼®¿¡¼­´Â ÃøÁ¤µÇ´Â AE½ÅÈ£¿¡¼­ °¡Àå ¿ì¼¼ÇÑ ÆÄÇüÀÇ ÁÖÆÄ¼ö ´ë¿ªÀ» Ã£´Â µ¥ ¸ñÀûÀÌ ÀÖ´Ù. 
+ÀÌ¸¦ ¼öÇàÇÏ±â À§ÇØ¼­´Â ½Ã°£¿¡ µû¶ó º¯È­ÇÏ´Â ½Ã°£¿µ¿ªÀÇ ÆÄÇüÀ» ÁÖÆÄ¼ö ¿µ¿ªÀ¸·Î ¹Ù²Ù¾î¾ß ÇÑ´Ù. ÀÌ´Â ´ÙÀ½ÀÇ °úÁ¤À» ÅëÇØ ÀÌ·ç¾î Áø´Ù. 
+         ½Ã°£ ¿µ¿ª --->  ---> ÁÖÆÄ¼ö ¿µ¿ª  
+ÀÌ´Â ½Ã°£¿µ¿ªÀÇ ÇÔ¼ö¸¦ ¾î¶² ÀÏÁ¤ÇÑ ÁÖ±â¿Í ÁøÆøÀ» °¡Áö´Â Sine °î¼±À¸·Î ºÐ¸®ÇØ³»´Â °ÍÀ» ÀÇ¹ÌÇÑ´Ù. 
+Fourier transformÀº ´ÙÀ½½ÄÀ¸·Î Ç¥½ÃµÈ´Ù.
+
+
+   t : ½Ã°£                       ti, ti+1 : i, i+1¿¡¼­ÀÇ ½Ã°£
+   f : ÁÖÆÄ¼ö                        fk : k¹øÂ°ÀÇ ÁÖÆÄ¼ö
+S(t) : ½Ã°£ º¯¼öÀÇ ÇÔ¼ö            S(ti) : ti¿¡¼­ÀÇ ½Ã°£ÇÔ¼ö
+S(f) : ÁÖÆÄ¼ö º¯¼öÀÇ ÇÔ¼ö          S(fk) : ti¿¡¼­ÀÇ ÁÖÆÄ¼öÇÔ¼ö
+
+Ã¹¹øÂ° ½ÄÀº ÇØ¼®½ÄÀÌ°í, µÎ¹øÂ° ½ÄÀº Àü»ê Fourier º¯È¯½ÄÀÌ´Ù.
+º¯È¯µÈ ÁÖÆÄ¼ö ¿µ¿ªÀÇ ÇÔ¼ö´Â º¹¼Ò¼öÇüÀÌ¸ç, ´ÙÀ½°ú °°ÀÌ Ç¥ÇöµÈ´Ù. 
+
+            S(f) = R(f) + jI(f) =  S(f)  ej (f)
+
+
+¿©±â¿¡¼­  R(f)¿Í I(f)´Â  °¢°¢ Fourier º¯È¯À»  º¹¼Ò¼ö·Î  Ç¥½ÃÇÑ ½Ç¼ö,  Çã¼öºÎ 
+
+ÀÌ¸ç,   S(f) ´Â  S(t)ÀÇ  ÁøÆøÀÌ´Ù.   ÇÑÆí ´Â  À§»ó°¢ÀÌ  µÇ¸ç,   ±×   °ªÀº 
+
+ÀÌ´Ù.  ÃøÁ¤ °¡´ÉÇÑ ÃÖ´ë ÁÖÆÄ¼öÀÎ nyquist frequency´Â ÀÏ
+
+Á¤½Ã°£¿¡ ´ëÇØ SamplingÇÏ´Â °æ¿ì fc = 1/ 2¡âTÀÌ°í ±× ÇØ»óµµ´Â 1/ N¡âTÀÌ µÈ
+
+´Ù.  (  : ½Ã°£°£°Ý, N : Sampling Number  ) 
+
+3.  ½Ã·á, ½ÇÇèÀåÄ¡ ¹× ½ÇÇè¹æ¹ý
+
+3.1  ½Ã·áÀÇ ¹°¸®Àû Æ¯¼º
+
+º» ¿¬±¸¿¡¼­ »ç¿ëÇÑ ½Ã·á´Â È²µîÈ­°­¾Ï°ú ÀÍ»ê´ë¸®¼®ÀÌ´Ù. È²µîÈ­°­¾ÏÀº ¼¼¸³ ³»Áö Áß¸³ÁúÀÇ È­°­¾ÏÀ¸·Î ¼®¿µ, Àå¼®, ¿î¸ð¸¦ Á¶¾Ï±¤¹°·Î ÇÏ´Â È¸»ö È­°­¾ÏÀÌ´Ù.  ÀÍ»ê´ë¸®¼®Àº ½Ã·áÀÇ ¾ÐÃà°­µµ°¡ ½ÃÇè¿¡ ¹ÌÄ¡´Â ¿µÇâ¿¡ ´ëÇØ ºñ±³ÇØº¸±â À§ÇØ ½Ã·á·Î Ã¤ÅÃÇÏ¿´´Âµ¥, À¯¹é»öÀÇ ±ÕÁúÇÑ ¼º»óÀ» °¡Áö°í ÀÖ´Ù. 
+´ë»ó ½Ã·áµéÀÇ ±âº»Àû ¹°¼ºÆÄ¾ÇÀ» À§ÇØ °¢Á¾ ½Ç³» ¹°¼º½ÃÇèÀ» ½Ç½ÃÇÏ¿© Ã¼ÀûºñÁß, °ø±Ø·ü, ´ÜÃà¾ÐÃà°­µµ, ÀÎÀå°­µµ, ¿µ·ü, Æ÷¾Æ¼Ûºñ µîÀ» ±¸ÇÏ¿´À¸¸ç ÀÌ °á°ú°¡ Table 3.1¿¡ ³ªÅ¸³ª ÀÖ´Ù. °¢ ¹°¼ºÄ¡´Â 5È¸ ÃøÁ¤Ä¡ÀÇ Æò±Õ°ªÀÌ´Ù. ¿µ·üÀº ½ºÆ®·¹ÀÎ °ÔÀÌÁö¸¦ ½á¼­ ÃøÁ¤µÈ Ãàº¯Çü·üÀ» °¡Áö°í ±¸ÇÑ ÀÀ·Â-º¯Çü·ü ¼±µµÀÇ ´ÜÃà¾ÐÃà°­µµ 50%¼öÁØ¿¡¼­ ±¸ÇÑ Á¢¼±°è¼öÀÌ°í, Æ÷¾Æ¼Ûºñ´Â ½ºÆ®·¹ÀÎ °ÔÀÌÁöÀÇ Ãàº¯Çü·ü°ú È¾º¯Çü·üºñ¸¦ ´ÜÃà¾ÐÃà°­µµ 50%¼öÁØ¿¡¼­ ±¸ÇÑ °ªÀÌ´Ù. 
+
+3.2  ½ÃÇèÆí Á¦ÀÛ
+
+Á÷Á¢Àü´Ü½ÃÇè¿ë ½ÃÇèÆíÀº È²µîÈ­°­¾ÏÀÇ °æ¿ì´Â 150 x 100 x115 mmÀÇ Á÷À°¸éÃ¼·Î, ÀÍ»ê ´ë¸®¼®ÀÇ °æ¿ì´Â 120 x 100 x 115 mm ÀÇ Á÷À°¸éÃ¼·Î ¼ºÇüÇÑ ÈÄ °¡¾ÐºÎÀÇ ¾ç¸éÀ» ¿¬¸¶ÇÏ¿© °¢ ½Ã·áº°·Î 11°³¾¿ÀÇ ½Ã·á¸¦ ÁØºñÇÏ¿´´Ù. Àý¸®¸éÀÇ ±âº»¸¶Âû°¢À» ±¸ÇÏ±â À§ÇÑ ½ÃÇèÆíÀº Á÷À°¸éÃ¼ÀÇ ¾Ï¼®½ÃÇèÆíÀ» Àü´Ü¸éÀ» µû¶ó ´ÙÀÌ¾Æ¸óµå ÅéÀ» ½á¼­ Àý´ÜÇÏ¿© Á¦ÀÛÇÏ¿´´Ù. Àý¸®½Ã·á´Â ½ÃÇèÆíÀÇ Àü´Ü¸éÀ» µû¶ó  ÀÎÀå±Õ¿­À» Çü¼º½ÃÅ°´Â ÀÎ°øÀý¸® ¹ß»ýÀåÄ¡ ( splitter )¸¦ ÀÌ¿ëÇÏ¿© Á¦ÀÛÇÏ¿´´Ù. 
+Fig 3.1Àº Àü´Ü½ÃÇè¿ë ½Ã·á¿¡ ÀÎ°øÀý¸®¸¦ ¸¸µå´Â Àå¸éÀÌ°í, Fig 3.2´Â Á¦ÀÛµÈ Àü´Ü¿ë ½ÃÆíÀÇ ¸ð½ÀÀÌ´Ù.  ÀÌ·¸°Ô Á¦ÀÛµÈ ½ÃÆíÀÇ °ÅÄ¥±â profileÀº  profile °ÔÀÌÁö¸¦ ÀÌ¿ëÇÏ¿©,  °¢°¢ÀÇ Àý¸®¸é¿¡ ´ëÇÏ¿© Àü´Ü¹æÇâ°ú ÆòÇàÇÏ°Ô ÀÏÁ¤ÇÑ °£°Ý (1.5cm)À» µÎ°í 5È¸ ÃøÁ¤ÇÏ¿© ±¸ÇÏ¿´´Ù. ÃøÁ¤µÈ °ÅÄ¥±â profileÀº ¿µ»óºÐ¼®±â(Image analyzer)¸¦ ÀÌ¿ëÇÏ¿© ¼öÄ¡È­½ÃÄÑ Rp°ªÀ¸·Î Ç¥ÇöÇÏ¿´°í, ±× °ªÀ» JRC·Îµµ È¯»êÇÏ¿© ºñ±³ÇÏ¿´´Ù. Fig 3.3Àº Àý¸®¸é °ÅÄ¥±â profileÀ» ÃøÁ¤ÇÏ´Â ¸ð½ÀÀÌ¸ç, Fig 3.4´Â profileÀÇ ¼öÄ¡È­¿¡ ÀÌ¿ëÇÑ ¿µ»óºÐ¼®±âÀÇ ¸ð½ÀÀÌ´Ù. Fig 3.5´Â ´ëÇ¥ÀûÀÎ Àý¸®¸éÀÇ °ÅÄ¥±â profile·Î¼­ ÀÌ ½Ã·áÀÇ JRC °ªÀº 10.3 À¸·Î °è»êµÇ¾ú´Ù.
+Table 3.2¿¡´Â °¢ ½ÃÇèÆíÀÇ Àü´Ü¸éÀû°ú ÃøÁ¤µÈ Rp°ª  ±×¸®°í È¯»êÇÑ JRC°ªÀÌ ³ªÅ¸³ª ÀÖ´Ù. 
+
+3.3  ½ÇÇèÀåÄ¡
+
+Rp°ªÀ» ÃøÁ¤ÇÏ´Âµ¥ ÀÌ¿ëÇÑ ¿µ»óºÐ¼®±â±â(Image analysis system)´Â ÀÏº» PIAS»çÀÇ KIT-500 È­»óÃ³¸®ÀåÄ¡¸¦ ±âº»½Ã½ºÅÛÀ¸·Î ÇÏ¿© IBM PS/2ÄÄÇ»ÅÍ, CCD Ä«¸Þ¶ó RGB ÄÜÆ®·Ñ ¸ð´ÏÅÍ·Î ±¸¼ºµÇ¾î ÀÖ´Ù. ÀÌ´Â CCD Ä«¸Þ¶ó·Î ÀÔ·ÂÇÑ È­»óÀ» ÇØ¼®ÇÏ±â ½¬¿î È­»óÀ¸·Î Ã³¸®ÇÏ°í, ÀÌ È­»óÀÌ Áö´Ñ Æ¯Â¡À» ¼öÄ¡È­ÇÏ¿© Á¤·®ÀûÀ¸·Î Æò°¡ÇÒ ¼ö ÀÖ°Ô µÇ¾î ÀÖ´Ù. ÀÌ ½Ã½ºÅÛÀÇ ÇØ»óµµ´Â  pixelÀÌ¸ç ÈÖµµ(grey level)Àº 256ÀÌ´Ù.
+ÇÑÆí Àü´Ü½ÃÇèÀ» À§ÇØ¼­´Â ¹Ì±¹ MTS(Material Test systems)»çÀÇ Àç·á½ÃÇè±â¸¦ ÀÌ¿ëÇÏ¿´´Ù. ÀÌ ½ÃÇè±â´Â 50Åæ°ú 250Åæ ¿ë·®ÀÇ ÇÏÁß±â¸¦ ¿¬°áÇØ ¾µ ¼ö ÀÖ´Â ÀÚµ¿Á¦¾î ½Ã½ºÅÛÀ¸·Î µÇ¾îÀÖ´Ù.  º» ½ÇÇè¿¡¼­´Â ÀÏ¸é Á÷Á¢Àü´Ü½ÃÇè±âÀÇ ºÎÂø¹®Á¦¶§¹®¿¡ 50Åæ ÇÏÁß±â¸¦ »ç¿ëÇÏ¿´´Ù. Fig 3.6Àº Àü´Ü½ÃÇè ¹× A.E.ÃøÁ¤ÀÇ °èÅëµµÀÌ´Ù.  ½ÃÇèÅëÁ¦±â(Controller)´Â Àç·á½ÃÇè±âÀÇ ÀÛµ¿¸í·É°ú µ¿ÀÛ»óÅÂ¸¦ Á¦¾îÇÏ´Â  ºÎºÐÀ¸·Î¼­  ±³·ù Á¶Àý±â(AC Controller),  Á÷·ùÁ¶Àý±â(DC Controller), ½ÃÇè±âÀÇ ÅëÁ¦ ¹× »óÅÂ¸¦ Ç¥½ÃÇÏ´Â ±â±¸ÀÎ  ½ÃÇèÁ¦¾îÀåÄ¡ (Microconsole), ½ÃÇè¿¡ »ç¿ëµÇ´Â ÆÄÇüÀ» ÀÔ·Â½ÃÅ°°í ½ÇÇà½ÃÅ°´Â ½ÅÈ£ÆÄÇü ¹ß»ý±â(Micro profiler) µîÀ¸·Î ±¸¼ºµÇ¾î ÀÖ´Ù.  Á÷·ùÁ¶Àý±â´Â ¾Ð·Âº¯È¯±â (load cell)¿Í È¾º¯À§ ½ÅÀå°è (circumferencial extensometer) ¿¡¼­ ¹ß»ýµÇ´Â ¾Æ³¯·Î±× ÀüÀ§°ªÀ» ¼ö½ÅÇÏ°í, ÀÌ¸¦ Àü¼ÛÇÏ¿© Ãâ·ÂÇÏ°Ô ÇÑ´Ù. ±³·ùÁ¶Àý±â´Â À¯¾Ð½Ç¸°´õ¿¡ ÀåÂøµÇ¾î ÀÖ´Â º¯À§º¯È¯±â (LVDT : Linear Variable Differential Transducer) ÀÇ ¾Æ³¯·Î±× ÀüÀ§°ªÀ» ¼ö½ÅÇÏ°í Ãâ·ÂÇÏ°Ô µÈ´Ù. º» ½ÇÇè¿¡¼­´Â ½ÃÇèÅëÁ¦±â°¡ Á÷·ùÁ¶Àý±â¿¡¼­ ÀÛ¼ºµÈ ¸í·É¿¡ ÀÇÇØ ÀÛµ¿ÇÏ¸ç, ÀÌ ¸í·É¿¡ µû¶ó À¯¾Ð±âÀÇ ¹ëºê ±¸µ¿ÀåÄ¡°¡ À¯¾Ð½Ç¸°´õÀÇ ÀÚµ¿Á¦¾î¹ëºê(servo valve)¸¦ °³Æó½ÃÄÑ ½Ç¸°´õ¸¦ ÀÛµ¿½ÃÅ°¸ç ¼Û½ÅµÈ ¸í·É°ú ½ÇÇèÀÇ °á°ú¸¦ ºñ±³ÇÏ¿© ´Ù½Ã ¹ëºê±¸µ¿ÀåÄ¡°¡ ÀÛµ¿ÇÏ°Ô µÈ´Ù. ÀÌ ½ÃÇè±â´Â ¸í·É-½ÃÇà-°á°úºñ±³-Àç¸í·ÉÀÇ °úÁ¤À» ¹Ýº¹ÇÏ´Â ¹ÐÆóÇü ½ÃÇèÀåÄ¡(Closed loop system)ÀÌ´Ù.  ½ÃÇèÅëÁ¦±â¿¡¼­ ³ª¿Â ½ÅÈ£´Â Àü±â ¼ýÀÚ º¯È¯±â(AD convertor)¸¦ ÅëÇØ ¾Æ³¯·Î±× ÀüÀ§°ªÀÌ ¼ýÀÚ·Î º¯È¯µÇ¾î ÄÄÇ»ÅÍ¿¡ Àü¼ÛµÈ´Ù. ÄÄÇ»ÅÍ´Â ÀÌ ½ÅÈ£¸¦ Ã³¸®ÇÏ°í, ±× °á°ú¸¦ ÇÁ¸°ÅÍ·Î Ãâ·Â½ÃÅ°°Å³ª  µð½ºÅ©¿¡ ÀúÀå½ÃÅ²´Ù. 
+MTS ½ÃÇè±â¿¡ ÀåÂøµÈ ÀÏ¸é Á÷Á¢Àü´Ü½ÃÇè±â´Â Fig 3.7¿¡ Á¦½ÃÇÏ¿´´Ù.  ½ÃÇèÆíÀÇ Àü´ÜÇÏÁßÀ» Á¤È®È÷ Àü´Þ½ÃÅ°±â À§ÇØ °¡¾ÐÆÇ°ú Àü´Ü»óÀÚ»çÀÌ¿¡ ±¸ÁÂ(spherical seat)¸¦ ¼³Ä¡ÇÏ¿´´Ù. ¼öÁ÷ÇÏÁßÀº 20Åæ ¿ë·®ÀÇ À¯¾Ð·¥¿¡ ÀÇÇØ yoke¿Í ·ÎÇÁ¸¦ ÀÌ¿ë, ¼öÆòÀ¸·Î °¡ÇØÁö¸ç, À¯¾Ð·¥Àº À¯¾Ð½Ä ¼öµ¿ÆßÇÁ¿¡ ÀÇÇØ ÀÛµ¿µÈ´Ù. ÇÏÁß°ú Àü´Ü º¯À§ÀÇ °ü°è °î¼±Àº MTS ½ÃÇè±â³»ÀÇ º¯À§º¯È¯±â ( LVDT)¿Í  ¾Ð·Âº¯È¯±â (Load cell)·Î½á ÃøÁ¤µÇ¸ç, ¼öÁ÷º¯À§´Â ´ÙÀÌ¾Ë °ÔÀÌÁö¸¦ ½á¼­ ÃøÁ¤ÇÏ¿´´Ù. 
+Àü´Ü½ÃÇè½Ã¿¡ ¹ß»ýÇÏ´Â  AE¸¦ ÃøÁ¤ÇÏ±â À§ÇØ B&K»çÀÇ AE ÃøÁ¤±â±â(Acoustic Emission System)¸¦ »ç¿ëÇÏ¿´´Ù. AE ÃøÁ¤±â´Â Àü´Ü»óÀÚÀÇ Ãø¸é¿¡ °í¹«  ¹êµå¸¦ ÀÌ¿ëÇÏ¿© ºÎÂøÇÏ¿´´Ù. º» ½ÇÇè¿¡ »ç¿ëÇÑ AE ÃøÁ¤±â´Â B&K 8312 type ±¤´ë¿ª ÃøÁ¤±â·Î¼­, 100 kHz - 1MHz¿¡¼­ ¡¾10dB ÀÌ³»ÀÇ ÁÖÆÄ¼ö ¹ÝÀÀÀ» º¸ÀÎ´Ù. AE ÃøÁ¤±â¿¡¼­ ³ª¿Â ½ÅÈ£´Â ÁõÆø±â(wideband conditioning  amplifier type 2638)·Î º¸³»Á® 0 - 60 dB ÀÇ ¹üÀ§³»¿¡¼­ ÁõÆøµÈ´Ù. º» ½ÇÇè¿¡¼­´Â ÃøÁ¤±â¿¡¼­ ³ª¿Â ½ÅÈ£¸¦ 48 dB·Î ÁõÆø½ÃÄÑ ½ÇÇèÇÏ¿´´Ù. ¶ÇÇÑ ÀÌ ÁõÆø±â¿¡´Â ÁÖÆÄ¼ö ´ë¿ªÀ» °áÁ¤ÇÏ´Â ÇÊÅÍ¸µ±â´ÉÀ» °¡Áö°í ÀÖ¾î 0.1 Hz - 2 MHz ¹üÀ§¿¡¼­ ±¸°£º°·Î ÁÖÆÄ¼ö ¹üÀ§¸¦ ¼±ÅÃÇÒ ¼ö ÀÖ´Ù. º» ½ÇÇè¿¡¼­´Â ½ÅÈ£ÀÇ ¹üÀ§¸¦ 100 kHz - 2MHz·Î °áÁ¤ÇÏ¿´´Ù. ÁõÆø±â¿¡¼­ ³ª¿Â ½ÅÈ£´Â AE ½ÅÈ£¸¦ Á÷Á¢ ºÐ¼®ÇÏ±â À§ÇØ AEºÐ¼®±â·Î º¸³»Áö¸ç, ÁÖÆÄ¼ö ºÐ¼®À» À§ÇØ ¸¸´É ÆÄÇü ºÐ¼®±âÀÎ DATA 6000 À¸·Îµµ º¸³»Áø´Ù. AE ºÐ¼®±â´Â 3°¡ÁöÀÇ ±â´ÉÀÌ ÀÖ´Âµ¥ ´ÙÀ½°ú °°´Ù.
+
+
+
+
+
+º» ½ÇÇè¿¡¼­´Â weight ¸ðµå¸¦ »ç¿ëÇÏ¿© AE½ÅÈ£ÀÇ ÃÑ¿¡³ÊÁö¸¦ ÃøÁ¤ÇÏ¿´°í ±× °ªÀ»  ±â·Ï°è(type 2307)·Î ±â·ÏÇÏ¿´´Ù. 
+AE ÁÖÆÄ¼ö ºÐ¼®À» À§ÇØ »ç¿ëÇÑ DATA 6000Àº Data precision»çÀÇ Á¦Ç°ÀÌ´Ù. ÀÌ DATA 6000Àº ¸¸´É ½ÅÈ£ ºÐ¼®±â·Î¼­  ½ÅÈ£ÀÇ Å½Áö, Ã³¸® ¹× ºÐ¼®±îÁö ÇÒ ¼ö ÀÖÀ¸¸ç, ÀÌ¸¦ ´Ù½Ã Floppy disk¿¡ ÀúÀåÇÒ ¼ö ÀÖ´Ù. ºÐ¼®ÇÒ ¼ö ÀÖ´Â ÃÖ´ë ÁÖÆÄ¼ö´Â 5MHzÀÌ°í, ÃÖ¼Ò ÃøÁ¤°£°Ý(sampling time)Àº 27.5 nsÀÌ´Ù. º» ½ÇÇè¿¡¼­´Â ÃøÁ¤°£°Ý(sampling time)Àº 200ns, ÃøÁ¤È½¼ö (smapling number)´Â ÃÊ´ç 2048È¸¸¦  ½Ç½ÃÇÏ¿´´Ù. ºÐ¼®°¡´É ÃÖ´ë ÁÖÆÄ¼öÀÎ Nyquist frequency´Â  fc = 1/¿¡¼­ 2.5 MHzÀÌ°í ÇØ»óµµ°¡ 2441.4°¡ µÈ´Ù.  ¿©±â¿¡¼­ Á¶Á¤µÈ ÁÖÆÄ¼ö ºÐ¼®¹üÀ§°¡ ÁõÆø±â¿¡¼­ Ã¤ÅÃµÈ ÁÖÆÄ¼ö¹üÀ§¸¦ Æ÷ÇÔÇÑ´Ù´Â °ÍÀ» ¾Ë ¼ö ÀÖ´Ù. Fig 3.8Àº ½ÇÇèÀåÄ¡ÀÇ  ÀüÃ¼ ¸ð½ÀÀÌ°í,  Fig 3.9´Â AE ÃøÁ¤ºÎ ¹× ÁÖÆÄ¼ö ºÐ¼®ºÎÀÇ ¸ð½ÀÀÌ´Ù. 
+
+3.4  ½ÇÇè¹æ¹ý
+
+a) ½ÃÇèÇÒ ½ÃÆíÀÇ ±æÀÌ, ÆøÀ» ÃøÁ¤ÇÏ¿© Àü´Ü¸éÀûÀ» ±¸ÇÑ´Ù. 
+b) ¾ÐÃà±âÀÇ °¡¾Ð´ëÀ§¿¡ ÇÁ·¹ÀÓÀ» ¼³Ä¡ÇÏ°í ÇÏºÎÀü´Ü»óÀÚ¸¦ ÇÁ·¹ÀÓ¿¡ °íÁ¤½ÃÅ²´Ù. 
+c) ³»ºÎ Àü´Ü»óÀÚ¿¡ ½ÃÇèÆíÀ» ³Ö°í °íÁ¤ÀåÄ¡·Î½á ½ÃÇèÆíÀ» °íÁ¤½ÃÅ²´Ù. 
+d) ³»ºÎ Àü´Ü»óÀÚ¸¦ ÇÏºÎ Àü´Ü»óÀÚ¿¡ ³¢¿ö³Ö°í ÇÏÁß·Î¿ìÇÁ¿Í ´ÙÀÌ¾ó°ÔÀÌÁö¸¦ ¾ÐÃà±â À§¿¡ ¿Ã·Á ³õÀº ´ÙÀ½ ½ÃÇèÅëÁ¦±â (controller)¸¦ ÄÑ¼­ ÀÔ·ÂÁ¶°ÇµéÀ» ¸ÂÃß°í  ¾ÈÁ¤È­½ÃÅ² ÈÄ ÇÏÁß¿µÁ¡À» Àâ´Â´Ù. 
+e) »óºÎÀü´Ü»óÀÚ¸¦ Àü´Ü¸éÀÌ ÀÏÄ¡ÇÏ°Ô ÇÏºÎÀü´Ü»óÀÚ¿¡ ºÎÂø½ÃÅ²´Ù. 
+f) »óºÎÀü´Ü»óÀÚ¿¡ À¯¾Ð·¥°ú yoke¸¦ ¼³Ä¡ÇÏ°í ·ÎÇÁ¸¦ ºÎ½Ì¿¡ ¿¬°áÇÑÈÄ ¼öµ¿ÆßÇÁ¸¦ ÀÛµ¿ÇÏ¿© ÀÏÁ¤·®ÀÇ ¼öÁ÷ÀÀ·ÂÀ» °¡ÇÑ´Ù. 
+g) ¼öÁ÷º¯À§ ÃøÁ¤¿ë ´ÙÀÌ¾ó°ÔÀÌÁö¸¦ »óºÎÀü´Ü»óÀÚÀÇ Áß¾ÓÇÏ´Ü¿¡ °íÁ¤½ÃÅ² ´ÙÀ½ »óºÎÀü´Ü»óÀÚÀ§¿¡ ±¸ÁÂ¸¦ ¼³Ä¡ÇÏ°í »óºÎ°¡¾ÐÆÇÀ» ³»¸° ÈÄ ½ÃÇèÅëÁ¦±â¿¡¼­ Àü´Üº¯À§ÀÇ ÃÊ±âÄ¡¸¦ 0À¸·Î ¸ÂÃá´Ù. 
+h) AE ÃøÁ¤±â¸¦ ¼³Ä¡ÇÏ°í  ÁõÆø±â¿Í AEÇØ¼®±â¸¦ ÄÒ´Ù. ÁõÆø±âÀÇ ÁõÆø·®°ú ÇÊÅÍ¸¦ ¸ÂÃß°í AEÇØ¼®±âÀÇ °ªÀ» 0À¸·Î reset ½ÃÅ²´Ù. Fig 3.10Àº Àü´Ü½ÃÇè±â¿ÍAE ÃøÁ¤±â°¡ ÀåÄ¡µÈ ¸ð½ÀÀÌ´Ù. 
+i) DATA 6000À» ÄÑ¼­ »ùÇÃ¸µ ½Ã°£°ú »ùÇÃ¸µ °¹¼ö µîÀÇ ÀÔ·ÂÄ¡µéÀ» ÀÔ·ÂÇÏ°í ÃøÁ¤À» ÁØºñÇÑ´Ù. 
+j) Àü´ÜÇÏÁßÀ» °¡ÇÏ±â Àü,  ÃÊ´ç AE °ªÀ» ±â·ÏÇÏ´Â ±â·Ï°èÀÇ ¼Óµµ, ¹Î°¨µµ¸¦ ¸ÂÃß°í °¡¾Ð°ú µ¿½Ã¿¡ ±â·Ï°è¸¦ ÀÛµ¿½ÃÅ²´Ù. 
+k) Àü´ÜÇÏÁßÀ» °¡ÇÏ´Â µ¿¾È ¼öÁ÷ÇÏÁßÀº 2%³»·Î À¯Áö½ÃÅ°¸ç ÀÏÁ¤ Àü´Üº¯À§¸¶´Ù ´ÙÀÌ¾ó°ÔÀÌÁöÀÇ ´«±ÝÀ» ÀÐ¾î ¼öÁ÷º¯À§¸¦ ÃøÁ¤ÇÑ´Ù. º» ½ÇÇè¿¡¼­´Â Àü´Ü º¯À§°¡ ½Ã°£¿¡ µû¶ó ÀÏÁ¤ÇÏ°Ô Áõ°¡ÇÏµµ·Ï ÇÏÁß¼Óµµ¸¦ 0.008mm/sec·Î °íÁ¤ÇÏ¿´´Ù. 
+l) ½ÃÇè ÁøÇà¿¡ µû¸¥ AEÀÇ ÃøÁ¤»óÈ²°ú  DATA 6000ÀÇ ½ÅÈ£¸¦ º¸°í Æ¯Á¤ÁöÁ¡ÀÇ AEÆÄÇüÀ» ÀúÀå½ÃÅ²´Ù. 
+m) Àü´Üº¯À§°¡ 10 mmÀÌ»ó ÀÏ¾î³ª°í 1mmÀÇ Àü´Üº¯À§¿¡ ´ëÇÑ Àü´ÜÀÀ·Â º¯È­°¡ 5%ÀÌ³»ÀÌ¸é ÀÜ·ùÀü´Ü°­µµ ¼öÁØ¿¡ ÀÌ¸£¸¥ °ÍÀ¸·Î º¸°í °¡¾ÐÀ» Áß´ÜÇÏ°í ½ÃÇèÀ» ³¡³½´Ù. 
+
+4.  ½ÇÇè°á°ú ¹× °íÂû
+
+4.1  Àü´Ü½ÃÇè
+
+º» ½ÇÇè¿¡¼­´Â µ¿ÀÏ °ÅÄ¥±â¿¡¼­ ¼öÁ÷ÀÀ·Â¿¡ ´ëÇÑ ¿©·¯ ½ÇÇèÄ¡ÀÇ ºñ±³¿Í µ¿ÀÏ ¼öÁ÷ÀÀ·Â¿¡ ´ëÇÑ °ÅÄ¥±âÀÇ ¿µÇâÀ» ¾Ë¾Æº¸±â À§ÇØ ¼öÁ÷ÀÀ·Â 0.55 MPa¿¡¼­ ¼­·Î ´Ù¸¥ °ÅÄ¥±â¸¦ °¡Áö´Â 4°³ÀÇ ½Ã·á¿¡ ´ëÇØ Á÷Á¢Àü´Ü½ÃÇèÀ» ÇÏ¿´À¸¸ç, 1.66 MPa¿¡¼­µµ 0.55 MPa¿Í ¸¶Âù°¡Áö·Î ¼­·Î ´Ù¸¥ °ÅÄ¥±â¸¦ °¡Áö´Â 4°³ÀÇ ½Ã·á¸¦ »ç¿ëÇÏ¿´´Ù.  ±×¸®°í ¼öÁ÷ÇÏÁßÀÌ 1.11 MPaÀÎ °æ¿ì¿¡ ´ëÇÏ¿©µµ ½ÃÇèÀ» ½Ç½ÃÇÏ¿© ¼öÁ÷ÇÏÁßÀÇ ¿µÇâÀ» ºñ±³ÇÏ¿´´Ù. È­°­¾Ï½Ã·áÀÇ °æ¿ì È¯»êÇÑ JRC°¡ 10.3 ¿¡¼­ 17.6 »çÀÌÀÇ ºÐÆ÷¸¦º¸¿´°í, ´ë¸®¼®ÀÇ °æ¿ì´Â 6.2¿¡¼­ 14.0 »çÀÌÀÇ °ªÀ» º¸¿´´Ù. Table 4.1¿¡´Â °¢ ½Ã·áÀÇ ±âº»¸¶Âû°¢°ú sawcut ½Ã·á¿¡ ´ëÇÑ ½ÃÇè°á°ú°¡ ³ªÅ¸³ª ÀÖÀ¸¸ç, Table 4.2¿¡´Â ½ÃÇèÆíÀÇ  ¼öÁ÷ÀÀ·Â°ú ÃÖ´ëÀü´Ü°­µµ, ÀÜ·ùÀü´Ü°­µµ, Àü´Ü°­¼º, ÆØÃ¢°¢ µîÀÇ ½ÇÇè°á°ú°¡ Á¦½ÃµÇ¾î ÀÖ´Ù. ¿©±â¿¡¼­ Àü´Ü°­¼ºÀº ÃÖ´ëÀü´Ü°­µµÀÇ  25% - 75% Àü´ÜÀÀ·Â»çÀÌÀÇ  Àü´Üº¯À§¿¡ ´ëÇÑ Æò±Õ ±â¿ï±âÀÌ°í,ÆØÃ¢°¢Àº ÃÖ´ëÀü´Ü°­µµÀüÀÇ ¼öÁ÷º¯À§ ÃÖ¼ÒÄ¡¿Í ÃÖ´ëÀü´Ü°­µµ¶§ÀÇ ¼öÁ÷º¯À§»çÀÌÀÇ Æò±Õ±â¿ï±â·Î½á ±¸ÇÑ °ªÀÌ´Ù.    
+
+4.1.1  Àü´ÜÆ¯¼º¿¡ ´ëÇÑ °ÅÄ¥±âÀÇ ¿µÇâ
+
+Fig 4.1¿¡¼­ Fig 4.4±îÁö´Â È­°­¾ÏÀÇ ½ÇÇè°á°úÀÌ´Ù. ±×¸²¿¡¼­  ¼öÁ÷ÀÀ·ÂÀÌ ÀÏÁ¤ÇÒ ¶§ °ÅÄ¥±â°¡ Ä¿Áú¼ö·Ï ÃÖ´ëÀü´Ü°­µµ, ÀÜ·ùÀü´Ü°­µµ, Àü´Ü°­¼º, ÆØÃ¢°¢ µîÀÇ °ªÀÌ  Áõ°¡ÇÔÀ» ¾Ë ¼ö ÀÖ´Ù. ±×·¯³ª °¢ Àü´ÜÆ¯¼ºµéÀÇ °ÅÄ¥±â¿¡ ´ëÇÑ Áõ°¡¾ç»óÀº ¼öÁ÷ÀÀ·Â°ú ¹ÐÁ¢ÇÑ °ü°è¸¦ °¡Áø´Ù. ÃÖ´ëÀü´Ü°­µµ, ÆØÃ¢°¢, ÀÜ·ùÀü´Ü°­µµ µîÀº ¼öÁ÷ÀÀ·ÂÀÌ 1.66 MPaÀÎ °æ¿ì¿¡ ÀÖ¾î¼­ °ÅÄ¥±â¿¡ ´ëÇÑ Áõ°¡ÆøÀÌ 0.55 MPaÀÎ °æ¿ìº¸´Ù ´õ Å©°Ô ³ªÅ¸³µÁö¸¸, Àü´Ü°­¼ºÀº ¼öÁ÷ÀÀ·ÂÀÌ 0.55 MPaÀÎ °æ¿ìÀÇ Áõ°¡ÆøÀÌ 1.66 MPaÀÎ °æ¿ì¿¡ ºñÇØ ´õ Å©°Ô ³ªÅ¸³µ´Ù. ÀÌ´Â Àü´Ü°­¼ºÀº ¼öÁ÷ÀÀ·ÂÀÌ ÀÛÀº °æ¿ì¿¡´Â  °ÅÄ¥±â¿¡ µû¸¥ ¿µÇâÀ¸·Î º¯È­°¡ Å©Áö¸¸ ¼öÁ÷ÀÀ·ÂÀÌ Å« °æ¿ì¿¡ ÀÖ¾î¼­´Â °ÅÄ¥±â º¸´Ù´Â ¼öÁ÷ÀÀ·Â¿¡ ÀÇÇÑ ¿µÇâÀÌ Ä¿Á®¼­ ºñ½ÁÇÏ°Ô ¼ö·ÅµÇ´Â °ÍÀ¸·Î ÆÇ´ÜµÈ´Ù. 
+ÀÌ¿¡ ºñÇØ ´ë¸®¼®Àº °ÅÄ¥±âÀÇ º¯È­°¡ Àü´ÜÆ¯¼º¿¡ ¿µÇâÀ» ´ú ¹ÌÄ¡´Â °ÍÀ¸·Î ³ªÅ¸³µ´Ù. ÀÌ´Â ´ë¸®¼® ½Ã·áÀÇ ¾ÐÃà°­µµ°¡ È­°­¾ÏÀÇ 1/3 Á¤µµ¹Û¿¡  µÇÁö ¾Ê¾Æ °Å¯s¸éÀÇ ÆÄ±«°¡ »ó´ëÀûÀ¸·Î ¿ëÀÌÇÏ±â ¶§¹®À¸·Î ÆÇ´ÜµÈ´Ù. ÇÏÁö¸¸ ¼öÁ÷ÀÀ·ÂÀÌ 1.66 MPa ÀÏ ¶§´Â È­°­¾Ï°ú  ºñ½ÁÇÏ°Ô ÃÖ´ëÀü´Ü°­µµ, ÀÜ·ùÀü´Ü°­µµ, Àü´Ü°­¼º µîÀÌ °ÅÄ¥±â°¡ Ä¿Áú¼ö·Ï ¾à°£ Áõ°¡ÇÏ´Â °æÇâÀ» º¸¿´´Ù.  ÆØÃ¢°¢Àº ¾î¶²  Æ¯Á¤ÇÑ °æÇâÀ» º¸ÀÌÁö ¾Ê¾Ò´Âµ¥, ÀÌ´Â °Å¯s¸éÀÇ °­µµÀÚÃ¼°¡ È­°­¾Ï¿¡ ºñÇØ ¸Å¿ì ³·À¸¹Ç·Î Àü´Ü ½ÃÇè½Ã °Å¯s¸éÀÇ ÆÄ±«°¡ È­°­¾Ïº¸´Ù ÈÎ¾À ´õ ³ÐÀº ºÎºÐ¿¡¼­ ÀÏ¾î³ª±â ¶§¹®À¸·Î ÆÇ´ÜµÈ´Ù. Fig 4.5¿¡¼­ Fig 4.8Àº ´ë¸®¼®¿¡ ´ëÇÑ ½ÇÇè°á°úÀÌ´Ù.  
+
+4.1.2  Àü´ÜÆ¯¼º¿¡ ´ëÇÑ ¼öÁ÷ÀÀ·ÂÀÇ ¿µÇâ
+
+Fig 4.9¿¡¼­ Fig 4.16±îÁö¿¡´Â ¼öÁ÷ÀÀ·Â¿¡  µû¸¥ ¿©·¯ Àü´ÜÆ¯¼ºÀÇ º¯È­°¡  Ç¥½ÃµÇ¾î ÀÖ´Ù. ÀÏ¹ÝÀûÀ¸·Î ¸ðµç Àü´ÜÆ¯¼ºÀº °ÅÄ¥±â¿¡ °ü°è¾øÀÌ ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áö¸é ÇÔ²² Ä¿ÁöÁö¸¸ ÆØÃ¢°¢Àº ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áü¿¡ µû¶ó ÀÛ¾ÆÁö´Â °ÍÀ» º¼ ¼ö ÀÖ´Ù. ÀÌ´Â ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áö¸é ÆØÃ¢À» ¾ïÁ¦½ÃÅ°´Â ÈûÀÌ ´õ Ä¿Áö±â ¶§¹®¿¡ ÀÏ¾î³ª´Â Çö»óÀÌ´Ù. ´ë¸®¼®ÀÇ °æ¿ì¿¡¼­µµ È­°­¾ÏÀÇ °æ¿ì¿Í ºñ½ÁÇÑ °æÇâÀ» º¸ÀÎ´Ù.  ÀÌ´Â È­°­¾ÏÀÌ °ÅÄ¥±â¿¡ ¹Î°¨ÇÑ µ¥ ¹ÝÇØ, ´ë¸®¼®Àº  ¾ÐÃà°­µµ/¼öÁ÷ÀÀ·Â°¡  È­°­¾ÏÀÇ 1/3¹Û¿¡ ¾ÈµÇ¾î °Å¯s¸éÀÇ ÆÄ±«°¡ È­°­¾Ï¿¡¼­ º¸´Ù ÈÎ¾À ½±°Ô ÀÏ¾î³ª¹Ç·Î Àü´Üº¯Çü°Åµ¿¿¡ ¹ÌÄ¡´Â ¼öÁ÷ÀÀ·ÂÀÇ ¿ªÇÒÀÌ °ÅÄ¥±â º¸´Ù´Â  ÈÎ¾À ´õ Å« ÀÛ¿ëÀ» ÇÏ±â ¶§¹®ÀÌ´Ù. 
+
+4.2  Àü´Ü½ÃÇè°ú AE
+
+
+4.2.1  Àü´ÜÀÀ·Â°ú AEÀÇ °ü°è
+
+Fig 4.17Àº È­°­¾ÏÀÇ Àü´Ü½ÃÇè½Ã ¹ß»ýµÇ´Â ÃÊ´ç AE °ªÀ» Àü´Üº¯À§-Àü´ÜÀÀ·Â °î¼±°ú ÇÔ²² ºñ±³ÇÏ¿© µµ½ÃÇÑ°ÍÀÌ´Ù.  ÃÖ´ëÀü´Ü°­µµ´Â º¸Åë 3mmÀÌ³»ÀÇ Àü´Üº¯À§¿¡¼­ ³ªÅ¸³µ´Ù. ÃÖ´ëÀü´Ü°­µµ ÀÌÈÄ, Àü´ÜÀÀ·Â°î¼±Àº ÀÜ·ùÀü´Ü°­µµ·Î Á¡Á¡ ¼ö·ÅµÇ´Âµ¥, ÀÜ·ùÀü´Ü°­µµ ¼öÁØ¿¡¼­ÀÇ  Àü´ÜÀÀ·ÂÀº ÁÖ±âÀûÀÎ ÀÀ·Â°¨¼Ò Çö»óÀÌ ³ªÅ¸³µ´Ù. ÀÌ´Â ÁÖ±âÀûÀÎ °Å¯s¸éÀÇ ÆÄ±«¿¡ ±âÀÎÇÏ¿© ÀÏ¾î³ª´Â Çö»óÀ¸·Î ÆÇ´ÜµÈ´Ù. Àü´Ü½ÃÇè ÃÊ±âÀÇ ÃÊ´ç  AE ÀÇ ¹ß»ýÈ½¼ö´Â 5 - 50 Á¤µµ·Î ¾ÆÁÖ ÀÛ¾Ò´Ù. ÇÏÁö¸¸ ÃÖ´ëÀü´Ü°­µµ¿¡  °¡±î¿Í Áú ¹«·Æ¿¡¼­ºÎÅÍ ÃÊ´ç AE °ªÀº Á¶±Ý¾¿  Áõ°¡¸¦ ÇÏ±â ½ÃÀÛÇÏ¿©  ÃÖ´ëÀü´Ü°­µµ·ÎºÎÅÍ ÀÀ·Â°¨¼Ò°¡ ÀÏ¾î³¯ ¶§ ÃÖ´ëÀÇ ÃÊ´ç AE °ªÀ» ³ªÅ¸³Â´Ù. Àü´ÜÀÀ·ÂÀÌ ÀÜ·ùÀü´Ü°­µµ ¼öÁØÀ¸·Î ¶³¾îÁö¸é Àü´ÜÀÀ·ÂÀÇ °©ÀÛ½º·± °¨¼Ò¿Í °ü°èÇÏ¿©  ¸¹Àº ¾çÀÇ AEÇö»óÀÌ °üÃøµÇ¾ú´Ù. ±×·¡ÇÁ»ó¿¡¼­ ÀÀ·Â°¨¼Ò°¡ ÀÏ¾î³ª´Â ÁöÁ¡¿¡¼­ ÃÊ´ç AE °ªÀÇ º¯È­°¡ ÀÖÀ½À» º¼ ¼ö ÀÖ´Ù. ÇÏÁö¸¸ ÀÌ·± Çö»óµéÀº ¼öÁ÷ÀÀ·ÂÀÌ ÀûÀº °æ¿ì¿¡¼­º¸´Ù´Â ¼öÁ÷ÀÀ·ÂÀÌ Å« °æ¿ì¿¡¼­ ÈÎ¾À ºÐ¸íÇÏ°Ô ³ªÅ¸³µ´Ù. 
+Fig 4.18Àº ´ë¸®¼®ÀÇ Àü´Ü½ÃÇè½Ã ¹ß»ýµÇ´Â AEÀÇ ÃøÁ¤°á°úÀÌ´Ù.  È­°­¾Ï°ú ¸¶Âù°¡Áö·Î ÃÖ´ëÀü´Ü°­µµ´Â 3mmÀÌ³»ÀÇ Àü´Üº¯À§³»¿¡¼­ °üÃøµÇ¾ú´Ù. ÇÏÁö¸¸  AE´Â  È­°­¾Ï°ú ¸Å¿ì »óÀÌÇÑ ¾ç»óÀ» º¸¿´´Ù. ÃÖ´ëÀü´Ü°­µµ·ÎºÎÅÍÀÇ ÀÀ·Â°¨¼Ò½Ã ¹ß»ýµÇ´Â  AEÀÇ ¾ç°ú ÀÜ·ùÀü´Ü°­µµ ¼öÁØ¿¡¼­ ¹ß»ýµÇ´Â AEÀÇ ¾çÀÌ °ÅÀÇ ºñ½ÁÇÑ °ªÀ»  º¸¿´°í,  ºñ½ÁÇÑ ¼öÀÇ ÃÊ´ç AE °ªÀÌ ÃÖ´ëÀü´Ü°­µµ ÀÌÀü¿¡¼­µµ ÃøÁ¤µÇ¾ú´Ù. ±×¸®°í ÀüÃ¼ÀûÀÎ ÃÊ´ç AE °ªÀÇ Å©±âµµ È­°­¾ÏÀÇ  500 ºÐÀÇ 1 Á¤µµ¿´´Ù. ÃÖ´ëÀü´Ü°­µµÀÀ·ÂÁ÷ÈÄ¿¡ ÀÏ¾î³ª´Â ÀÀ·Â°¨¼Ò½Ã È­°­¾ÏÀº 1000 - 240000È¸ÀÇ ÃÊ´ç AE °ªÀÌ ÃøÁ¤µÇ¾úÀ¸³ª, ´ë¸®¼®ÀÇ °æ¿ì´Â 30 - 500È¸Á¤µµ·Î ÃÊ´ç AE °ªÀÌ ÃøÁ¤µÇ¾ú´Ù. ÀÌ´Â È­°­¾Ï°ú ´ë¸®¼®ÀÇ °­µµ ¹× ±âÅ¸ ¹°¼ºÂ÷ÀÌ¿¡¼­ ±âÀÎÇÏ´Â °ÍÀ¸·Î »ý°¢µÈ´Ù. ±×·¯³ª ÀÜ·ùÀü´Ü°­µµ ¼öÁØ¿¡¼­´Â  È­°­¾Ï¿¡¼­ º¸ÀÎ ¹Ù¿Í  ºñ½ÁÇÏ°Ô ÀÀ·Â°¨¼Ò¿Í AEÀÇ ¹ß»ýÀÌ ´ëÃ¼ÀûÀ¸·Î ÀÏÄ¡ÇÏ´Â ¾ç»óÀ» º¸¿´´Ù. 
+
+4.2.2  AE¿¡ ´ëÇÑ ¼öÁ÷ÀÀ·Â ¹× °ÅÄ¥±âÀÇ ¿µÇâ
+
+Fig 4.19¿Í Fig 4.20Àº È­°­¾Ï¿¡¼­ °ÅÄ¥±â¿Í ¼öÁ÷ÀÀ·Â¿¡ µû¸¥ ÃÖ´ë ÃÊ´ç AE °ªÀ» º¸¿©ÁØ´Ù. ÀÏ¹ÝÀûÀ¸·Î °ÅÄ¥±â°¡ Ä¿Áú¼ö·Ï ÃøÁ¤µÈ ÃÖ´ë ÃÊ´ç AE °ªÀÌ Áõ°¡ÇÔÀ» ¾Ë ¼ö ÀÖ´Ù. ÀÌ´Â °Å¯s¸éÀÇ ÆÄ±«°¡ Á÷Á¢ÀûÀ¸·Î ÃÊ´ç AE °ª¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â °ÍÀ» ÀÇ¹ÌÇÑ¸ç, °ÅÄ¥±â°¡ Å¬¼ö·Ï ¸éÀÇ ºÎºÐÀûÀÎ ÆÄ±«°¡ ´õ ¸¹ÀÌ ¼ö¹ÝµÊÀ» ¾Ë¼öÀÖ´Ù. Fig 4.20Àº ¼öÁ÷ÀÀ·Â¿¡ µû¸¥ ÃÖ´ë ÃÊ´ç AE °ªÀÇ Å©±â¸¦ ³ªÅ¸³½´Ù. ±×¸²¿¡¼­ °ÅÄ¥±â¿¡ °ü°è¾øÀÌ ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áö¸é AEÀÇ ÃÖ´ë°ªµµ  Áõ°¡ÇÔÀ» ¾Ë ¼öÀÖ´Ù. ÀÌ Çö»óÀº °Å¯s¸éÀÇ ÆÄ±«°¡ ¼öÁ÷ÀÀ·ÂÀÌ ÀûÀº °æ¿ìº¸´Ù´Â ¼öÁ÷ÀÀ·ÂÀÌ Å« °æ¿ì¿¡ ÀÖ¾î¼­ ´õ Å« ±Ô¸ð·Î ÀÏ¾î³²À» ÀÇ¹ÌÇÑ´Ù. 
+Fig 4.21°ú Fig 4.22´Â ´ë¸®¼®¿¡ ´ëÇÑ ÃÖ´ë ÃÊ´ç AE °ªÀ» ºñ±³ÇÑ °ÍÀÌ´Ù. ÀüÃ¼ÀûÀ¸·Î °ÅÄ¥±â¿Í ¼öÁ÷ÀÀ·Â¿¡ ´ëÇÏ¿© ¾î¶² ÀÏÁ¤ÇÑ °æÇâÀÌ ³ªÅ¸³ªÁö ¾Ê°í ÀÖ´Ù. ÀÌ´Â ´ë¸®¼®¿¡¼­´Â È­°­¾Ï°ú´Â ´Þ¸® ÃÖ´ëÀü´Ü°­µµ Á÷ÈÄ¿¡ ÀÏ¾î³ª´Â ÀÀ·Â°¨¼Ò¿¡¼­ ÃÖ´ë ÃÊ´ç AE °ªÀÌ ³ªÅ¸³ªÁö ¾Ê°í ½ÃÇèÀÇ Àü±¸°£¿¡¼­ ºñ½ÁÇÑ ¾çÀÇ ÃÊ´ç AE °ªÀ» º¸ÀÎµ¥¼­ ºñ·ÔµÇ¸ç, ÀüÃ¼ ½Ã·áÁß ¸î °³ÀÇ ½Ã·á°¡ ±¤¹°ÇÐÀûÀ¸·Î ºÒ±ÕÁúÇÑ  °Å¯s¸éÀ» Æ÷ÇÔÇÑ °á°ú¶ó°í »ý°¢µÈ´Ù. 
+ÀüÃ¼ÀûÀ¸·Î º¸¸é Àü´Ü½ÃÇè½Ã ÃøÁ¤µÇ´Â AE ¿¡³ÊÁöÀÇ Å©±â´Â Àý¸®¸éÀÇ °ÅÄ¥±â, ½Ã·áÀÇ ¾ÐÃà°­µµ, ¼öÁ÷ÀÀ·Â µî¿¡ ¹Î°¨ÇÑ ¿µÇâÀ» ¹Þ´Â °ÍÀ¸·Î ³ªÅ¸³µ´Ù. 
+
+
+4.2.3   AE ÁÖÆÄ¼ö ºÐ¼®
+
+º» ½ÇÇè¿¡¼­´Â AEÀÇ ÁÖÆÄ¼ö ºÐ¼®À» À§ÇØ ¸¸´ÉÆÄÇüºÐ¼®±âÀÎ  DATA 6000À» ÀÌ¿ëÇÏ¿© AEÀÇ ½ÅÈ£¸¦ ºÐ¼®ÇÏ¿´´Ù. ´ÙÀ½Àº ÁÖÆÄ¼ö ºÐ¼®ÀÇ °èÅëµµÀÌ´Ù. 
+  
+DATA 6000¿¡¼­ ³ª¿Â ½ÅÈ£´Â ½Ã°£¿µ¿ªÀÇ Binary file·Î½á Floppy disk¿¡  ÀúÀåµÈ´Ù. ÀÌ ÀúÀåµÈ ½ÅÈ£¸¦ cwsic.bas ¶ó´Â basic fileÀ» ½á¼­ ASCII file·Î º¯Çü½ÃÅ°°í, ÀÌ ½Ã°£¿µ¿ªÀÇ ASCII fileÀ» Fast Fourier Transform¿¡ »ó¿ëÀûÀ¸·Î ¾²ÀÌ´Â fork¶ó´Â Fortran ÇÁ·Î±×·¥À» ½á¼­ ÁÖÆÄ¼ö ¿µ¿ªÀÇ ASCII file·Î ¹Ù²Û´Ù. 
+Fig 4.23¿¡¼­ Fig 4.25±îÁö´Â ÀÌ·¸°Ô ÇÏ¿© ±¸ÇÑ È­°­¾ÏÀÇ °á°ú·Î¼­, ÁÖÆÄ¼ö¿¡ ´ëÇÑ »ó´ëÁøÆøÀ» ±¸ÇÑ °ÍÀÌ´Ù. ÃÖ´ëÀü´Ü°­µµ¿¡¼­ ÀÀ·Â°¨¼Ò°¡ ÀÏ¾î³¯ ¶§ ¹ß»ýµÇ´Â AEÀÇ ÁÖÆÄ¼ö ºÐ¼® °á°ú¿Í ÀÜ·ùÀü´Ü°­µµ ¼öÁØ¿¡¼­ ¹ß»ýµÇ´Â AEÀÇ ÁÖÆÄ¼ö ºÐ¼®°á°ú¸¦ ºñ±³ÇØº¸¸é, ÃÖ´ëÀü´Ü°­µµÀÇ ÀÀ·Â°¨¼Ò½Ã¿¡  ÀÏ¾î³ª´Â AE´Â ´Ù¸¥ ÀÜ·ùÀü´Ü°­µµ ¼öÁØ¿¡¼­ ÃøÁ¤µÈ AE ½ÅÈ£ÀÇ ºÐ¼®°á°úº¸´Ù ÃÖ´ëÁøÆø¿¡ ºñÇØ ¸ðµç ÁÖÆÄ¼öÀÇ ÁøÆøÀÌ  »ó´ëÀûÀ¸·Î Å« °ªÀ» ³ªÅ¸³»¾ú´Ù. ±×·¯³ª ÀüÃ¼ÀûÀÎ Çü»óÀº ÀÏÁ¤ ¼öÁ÷ÀÀ·ÂÇÏ¿¡¼­´Â ¾î¶² Æ¯º°ÇÑ Â÷ÀÌÁ¡ÀÌ ¾øÀÌ  ¼­·Î ºñ½ÁÇÑ °æÇâÀ» ³ªÅ¸³»¾ú´Ù. ÀÌ´Â °¢ ½Ã·á¿¡ ´ëÇÑ ½ÃÇè¿¡¼­ °Å¯s¸éÀÇ ÆÄ±«Á¤µµ°¡ ¼öÁ÷ÀÀ·Â¿¡ ¹ÐÁ¢ÇÑ ¿¬°üÀ» °¡Áö°í ÀÖ¾î µ¿ÀÏ ¼öÁ÷ÀÀ·ÂÇÏ¿¡¼­´Â ºñ½ÁÇÑ ¾ç»óÀ» À¯ÁöÇÏ´Â °ÍÀ¸·Î ÆÇ´ÜµÈ´Ù. 
+AE ÁÖÆÄ¼ö¿¡ ´ëÇÑ ¼öÁ÷ÀÀ·ÂÀÇ ¿µÇâÀ» ¾Ë¾Æº¸±â À§ÇØ Rp °ªÀÌ 1.0271  - 1.0284 Á¤µµ·Î °ÅÀÇ ºñ½ÁÇÑ ½Ã·á GL-2, GD, GH-2 ¿¡ ´ëÇÏ¿© ÁÖÆÄ¼ö ºÐ¼®À» ¼öÇàÇÏ¿´´Ù. ¼öÁ÷ÀÀ·ÂÀÌ 0.56 MPaÀÎ GL-2ÀÎ °æ¿ì ÃÖ´ëÁøÆøÀº 100 kHzºÎ±ÙÀÇ ÀúÁÖÆÄ ¿µ¿ª¿¡¼­ ³ªÅ¸³µ°í, 900 kHz ºÎ±Ù¿¡¼­ »ó´ë ÁøÆøÀÌ Å« Çö»óÀÌ ³ªÅ¸³µ´Ù. ±×¸®°í AE½ÅÈ£¿¡ ¿µÇâÀ» ÁÖ´Â ÁøÆøÀÌ ÀÌ µÎ ÁÖÆÄ¼ö ´ë¿ªÀ¸·Î ÁýÁßµÇ´Â °æÇâÀ» º¸¿´´Ù. ±×·¯³ª ¼öÁ÷ÀÀ·ÂÀÌ 1.11MPaÀÎ GDÀÇ °æ¿ì »ó´ëÁøÆøÀÌ Å« 3¹øÂ° ÁÖÆÄ¼ö ´ë¿ªÀÌ 1300 kHz ºÎ±Ù¿¡¼­ ³ªÅ¸³µÀ¸¸ç, ÀüÃ¼ÀûÀÎ ÁøÆøÀÇ ºÐÆ÷¾ç»óÀÌ Á¡Á¡ ºÐ»êµÇ´Â Æ¯Â¡À» º¸¿´´Ù. ¼öÁ÷ÀÀ·ÂÀÌ 1.66 MPaÀÎ GH-2ÀÇ °æ¿ì ÀÌ Çö»óÀº ´õ¿í ÇöÀúÈ÷ ³ªÅ¸³µ´Âµ¥, ÀÌ°ÍÀ¸·Î ¹Ì·ç¾î º¼¶§ ¼öÁ÷ÀÀ·ÂÀÌ Áõ°¡ÇÔ¿¡ µû¶ó ÀüÃ¼ÀûÀÎ ÁøÆøÀÇ ºÐÆ÷¾ç»óÀÌ Á¡Á¡ ºÐ»êµÊÀ» ¾Ë ¼ö ÀÖ´Ù. ÀÌ·¯ÇÑ Çö»óÀÇ ¿øÀÎÀº ¼öÁ÷ÀÀ·ÂÀÌ ÀÛÀº °æ¿ì¿¡¼­´Â °Å¯s¸éÀÇ ÆÄ±«º¸´Ù´Â ¹Ì²ô·¯ÁüÀÌ ¿ì¼¼ÇÑ ¹Ý¸é, ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áú¼ö·Ï °Å¯s¸éÀÇ ÆÄ±«°¡ ´õ Å« ±Ô¸ð·Î ¹ß»ýÇÏ¿© AE ÆÄÇü¿¡ ¿µÇâÀ» ÁÖ´Â ÁÖÆÄ¼ö¹üÀ§°¡ ³Ð¾îÁö±â ¶§¹®À¸·Î »ý°¢µÈ´Ù. ´ë¸®¼®¿¡¼­µµ ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áú¼ö·Ï ÀüÃ¼ÀûÀÎ ÁøÆøÀÇ ºÐÆ÷¾ç»óÀÌ Á¡Á¡ ºÐ»êµÇ´Â Çö»óÀº ¸¶Âù°¡Áö·Î ÀÏ¾î³ªÁö¸¸, ÃÖ´ë ÁøÆøÀ» °¡Áö´Â ÁÖÆÄ¼ö ´ë¿ªÀÌ³ª ÆÄÇüÀÌ  È­°­¾Ï°ú´Â ´Ù¸¥ °ÍÀ» º¼ ¼ö ÀÖ´Ù. ´ë¸®¼®ÀÇ ÁÖÆÄ¼ö ºÐ¼®¿¡´Â Rp°ªÀÌ 1.0252 - 1.0260 À¸·Î °ÅÀÇ ºñ½ÁÇÑ ½Ã·á ML-2, MM, MH-2¸¦ »ç¿ëÇÏ¿´´Ù. ¼öÁ÷ÀÀ·ÂÀÌ 0.56 MPaÀÎ ML-2ÀÇ °æ¿ì ÃÖ´ëÁøÆø ÁÖÆÄ¼ö´Â 900 kHz ºÎ±Ù¿¡¼­ ³ªÅ¸³µÁö¸¸ 100 kHz ¿Í 1250 kHz ºÎ±Ù¿¡¼­µµ »ó´ëÁøÆøÀÌ Å« ÁÖÆÄ¼ö ´ë¿ªÀÌ ³ªÅ¸³µ´Ù. ¼öÁ÷ÀÀ·ÂÀÌ 1.11 MPaÀÎ ½Ã·á MM¿¡¼­ »ó´ëÀûÀ¸·Î Å« ÁøÆøÀ» °¡Áö´Â ¹üÀ§°¡ ³Ð¾îÁö°í ±× ºÐ»êÁ¤µµ°¡ ½ÉÇØÁüÀ» ¾Ë ¼ö ÀÖÀ¸¸ç, ¼öÁ÷ÀÀ·ÂÀÌ 1.66 MPa ÀÎ MH-2ÀÇ °æ¿ì¿¡ ÀÖ¾î¼­´Â ÀÌ Çö»óÀÌ ´õ¿í ÇöÀúÇØÁüÀ» º¼ ¼ö ÀÖ´Ù. ÀÌ·± Çö»óÀº È­°­¾Ï°ú ¸¶Âù°¡Áö·Î ¼öÁ÷ÀÀ·ÂÀÇ Áõ°¡¿¡ ÀÇÇÑ °Å¯s¸éÀÇ ÆÄ±« ºÎºÐÀÌ ¸¹¾ÆÁü¿¡¼­ ºñ·ÔµÇ´Â °ÍÀ¸·Î»ý°¢µÈ´Ù. Fig 4.26 ¿¡¼­ Fig 4.28±îÁö´Â ´ë¸®¼®¿¡ ´ëÇÑ ÁÖÆÄ¼öºÐ¼® °á°úÀÌ´Ù.
+È­°­¾Ï°ú ´ë¸®¼®ÀÇ ÃÖ´ëÁøÆø ÁÖÆÄ¼ö¿Í ÆÄÇüÀÌ ´Ù¸¥ °ÍÀº ±¤¹°ÀÔÀÚÀÇ ¼º»óÂ÷ÀÌ¿Í ½Ã·áÀÇ ¹°¸®Àû Æ¯¼ºÂ÷ÀÌ¿¡¼­ ºñ·ÔµÇ´Â °ÍÀ¸·Î ÆÇ´ÜµÈ´Ù. ±×¸®°í  È­°­¾Ï¿¡¼­´Â Àý¸® º®¸éÀÇ ¾ÐÃà°­µµ°¡ Å©±â ¶§¹®¿¡ °Å¯s¸éÀÇ ÆÄ±«¿Í ¹Ì²ô·¯ÁüÀÇ º¹ÇÕÀÛ¿ëÁß ¹Ì²ô·¯ÁüÀÌ ¿ì¼¼ÇÑ ¹Ý¸é,  ´ë¸®¼®¿¡¼­´Â ¹Ì²ô·¯Áüº¸´Ù´Â  °Å¯s¸éÀÇ ÆÄ±«°¡  AE ÆÄÇü¿¡ Å« ¿µÇâÀ» ¹ÌÄ¡±â ¶§¹®À¸·Î »ý°¢µÈ´Ù. 
+
+4.3  ¹Ýº¹½ÇÇè¿¡ ÀÇÇÑ Àü´ÜÆ¯¼ºÀÇ º¯È­
+
+º» ¿¬±¸¿¡¼­´Â ¹Ýº¹ÇÏÁß¿¡ ÀÇÇÑ Àý¸®¸éÀÇ Àü´ÜÆ¯¼º º¯È­¸¦ ¿¬±¸ÇÏ±â À§ÇØ È­°­¾Ï°ú ´ë¸®¼®½Ã·á¿¡ ´ëÇØ °¢±â 10mmÀÇ Àü´Üº¯À§¸¦ ÀÏÀ¸Å°´Â  Àü´Ü½ÃÇèÀ» 4È¸ ½Ç½ÃÇÏ¿© ÃÖ´ëÀü´Ü°­µµ, ÀÜ·ùÀü´Ü°­µµ, Àü´Ü°­¼º°ú ÃÖ´ë ÃÊ´ç AE °ªÀÇ º¯È­,  ÆØÃ¢°¢ µî¿¡ ´ëÇÏ¿© ¾Ë¾Æº¸¾Ò´Ù. ÀÌ ½ÇÇè¿¡¼­´Â 0.56 MPa, 1.66 MPa µÎ°¡Áö Å©±âÀÇ ¼öÁ÷ÀÀ·ÂÇÏ¿¡¼­ ¾ÏÁ¾º°·Î °ÅÄ¥±â°¡ ´Ù¸¥ µÎ ½Ã·á¿¡ ´ëÇÏ¿© ½ÇÇèÇÏ¿´´Ù. ¹Ýº¹½ÇÇèÀÇ °á°ú´Â Table 4.3¿¡ º¸¿©Áö°í ÀÖ´Ù.  
+
+4.3.1  Àü´ÜÆ¯¼º¿¡ ´ëÇÑ °ÅÄ¥±âÀÇ ¿µÇâ
+
+Fig 4.29¿¡¼­ Fig 4.33±îÁö´Â ºñ½ÁÇÑ ¼öÁ÷ÀÀ·ÂÇÏ¿¡¼­ ¼­·Î ´Ù¸¥  °ÅÄ¥±â¸¦  °¡Áø È­°­¾Ï ½Ã·á¿¡ ´ëÇÏ¿© 10mm º¯À§¸¦ ÀÏÀ¸Å°´Â  ¹Ýº¹½ÇÇèÀ» 4È¸ ½Ç½ÃÇÑ °á°ú¸¦  Ç¥½ÃÇÑ °ÍÀÌ´Ù. ÃÖ´ëÀü´Ü°­µµ´Â 1Â÷ Àü´ÜÀÌÈÄ ±Þ°ÝÈ÷ ¶³¾îÁ®¼­ 2Â÷ Àü´Ü¿¡¼­´Â 1Â÷ Àü´Ü½ÃÇèÀÇ 50% ¼öÁØÀÌÇÏ·Î ¶³¾îÁö¸ç, Á¡Á¡ 1Â÷Àü´ÜÀÇ ÀÜ·ùÀü´Ü°­µµ ¼öÁØÀ¸·Î ¼ö·ÅÇÏ¿´´Ù.  ÀÌ·± 1Â÷ Àü´Ü°ú 2Â÷ Àü´Ü»çÀÌ¿¡¼­ ¹ß»ýÇÏ´Â ÃÖ´ëÀü´Ü°­µµ °¨¼ÒÀÇ °æÇâÀº °ÅÄ¥±â°¡ Å¬¼ö·Ï Å©°Ô ³ªÅ¸³ª¸ç, 2Â÷ Àü´ÜÀÌÈÄ¿¡¼­´Â °ÅÄ¥±â¿¡ °ü°è¾øÀÌ ºñ½ÁÇÑ °æÇâÀ» º¸ÀÌ¸ç ¼ö·ÅÇÏ¿´´Ù. ¹Ýº¹½ÇÇè¿¡ ´ëÇÑ ÀÜ·ùÀü´Ü°­µµ´Â ¼öÁ÷ÀÀ·ÂÀÌ 0.55 MPa°æ¿ì, ¹Ýº¹È½¼ö°¡ Áõ°¡ÇÒ¼ö·Ï ¾à°£¾¿ Áõ°¡ÇßÁö¸¸ ¼öÁ÷ÀÀ·ÂÀÌ 1.66MPa ÀÎ °æ¿ì °ÅÀÇ Áõ°¡ÇÏÁö ¾Ê°í ÀÏÁ¤ÇÔÀ» º¼ ¼ö ÀÖ´Ù. Àü´Ü°­¼ºÀº ÃÖ´ëÀü´Ü°­µµ¿Í´Â ´Þ¸® ÀÏÁ¤ÇÑ ±â¿ï±â¸¦ °¡Áø Á÷¼±ÀÇ ÇüÅÂ·Î °¨¼ÒÇÏ´Âµ¥ ÀÌ´Â ½ÃÇèÀÌ ¹Ýº¹µÊ¿¡ µû¶ó  °Å¯s¸éÀÇ ÆÄ±«°¡ ÀÏ¾î³ª´õ¶óµµ  Á¢ÃË¸éÀûÀÌ Ä¿Áö¸é¼­  ÀÏÁ¤ÇÑ Å©±â¸¸Å­ ¼­·Î »ó¼âµÇ±â  ¶§¹®À¸·Î »ý°¢µÈ´Ù. ±×·¯³ª Àü´Ü°­¼ºµµ ÃÖ´ëÀü´Ü°­µµ¿Í ¸¶Âù°¡Áö·Î °ÅÄ¥±â°¡ Å¬¼ö·Ï ±× °¨¼ÒÀ²ÀÌ Å©°Ô ³ªÅ¸³µ´Ù. ÀÌ»óÀÇ °á°ú´Â 1Â÷ Àü´Ü½Ã ¹ß»ýµÇ´Â °Å¯s¸éÀÇ ÆÄ±«Á¤µµ°¡ Á÷Á¢ÀûÀ¸·Î Àü´ÜÀúÇ×¼º¿¡ ¿µÇâÀ» ¹ÌÄ¡´Â °ÍÀ» ÀÇ¹ÌÇÑ´Ù. ¹Ýº¹½ÇÇè¿¡ ÀÇÇÑ ÃÖ´ë ÃÊ´ç AE °ªÀÇ º¯È­µµ ºñ½ÁÇÑ °æÇâÀ» º¸¿´´Âµ¥, °ÅÄ¥±â°¡ Å¬¼ö·Ï 2Â÷ Àü´Ü¿¡¼­ÀÇ ÃÖ´ë ÃÊ´ç AE °ªÀÌ ´õ Å©°Ô ¶³¾îÁüÀ» ¾Ë ¼ö ÀÖ¾ú´Ù. ÀÌ´Â AEÀÇ ¹ß»ýÀÌ °Å¯s¸éÀÇ ÆÄ±«¿¡ ±âÀÎÇÑ °ÍÀÌ±â ¶§¹®¿¡ »ý±â´Â Çö»óÀ¸·Î »ý°¢µÈ´Ù. Fig 4.32 ¿¡´Â ¼öÁ÷ÀÀ·ÂÀÌ 0.55 MPa ÀÏ¶§ÀÇ  ÆØÃ¢°¢¿¡ ´ëÇÑ °á°ú°¡ Ç¥½ÃµÇ¾î ÀÖ´Âµ¥, ÃÖ´ëÀü´Ü°­µµ¿Í ¸¶Âù°¡Áö·Î °ÅÄ¥±â°¡ °ÅÄ¥¼ö·Ï 1Â÷ Àü´Ü°ú 2Â÷ Àü´Ü»çÀÌÀÇ ÆØÃ¢°¢ÀÇ Â÷ÀÌ°¡ Ä¿ÁüÀ» ¾Ë ¼ö ÀÖ´Ù. ÀÌ´Â ¼öÁ÷ÀÀ·ÂÀÌ ³·Àº °æ¿ì °Å¯s°¢¿¡ Á÷Á¢Àû ¿µÇâÀ» ¹ÌÄ¡´Â 2Â÷ °ÅÄ¥±â°¡ 1Â÷ Àü´Ü½Ã¿¡ °ÅÀÇ ÆÄ±«µÇ¾ú±â ¶§¹®¿¡ 2Â÷ Àü´ÜºÎÅÍ´Â °ÅÀÇ ºñ½ÁÇÑ ÆØÃ¢°¢À¸·Î ¼ö·ÅµÇ¾î °¡´Â °ÍÀ¸·Î »ý°¢µÈ´Ù. 
+´ë¸®¼®ÀÇ °æ¿ì °ÅÄ¥±â ÀÚÃ¼°¡ È­°­¾Ï¿¡ ºñÇÏ¿© Àü´ÜÀúÇ×¿¡ ÁÖ´Â ¿µÇâÀÌ Àû±â ¶§¹®¿¡ 1Â÷ Àü´ÜÀúÇ×°ú 2Â÷ Àü´ÜÀúÇ×ÀÇ Â÷ÀÌ°¡ °ÅÄ¥±â¿¡ Á÷Á¢ÀûÀ¸·Î ¿¬°üµÇ´Â Çö»óÀº Àß ³ªÅ¸³ªÁö ¾Ê¾Ò´Ù. ±×·¯³ª Àü´Ü°­¼ºÀÇ °æ¿ì¿¡´Â ¼öÁ÷ÀÀ·ÂÀÌ 1.66 MPa·Î »ó´ëÀûÀ¸·Î Å¬¶§  °ÅÄ¥±â°¡ Å« °æ¿ì°¡ 1Â÷ Àü´Ü°ú 2Â÷ Àü´Ü»çÀÌÀÇ Â÷ÀÌ°¡ Å©°Ô ³ªÅ¸³µ´Ù. ±×·¯³ª ¼öÁ÷ÀÀ·ÂÀÌ 0.55MPa·Î ³·À» ¶§¿¡´Â ÀÌ·± Çö»óÀÌ º¸ÀÌÁö ¾Ê¾Ò´Ù. ÀÌ´Â ´ë¸®¼®ÀÇ ¾ÐÃà°­µµ°¡ È­°­¾ÏÀÇ 1/3 ¼öÁØÀÌ°í,  ¾ÐÃà°­µµ/¼öÁ÷ÀÀ·Â°¡ ÀÛÀ» °æ¿ì¿¡ ±Ô¸ð°¡ ÀÛÀº 2Â÷ °ÅÄ¥±âº¸´Ù´Â °Å½ÃÀûÀÎ 1Â÷ °ÅÄ¥±â°¡ Á÷Á¢ÀûÀ¸·Î ¿µÇâÀ» ÁÖ±â ¶§¹®À¸·Î »ý°¢µÈ´Ù. ´ë¸®¼®¿¡ ´ëÇÑ °á°ú´Â Fig 4.34¿¡¼­ Fig 4.36¿¡ ³ªÅ¸³»¾ú´Ù. 
+
+
+
+
+
+4.3.2  Àü´ÜÆ¯¼º¿¡ ´ëÇÑ ¼öÁ÷ÀÀ·ÂÀÇ ¿µÇâ
+
+Fig 4.37¿¡¼­ Fig 4.41±îÁö´Â ºñ½ÁÇÑ  °ÅÄ¥±â¸¦ °¡Áö´Â È­°­¾Ï ½Ã·á¿¡ ´ëÇÏ¿©  ¼öÁ÷ÀÀ·ÂÀ»  ´Ù¸£°Ô ÇÏ¿©  4È¸ÀÇ ¹Ýº¹½ÇÇèÀ» ½Ç½ÃÇÑ °á°ú¸¦ ºñ±³ÇÑ °ÍÀÌ´Ù. °ÅÄ¥±â°¡ ÀÏÁ¤ÇÒ ¶§  ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áü¿¡ µû¶ó 1Â÷ Àü´Ü°ú 2Â÷ Àü´Ü»çÀÌÀÇ  ÃÖ´ëÀü´Ü°­µµ °¨¼ÒÆøÀÌ Ä¿ÁüÀ» ¾Ë ¼ö ÀÖ´Ù. ÀÜ·ùÀü´Ü°­µµ´Â ½ÇÇèÈ½¼ö¿¡ ´ëÇØ °ÅÀÇ º¯È­°¡ ¾øÀ¸³ª ½Ã·á GL-4, GH-4¿¡¼­´Â ¾à°£ Áõ°¡ÇÏ´Â °æÇâÀ» º¸¿´´Ù. ÀÌ´Â GL-2, GH-2¿Í ºñ±³ÇÏ¿© ÀÌ ½Ã·áµéÀÇ °ÅÄ¥±â°¡ ´õ Å©±â¶§¹®¿¡, 1Â÷ Àü´Ü¿¡¼­ÀÇ Á¢ÃË¸éÀû¿¡ ºñÇØ  2Â÷Àü´Ü ÀÌÈÄ ÀüÃ¼ÀûÀÎ Á¢ÃË¸éÀûÀÌ Ä¿Áö¸é¼­ ÀÌ·± Çö»óÀÌ ÀÏ¾î³­ °ÍÀ¸·Î »ý°¢µÈ´Ù. Àü´Ü°­¼º°ú AE¿¡ ´ëÇÑ ½ÇÇè°á°úµµ ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áö¸é ¹Ýº¹½ÇÇè¿¡ ÀÇÇÑ Àü´ÜÆ¯¼ºÀÇ °¨¼ÒÀ²ÀÌ Ä¿Áö´Â ºñ½ÁÇÑ Çö»óÀ» º¸¿©ÁÖ°í ÀÖ´Ù. Æ¯È÷ ÃÖ´ë ÃÊ´ç AE °ªÀÇ °æ¿ì¿¡ ÀÖ¾î¼­´Â 2Â÷ Àü´Ü½Ã °ÅÀÇ 1Â÷ Àü´ÜÀÇ ÀÜ·ùÀü´Ü°­µµ ¼öÁØ¿¡¼­ ¹ß»ýÇß´ø Á¤µµÀÇ AE¿¡³ÊÁö·Î °¨¼ÒµÇ¾î  ¼ö·ÅÀÌ ´Ù¸¥ Àü´Ü Æ¯¼º¿¡ ºñÇØ ºü¸¥ °ÍÀ» ¾Ë ¼ö ÀÖ´Ù. ÆØÃ¢°¢ÀÇ º¯È­¸¦ »ìÆìº¸¸é ¼öÁ÷ÀÀ·ÂÀÌ Å¬ °æ¿ì´Â ¿ø·¡ÀÇ ÆØÃ¢°¢ÀÌ ÀÛ±â ¶§¹®¿¡  ±× °¨¼ÒÆøµµ Á¦ÇÑµÉ ¼ö¹Û¿¡ ¾øÀ¸¸ç, ÀÏÁ¤ °ÅÄ¥±âÇÏ¿¡¼­ ¼öÁ÷ÀÀ·ÂÀÌ ÀÛÀ» °æ¿ì°¡ Àü´ÜÈ½¼ö¿¡ µû¸¥ °¨¼ÒÆøÀÌ Å©°Ô ³ªÅ¸³µ´Ù.  
+´ë¸®¼®ÀÇ °æ¿ìµµ È­°­¾Ï°ú ºñ½ÁÇÑ ¾ç»óÀ» º¸ÀÌ¸ç, ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áö¸é  1Â÷ Àü´Ü°ú 2Â÷ Àü´Ü»çÀÌÀÇ Àü´ÜÀúÇ× Â÷ÀÌ°¡ Ä¿Áö°Ô µÊÀ» º¼ ¼ö ÀÖ´Ù. ÀÜ·ùÀü´Ü°­µµ´Â ÀüÃ¼ÀûÀ¸·Î °¨¼ÒÇÏ´Â °æÇâÀ» º¸ÀÌ´Âµ¥, ÀÌ´Â ½ÃÇèÀ» ¹Ýº¹ÇÔ¿¡ µû¶ó µ¹ÃâºÎÀÇ °è¼ÓÀûÀÎ ÆÄ±«¿Í ¼Õ»óÀÌ ÀÏ¾î³µ±â ¶§¹®À¸·Î »ý°¢µÈ´Ù. ±×·¯³ª AE¿¡¼­´Â Æ¯º°ÇÑ  Çö»óÀÌ °üÂûµÇÁö ¾Ê¾Ò´Âµ¥, ÀÌ´Â ´ë¸®¼®¿¡¼­´Â È­°­¾Ï¿¡ ºñÇØ °Å¯s¸éÀÇ ÆÄ±«°¡  ÈÎ¾À ½±°í,  ÃøÁ¤µÈ AE °ªÀÌ ¿ø·¡ ÀÛ±â¶§¹®¿¡ ±¤¹°ÇÐÀûÀ¸·Î ºÒ±ÕÁúÇÑ Æ¯Á¤ °Å¯s¸éÀÌ AEÀÇ ¹ß»ý¿¡ ¿µÇâÀ» ¹ÌÄ¡±â°¡ »ó´ëÀûÀ¸·Î  ½¬¿ì¸ç, AEÀÇ ¹ß»ýÀÌ ¼öÁ÷ÀÀ·Â¿¡ Á÷Á¢ÀûÀ¸·Î »ó°üÇÏÁö ¾Ê±â ¶§¹®À¸·Î  »ý°¢µÈ´Ù. Fig 4.42¿¡¼­ Fig 4.46Àº ´ë¸®¼® ½ÃÇèÆí¿¡ ´ëÇÑ ½ÃÇè°á°úÀÌ´Ù. 
+
+4.3.3  µÎ ¹æÇâ¿¡ ´ëÇÑ ¹æÇâ¼º Àü´Ü½ÃÇè
+
+
+º» ½ÇÇè¿¡¼­´Â ÀÎ°øÀý¸®¸éÀÇ Àü´Ü¹æÇâ¿¡ ´ëÇÑ Àü´ÜÀúÇ×ÀÇ º¯È­¿¡ ´ëÇØ  ¾Ë¾Æº¸±â À§ÇØ Àü´ÜÀÇ ¹æÇâÀ» ¼­·Î ¹Ù²Ù¾î 4¹øÀÇ ¹Ýº¹½ÇÇèÀ» ½Ç½ÃÇÏ¿´´Ù. ½ÃÇè¿¡¼­ÀÇ ÃÖ´ëº¯À§´Â 10mm¿´°í, ÃÖ´ëÀü´Ü°­µµ, ÀÜ·ùÀü´Ü°­µµ, Àü´Ü°­¼º, ÆØÃ¢°¢, ÃÖ´ë ÃÊ´ç AE °ª µîÀÇ °á°ú¸¦ ºñ±³ÇÏ¿´´Ù. ¾ÏÁ¾º°·Î °ÅÀÇ °°Àº °ÅÄ¥±â¸¦ »ç¿ëÇÏ¿´°í, ¼öÁ÷ÀÀ·Â¿¡ ´ëÇÑ ¿µÇâÀ» ¾Ë¾Æº¸±â À§ÇØ 0.55 MPa, 1.66 MPaÀÇ µÎ ¼öÁ÷ÀÀ·Â¿¡ ´ëÇÏ¿© ½ÃÇèÇÏ¿´´Ù. ½ÇÇè°á°ú´Â Table 4.4¿¡ º¸¿©Áö°í ÀÖ´Ù.  
+Fig 4.47 ¿¡¼­ Fig 4.51±îÁö´Â È­°­¾Ï ½Ã·á¿¡ ´ëÇÑ µÎ¹æÇâ  Àü´Ü½ÃÇè¿¡¼­ ¾òÀº °á°úÀÌ´Ù. ÀüÃ¼ÀûÀ¸·Î Àü´ÜÀúÇ× °ªµéÀº Àü´Ü¹æÇâ¿¡  ±íÀº °ü·ÃÀ» °¡Áö°í º¯ÇÏ°í ÀÖ´Ù. ÆØÃ¢°¢µµ ¸¶Âù°¡Áö·Î Àü´Ü¹æÇâ°ú ±íÀº °ü°è¸¦ °¡Áö°í ÀÖ´Â °ÍÀ¸·Î ³ªÅ¸³µ´Ù. ±×·¯³ª ÃÖ´ë ÃÊ´ç AE °ª¿¡¼­´Â ÀÌ·± Çö»óµéÀÌ º¸ÀÌÁö ¾Ê´Âµ¥ ÀÌ´Â AE¿¡ Á÷Á¢ÀûÀ¸·Î °ü·ÃµÈ 2Â÷°ÅÄ¥±â°¡ 1Â÷ Àü´Ü½Ã¿¡ »ó´çÈ÷ ÆÄ±«µÇ±â ¶§¹®À¸·Î ÆÇ´ÜµÈ´Ù. 
+´ë¸®¼®ÀÇ °æ¿ìµµ  ÃÖ´ëÀü´Ü°­µµ ¹× ÀÜ·ùÀü´Ü°­µµ µîÀÌ  Àü´Ü¹æÇâ¿¡ ¿µÇâÀ» ¹Þ°í ÀÖ´Â °ÍÀ» º¼¼öÀÖ´Ù. ±×·¯³ª È­°­¾Ï¿¡ ºñÇÏ¿© ±× º¯È­ÆøÀÌ ÀÛÀºµ¥, ÀÌ´Â ´ë¸®¼®ÀÇ Àý¸®¾ÐÃà°­µµ°¡ È­°­¾Ï¿¡ ºñÇÏ¿© ¾ÆÁÖ ÀÛ°í, Àü´Ü½ÃÇè½Ã °Å¯s¸éÀÇ ÆÄ±«°¡ È­°­¾Ï¿¡ ºñÇØ  ±¤¿ªÀûÀ¸·Î ÀÏ¾î³²À¸·Î ÀÎÇØ »ý±â´Â Çö»óÀ¸·Î »ý°¢µÈ´Ù. 
+Fig 4.52¿¡¼­ Fig 4.56Àº ´ë¸®¼®ÀÇ µÎ¹æÇâ Àü´Ü½ÃÇè¿¡¼­ ±¸ÇÑ  ¿©·¯ Àü´ÜÆ¯¼ºÀÇ º¯È­ ¹× ÃÖ´ë ÃÊ´ç AE °ª¿¡ °üÇÑ °á°úÀÌ´Ù. 
+
+
+
+5. °á·Ð
+
+ºÒ¿¬¼Ó¸éÀ» Æ÷ÇÔÇÑ ¾Ï¹ÝÀÇ ¿ªÇÐÀû °Åµ¿À» Æò°¡ÇÏ°í ¿¹ÃøÇÏ±â À§ÇØ¼­´Â Àý¸®ÀÇ ¿ªÇÐÀû Æ¯¼ºÀ» Á¤È®È÷ ±Ô¸íÇØ¾ß ÇÏ¸ç,  ºÒ¿¬¼Ó¸é¿¡ ´ëÇÑ ¼¼½ÉÇÑ °üÃøÀÌ ÇÊ¼öÀûÀ¸·Î ¿ä±¸µÈ´Ù. µû¶ó¼­ º» ¿¬±¸¿¡¼­´Â ¾Ï¼®Àý¸®¸éÀÇ Àü´Ü½ÃÇè½Ã ¹ß»ýµÇ´Â AEÀÇ Æ¯¼º°ú Àü´Üº¯ÇüÆ¯¼º,  ±×¸®°í Àü´Ü¹æÇâ¿¡ ´ëÇÑ Àü´ÜÀúÇ×ÀÇ º¯È­¿¡ ´ëÇØ ¾Ë¾Æº¸±â À§ÇÏ¿© È²µîÈ­°­¾Ï°ú ÀÍ»ê´ë¸®¼®À» ½á¼­ Á÷Á¢Àü´Ü½ÃÇèÀ» ½Ç½ÃÇÏ¿´´Ù. 
+º» ¿¬±¸¿¡¼­ ¾ò¾îÁø ÁÖ¿ä °á°ú´Â ´ÙÀ½°ú °°´Ù. 
+
+1) È­°­¾Ï½Ã·á¿¡ ´ëÇÑ Àü´Ü½ÃÇè¿¡¼­  °ÅÄ¥±â°¡ Ä¿Áú¼ö·Ï ÃÖ´ëÀü´Ü°­µµ, ÀÜ·ùÀü´Ü°­µµ, Àü´Ü°­¼º, ÆØÃ¢°¢ÀÌ Ä¿Á³´Ù. ±×·¯³ª ´ë¸®¼®¿¡¼­´Â °Å¯s¸é ÀÚÃ¼ÀÇ °­µµ°¡ ÀÛÀº ÀÌÀ¯¶§¹®¿¡ °ÅÄ¥±â°¡ Àü´ÜÆ¯¼º¿¡ ¿µÇâÀ» ´ú ¹ÌÄ¡´Â °ÍÀ¸·Î ³ªÅ¸³µ´Ù. 
+2)  È­°­¾Ï, ´ë¸®¼® ½Ã·á ¸ðµÎ¿¡¼­ ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áú¼ö·Ï ÃÖ´ëÀü´Ü°­µµ, ÀÜ·ùÀü´Ü°­µµ, Àü´Ü°­¼º µîÀÇ °ªÀº Áõ°¡ÇÏ¿´Áö¸¸  ÆØÃ¢°¢Àº ´õ ÀÛ¾ÆÁ³´Ù. ÀÌ´Â ¼öÁ÷ÀÀ·ÂÀÌ ÆØÃ¢À» ¾ïÁ¦ÇÏ·Á´Â ÈûÀ¸·Î ÀÛ¿ëÇÏ±â ¶§¹®À¸·Î ÆÇ´ÜµÈ´Ù. 
+3) È­°­¾ÏÀÇ Àü´Ü½ÃÇè½Ã ¹ß»ýÇÏ´Â AE´Â Àü´ÜÀÀ·ÂÀÌ ¼±ÇüÀûÀ¸·Î Áõ°¡ÇÏ´Â ÃÊ±â¿¡´Â ¾ÆÁÖ ÀÛÀº °ªÀÌ  ÃøÁ¤µÇ´Ù°¡ ÃÖ´ëÀü´Ü°­µµ¿¡¼­ ÀÜ·ùÀü´Ü°­µµ·Î ¶³¾îÁö´Â ÁöÁ¡¿¡¼­ ÃÊ´ç AE °ªÀÇ ÃÖ´ëÄ¡°¡ ÃøÁ¤µÇ¾úÀ¸¸ç, ÀÜ·ùÀü´Ü°­µµ ¼öÁØ¿¡¼­´Â °©ÀÛ½º·±ÀÀ·Â°¨¼Ò°¡ ÀÏ¾î³ª´Â ÁöÁ¡¿¡¼­ ¸¹Àº ¾çÀÇ AE°¡ ÃøÁ¤µÇ¾ú´Ù. ´ë¸®¼®ÀÇ °æ¿ì´Â È­°­¾Ï°ú´Â ´Þ¸® ½ÇÇèÀÇ Àü ±¸°£¿¡ °ÉÃÄ¼­ È­°­¾Ï¿¡ ºñÇØ ¾ÆÁÖ ÀÛÀº ÃÊ´ç AE °ªÀÌ  ÃøÁ¤µÇ¾úÀ¸³ª,  Àü´ÜÀÀ·ÂÀÌ °¨¼ÒµÉ ¶§ AE°¡ ÃøÁ¤µÇ´Â Çö»óÀº ºñ½ÁÇÏ°Ô ÀÏ¾î³µ´Ù. 
+4) È­°­¾ÏÀÇ Àü´Ü½ÃÇè¿¡¼­ ÃøÁ¤ÇÑ ÃÖ´ë ÃÊ´ç AE °ªÀº °ÅÄ¥±â, ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áü¿¡ µû¶ó ±× Å©±âµµ Áõ°¡ÇÏ¿´´Ù. ±×·¯³ª ´ë¸®¼®¿¡¼­´Â ÀÌ Çö»óÀÌ °üÃøµÇÁö  ¾Ê¾Ò´Âµ¥, ±× ÀÌÀ¯´Â ½Ã·áÀÇ °Å¯s¸éÀÌ »ó´ëÀûÀ¸·Î ¾àÇÏ¸ç, ÀüÃ¼ AEÀÇ Å©±â°¡ È­°­¾Ï¿¡ ºñÇØ ¸Å¿ì ÀÛ±â ¶§¹®À¸·Î »ý°¢µÈ´Ù.
+5) AEÀÇ ÁÖÆÄ¼ö¸¦ ºÐ¼®ÇÑ °á°ú, È­°­¾Ï¿¡¼­ ÃøÁ¤µÈ AE½ÅÈ£´Â ÃÖ´ë ÃÊ´ç AE °ªÀÌ  ÃøÁ¤µÉ ¶§ ÀüÃ¼ÀûÀÎ ÁÖÆÄ¼öÀÇ »ó´ëÁøÆøÀÌ Ä¿Á³À¸¸ç, ÀÏÁ¤ ¼öÁ÷ÀÀ·ÂÇÏ¿¡¼­´Â  ÀüÃ¼ÀûÀ¸·Î ºñ½ÁÇÑ °æÇâÀ» ³ªÅ¸³Â´Ù. ÃÖ´ëÁøÆø ÁÖÆÄ¼ö´Â È­°­¾ÏÀÇ °æ¿ì 100 kHz ºÎ±Ù¿¡¼­ ³ªÅ¸³µ°í, ´ë¸®¼®ÀÇ °æ¿ì´Â 900 kHz ºÎ±Ù¿¡¼­ ³ªÅ¸³µ´Ù. µÎ ¾ÏÁ¾ ¸ðµÎ¿¡¼­ ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áú¼ö·Ï  ÁøÆøÀÇ ºÐÆ÷ ¾ç»óÀÌ ÀüÃ¼ ÁÖÆÄ¼ö´ë¿ªÀ¸·Î ºÐ»êµÇ¾î°¡´Â °æÇâÀ» º¸¿´´Ù. 
+6) ¹Ýº¹½ÇÇè¿¡ ÀÇÇÑ È­°­¾ÏÀÇ Àü´Üº¯Çü°Åµ¿¿¡¼­, ÃÖ´ëÀü´Ü°­µµ´Â 1Â÷ Àü´ÜÀÌÈÄ 50% ¼öÁØÀÌÇÏ·Î ¶³¾îÁö¸ç Á¡Á¡ ÀÏÁ¤ÇÑ °ªÀ¸·Î ¼ö·ÅµÇ¾ú´Ù. 1Â÷ Àü´Ü°ú 2Â÷ Àü´Ü»çÀÌÀÇ ÃÖ´ëÀü´Ü°­µµ Â÷ÀÌ´Â °ÅÄ¥±â°¡ Ä¿Áú¼ö·Ï ½ÉÇØÁ³´Ù. Àü´Ü°­¼ºÀº ÀÏÁ¤ÇÑ ±â¿ï±â¸¦ °¡Áø Á÷¼±ÀÇ ÇüÅÂ·Î °¨¼ÒÇÏ¸ç, ÃÖ´ë ÃÊ´ç AE °ª, ÆØÃ¢°¢ µîÀº ÃÖ´ëÀü´Ü°­µµ¿Í ºñ½ÁÇÑ °æÇâÀ¸·Î °¨¼ÒÇÏ¿´´Ù. ±×·¯³ª °¨¼ÒÇüÅÂ¿¡ °ü°è¾øÀÌ  Àü´Ü°­¼º ,ÃÖ´ë ÃÊ´ç AE °ª, ÆØÃ¢°¢ µîÀÇ °ªµéµµ °ÅÄ¥±â°¡ Ä¿Áú¼ö·Ï ¹Ýº¹½ÇÇè¿¡ ÀÇÇÑ °¨¼ÒÀ²ÀÌ Ä¿Áö´Â Çö»óÀ» ³ªÅ¸³»¾ú´Ù.  
+´ë¸®¼®ÀÇ °æ¿ì¿¡¼­´Â °ÅÄ¥±â°¡ Ä¿Áú¼ö·Ï ¹Ýº¹½ÇÇè¿¡ ÀÇÇØ Àü´Ü°­¼º ,AE, ÃÖ´ëÀü´Ü°­µµ µîÀÇ °¨¼ÒÀ²ÀÌ Ä¿Áö´Â Çö»óÀº ¹ß°ßµÇÁö ¾Ê¾Ò´Ù. ÀÌ´Â ´ë¸®¼®ÀÇ °æ¿ì Àý¸®¸é ¾ÐÃà°­µµ ÀÚÃ¼°¡ È­°­¾ÏÀÇ 1/3 Á¤µµ·Î ÀÛ¾Æ °ÅÄ¥±â°¡ Àü´ÜÆ¯¼º¿¡ ¿µÇâÀ» Àû°Ô ÁÖ±â ¶§¹®À¸·Î ÆÇ´ÜµÈ´Ù. 
+7) ¼öÁ÷ÀÀ·ÂÀÌ Ä¿Áü¿¡ µû¶ó Àü´ÜÈ½¼ö¿¡ ´ëÇÑ Àü´ÜÀúÇ×ÀÇ °¨¼ÒÀ²Àº ´õ ÄÇÀ¸¸ç ÀÌ Çö»óÀº ´ë¸®¼®, È­°­¾ÏÀÇ °æ¿ì ¸ðµÎ¿¡¼­ ³ªÅ¸³µ´Ù. ÆØÃ¢°¢ÀÇ °æ¿ì´Â  ¼öÁ÷ÀÀ·ÂÀÌ ÀÛÀº °æ¿ì°¡ ÃÊ±â°ªÀÌ Å©±â ¶§¹®¿¡ ±× °¨¼ÒÆøÀÌ Å©°Ô ³ªÅ¸³µ´Ù. ±×·¯³ª ÃÖ´ë ÃÊ´ç AE °ªÀº È­°­¾Ï¿¡¼­¸¸ Àü´ÜÈ½¼ö¿¡ µû¶ó ±× °¨¼ÒÀ²ÀÌ  ´õ Å« Çö»óÀÌ ³ªÅ¸³µ°í, ´ë¸®¼®¿¡¼­´Â Æ¯º°ÇÑ º¯È­¾ç»óÀÌ ³ªÅ¸³»Áö ¾Ê¾Ò´Ù. 
+8)  Àü´Ü¹æÇâ¿¡ µû¸¥ Àü´ÜÀúÇ×ÀÇ º¯È­¸¦ ¾Ë¾Æº¸±â À§ÇØ Àü´ÜÀÇ ¹æÇâÀ» ¹Ù²Ù¾î ½ÃÇèÇÑ °á°ú È­°­¾Ï¿¡¼­´Â Àü´ÜÀúÇ×ÀÌ Àü´Ü¹æÇâ¿¡ Å« ¿µÇâÀ» ¹Þ´Â°ÍÀ¸·Î ³ªÅ¸³µ´Ù. ±×·¯³ª, ÃÖ´ë ÃÊ´ç AE °ªÀº  Àü´Ü¹æÇâ¿¡ °ü°è¾øÀÌ Áö¼öÇÔ¼öÀûÀ¸·Î  °¨¼ÒÇÏ¿´´Âµ¥, ÀÌ´Â 1Â÷ Àü´Ü½Ã 2Â÷°ÅÄ¥±âÀÇ ÆÄ±«·Î ¸»¹Ì¾Ï¾Æ ÀÏ¾î³ª´Â Çö»óÀ¸·Î  º¸ÀÎ´Ù. ´ë¸®¼®¿¡¼­µµ  Àü´ÜÀúÇ×µéÀÌ Àü´Ü¹æÇâ°ú °ü·ÃÇÏ¿© ¿µÇâÀ» ¹Þ´Â °ÍÀ¸·Î ³ªÅ¸³µÀ¸³ª ±× Á¤µµ´Â È­°­¾Ï¿¡¼­º¸´Ù ½ÉÇÏÁö ¾Ê¾Ò´Ù. ÀüÃ¼ÀûÀ¸·Î Àý¸®¸é ÀÚÃ¼ÀÇ °­µµ¿Í °ÅÄ¥±âÀÇ Çü»óÀÌ  ½ÃÇè¹æÇâ¿¡ µû¸¥ Àü´ÜÆ¯¼ºµéÀÇ º¯È­¿¡ Á÷Á¢ÀûÀ¸·Î °ü¿©ÇÏ´Â °ÍÀ¸·Î ÆÇ´ÜµÈ´Ù. 
+
+</tdmsfiletext>

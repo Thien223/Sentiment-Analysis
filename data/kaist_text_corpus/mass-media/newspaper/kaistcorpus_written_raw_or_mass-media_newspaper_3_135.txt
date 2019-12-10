@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_135.txt </filename>
+<title> 조선일보  </title>
+<author> 승인배(기자)</author>
+<date> 93.06.03</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0702CSM930603
+{승인배}
+“미국이 놀때 일본은 일했다”/신한은 주관 중기근로자 일 연수현장
+◎「초일류 생산현장」 자신감 넘쳐/70대 그룹총수 연수단에 90도
+인사/“제조업 기피하면 낙오할것”/고객제일주의 「제2의 생산」 인식※
+『일본 자동차가 미국시장을 석권하게 된 비결은 무엇입니까.』※ 『첫째는
+미국인들이 게을렀기 때문이고, 다른 하나는 시장의 변화, 즉
+소비자들의변화하는 요구에 부응하지 못했기 때문입니다.※ 미국은 스스로 노력은
+않고 문�%
+</tdmsfiletext>

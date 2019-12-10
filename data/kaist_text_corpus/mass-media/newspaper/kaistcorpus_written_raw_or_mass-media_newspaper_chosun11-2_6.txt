@@ -1,0 +1,62 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-2_6.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-2_6.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.02 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.01</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/ [여야] 휴일없는 '양심수 사면'공방, 11-2.hwp/Titleend
+Inf/조선일보, 1997년 11월 2일 /Infend
+Text/ 
+                     신한국, 두야당 단일화서명식 국회개최 비난 
+
+                     신한국당 具凡會부대변인은 2일 국민회의와 자민련이 3일
+                     후보단일화 서명식을 국회에서 개최키로 한 것에 대해 성명을
+                     내고 金大中.金鍾泌 총재는 『권력나눠먹기 야합의 계약서
+                     작성장소로 민의의 전당인 국회를 복덕방 삼는 부끄러운
+                     오욕의 역사만들기 계획을 즉각 취소해야 한다』고 주장했다.
+
+                     具부대변인은 『국민의 이익과는 전혀 관계없이 집권만하면
+                     두 金총재가 대통령과 수상직을 번갈아 나눠갖겠다는
+                     밀실야합계약서 작성을 위해 마치 결혼식장 임대하듯
+                     국회시설을 빌려 쓰려하는 것은 반국민적이고 국회모독
+                     행위』라고 말했다. 
+
+     11/02(일) 20:14 
+
+
+   지난기사 
+   기사검색 
+   독자투고 
+   서비스지도 
+ ▼부가서비스
+   테마퀴즈 
+   클럽시네마 
+   가요베스트20 
+   북리뷰 
+   갤러리조선 
+   미팅정보듀오 
+   추천사이트 
+   게임동산 
+   대학위성강좌 
+   사이버인터뷰 
+   2002월드컵 
+   만화모음 
+   인물DB 
+   부동산뱅크 
+   유학세계 
+   산수도인운세 
+   특허검색 
+/Textend 
+</tdmsfiletext>

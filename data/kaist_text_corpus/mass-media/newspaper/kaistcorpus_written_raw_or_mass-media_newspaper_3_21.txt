@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_21.txt </filename>
+<title> 조선일보  </title>
+<author> 송양민(기자)</author>
+<date> 93.05.13</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0588CSM930513
+[요즘일본경제계]
+{송양민}
+희망퇴직제 30대로 확대(요즘 일본경제계:상)
+◎서열­종신제 「신화」 붕괴… 연봉제 늘어/대졸 신입사원 내정자에
+「해고통지서」도※ 불황이 엄습한 일본경제가 요즘 큰 변화를 겪고 있다.
+종신고용제 등 전통적 경영제도가 붕괴되는 한편에서 경영구조 개편의
+바람이 거세게 불고 있다. 최근 3주간 일본을 돌아보고 온 송양민기자가
+일본경제의 요즘상황을 상 중 하 3회로 나눠 소개한다.＜편집부＞※ 지난
+4월말 일본 신%
+</tdmsfiletext>

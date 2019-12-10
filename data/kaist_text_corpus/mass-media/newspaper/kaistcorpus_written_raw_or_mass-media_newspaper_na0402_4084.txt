@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_4084.txt </filename>
+<title> 조선일보  </title>
+<author> 서홍관(기자)</author>
+<date> 93.05.02</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.4039CSM930502    
+［건강메모］                                                                  
+｛서홍관｝                                                                    
+코피  날땐  눕히지  말아야（건강  메모）                                      
+  코피  흘리는  아이를  보면  눕히는  어른들이  흔한데  이는  좋지  못한 
+행동이다．  코피가  코뒤를  통해  기도로  들어갈  수  있기  때문이다．  이  경우 
+기도가  막혀  호흡곤란이  생길  수  있다．※  따라서  코피를  흘리게  되면 
+상체를  세운  자세에서  머리를  뒤로  약간  젖히도록  해야  한다．  그리고 
+콧날개를  가능한  한  깊이  잡아  콧구멍을  두개로  나누는  물렁뼈  앞부분을  꼭 
+눌러주어야  한다．  이렇게  ４∼５분이  지난  후에도  지혈이  되지  않으면 
+바세린을  바른  솜을  넣어주는  것이  좋다．※  대개의  경우  코피를  많이 
+흘리는  아이들은  코를  후비는  버릇이  있어서  코의  점막이  상하기  때문이다． 
+이런  아이들은  코  후비는  버릇을  고치도록  주의를  주어야 
+한다．〈서홍관·서울백병원  가정의학과장〉※                                                 
+
+</tdmsfiletext>

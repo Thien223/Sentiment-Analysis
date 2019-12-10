@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-13_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.13 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+제주 주둔 일본군 항복문서 공개
+
+
+⊙류근찬 앵커 :
+          한림대학교 아시아 문화연구소는 오늘 최근 미국 워싱턴 국립
+문서보관소에서 발견한 제주 주둔 일본군의 항복문서를 공개했습니다. 1945년
+9월28일 조인된 이 항복문서에는 당시 제주도에 주둔하고 있던 6만 일본군이
+한국인들의 폭동으로 부터 자신을 보호하기 위한 최소한의 무기만을 소지한 채
+무조건 항복한다는 내용이 기록돼 있습니다. 
+</tdmsfiletext>

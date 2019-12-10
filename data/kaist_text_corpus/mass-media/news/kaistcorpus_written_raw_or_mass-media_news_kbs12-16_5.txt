@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-16_5.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.16 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"월하스님 휘호 정치이용 분개"
+
+
+⊙류근찬 앵커 :
+          국민회의 유종필 부대변인은 오늘 조계종 월하스님이 한나라당 이회창
+후보의 필승을 기원했다는 한나라당의 주장과 관련해서 월하스님이 반박
+성명서를 통해서 지난달 한나라당에서 요구한 대로 글을 써줬을 뿐이며 이를
+두고 서로 왈가왈부 하는 것은 자신에 대한 모독이라고 밝혔다고 전해
+드립니다. 
+
+</tdmsfiletext>

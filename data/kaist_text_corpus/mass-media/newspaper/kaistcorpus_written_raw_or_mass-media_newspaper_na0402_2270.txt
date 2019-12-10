@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2270.txt </filename>
+<title> 조선일보  </title>
+<author> 김호연(기자)</author>
+<date> 93.10.11</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2322CSM931011    
+［건강메모］                                                                  
+｛김호연｝                                                                    
+관절：２／일할때는  강한  관절  사용을（건강메모）                            
+  사람은  나이가  들면  관절내  연골의  수분이  빠져  여러가지  생화학적 
+변화를  겪게  되며  이는  탄력성  상실이라는  결과로  나타난다．연골이  기능을 
+상실해서  나타나는  대표적인  증상이  계단을  오르내릴  때  무릎이  몹시 
+아프거나  의자에서  일어날  때  관절이  뻣뻣해짐을  느끼는  것이다．  이럴  때는 
+일상생활에서도  항상  관절손상이  없도록  조심해야  한다．※  먼저  일할  때 
+가장  강하고  힘센  관절과  근육을  사용해야  한다는  점을  명심해야  한다． 
+즉  무거운  물건을  옮길  때  손가락보다  손바닥，  손바닥보다  팔을  써야 
+한다．  그리고  서  있거나  특정  관절을  많이  사용하는  작업을  할  때  최소한 
+３０분마다  관절의  휴식이  필요하다．〈김호연  가톨릭의대  교수·내과〉※   
+
+</tdmsfiletext>

@@ -1,0 +1,20 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_232.txt </filename>
+<title> 조선일보  </title>
+<author> 김철</author>
+<date> 93.06.13</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0800CSM930613
+「대미채널 개설」 북 최대성과/미­북회담을 보고…/김철 국제부장
+◎북,핵을 「미­북문제」 국한 성공/미는 「인질」 삼으려다
+당한꼴/「포괄협상」… 당사자한국 제쳐놔※○체임벌린같은 모습※ 뉴욕은 뮌헨인가※
+미­북한회담을 끝낸 갈루치의 모습은 1938년 런던공항서 「평화가
+여기있다」고 뮌헨회담합의문을 흔들던 체임벌린의 모습같았다. 체임벌린과
+프랑스의 달라디에는 히틀러의 공갈에 속아 체코의 수데텐을 독일에
+할양하는데동의했다. 그%B
+</tdmsfiletext>

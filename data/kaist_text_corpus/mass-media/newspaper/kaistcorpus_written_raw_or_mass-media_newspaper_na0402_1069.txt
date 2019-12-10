@@ -1,0 +1,25 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_1069.txt </filename>
+<title> 조선일보  </title>
+<author> 이경희(기자)</author>
+<date> 93.07.09</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.1076CSM930709    
+｛이경희｝                                                                    
+어깨근육통땐  중지  중간부위  자극／수지침：４（건강메모）                    
+  나이가  많을  때  운동량이  많고  원기가  부족하면  근육에  피로물질이 
+축적되어  근육통을  일으킨다．  특히  ４０­５０대는  승모근（어깨  위에  있는 
+근육）이  긴장되어  통증과  함께  운동곤란을  일으키는  사람이  대단히  많다． 
+이럴  경우  지압을  하면  반습관성이  되어  계속  지압으로  풀어야  하는 
+단점이  있다．※  그러나，  중지의  Ｍ１１  부분을  볼펜자루로  굴려  힘을 
+가하면  상응점（제일  아픈  곳）이  나타난다．  여기에  수지침을  놓거나 
+압박자극을  주면  통증과  운동곤란은  속히  해소된다．※  압봉이나 
+서암뜸（온열자극법），  은박지구（은박지를  뭉쳐  녹두만하게  만든  것）를  붙여도  마찬가지 
+효과가  있다．〈이경희·서울  한도한의원장·의학박사〉※                         
+
+</tdmsfiletext>

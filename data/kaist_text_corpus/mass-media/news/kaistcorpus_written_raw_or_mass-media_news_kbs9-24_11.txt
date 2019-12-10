@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-24_11.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.24  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+北돕기 민간 구호물자 수송선 출발
+굶주림에 시달리고 있는 북한 어린이들을 돕기 위한 민간 차원의 구 호물자
+수송선이 오늘 부산항을 출발했습니다. 오늘 오전 11시 우리 국적선 2천5백톤급
+장영 로스호는 천5백여톤의 구호물자를 싣고 부산항 7부두를 떠나서 북한
+흥남항으로 향했습니다. 
+
+
+"김정일, 北병영체제로 운영 가능성"
+국가 비상기획위원회가 오늘 21세기 한반도 안보정세 변화와 북한의 대남정책
+전망이라는 주제로 연 세미나에서 주제발표에 나선 김국진 외교안보연구원
+교수는 김일성과 비교해서 카리스마가 약한 김정일이 북한의 현 위기상황을
+극복하기 위해서 개혁 개방정책을 펴기 보다는 군부에 의존하는 병영체제로
+북한을 몰고갈 가능성이 높다고 전망했 습니다. 
+</tdmsfiletext>

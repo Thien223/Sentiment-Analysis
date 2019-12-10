@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-10_13.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+광고의 질 향상.경쟁력 제고 세미나
+
+국제화 시대를 맞아서 우리나라 광고의 질을 높이고 경쟁력을 키우 기 위한
+세미나가 오늘 오후 한국 방송광고공사 주최로 프레스 센터에서 열렸습니다.
+광고정 보 지령 2백회 기념으로 열린 오늘 세미나에서는 우리 광고의 저질
+선정성 문제를 극복하고 올바른 문화매체로 자리잡기 위한 방안들을
+논의했습니다. 
+
+
+
+
+</tdmsfiletext>

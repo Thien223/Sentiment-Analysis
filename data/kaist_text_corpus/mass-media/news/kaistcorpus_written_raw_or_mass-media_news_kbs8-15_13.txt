@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-15_13.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.15 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+日각료 8명 야스쿠니 신사 참배
+일본의 패전 기념일인 오늘 일본 각료 8명이 야스쿠니 신사를 참배 했습니다.
+오늘 야스쿠니 신사를 참배한 각료는 고이즈미 후생상과 이토오 국토청장관
+사토 통산상 고가 운수상 호리 우정상 등이며 마쓰우라 법상 등 4명은 미리
+참배를 마쳤습니다. 
+</tdmsfiletext>

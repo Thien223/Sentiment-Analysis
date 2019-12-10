@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-23_16.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.23 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+항공기 사고 대비 민.관.군 합동훈련
+
+항공기 추락사고에 대비한 민.관.군 합동 인명구조훈련이 오늘 경기 도 성남
+비행장에서 열렸습니다. 20여개 기관에서 헬기 4대와 구급차 10여대 등이
+동원된 오 늘 훈련에서는 항공기 사고가 일어났을 때 관계기관들이 현장
+지휘소와 응급의료소를 설치해 서 효율적으로 역할을 분담하고 응급
+구조활동을 벌이는 훈련이 집중적으로 실시됐습니다.
+
+
+</tdmsfiletext>

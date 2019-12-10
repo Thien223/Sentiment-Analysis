@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_1071.txt </filename>
+<title> 조선일보  </title>
+<author> 한삼희(기자)</author>
+<date> 93.07.09</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.1078CSM930709    
+［생활속의환경운동］                                                          
+｛한삼희｝                                                                    
+린스대신  식초  사용하자（생활속의  환경운동：８５）                          
+◎야채­우동  데친물  훌륭한  천연세척제  합성세제는  하천의  부영양화를 
+일으키는  주범이다．  합성세제의  성분인  인（인）이  물에  풀리게  되면  인을 
+영양원으로  하는  물속의  생물이  지나치게  증식，  물속  산소를  소모하기 
+때문이다．  물을  썩히기때문에  악취의  원인이기도  하다．  이런  합성세제를 
+대신할  수  있는  천연세제가  우리  주변에는  많다．  머리를  감을  때  쓰는 
+린스는  식초나  동백기름을  대신  쓸  수  있다．  한두방울  대야물에  떨어뜨려 
+머리를  헹구면  된다．  쌀뜨물이나  야채  데친  물은  식기세척용으로 
+훌륭하다．  우동  데친  물의  세척효과도  상당한  것으로  알려져  있다．  다만 
+쌀뜨물은  그  자체의  오염도가  높기  때문에  가급적  배수구로  버리지  말고  화초에 
+주는  것이  좋다．〈한삼희기자〉※                                           
+
+</tdmsfiletext>

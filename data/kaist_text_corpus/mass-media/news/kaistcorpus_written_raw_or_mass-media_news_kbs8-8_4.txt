@@ -1,0 +1,33 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-8_4.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.8.8  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+신한국당 당직자 이.취임식
+
+
+⊙황수경 앵커 :
+          신한국당은 주요 당직개편에 따라서 오늘 전현직 당직자 이.취임식을 갖고
+대선 필승의 결의를 다졌습니다. 이회창 대표는 오늘 이.취임식에서 신임
+당직자들이 진용을 가다듬어 어려운 일이라도 능히 해낼 수 있다는 자신감을
+가지고 임해달라고 당부했 습니다. 
+
+항공안전입법 정기국회서 추진
+
+국민회의는 오늘 간부 간담회와 KAL기 사고 대책위원회를 잇따라 열어서
+항공안전을 보장할 수 있는 제도정비를 위해 관련 법률의 제정과 개정을 이번
+정기국 회에서 추진하기로 했습니다. 
+
+예산2조원 절감 등 추가대책 필요
+
+강경식 경제부총리는 오늘 개각이후 처음 열린 경제장관 회의에서 3 조5천억원
+규모로 예상되는 올해 세수 결손을 메우기 위해서 경상경비를 줄이고 급하지
+않은 사업비의 배정을 미루는 등 약 2조원을 절감하는 방안 외에 추가대책을
+마련할 필요가 있다 고 말했습니다. 
+</tdmsfiletext>

@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-29_15.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.29 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+부천 국제영화제 개막
+
+
+
+⊙황수경 앵커 :
+          환상과 모험의 영화잔치인 제1회 부천 국제영화제가 오늘 저녁 부천
+시민회관에서 개막식을 시작으로 막이 올랐습니다. 다음달 5일까지 8일 동안
+계속될 부천 국 제영화제에는 27개 나라 114개 작품이 부천시내 6개 상영관에서
+하루종일 상영되는 등 다채 로운 행사가 이어집니다. 
+</tdmsfiletext>

@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-19_15.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.18 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.06</kdc>
+<tdmsfiletext>
+KIST, 고효율 폐수처리장치 개발
+염색 폐수나 축산폐수를 수돗물처럼 깨끗하게 처리할 수 있는 고 효율
+폐수처리 장치가 개발됐습니다. 한국 과학기술연구원 환경수질 연구팀은
+기존의 정화장치로는 완전분해가 불가능했던 유기물들을 고령토와
+산화마그네슘으로 만든 분해 촉매제로 완벽하게 정화할 수 있는 신기술을
+개발했다고 밝혔습니다. 
+
+
+</tdmsfiletext>

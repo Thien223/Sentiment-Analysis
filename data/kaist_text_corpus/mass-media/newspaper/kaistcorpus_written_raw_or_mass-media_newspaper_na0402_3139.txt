@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_3139.txt </filename>
+<title> 조선일보  </title>
+<author> 박선이(기자)</author>
+<date> 93.01.08</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.3094CSM930108    
+｛박선이｝                                                                    
+공연장  어린이  「놀이방」                                                    
+  어린  자녀  때문에  극장갈  기회를  내기가  어려운  주부를  위해  낮 
+공연시간  동안  공연장에  「놀이방」이  운영된다．  여성문화예술기획은  「여성의 
+자각」을  주제로  한  연극  「자기만의  방」  １월  연장공연을  서울  종로구 
+동숭동  낙산극장으로  옮겨가면서  매주  금요일  오후  ２시  공연에  특별 
+놀이방을  운영한다．※  극장에서  가까운  흥사단  건물  ３층에  마련된  놀이방은 
+장난감과  그림책을  갖추고，  보모  ２명이  젖먹이부터  국민학생까지 
+맡아준다．※  『여성문제를  생각하는  공연을，  정작  여성들  자신은  아이와  가사 
+때문에  못보는  일이  많다는데  새삼  놀랐다』고  밝히는  이혜경 
+여성문화예술기획  대표는  밤  ９시에  끝나는  저녁공연도  부담스럽다는  주부관객이  많아 
+낮공연을  주  １회  금요일  오후  갖게됐다고  밝혔다．〈박선이기자〉※           
+
+</tdmsfiletext>

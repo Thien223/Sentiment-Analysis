@@ -1,0 +1,27 @@
+<language> Koreaaan</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97111618.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.16 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+정명훈, 뉴욕필 지휘
+한국이 낳은 세계적인 지휘자 정명훈씨가 미국의 유명한 뉴욕 필하모닉 교향악단을 지휘해서 호평을 받았습니다.
+
+뉴욕에서 김진원특파원이 보도합니다. 세계정상의 뉴욕필 지휘봉을 잡은 정명훈씨, 
+정상의 지휘자가 단원 100여명과 빚어내는 베를리오즈의 환상교향곡은, 제목 그대로 객석을 꽉메운 뉴욕커들을 환상속으로 이끌었습니다.
+
+정명훈씨 지휘의 베를리오즈 환상교향곡은 지난 95년 일본에서 레코드 대상을 받았던 명연주이기도 합니다.
+
+관객 "정명훈의 지휘에 깊은 인상을 받았다"
+
+관객 "섬세하고 훌륭한 지휘였다"
+우리정부의 문화대사이기도 한 정명훈씨는 뉴욕필지휘에 이어서 다음달에는역시 세계 최정상인 메트로홀리탄 오페라를 지휘할 예정입니다.
+
+뉴욕에서 SBS 김진원입니다. 
+
+</tdmsfiletext>

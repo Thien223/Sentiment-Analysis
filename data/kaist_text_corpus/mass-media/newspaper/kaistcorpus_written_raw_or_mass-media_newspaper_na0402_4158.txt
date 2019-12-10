@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_4158.txt </filename>
+<title> 조선일보  </title>
+<author> 서홍관(기자)</author>
+<date> 93.05.12</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.4113CSM930512    
+［건강메모］                                                                  
+｛서홍관｝                                                                    
+실내환기는  낮에  해야（건강메모）                                            
+  도시인은  대부분  실내에서  생활한다．  도시인이  호흡하는  공기도  대부분 
+실내  공기일  수밖에  없다．  그러나，  밀폐된  실내  공기는  질산화물， 
+아황산가스，  석면，  라돈  등  해로운  물질을  내포하고  있어  질병의  원인이 
+될  수  있다．  여기에  담배연기까지  섞인다면  두통，  현기증，  집중력  저하 
+등의  증상이  즉각적으로  나타난다．※  바깥  공기가  오염되어  있다 
+하더라도  주기적인  환기가  필수적인  이유가  여기에  있다．  바깥  공기는  조금 
+나을  것이기  때문이다．  한가지  명심할  사실은  환기는  햇볕이  따사로운  낮에 
+하는  것이  좋다는  것이다．  왜냐하면  밤에는  일교차，  기압변화등의 
+이유로  오염된  공기가  땅표면  바로  위에  머물러  있는  경우가  많기 
+때문이다．〈서홍관·서울  백병원  가정의학과장〉※                                       
+
+</tdmsfiletext>

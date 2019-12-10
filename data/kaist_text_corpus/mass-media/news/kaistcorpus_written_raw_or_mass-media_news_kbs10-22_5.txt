@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-22_5.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+김 대통령, 군단장 보직신고 받아
+
+
+⊙류근찬 앵커 :
+          김영삼 대통령은 오늘 오전 청와대에서 중장으로 진급해서 새로 보직을
+받은 강신욱 1군단장과 박노숙 2군단장 그리고 박봉식 3군단장으로 부터
+각각 진급과 보직신고를 받고 빈틈없는 국가 방위태세 확립을 특별히
+당부했습니다. 
+
+
+</tdmsfiletext>

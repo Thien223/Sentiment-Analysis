@@ -1,0 +1,16 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga11-2-10.txt </filename>
+<title> 동아일보</title>
+<author> 문철(기자)</author>
+<date> 1997.11.02 </date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+韓－베트남 정책협의회 개최… 양국 협력증진 등 논의
+한국과 베트남은 수교 5주년을 맞아 3일 하노이에서 제3차 정책협의회를 갖고 경제 등 양국관계 전반의 협력증진과 () 및 아태경제협력체() 등 국제무대에서의 협력방안을 협의한다고 외무부가 2일 밝혔다.
+유광석(柳光錫)외무부 아태국장은 이번 회의에 참석한 뒤 5일부터 9일까지 인도와 스리랑카를 차례로 방문한다.
+
+</tdmsfiletext>

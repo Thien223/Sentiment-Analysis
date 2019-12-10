@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-26_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.26 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+신성우.채시라 파혼
+
+지난 5월에 약혼 발표로 관심을 불러일으켰던 톱스타 채시라 신성우 커플이
+파경을 맞았습니다. 이들 커플은 다음달에 결혼식을 올릴 예정이었으나 양측
+부모 사 이의 의견이 맞지 않아 갈등을 빚어오다가 결혼을 하지 않기로 하는데
+합의했다고 오늘 발표 했습니다. 
+</tdmsfiletext>

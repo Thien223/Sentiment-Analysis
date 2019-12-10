@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-1_13.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.1  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+재야단체, 대선후보 권영길씨 추천
+
+
+⊙황수경 앵커 :
+          국민연합과 민노총 등 재야단체들이 만든 가칭 국민승리 21추진위원회는
+오늘 오후 서울 여의도 여성 회관에서 국민후보 추천위원회 전체회의를 열고
+권영길 민 주노총 위원장을 대통령선거 후보로 추천했습니다. 
+</tdmsfiletext>

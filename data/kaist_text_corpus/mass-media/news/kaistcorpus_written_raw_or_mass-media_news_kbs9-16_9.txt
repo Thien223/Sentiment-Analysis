@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-16_9.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.9.16  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+수산물 수입급증
+
+
+
+⊙황수경 앵커 :
+          지난 7월 수산물 시장이 개방된후 값싼 외국산 수산물의 수입이 크게 늘고
+있습니다. 재정경제원이 내놓은 수산물 수입동향을 보면 조기의 경우 지난
+두달동안 모두 3천556톤이 수입돼서 지난해 연간 수입량 2천857톤을 이미
+넘어섰습니다. 또 지난해 수 입량이 715톤에 그쳤던 갈치의 경우도 지난 두달
+동안 2천5백톤이 수입되는 등 수입물량이 폭증하고 있습니다. 
+</tdmsfiletext>

@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-11_22.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.11  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+'TV토론위원회 발족'
+
+한국 기자협회와 경실련 등 9개 시민단체가 공동으로 참여한 TV토 론 위원회가
+오늘 발족됐습니다. 유재창 방송학회 회장은 TV토론은 정치적인 이해관계와 상
+업주의로 부터 자유롭고 독립적인 공정한 기구가 주관해야 한다면서 연말
+대통령 선거기간 중에 최소한 3회 이상 후보간 TV합동토론회를 성사시킬
+방침이라고 발표했습니다. 
+</tdmsfiletext>

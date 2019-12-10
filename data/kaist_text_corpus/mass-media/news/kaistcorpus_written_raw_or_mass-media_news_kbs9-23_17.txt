@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-23_17.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.23  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+몽골 무속공연단 방한
+
+한국과 몽골의 문화교류 2천년을 맞아서 몽골 무속공연단이 오늘 저 녁
+우리나라에 왔습니다. 몽골 무속공연단은 오는 26일부터 국립 민속박물관
+야외무대에서 굿공연을 통해서 몽골 무속의 실체를 보여주게 됩니다. 
+
+</tdmsfiletext>

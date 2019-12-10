@@ -1,0 +1,18 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-5_9.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.5  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+"北, 김정일 총비서로 추대할 듯"
+정부 당국자는 오늘 북한의 군 이상 지역과 연합기업소와 공장 등 생산 단위에서
+최근에 당위원의 대표선출을 위한 투표가 실시되고 있는 기미가 있다면서 이 는
+북한이 머지않아 당 대표자 회의를 열어 김정일을 총비서로 추대하기 위한
+사전작업으로 보인다고 말했습니다. 
+
+</tdmsfiletext>

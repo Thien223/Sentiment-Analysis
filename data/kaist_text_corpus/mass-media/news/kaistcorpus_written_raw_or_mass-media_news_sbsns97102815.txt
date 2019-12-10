@@ -1,0 +1,18 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102815.txt </filename>
+<title> SBS 뉴스</title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+일본 동반진출 기대
+벼랑끝에 몰린 일본축구대표팀이 오늘부터 한/일전에 대비한 합숙훈련에 들어갔습니다. 일본측은 한국내에 동반진출을 바라는 분위기가 일고 있다는 소식에 기대를 걸고 있는 모습입니다. 도쿄에서 김성우특파원이 전해드립니다. 한국내 일부에서 주말 한일축구전이 두나라에게 서로 좋은 결과가 나오기를 기대한다는 소식은 오늘 일본에서 큰 반향을 일으켰습니다. 
+그러나 일본 선수단의 사기는 아직 되살아나지 않은 분위깁니다. 
+성난 관중들이 집중적으로 비난했던 미우라 선수가 첫날부터 지각해 또다시 비난을 받았습니다. 
+나가누마축구협회 회장도 아직 예선전 경기가 남았는데도 불구하고 오는 2002년 월드컵애회를 대비해 선수단을 구성해야 한다고 발언해 벌써부터 항복선언을 한 것이라는 비판을 받았습니다. 
+도쿄에서 김성웁니다.
+</tdmsfiletext>

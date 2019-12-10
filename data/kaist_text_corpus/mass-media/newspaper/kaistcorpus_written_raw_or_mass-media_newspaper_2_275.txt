@@ -1,0 +1,17 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_2_275.txt </filename>
+<title> 조선일보  </title>
+<author> 박영철(기자)</author>
+<date> 93.05.03</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0551CSM930503
+{박영철}
+속도경쟁 치우쳐 안전소홀/고속열차 시대
+
+
+</tdmsfiletext>

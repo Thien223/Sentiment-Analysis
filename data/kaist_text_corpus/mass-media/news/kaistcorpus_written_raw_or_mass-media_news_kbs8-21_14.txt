@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-21_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.21 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+해태에 2백억 긴급지원
+
+
+⊙황수경 앵커 :
+          해태그룹의 주거래 은행인 조흥은행은 해태그룹의 해태상사가
+종합금융사들의 집단적인 자금회수로 자금난을 겪음에 따라서 2백억원의
+긴급자금을 지원했습니 다. 한편 오늘 주식시장에서는 해태그룹의 자금악화설이
+유토되면서 투자심리가 냉각돼 종합 주가지수가 어제보다 6.76포인트 떨어진
+739.47포인트로 마감됐고 해태제과 등 해태그룹의 3 개의 상장회사의 주가는
+모두 하한가를 기록했습니다. 
+
+</tdmsfiletext>

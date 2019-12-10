@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_155.txt </filename>
+<title> 조선일보  </title>
+<author> 윤희영(기자)</author>
+<date> 93.06.05</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0723CSM930605
+{윤희영}
+중국,「경제문제」싸고 보·혁투쟁 조짐
+◎과열 경기로 인플레 17% 상회/통화증가 37% 은행 인출
+사태/비상회의 곧 소집 책임문제 거론될듯※ 초고속 성장을 거듭하고 있는
+중국경제가 지나친 경기과열현상에 따른 인플레 상승등 심각한 부작용을 겪고
+있다.※ 이때문에 최근엔 당면 경제문제를 놓고 개혁파와 보수파간의
+노선투쟁이 다시 표면화되는 조짐마저 보이고 있다.※ 중국은 현재 생산원료
+가격및 소비자물가 상승이라는 「2고」현상�%
+</tdmsfiletext>

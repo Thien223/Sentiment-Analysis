@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-12_8.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.12 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+범민족 대회 원천 봉쇄
+대검찰청 공안부는 내일부터 사흘간 예정으로 열릴 제7차 범청학련 통일축전과
+제8차 범민족대회를 원천 봉쇄하기로 했습니다. 검찰은 오늘 좌익사범 합동수사
+본부 7차 실무협의회에서 이같은 방침을 정하고 이 대회에 참가하는 한총련
+중앙조직원은 전 원 구속 수사하기로 했습니다. 한편 8.15 범민족대회 개최
+보장을 요구하면서 어제 저녁 서 울 조계사에서 농성에 들어간 한총련 소속
+대학생 50여명은 현 정권이 8.15 범민족대회를 원 천봉쇄하기로 한 것은
+통일운동에 대한 명백한 탄압이라고 주장했습니다. 
+</tdmsfiletext>

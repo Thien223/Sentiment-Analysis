@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-4_6.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.04 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+방사능 위험 비파괴 검사 장비 도난
+과학기술처는 비파괴 검사업체인 극동원자력주식회사가 어제 새벽 2 시쯤,
+부천시내 부천전문대앞에서 도시가스관을 검사하던 사이에 근처 승합차에
+놓아두었던 비파괴 검사장비를 도난당했다고 밝혔습니다. 도시가스관의
+용접상태를 검사하기 위한 이 장 비안에는 이리듐 192라는 방사능물질이
+들어있으며, 기기가 파손되거나 뜯겨져서 사람이 이 방사능 물질에 노출될
+경우 세포가 파괴되는 등의 피해가 우려됩니다. 
+
+
+</tdmsfiletext>

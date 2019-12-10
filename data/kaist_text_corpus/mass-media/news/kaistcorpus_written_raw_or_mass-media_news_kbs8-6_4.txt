@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-6_4.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.8.6  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+최형우 고문, 북경 뇌졸중 병원 입원
+
+뇌졸중으로 독일에서 치료를 받던 최형우 신한국당 고문이 오늘 북 경에
+도착해서 뇌졸중 치료 전문 병원인 중일우호의원에 입원했습니다. 휠체어를 탄
+최 의원 은 건강을 묻는 질문에 미소를 지으면서 간단한 대답을 하는 등 비교적
+건강한 모습이었습니 다. 
+
+</tdmsfiletext>

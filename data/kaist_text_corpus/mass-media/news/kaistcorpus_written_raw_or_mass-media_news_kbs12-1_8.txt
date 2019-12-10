@@ -1,0 +1,32 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-1_8.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.12.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+버스노선 개편 첫날 지각사태
+
+
+
+⊙황수경 앵커 :
+          서울 시내버스 노선 개편이 시행된 첫날인 오늘 당초 우려했던 큰
+혼란은 없었지만 일부 시민들의 지각사태가 속출하는 등 후유증이
+뒤따랐습니다. 특히 버스 노선이 폐지된 곳에서는 일부 시민들이 버스를
+이용하는데 큰 불편을 겪었고 단축된 노선에 서는 직장인들이 다른 버스나
+지하철을 갈아타기 위해서 바쁜 출근시간에 많은 시간을 소비 해야
+했습니다. 
+
+국철1호선 전기 끊겨 1시간 불통
+
+오늘 밤 9시15분쯤 국철 1호선 구로역과 용산역 구간에서 전동차에 전기를
+공급해주는 전차선에 이상이 생겨서 수원과 인천에서 서울 청량리 방향으로
+가는 국 철의 운행이 한시간 동안 중단됐습니다. 오늘 사고로 승객들이
+전동차에서 내려서 철로를 걸 어가는 등 퇴근길 시민들이 큰 불편을
+겪었습니다. 
+
+</tdmsfiletext>

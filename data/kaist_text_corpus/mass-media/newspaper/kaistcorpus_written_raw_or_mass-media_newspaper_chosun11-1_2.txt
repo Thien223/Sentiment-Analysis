@@ -1,0 +1,79 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-1_2.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-1_2.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.01 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.04</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[보이지않는 손] YS가 반DJP연대 막후연출？, 11-1.hwp/Titleend
+Inf/조선일보, 1997년 11월 1일 /Infend
+Text/ 
+                     정부, 한-일 어업협상 잠정중단 
+
+                     정부는 1일 일본이 '신영해'에서 나포한 우리 어선의 선장에
+                     대한 사법 절차를 강행함에 따라, 한-일어업협정 개정 협상
+                     일정을 잠정 중단하기로 했다. 
+
+                     유광석 외무부 아태국장은 이날 주한 일본대사관 오다노
+                     노부다케(소전 야전장) 공사에게 전화를 걸어 "일본이 나포된
+                     개림호 이몽구 선장을 검찰 에 송치하기로 결정한 것은 매우
+                     유감스러운 일"이라며 "이런 상황에서 합 리적인 논의가
+                     불가능한 만큼 5일 도쿄에서 열릴 예정이었던어업 실무자
+                     회의를 취소하자"는 뜻을 전달한 것으로 알려졌다. 정부는
+                     그러나 우리 요 구에 따라 3일 열릴 예정인 배타적
+                     경제수역(EEZ) 회의에는 그대로 참석하 기로 했다. 
+
+                     일본정부는 이에 앞서 31일밤 개림호 선장 이씨를 검찰에
+                     송치했으며, 이씨에 대한 기소여부는 10일 이내에 결정된다. 
+
+                     유국장은 "정부는 일본정부가 사법적인 절차없이 이씨를
+                     석방해주기를 기대했으나 무산됐다"면서 "어업협상의 재개
+                     여부는 추후 일본 정부의 대 응에 따라 결정될 것"이라고
+                     말했다. 
+
+                     유국장은 한-일 양국 외무장관이 지난 7월 콸라룸푸르
+                     회담에서 어선나 포 재발방지에 합의한 것과 관련, "이번
+                     나포로 콸라룸푸르 합의가 무효화 된 것인지에 대해서는
+                     신중히 검토해 나갈 것"이라고 말했다. 
+
+                     <김창균기자> 
+
+     11/01(토) 19:03 
+
+
+   지난기사 
+   기사검색 
+   독자투고 
+   서비스지도 
+ ▼부가서비스
+   테마퀴즈 
+   클럽시네마 
+   가요베스트20 
+   북리뷰 
+   갤러리조선 
+   미팅정보듀오 
+   추천사이트 
+   게임동산 
+   대학위성강좌 
+   사이버인터뷰 
+   2002월드컵 
+   만화모음 
+   인물DB 
+   부동산뱅크 
+   유학세계 
+   산수도인운세 
+   특허검색 
+
+/Textend 
+</tdmsfiletext>

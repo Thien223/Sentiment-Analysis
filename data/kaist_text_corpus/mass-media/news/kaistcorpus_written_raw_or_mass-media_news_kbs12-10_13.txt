@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-10_13.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+손명순 여사, '사랑의 선물'제작
+
+
+
+⊙황수경 앵커 :
+          대통령 부인 손명순 여사는 오늘 대한적십자사에서 수요봉사회원들과
+함께 국군장병들과 해양경비대원들에게 보낼 사랑의 선물을 제작했습니다.
+손 여사는 이 어서 서울 종로2가 YMCA 앞의 구세군 자선냄비 가두모금
+현장을 찾아 성금을 전달했습니다. 
+
+</tdmsfiletext>

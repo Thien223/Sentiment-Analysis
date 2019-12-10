@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-21_6.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.21 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+"20년 이상 무단점유 소유권 인정 못해"
+
+
+⊙류근찬 앵커 :
+          다른 사람의 부동산을 무단점유한 경우 20년 이상 점유했다 하더라도
+소유원을 인정할 수 없다는 대법원의 새로운 판결이 나왔습니다. 대법원 전원
+합의체는 오늘 서울 신영동 유 모氏가 국가를 상대로 낸 소유권 이전 등기
+청구소송에서 원고 승소판 결을 내린 원심을 깨고 사건을 서울고등법원으로
+돌려보냈습니다. 
+</tdmsfiletext>

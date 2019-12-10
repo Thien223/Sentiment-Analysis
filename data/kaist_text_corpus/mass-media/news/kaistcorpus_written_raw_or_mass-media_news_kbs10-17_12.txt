@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-17_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.17 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+김정일 퇴진 촉구 결의대회
+조총련을 탈퇴한 인사들과 북한탈출 망명인사로 구성된 조민전 즉
+조선민주통일 구국전선은 오늘 도쿄에서 김정일의 퇴진을 촉구하는
+결의대회를 열었습니다. 박갑동 의장은 이 대회에서 김정일 체제의 붕괴에
+대비해서 조민전에 유엔대표부를 설치하고 대사를 파견하겠다고 말해
+망명정부의 수립을 시사했습니다. 
+
+
+
+</tdmsfiletext>

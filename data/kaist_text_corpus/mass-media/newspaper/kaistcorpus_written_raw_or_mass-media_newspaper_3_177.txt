@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_177.txt </filename>
+<title> 조선일보  </title>
+<author> 최보식(기자)</author>
+<date> 93.06.08</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0745CSM930608
+[동학백년]
+{최보식}
+안동­동래­하동… 봉기 확산(동학백년:10)
+◎해주선 1만명 감영공격 “접전”/무기­전술등 일군에 뒤져… 곳곳서
+큰피해※ 99년전 7월말 경복궁안에서 힘센 자는 일본공사 오토리
+게이스케(대조규개)뿐이었다. 고종은 침전에서 연금상태나 다를 바 없었고,
+대원군 역시 힘을 잃고 있었다. 게이스케의 빨라지는 발걸음 만큼이나
+김홍집을 수반으로 친일파내각은 득세했다. 이들은 평양전투에서 청군이
+일본군에 패했다는 소식%B
+</tdmsfiletext>

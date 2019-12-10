@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-2_7.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+경제위기 극복.공정대선관리 당부
+
+
+⊙류근찬 앵커 :
+          김영삼 대통령은 오늘 낮 청와대에서 윤관 대법원장을 비롯한 전국의
+각급 법원장 36명과 오찬을 함께 하고 경제위기 극복 동참과 공정한
+대선관리 그리고 지 속적인 사법개혁을 당부했습니다. 
+
+</tdmsfiletext>

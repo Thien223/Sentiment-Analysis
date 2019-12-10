@@ -1,0 +1,25 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_3326.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.01.29</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.3282CSM930129    
+［생활속의환경운동］                                                          
+매년  한두번씩  보일러  청소를（생활속의  환경운동：１３）                    
+◎그을음  제거해야  열효율  높고  비용도  줄여※  보일러에서  연료가  연소할 
+때  그을음이  발생한다．  이것이  보일러  내부에  누적되면  열전달이  나빠져 
+열효율이  크게  떨어지게  된다．  그을음의  두께와  연료  소비증가율을 
+비교해보면  쉽게  알  수  있다．  그을음의  두께가  １．６㎜일때  ４．５％， 
+３．２㎜일  때  ８．２％나  연료가  더  소비된다．  연간  １５드럼을  사용하는 
+４인  가족의  가정이  １년에  １∼２번  정도  보일러를  청소해주면    약 
+３백ℓ의  기름을  절약，  연간  ６만４천２백원의  가계지출을  줄일  수  있다． 
+보일러  청소는  이러한  효과와  더불어  연료를  완전  연소시켜  에너지  소비량을 
+줄임으로써  환경오염을  예방하는  효과도  거둘  수  있다．※                   
+
+</tdmsfiletext>

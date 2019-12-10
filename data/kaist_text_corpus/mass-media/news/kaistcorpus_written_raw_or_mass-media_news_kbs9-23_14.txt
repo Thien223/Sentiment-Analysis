@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-23_14.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.23  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+방송70주년 기념 심포지엄
+방송 70주년을 맞아서 한국 방송학회가 마련한 기념심포지엄이 한국 방송의
+과거 현재 그리고 미래라는 주제로 오늘 낮 프레스센터 국제회의장에서
+열렸습니다. 오늘 심포지엄에서 참석자들은 한국방송 70년사를 되돌아보고
+글로벌 디지털시대의 한국방송 을 진단하는 자리를 가졌습니다.
+</tdmsfiletext>

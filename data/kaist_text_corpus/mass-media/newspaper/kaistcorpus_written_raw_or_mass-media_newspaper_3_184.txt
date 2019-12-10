@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_184.txt </filename>
+<title> 조선일보  </title>
+<author> 윤한식(기자)</author>
+<date> 93.06.08</date>
+<publisher> </publisher>
+<kdc> 070.08</kdc>
+<tdmsfiletext>
+[NA0402.0752CSM930608
+{윤한식}
+이태봉선생님/윤한식 KIST석좌연구원(그때 그얼굴)
+◎90세까지 후학양성 「이론화학의 거목」/30년대 일서 양자역학
+최초강의/40대에 학장직버리고 「연구도미」/노벨 화학상 심사위원까지
+역임※80년대 이태규박사님(작년 작고)의 연구실을 찾아갔을 때 일이다.
+선생님은 대학원생 7~8명과 함께 계셨다. 세계적인 과학학술지
+「네이처」지에 내 논문을 응모하기 전 예비심사를 받을까 해서였다. 선생님은
+노벨화학상 심사위원을 역임했을 정도�
+</tdmsfiletext>

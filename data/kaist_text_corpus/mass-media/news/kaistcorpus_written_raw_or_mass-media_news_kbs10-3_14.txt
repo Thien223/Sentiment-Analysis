@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-3_14.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.03 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+미 F-14 훈련비행도중 대서양 상공에 추락
+
+
+
+⊙황수경 앵커 :
+          미해군 소속 F-14전투기가 통상적인 훈련비행을 하던도중에 미동부해안
+인근 대서양 상공에서 추락했다고 미 해군이 밝혔습니다. 
+
+
+</tdmsfiletext>

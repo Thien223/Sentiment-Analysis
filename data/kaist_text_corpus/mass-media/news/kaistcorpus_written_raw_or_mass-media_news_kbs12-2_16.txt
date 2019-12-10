@@ -1,0 +1,30 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-2_16.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+제왕절개 수술뒤 바늘두고 봉합
+
+
+
+⊙황수경 앵커 :
+          제왕절개 수술을 받은 30대 여성의 몸속에 수술 바늘이 들어가 4년
+동안 두차례나 바늘제거 수술을 받은 사실이 드러났습니다. 대전시 갈마동에
+사는 주부 37살 김모씨는 지난 93년 8월 대전 을지병원에서 제왕절개 수술을
+받은뒤 통증에 시달리다 95년 같은 병원에서 세조각의 수술바늘을 빼내는
+수술을 받았으나 통증이 계속돼 1차 수술 2년뒤 인 지난달 17일 2차 수술을
+통해서 세조각의 수술 바늘을 또 꺼냈습니다. 
+
+소비자 만족대상 시상식
+
+한국방송공사와 한국 부인회 동아일보사가 주최한 올해 소비자 만족 대상은
+만도기계의 위니아 에어컨과 귀뚜라미 보일러 한국전기통신공사의 국제전화
+001 그리 고 국민은행 등 28개 제품과 7개의 서비스 상품이 수상했습니다. 
+
+</tdmsfiletext>

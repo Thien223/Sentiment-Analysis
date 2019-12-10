@@ -1,0 +1,29 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_magazine_na0304_14.txt </filename>
+<title> 주간조선  </title>
+<author> 이정희(기자)</author>
+<date> 1991.10.6  </date>
+<publisher> 조선일보사</publisher>
+<kdc> 070.41.18.04</kdc>
+<tdmsfiletext>
+<NA0304.014>
+******************************
+* 地球村산책               *
+*   콜롬비아 당나귀大축제    *
+* 춤 가면놀이 등 자기자랑    *
+* 사진 알파포토스            *
+******************************
+
+콜롬비아 북부에 있는 산안테로란 곳에서는 매년 당나귀 페스티벌이 펼쳐진다. 보통 1백여마리의 당나귀들이 참가해 춤 등 장기자랑과 가면 콘테스트를 벌이는 이 페스티벌은 사흘이나 계속된다. 당나귀 주인들은 음식먹기와 술마시기대회를 갖기도 한다.
+그 많은 동물들 중 왜 하필이면 당나귀 페스티벌이냐는 것에 대해서는 이 지역에서 당나귀가 유일한 교통수단으로 사용되는 등 가장 가치있고 유용한 동물로 꼽히기 때문이라는 것이다.
+산안테로에서는 한 가구당 평균 2마리의 당나귀를 소유하고 있다.
+ <李貞姬주간부기자>
+
+
+
+
+
+</tdmsfiletext>

@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga10-31-8.txt </filename>
+<title> 동아일보</title>
+<author> 홍은택(기자)</author>
+<date> 1997.10.30 </date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+『美，아시아 금융위기 단기지원』…그린스펀 ＦＲＢ의장
+앨런 그린스펀 미국 이사회() 의장은 29일 아시아 금융위기와 관련, 『적절한 정책 조정을 권장하고 필요한 곳에 임시적인 금융지원을 제공하는 것이 미국과 세계 여타 국가의 이익에 부합하는 것』이라고 밝혀 아시아 해당국들에 대한 미국의 단기 금융지원 필요성을 시사했다.
+로렌스 서머스 미 재무부(副)장관도 이날 ()을 비롯한국제기구들이 아시아 금융 위기 해소를 위해 지원을 제공할 수 있을 것이라고 말했다.
+그린스펀의장은 이날 상하 양원 합동 경제위원회에 출석해 동남아에서 촉발된 통화 및 증시 위기에도 불구하고 아시아 경제가 상당 기간 『평균 이상의 성장을 계속할 것』이라고 낙관했다.
+그는 『아시아 여러나라 통화에 영향을 미친 금융시장의 동요가 현재로서는 미국의 번영에 위협이 되지 않는다』면서 아시아 경제가 곧바로 회복세로 돌아설 것으로 본다고 말했다.
+</tdmsfiletext>

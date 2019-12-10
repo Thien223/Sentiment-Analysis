@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-24_11.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.23 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+KBS 25기 신입사원 선발시험
+
+
+⊙이한숙 앵커 :
+          21세기 공영방송을 이끌어갈 인재를 뽑는 KBS 25기 신입사원 선발
+필기시험이 오늘 서울 여의도 고등학교 등 3개 학교에서 실시됐습니다.
+기자를 포함해 9개 직종 69명을 뽑는 오늘 시험에는 모두 3천4백여명이
+응시했으며 특히 기자와 프로듀서 등 방 송직군은 2백대1이 넘는 경쟁률을
+보였습니다. 
+
+</tdmsfiletext>

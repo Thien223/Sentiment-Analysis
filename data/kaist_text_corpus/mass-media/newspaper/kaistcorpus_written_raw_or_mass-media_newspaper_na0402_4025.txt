@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_4025.txt </filename>
+<title> 조선일보  </title>
+<author> 김호연</author>
+<date> 93.04.27</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.3980CSM930427    
+［건강메모］                                                                  
+｛김호연｝                                                                    
+속쓰릴땐  우유를（건강메모）                                                  
+  빈  속에  위산이  과다할  경우  속이  쓰리는  증상이  나타난다．  이때는 
+우유，  아이스크림，  비스킷  등을  먹는  것이  좋다．자극성이  덜하면서 
+가볍게  먹을  수  있는  이런  음식들은  위산을  중화하고  위액을  희석시키는 
+효과가  있다．  결과적으로  속쓰린  증상을  없애주고  때로는  위벽을  보호하기도 
+하는  것이다．※  그렇다고  매운  라면  같은  자극성  음식이나  분량이  많은 
+식사를  하게  되면  위의  부담을  가중시킨다는  사실을  유념해야  한다．※  또 
+속이  더부룩할  때는  밥  대신  죽  같은  유동식을  먹는  것이  좋다．  이런 
+유동식은  위  운동의  큰  도움  없이도  작은  창자로  잘  배출되고  소화가 
+잘  되기  때문에  위의  부담을  한결  덜어  준다．〈김호연·가톨릭대의대 
+교수〉※                                                                           
+
+</tdmsfiletext>

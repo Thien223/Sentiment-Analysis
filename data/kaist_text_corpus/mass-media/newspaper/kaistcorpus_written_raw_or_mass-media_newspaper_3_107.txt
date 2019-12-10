@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_107.txt </filename>
+<title> 조선일보  </title>
+<author> 양상훈(기자)</author>
+<date> 93.06.01</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0674CSM930601
+{양상훈}
+민주초선 12명 오늘 「자정선언1년」 평가회
+◎“「화환안보내기」 유권자도 이해”/민자 4명도 초청… 여야
+공감확산/「촌지배격」등 실천사항 확대모색※ 1년전 「자정선언」으로 신선한
+화제를 모았던 민주당의원들이 6월1일 「자정 1년 평가회」를 갖는다.※
+이평가회에는 민자당 의원 4명도 초청돼 여야 구별없는 자리가 될
+전망이다.※ 14대 총선 직후인 작년 6월3일 김원웅 제정구 문희상 박계동
+신계륜 원혜영 류인태 이규택 이길재 이부영 �%
+</tdmsfiletext>

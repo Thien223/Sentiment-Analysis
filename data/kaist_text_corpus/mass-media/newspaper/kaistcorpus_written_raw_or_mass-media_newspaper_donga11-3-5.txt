@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga11-3-5.txt </filename>
+<title> 동아일보</title>
+<author> 정용균(기자)</author>
+<date> 1997.11.03 </date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+［대구／경북］「팔공산 사나이」김해동씨 국민훈장 받아
+30여년동안 대구 팔공산에서 쓰레기줍기와 나무심기 등 산사랑 운동을 펼쳐온 「팔공산 사나이」에게 국민훈장이 수여된다.
+3일 대구시로부터 정부가 주는 국민훈장 석류장을 받는 대주산악회 회장 김해동(金海東·63·대구 동구 신암4동)씨가 바로 팔공산 사나이.
+김씨는 지난 63년 대한산악연맹 대구경북지부를 창설하고 팔공산과 망우공원 등에서 자연보호운동을 전개했으며 지난 76년에는 대주산악회를 결성, 2백여명의 회원들과 함께 팔공산 일대 쓰레기줍기와 야생조수 먹이주기, 산불예방 캠페인 등을 본격적으로 벌여왔다.
+
+</tdmsfiletext>

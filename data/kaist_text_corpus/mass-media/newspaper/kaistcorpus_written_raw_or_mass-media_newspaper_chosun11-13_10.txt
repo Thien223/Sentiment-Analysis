@@ -1,0 +1,53 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-13_10.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-13_10.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.13 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.03</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[판도변화 조짐] "이회창이 추월한다" 대선길 비상 , 11-13.hwp/Titleend
+Inf/조선일보, 1997년 11월 13일 /Infend
+Text/ 
+     11/12(수) 11:41 
+
+
+
+
+                     문체부,우리문화 통합이미지 확정 
+
+                     학생들의 화염병 시위, 다리붕괴, 북한핵문제 등 외국인들의
+                     심상에 새겨져 있는 우리나라에 대한 부정적인 이미지를
+                     불식시키기 위한 휘장과 그래픽. 사진이 확정됐다. 
+
+                     문화체육부는 12일 우리 문화의 통합이미지(CI, Corporate
+                     Identity) 휘장과 한복, 태권도, 탈춤 등의 그래픽과 사진을
+                     확정.발표했다. 
+
+                     휘장은 태극을 붓터치로 형상화했는데 선비 정신을 대표하는
+                     붓의 강한 터치로 21세기를 향한 진취적인 기상을 표현하고
+                     있다. 또 「한국문화 베스트 텐」이라는 이름으로 발표된
+                     그래픽과 사진은 한복, 한글,김치와 불고기, 태권도, 탈춤,
+                     불국사와 석굴암, 인삼, 제례악, 설악산, 예술가 등 10개이다.
+                     앞으로 사물놀이,선비문화,한국정원,태극 등 4개가 보조CI로
+                     추가된다. 
+
+                     이번에 확정된 휘장과 그래픽은 CI전문기관의 연구와 전문가,
+                     관광공사 그리고 국내 거주 외국인들의 자문을 받아
+                     CI전문회사 투킴스(대표 김두황씨)가 제작한 것이다. 
+
+                     문체부는 휘장과 그래픽.사진으로 구성된 캘린더 및 CI
+                     포스터 시리즈를 연내로 발간하는 한편 우리문화의
+                     대외홍보에 적극 활용키로 했다. 
+/Textend
+</tdmsfiletext>

@@ -1,0 +1,24 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2402.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.10.22</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2454CSM931022     
+푸드  스타일리스트（새직종）                                                  
+◎각종  소품이용  음식으로  「분위기」  연출※  음식이  단순한  먹거리 
+수준을  넘어  문화생활의  중요한  장르로  자리잡아  가는  시대．  푸드 
+스타일리스트（Ｆｏｏｄ  Ｓｔｙｌｉｓｔ）는  이런  추세에  맞춰  생겨난  광고분야의 
+신직종이다．  어떻게  하면  음식으로  특정  분위기를  낼  수  있을까를  연구하는 
+이  직종은  각종  주방기기와  가능한  모든  소품을  동원해  음식을  연출해 
+내는  직업이다．※  국내에  몇  안되는  푸드  스타일리스트중  한명인 
+강홍준씨（２７５­２７８１）는  『아직은  전문  교육기관이  없어  훈련받기가  쉽지 
+않지만  디자인  감각이  있으면서  조리법，  식기  사용법，  음식문화  전반에  대한 
+문화적  배경에  관심이  있는  여성들에게  유망한  직종』이라고  전망한다．※ 
+
+</tdmsfiletext>

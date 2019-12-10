@@ -1,0 +1,26 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-27_12.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.27 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+금융실명제 대체입법 공청회
+
+⊙황수경 앵커 :
+          국회 재정경제위원회는 오늘 국회에서 정부와 재계 학계 시민단체 언론계
+등 각계 인사들을 진술인으로 출석시킨 가운데 지난 7월에 정부가 국회에 제출한
+금 융실명제 대체입법과 자금세탁방지법 제정에 관한 공청회를 열았습니다.
+오늘 공청회에서는 정부안 가운데 금융소득 분리과세의 장단점과 중소기업
+출자시 출처조사 면제의 범위 등이 중점 거론됐으며 여야 의원들은 어려운 경제
+상황 등을 이유로 입법을 유예해야 한다는 의견 을 제시했습니다. 
+
+체불 임금 천9백억… 사상최고
+최근에 계속된 경기침체로 체불임금 총액이 사상 최고를 기록했습니 다.
+노동부는 지난 7월말 현재 전국 1,241개 사업장에서 임금 713억7천만원과 퇴직금
+천22억 4천만원 등 모두 천9백43억원이 체불돼있다고 밝혔습니다. 
+</tdmsfiletext>

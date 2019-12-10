@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-3_11.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.03 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+한.미 연합 도하훈련
+
+교량이 폭파된 상황에서 하천 장애물을 신속히 제거하고 강을 건너 는 기계화
+부대의 도하훈련이 오늘 경기도 여주 남한강 일대에서 진행됐습니다. '97 독수리
+연습의 하나로 진행된 오늘 훈련에서는 기계화 사단과 보병 포병이 연계돼서
+합동훈련을 벌 였습니다. 
+
+</tdmsfiletext>

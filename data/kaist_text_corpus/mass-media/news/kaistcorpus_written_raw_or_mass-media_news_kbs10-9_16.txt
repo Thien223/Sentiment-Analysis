@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-9_16.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.09 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+세계 최초 조선 금속활자 동판 발견
+
+
+
+⊙황수경 앵커 :
+          세계에서 가장 오래된 것으로 추정되는 우리나라 금속활자 동판이
+일본에서 발견됐습니다. 부산 외국어대 일어과의 김문길 교수는 일본 도쿄의
+독바 인쇄주식 회사 자료실에서 1403년 조선 태종때 만들어진 금속활자를
+발견했다고 발표했습니다. 
+
+</tdmsfiletext>

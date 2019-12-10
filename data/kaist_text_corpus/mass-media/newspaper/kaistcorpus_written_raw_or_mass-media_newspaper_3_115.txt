@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_115.txt </filename>
+<title> 조선일보  </title>
+<author> 심재율(기자)</author>
+<date> 93.06.01</date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+[NA0402.0682CSM930601
+{심재율}
+「러」첨단기술 대덕 전시회/초정밀 연마기­미생물 촉매사용 등 소개
+ 러시아의 첨단기술을 한눈에 볼 수 있는 전시회가 대덕연구단지
+국립중앙과학관에서 지난달 31일부터 2일까지 열리고 있다.※ 전시품목은
+50개로 이중 29개는 기계분야이고 21개는 신소재분야이다.※ 이번
+전시회에서는 60명의 러시아과학자들이 직접 전시품목을 설명하고 기술세미나를
+연다.※ 이들은 부피가 큰 제품은 직접 가져오지 못하고 대신 비디오로
+촬영해 왔다.※ 전%B
+</tdmsfiletext>

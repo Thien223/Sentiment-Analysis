@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-17_12.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.17 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+정원식 총재, 적십자사 총회 참석 출국
+
+정원식 대한적십자사 총재가 오는 20일 스페인 세비아에서 열리는 제11차 국제
+적십자연맹 총회에 참석하기 위해서 오늘 오후 출국했습니다. 세계 180여개 적
+십자 대표들이 참석하는 이번 총회에는 북한 적십자회의 최경린 서기장도 참석할
+것으로 알 려져있어 남북 적십자 대표간의 공식적인 단독회담은 예정돼있지 않지만
+자연스럽게 양측의 접촉이 이뤄질 것으로 보입니다. 
+
+</tdmsfiletext>

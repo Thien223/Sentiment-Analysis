@@ -1,0 +1,32 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun12-5_6.txt </filename>
+<title> 조선일보</title>
+<author> 박형길(기자)</author>
+<date> 1997.12.05 </date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+                     디지틀조선, 멀티미디어대상 
+
+                     디지틀조선일보(대표 인보길)는 인터넷 신문의 KAL기 추락
+                     사건 특종 등 24시간 리얼타임 보도, 인터넷신문의 새 전형
+                     창조, 멀티미디어산업 에 대한 체계적보도 등의 공로를
+                     인정받아 '97멀티미디어인상 언론부문 대상을 차지했다. 
+
+                     이 상은 한국멀티미디어협회(회장 이태화)가 지난해부터
+                     멀티미디어 산업발전에 공로가 큰 단체나 개인을
+                     6개부문에서 선정, 수여해 온 것 이다. 
+
+                     한편 기술부문은 한국 과학기술원 황규영교수, 교육부문은
+                     멀티미디 어교육지원센터, 창작부문은 (주)솔빛, 공로부문은
+                     (주)지오이월드, 컨 텐트진흥부문은 한국멀티미디어연구소
+                     등이 수상자로 결정됐다. 
+
+                     시상식은 12일 오후 3시 한국소프트웨어지원센터에서 열릴
+                     예정이다. 
+
+                     <박형길 기자>
+</tdmsfiletext>

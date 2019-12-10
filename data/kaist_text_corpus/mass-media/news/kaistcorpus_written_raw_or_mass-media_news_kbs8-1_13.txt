@@ -1,0 +1,27 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-1_13.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+정원식 前 총리, 적십자사 총재 취임
+
+
+
+⊙황수경 앵커 :
+          정원식 전 국무총리가 오늘 대한적십자사 강당에서 강영훈 전 총재를
+비롯해서 중앙위원 등 2백여명이 참석한 가운데 대한적십자사 20대 총재로
+취임했습니다. 
+
+미8군 사령관에 하우스 중장
+
+주한미군의 8군 사령관에 랜돌프 하우스 중장이 새로 취임했습니다. 새로 취임한
+하우스 사령관은 주한 미8군 사령관 외에 유엔군 사령부 참모장 등 4가지 직책
+을 맡게 됩니다. 
+
+</tdmsfiletext>

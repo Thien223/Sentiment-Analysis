@@ -1,0 +1,26 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-20_15.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+# LG, 1차전 패배 설욕… 10:1승
+
+
+⊙황수경 앵커 :
+          프로야구 한국시리즈 2차전에서 엘지가 승리를 거뒀습니다. 어제 1
+
+패를 당했던 엘지는 오늘 벌어진 2차전에서 1:0으로 뒤지던 4회말에
+한꺼번에 5점을 뽑으면
+          서 승기를 잡아 10:1로 크게 이겼습니다. 두팀은 내일 하루를 쉰뒤
+모레 광주에서 3,4차전을 치릅니다. 
+
+
+
+
+</tdmsfiletext>

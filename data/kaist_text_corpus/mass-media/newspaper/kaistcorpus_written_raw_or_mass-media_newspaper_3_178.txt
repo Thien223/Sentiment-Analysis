@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_178.txt </filename>
+<title> 조선일보  </title>
+<author> 박해현(기자)</author>
+<date> 93.06.08</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0746CSM930608
+{박해현}
+새연재 「거품시대」 작가 홍상화씨/“혼란시기 「욕망의 거품」추적”
+◎올림픽~문민정부 출범까지 배경/중소기업인의 시점서 세태 조명※
+기업소설 「거품시대」를 8일부터 연재하는 소설가 홍상화씨(53.본명
+홍국태)는 전문경영인 출신답게 프로작가의 기질이 몸에 배어 있다. 나이
+50을 눈앞에 두고 작가로 변신한 홍씨는 「가장 늦었다고 생각하는 순간이
+가장 빠른 출발」이라는 외국속담을 입증해왔다.※ 지난88년 장편소설
+「피와 불�%B
+</tdmsfiletext>

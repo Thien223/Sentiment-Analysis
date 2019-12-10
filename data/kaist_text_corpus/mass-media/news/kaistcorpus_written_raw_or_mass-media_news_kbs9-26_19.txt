@@ -1,0 +1,16 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-26_19.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.26  </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+영국 슈퍼카 지상최고 속도 기록
+
+영국 트러스트 SSC팀의 슈퍼카가 어제 미국 네바다 사막에서 두차 례에 걸친
+주행시험 결과 평균시속 1,149.57㎞로 지상 최고속도를 기록했습니다. 
+</tdmsfiletext>

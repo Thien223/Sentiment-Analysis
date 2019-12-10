@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-27_11.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.26 </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+이달의 좋은 프로그램
+
+방송위원회는 지난달 방송된 프로그램 가운데 KBS 제1TV의 TV소설 초원의
+빛과 세계는 지금을 이달의 좋은 프로그램으로 선정하고 오늘 오후 서울
+프레스센터 에서 시상식을 가졌습니다. 
+
+
+</tdmsfiletext>

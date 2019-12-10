@@ -1,0 +1,59 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-26_5.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-26_5.txt </filename>
+<title>  </title>
+<author>  </author>
+<date>  1997.11.26</date>
+<publisher> 조선일보 </publisher>
+<kdc>news.11</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[자금 사정] 한나라, 451억 규모…"옛 여당과 큰 차이" , 11-26.hwp/Titleend
+Inf/조선일보, 1997년 11월 26일 /Infend
+Text/ 1/26(수) 20:16 
+     11/26(수) 19:27 
+
+
+
+
+                     [고종] 일화 30만엔 러은행 예치…당시 쌀10만석 값 
+
+                     구한말 고종 황제가 일본 돈 30만엔(당시 시가로 쌀 10만석에
+                     해당)을 러시아 은행에 예치하고 있었던 사실을 입증하는
+                     문서가 러시아에서 발견됐다. 
+
+                     고종이 '루스코-키타이스키 은행(러중은행)' 블라디보스토크
+                     지점 에 돈을 예치했다고 밝히고 있는 이 문서는 A4용지
+                     2장으로 박종효(60· 모스크바 국립대) 교수가 최근 러시아 군
+                     문서보관서에서 발견했 다. 
+
+                     이문서는 당시 원산 주재 영사로 근무하던 니콜라이
+                     비류리코프 러 시아 총참모부 정보국 대위가 러시아 총참모부
+                     정보국으로 보낸 1909년 4 월16일자 비밀보고 전문이다. 
+
+                     이 문서에 따르면 고종의 한 측근이 '돈이 함부로 인출되지
+                     못하도 록' 해 줄 것을 부탁했다며 해당 은행에 이용익 전
+                     재무대신 명의로 된 30만엔의 예금계좌가 있음을 확인했다고
+                     적고 있다. 
+
+                     이 문서는 또 "고종 황제가 비밀리 독립군에게 협조하고 있기
+                     때문 에, 일본이 돈을 빼앗을 우려가 있다"고 적혀 있어, 이
+                     돈이 독립군 군자 금으로 사용됐을 가능성도 시사하고 있다. 
+
+                     한국정신문화연구원 권희영 교수는 "1909년까지 고종의
+                     국권탈환 의지가 강고했음을 보여주는 자료로 일제가 만든
+                     '나약한 고종상'을 바꾸 는데 도움이 될 것"이라며 "이용익
+                     명의로 된 예금계좌가 고종의 것인지 와 고종의 러시아
+                     인맥에 대한 확인 작업이 선행되어야 한다"고 말했다. 
+
+                     【모스크바-서울=황성준-이한우기자】 
+/Textend 
+</tdmsfiletext>

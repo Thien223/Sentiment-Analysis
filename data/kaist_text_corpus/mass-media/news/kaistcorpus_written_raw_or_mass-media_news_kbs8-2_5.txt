@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-2_5.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+채권은행단, 기아 전임원 사표 요구
+
+
+⊙황수경 앵커 :
+          기아그룹 채권은행단은 김선홍 기아그룹 회장을 비롯한 전임원의 개별적인
+사표를 받기로 했습니다. 이에 대해 기아측은 이미 제출한 경영권 포기각서가
+완벽한 내용을 담고 있기 때문에 추가로 제출할 뜻이 없다고 맞서고 있습니다.
+따라서 기아와 채권 은행단의 팽팽한 입장에 극적인 변화가 없는 한 모레 열릴
+채권금융기관 대표자 회의도 결론 없이 끝날 가능성이 커지고 있습니다. 
+</tdmsfiletext>

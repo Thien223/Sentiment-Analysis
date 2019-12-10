@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-15_6.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.15  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+고건 총리, 파출소.응급실 등 순시
+
+
+⊙황수경 앵커 :
+          고건 국무총리는 오늘 아침 서울 녹번 소방서와 녹번 파출소를 방문해서
+관내 치안 상황 등을 보고받고 국민들이 편안한 추석연휴를 보낼 수 있도록
+철저한 당 직근무 태세를 유지해줄 것을 당부했습니다. 고건 총리는 이어서
+연세대학교 세브란스 병원 응급실에 들러서 응급환자 진료 상황을
+둘러봤습니다. 
+</tdmsfiletext>

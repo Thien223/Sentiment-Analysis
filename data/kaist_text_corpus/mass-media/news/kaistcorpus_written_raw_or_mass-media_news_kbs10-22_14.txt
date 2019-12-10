@@ -1,0 +1,31 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-22_14.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+'목청'따기
+벌꿀 가운데서도 바위속에 있는 벌집의 꿀인 석청과 나무속에 있는 다.
+재했습니다. 
+
+⊙전영창 기자 :
+          강원도 오대산 자락의 깊은 계곡 가파른 바위에 뿌리를 내린 고목 "야!
+꿀이 많다. 몇년 묵은 것 같다!" 나무를 잘라내자 절구통만한 벌집통에는
+토종꿀이 가득 고여 있습니 
+
+⊙이병규 (토종꿀 채취업자) :
+          산을 한 20여년간 탔는데 이렇게 꿀이 많이 들고 이런건 처음입니다. 
+
+⊙전영창 기자 :
+          나무에서 난다고 해서 목청이라고 불리는 토종꿀 그러나 노련한
+사람이라도 보통 한달은 걸려야 찾아볼 수 있습니다. 토종벌이 날아가는
+방향을 계속 추적해야 있습니다. KBS 뉴스, 전영창입니다. 
+
+
+
+</tdmsfiletext>

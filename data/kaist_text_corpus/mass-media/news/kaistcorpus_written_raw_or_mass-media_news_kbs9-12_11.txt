@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-12_11.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.12  </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+"KF-16 전투기 추락원인은 엔진 결함"
+
+
+
+⊙황수경 앵커 :
+          공군은 지난 6일 훈련비행중에 추락한 KF-16전투기의 사고는 엔진 내부의
+연료공급 계통의 결함에 의해서 엔진작동이 중지되면서 일어난 것으로
+판단된다고 밝 혔습니다. 
+
+</tdmsfiletext>

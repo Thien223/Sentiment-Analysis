@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_136.txt </filename>
+<title> 조선일보  </title>
+<author> 김태익(기자)</author>
+<date> 93.06.03</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0703-4M930603
+{김태익}
+민중미술/탈이념­문민시대 여파 “퇴조”/「변혁」「투쟁」구호 사라져
+◎제도권과 교류 본격화/민중작가 상업화랑 전시도 잇따라※ 민중미술이
+퇴조하고 있다.※ 탈이데올로기 시대의 전개, 문민정부의 출범 등
+국내­외적인 상황 변화에 따라 80년대 초 이후 미술계에서 무시못할 세력을
+형성해 온 민중미술이 급격히 약화되는 조짐을 보이고 있다.※ 주요
+민중진영 작가의 전시회에서 「변혁」, 또는 「투쟁」의 구호가 사라지고
+있으�%
+</tdmsfiletext>

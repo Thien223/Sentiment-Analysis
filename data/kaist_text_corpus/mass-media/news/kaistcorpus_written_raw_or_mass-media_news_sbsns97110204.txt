@@ -1,0 +1,16 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110204.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.02 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+김대중, 공산주의자 사면 반대
+김대중 국민회의 총재는 "집권후 양심수 사면" 발언과 관련해 오늘 평화방송 초청 대담에서 "공산주의자는 사면대상이 아니며 앰네스티,즉 국제 사면위원회 기준으로 종교계에서 요구해온 사람들이 검토 대상"이라고 해명했습니다. 
+
+김총재는 "양심수 사면은 당연히 검찰의 심사를 거쳐야하며 앞으로 그런 일을 되풀이하지 않겠다는 전제가 필요하다"고 말했습니다. 
+</tdmsfiletext>

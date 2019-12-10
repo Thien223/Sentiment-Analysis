@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-16_7.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.9.16  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+선원 10명 탄 어선 실종
+
+어젯밤 11시40분쯤 전남 신안군 흑산면 소흑산도 부근 바다에서 경 남 통영 선적
+63톤급 제17 성북호가 폭풍주의보에 따라 소흑산도항으로 대피하다 통신이 끊
+겼습니다. 이 배에는 경남 통영시 무전동에 사는 선장 39살 김건진씨 등 선원
+10명이 타고 있었습니다. 
+
+
+한총련 간부 검거 피하다 추락사
+경찰의 검거를 피하려던 한총련 간부가 아파트에서 떨어져 숨졌습니 다. 어젯밤
+11시50분쯤 국가보안법 위반 혐의로 수배중인 전 한총련 투쟁국장 28살
+김준배씨 가 자신이 은신해 있던 광주시 오치동 아파트 13층에서 유선TV
+케이블선을 타고 내려오다 떨어져 숨졌습니다. 
+</tdmsfiletext>

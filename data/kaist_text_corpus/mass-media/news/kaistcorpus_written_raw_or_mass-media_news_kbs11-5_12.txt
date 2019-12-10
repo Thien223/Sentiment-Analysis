@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-5_12.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.05 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+불우이웃돕기 적십자 바자회
+
+시청각 장애인과 불우이웃을 돕기 위한 97 적십자 바자회가 오늘 오 전 서울
+삼성동 한국 종합전시장에서 열렸습니다. 현 국무위원 부인과 주한 외교사절 부인
+그리고 정부투자기관장과 금융기관장 부인 등으로 구성된 대한적십자사
+수요봉사회가 마련한 오늘 바자회에서 생긴 수익금은 불우이웃과 시청각 장애인의
+지원기금으로 쓰일 예정입니다. 
+
+</tdmsfiletext>

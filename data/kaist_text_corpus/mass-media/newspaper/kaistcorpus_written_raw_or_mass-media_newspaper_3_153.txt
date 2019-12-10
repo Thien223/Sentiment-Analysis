@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_153.txt </filename>
+<title> 조선일보  </title>
+<author> 이동한(기자)</author>
+<date> 93.06.04</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0721CSM930604
+{이동한}
+난지도 활용/택지조성이냐 환경공원이냐
+◎쓰레기 옮겨 매립… 단기간 개발/민자당/안정화될때까지 20~30년
+유보/서울시※ 90여만평에 달하는 쓰레기 매립지 난지도일대를 어떻게
+활용하는 것이 좋을까.※ 서울시가 이 지역의 지반을 안정화시킨뒤
+환경생태공원과 체육시설 등을 조성하겠다는 계획을 확정, 추진하고 있는 가운데
+민자당이 대규모 택지로 개발해야 한다는 대안을 제시, 난지도 일대
+활용방안에 대한 논란이 일고 있다.※ 난지�%B
+</tdmsfiletext>

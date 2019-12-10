@@ -1,0 +1,69 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-2_9.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-2_9.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.02 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.03</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/ [여야] 휴일없는 '양심수 사면'공방, 11-2.hwp/Titleend
+Inf/조선일보, 1997년 11월 2일 /Infend
+Text/ 
+                     등기부 등초본도 팩시밀리로 발급 
+
+                     다음달부터 부동산 등기부 등-초본도 팩시밀리로 발급받을 수
+                     있게 됐다. 
+
+                     법원행정처는 2일 부동산 등기법시행규칙 개정안을 마련,
+                     대법관 회의를 통해 확정한 뒤 시행키로 했다고 밝혔다. 
+
+                     개정안은 등기부 등-초본을 관할 등기소가 아닌 다른 지역
+                     등기소 에서 팩시밀리로 발급받을 수 있도록 했다. 그러나
+                     시(특별시-광역시) 등같은 행정구역 안에서는 팩시밀리
+                     발급을 하지 못하도록 했다. 또 팩시밀리로 등-초본을 발급할
+                     경우 관할 등기소에서 등기부 등본이라 는 인증을 붙이고,
+                     발급 등기소에서 다시 등본이라는 인증을 해 등- 초본의
+                     공신력을 갖추도록 했다. 
+
+                     이와 함께 등기 전산화에 대비, 등-초본 발급때 부동산의 지번,
+                     명 칭 등과 함께 고유번호를 부여하도록 했으며, 일정한
+                     양식을 갖춰 등 기 기록을 전산 발급할 수 있는 법적 근거도
+                     마련했다.<김홍진기자> 
+
+     11/02(일) 18:53 
+
+
+   지난기사 
+   기사검색 
+   독자투고 
+   서비스지도 
+ ▼부가서비스
+   테마퀴즈 
+   클럽시네마 
+   가요베스트20 
+   북리뷰 
+   갤러리조선 
+   미팅정보듀오 
+   추천사이트 
+   게임동산 
+   대학위성강좌 
+   사이버인터뷰 
+   2002월드컵 
+   만화모음 
+   인물DB 
+   부동산뱅크 
+   유학세계 
+   산수도인운세 
+   특허검색 
+/Textend 
+</tdmsfiletext>

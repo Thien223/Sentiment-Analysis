@@ -1,0 +1,594 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_academic_paper96_teg.txt </filename>
+<title> 육안검사작업에서의 Glare양과 노출시간이 visual fatigue에  미치는 영향에 관한 연구 </title>
+<author> 이철웅 </author>
+<date> 1993</date>
+<publisher> 서울대학교 </publisher>
+<kdc> TM530.964 </kdc>
+<tdmsfiletext>
+  초 록
+  
+   현행 TV 브라운관용  panel의 투과검사 작업장에서의 조명설계에  대한 문제점을 규명한 결과, 투과검사 작업시 사용되지 않는  광원부분으로 인한 glare가 있음이 파악되었다. 
+   본 연구는 TV 브라운관용 panel의  투과검사에 대한 glare의 영향을 파악하는데 그 목적을 두고 있다. 이를 위해 다양한 각도의 glare광원이 있을 경우(0도, 45도,  180도, 제시되지  않을때), 투과검사  performance가 work period별로 어떻게 변화하는 가를 관찰하였다. 
+   결과에 대한 분석은 performance의 저하시점과  평균저하율을 도출하고, 이를 실험조건별 glare의 양과 비교함으로 이루어졌다. 
+   주요결과는 다음과 같다. 
+   - 최초의 performance  저하시점은 glare의 양이 증가함에 따라  짧아지며, 개인별 glare resistability에 따라 시간의 크기는 다르게 나타난다.
+   - DGR(discomfort glare rating)이  performance저하에 대한 indicator로 대표될 수 있음이 파악되었다. 
+   - 육안 투과검사 작업장에서  후면의 보조조명은 오히려 reflected glare를 유발하여, 바람직하지 못한 것으로 나타났다.
+   - VCP(visual  comfort probabilities)를 사용한 glare한계지침은  작업특성, 여건도 감안하여 구체적으로 제시되어야 한다.
+   주요어: Glare, 육안투과 검사작업, Performance 저하, DGR, VCP. 
+ 
+
+
+Ⅰ 육안투과 검사작업에서 조명의    문제점 
+
+ 1.1. 육안투과 검사에 대한 연구배경 
+육안투과 검사작업은 특히 그 유형이 점차 늘어가고 있는 추세이다(Gillies, 1973). 육안 검사작업은 visual search를 수행하고 그 결과에 대해 decision making을 해야하는 작업자의 manual 작업으로서 자동화로 대치하기가 매우 어렵다(Drury, 1982).
+Visual inspection은 defective가 가진 정보, 작업장의 조명, 작업장의 설계 등 3가지 측면의 design에 의해 performance에 영향을 받는다(Applied Ergonomics, 1970). 
+본 연구에서는 육안 검사작업의 기능이 강조되는 TV 브라운관용 panel의 투과검사 작업장에서 요구되는 환경, 즉 performance에 영향을 미치는 작업장에서의 조명설계에 관하여 다루었다.
+
+ 1.2 육안투과 검사장에서의 조명의 문제점
+육안투과 검사장에서의 조명의 문제점을 지적하기 위해서는 먼저 조명에 관련된 변수를 도출하여야 한다. 본 연구와 유사한 visual task에 관한 연구에서의 조명관련변수를 체계화시킨 예를 보면, 소형부품 조립작업에 대한 연구에서 이종수(1987)는 개인변수(human variable), 작업변수(task variable), 조명변수(lighting variable)로 나누었다. 각각의 변수를 구체화하면 다음 표 1과 같다.
+ 표 1  조명관련변수 (이종수, 1987)
+각각의 변수에 대해 visual 작업장과 연관시켜 보면 task variable중 glare, shadow, reflectance ratio와 lighting variable은 검사장의 조명방법에 의해 결정된다. 이 중 shadow는 투과검사 작업에는 해당되지 않는 사항이며, direction, reflectance ratio는 쉽게 결정될 수 있으므로, 이런 맥락에서 조명방법의 결정문제는 illuminance level과 glare에 대해 진단하므로서 해결된다고 할 수 있다.
+- Illuminance level의 문제점
+다음의 표 2는 illuminance level에 대한 추천치를 보여준다.
+ 표 2  각종 기준을 통한 투과검사 작업장의 조명추천치
+현행 작업장의 조도는 550 lux이다. 이는 외국의 기준치에는 다소 부족하나 투과검사작업의 성격상 전반적인 작업장 조도향상의 필요성은 별도 검토가 요구되며, 본 연구에서는 고려하지 않기로 한다.
+- Glare의 문제점
+Glare는 현행검사장의 경우(부록 A참조) 형광등의 비사용부분이 직접 눈에 노출됨으로 glare의 역할을 한다. glare를 줄이는 방법으로는 일단 불 필요한 형광등을 제거하고, 비 사용 부분에 mask를 씌워주는 방법이 있다. 그러나 이러한 방법은 전반적인 조도를 떨어뜨리는 역효과와 비용을 수반한다. 그러므로 본 연구에서는 glare의 차단효과를 정량적으로 분석하고자 한다.
+
+ 1.3 Glare연구의 목적과 기대효과
+본 연구의 목적은
+- 육안투과 검사에 대한 glare effect를 피로라는 측면에서 분석할 수 있다. 즉, glare가 피로를 발생시키고, 피로가 다시 performance의 저하로 이어지는 mechanism의 진행과정을 알아보고,
+- Glare index에 대한 검토를 통해 glare index가 실제 조명설계의 지표로 사용할 수 있는지를 평가한다. 본 연구에서는 disability, discomfort 각각의 대표적인 glare효과에 대해 index로 제시된 equivalent veiling brightness(EVB: IES, 1947)와 discomfort glare rating(DGR: Guth, 1968), visual comfort probabilities(VCP: IES, 1966)에 대한 평가를 하였다. 즉, 이들 지표와 performance변화추세간의 어떤 상관형태(예: 선형비례관계)를 가지는 지 알아보았다.
+- 또한 보조 조명설치, 즉 조도를 향상시키고 luminance ratio를 줄여주기 위하여 작업자 후면에 보조조명을 설치하는 문제에 대한 타당성을 검토하였다.
+본 연구를 통하여, glare에 의한 영향을 정량적으로 분석함으로 glare에 의한 영향을 차폐함으로서 얻어지는 benefit과 조명설계에 있어서 glare를 제거하기 위해 발생될 수 있는 cost(glare광원의 차폐비용, 작업장간의 간격의 확대로 인한 공장면적의 낭비)와의 cost/benefit 분석을 통해 효율적인 조명설계를 하는데 index를 얻을 수 있다. 
+ Ⅱ Glare가 시각적 피로에 미치는 영향
+
+Glare는 discomfort, anoyance, eye fatigue 등 시야방해를 일으키는 일체의 시야내의 brightness이다(Konz, 1984). 본 장에서는 실험의 설계와 분석을 위하여 연구의 대상이 되는 glare와 시각적 피로에 대한 개념과 기존 연구를 정리하도록 하겠다.
+
+ 2.1 Visual fatigue를 유발시키는 glare
+현행 작업에서 fatigue가 유발되는 원인은 다음과 같다.
+(1) Glare에 의한 eye sensitivity의 저하: 이는 glare가 눈에 직접적으로 작용함으로써 나타나는 육체적, 정신적 피로현상에 의한 것이다. 이는 visual fatigue(strain)을 일으켜 시간경과에 따라 검출력을 떨어뜨리는 역할을 한다(Ferguson et al., 1974). Ferguson et al(1974)의 연구는 사무실내의 VDT작업대가 창가에 위치에 햇빛에 의해 glare를 받는 경우와 그렇지 않은 경우의 사무실 작업자들을 대상으로 주관적인 불편감을 측정하였다. discomfort glare 역시 누적됨에 따라 performance를 떨어뜨린다는 연구결과가 있다(IES Reprt, 1966).
+(2) 작업에 의한 피로: 본 작업은 작업성격상 vigilance task, 즉 고도의 attention을 요하는 작업이다. 이런 형태의 작업에서는 일정수준의 생리적자각(physiological arousal), 특정한 작업자세의 유지, 정신적 집중이 요구된다(Senders et al., 1979). 이는 attention에 따른 mental workload와 자세유지에 따른 physical workload를 수반한다. 또한, 비록 작업부하가 낮은 상태라도 기존의 연구(Broadbent & Gregorg, 1965)를 보면 작업시간이 경과함에 따라, "yes"응답을 하는데 피실험자가 보다 더 조심스러워짐을 알 수 있다. 
+(3) Visibility저하에 따른 eye muscle fatigue: Osaka(1984)는 작업대상물의 visibility가 떨어지면 작업자는 작업수준을 유지하기 위하여 눈을 더 긴장시키게 되며, 이 과정에서 eye muscle fatigue가 발생한다고 하였다. 
+이 중 (1),(3)항은 glare에 의한 것이다. 다음의 그림은 현행작업에서 fatigue를 발생시키는 과정을 정리한 그림이다. 굵은 실선 부분은 본 연구에서 대상으로 하는 부분이며, 나머지 부분에 관한 연구는 2장에서 기존의 연구를 정리하였다.  
+
+
+
+
+
+
+
+
+
+
+
+ 그림 1  visual inspection task에서 피로에 대한 원인 및 접근방법
+
+ 2.2. Glare의 측정법
+Glare의 측정에는 EVB(equivalent veiling brightness), DGR(discomfotrt glare rating), VCP(visual comfort percentage)라는 index가 많이 사용되고 있다.
+- EVB (equivalent veiling brightness)
+IES handbook(1947)은 disability glare의 지표로 veiling luminance를 제안하고, veiling luminance를 정량화하는 지표로 다음과 같은 공식을 제시하고 있다(Holladay-Stiles formula).
+  EVB = 10πE   θ2
+  EVB:veiling brightness equivalent in effect to a glare source  
+       (footlambaerts)
+  E: illumination on a plane through the observer's eye (footcandles)
+  θ: angle between the line from each glare source to the task and 
+     the observer's line of sight(degrees)
+DGR(discomfort glare rating)에 대한 rating방법은 IES Lighting Handbook(1947)의 방법과 Guth(1966)에 의한 방법이 있다. 각각의 방법을 살펴보면 다음과 같다.
+- IES Lighting Handbook(1947)
+개개의 glare광원에 대한 rating을 한 것으로 glare광원이 여러 개인 경우 각각의 glare rating을 합하여 계산한다.
+  K = A*B2 / D2*θ2*S0.6
+  K: glare factor for single source
+  A: apparent area of source(square inches)
+  B: brightness of source(footlamberts/1,000)
+  D: distance from source to eye(feet/10)
+  θ: angle between horizontal and line above it from eye to source 
+     (degrees/10)
+  S: surround brightness(footlamberts)
+  I: Intensity of source in direction of the eye (candlepower)
+- Guth formula(1966)
+하나 하나의 glare광원에 대하여 rating을 구한 후 다시 formula를 통해 전체적인 discomfort glare rating을 행한다. 
+M = (LS Q)   (P F0.44)   (1)
+Q = 20.4ws + 1.52ws2 - 0.075   (2)
+F = [Lwww + Lfwf + Lc(wc -  ws) +  LSws]   5 (3)
+DGR = Mta   (4)
+a = n-0.914   (5)
+M: index of sensation for each source
+LS: luminance of each source (footlamberts)
+ws: solid angle subtended by each source (steradians)
+Q: function of solid angle
+P: position index of each source (relative luminance factor to account 
+   for its location)
+F: average luminance of entire field of view (footlamberts)
+Lw: luminance of wall
+Lf: luminance of floor
+Lc: luminance of ceiling
+ww: solid angle subtended by wall (footlamberts)
+wf: solid angle subtended by floor (footlamberts) 
+wc: solid angle subtended by ceiling (footlamberts)
+5: [denominator in Equation (3)] total solid angle of the field of view 
+   (steradians)
+Mt: sum of individual indices of sensation
+a: variable components
+n: number of sources in the field of view
+
+ 2.3 Glare의 허용기준과 관리방법
+Glare는 광원에 노출된 정도와 위치에 따라서 광원에 직접 노출된 경우인 direct glare와, 주변물에 빛이 반사되거나 백열등과 같이 광원의 brightness가 너무 강해서 생기는 현상인 indirect glare로 분류할 수 있다.
+일반적으로 direct glare와 indirect glare의 위치에 의한 분류는 작업 시야선과 glare광원의 각도가 45도 이하를 direct glare로 45도 이상일 때를 indirect glare로 분류한다. glare는 시각을 사용하는 작업을 방해하는데 작업 난이도가 어려운 작업일수록 그 방해정도가 크다(IES, 1968).
+ 표 3  Glare의 정도가 작업에 미치는 영향에 관한 기존의 연구
+
+Glare에 관련된 연구를 살펴보면, Hultgren(1974)의 연구의 사무실에서 CRT 모니터가 창가에 위치한 경우 외부에서 들어오는 빛이 glare의 역할을 하여 CRT 작업의 효율저하와 작업자의 거부감을 발생시킨다.  자동차의 전조등도 전면에 노출된  사람들에게 불쾌감을 준다(Michell et al., 1989). 이러한 glare는 미치는 영향은 노출된 사람에게 불쾌감을 주며, veiling luminance로 작용함으로써 visual acuity를 떨어뜨리며, 장시간 노출되어 작업하는 경우 시각적 장애, 불면증 또는 기관지염과 같은 신체적 이상의 발생율이 높아진다(Gunnarsson and S berberg, 1983).
+ 그림 2  Glare광원과 시야선과의 optical angle이 변화에 따른 visual acuity의 저하 (Luckiesh and Moss, 1937)
+Glare에 대한 허용기준으로 VCP(visual comfort probabilities)라는 index치가 있으며 이 수치가 70을 기준으로 하여 그보다 높으면 안전하며, 그보다 낯은 수치일 때는 위험하다(IES).
+Glare광원은 제거 또는 감소시켜야 하며 감소시키는 방법에는 glare의 종류에 따라 다음과 같은 방법이 사용된다. 
+ 표 4  Glare를 조정하는 방법 (Eastman Kodak Co, 1983) 
+
+ 2.4 시각적 피로의 정의 및 측정법
+시각적 피로에 대한 정의는 내,외부 안구근육의 비정상적 활동으로 인한 질병의 상태로 정의되고 있다(Duke-Elder, 1950). 또한 eye strain이라는 작업에 의해 주어지는 시각적 부담에 의한 현상으로 정의되기도 한다(Ferguson et al., 1974). 
+시각적 피로의 원인에 대해서 Duke-Elder(1950)은 개인 내부의 원인과 주어진 작업에 인한 원인으로 나누고 있다. 개인적인 원인은 다시 나이나 질병여부와 같은 개인변수와 자세와 같은 습관적인 요인(Weston, 1962), 그리고 흡연, 음주, 영양실조와 같은 상황변수로 나눌 수 있다. 작업에 인한 원인은 glare와 같은 부적절한 조명에 의한 것, monitoring하여야 할 대상물의 크기, 움직임, contrast 부족 등 대상물 자체에 의한 것으로 나눌 수 있다.  
+시각적 피로의 측정법으로는 주관적인 rating에 의해 불편을 측정하는 방법과 피로로 인한 생리적인 변화를 관찰하는 방법, 그리고 간접적인 방법으로 피로로 인하여 발생하는 performance의 저하를 통해 측정하는 방법이 있다. 각 각의 방법에 대한 소개와 각 측정법을 사용했던 연구사례들을 살펴보면 다음과 같다.
+- 설문서에 의한 방법(주관적 측정법)
+이 방법은 설문서를 주고 주관적인 피로를 응답하도록 하여 피로의 정도를 측정하는 방법이다. 이 방법은 응답을 scaling해내는 방법에 따라 다시 decision tree rating scale인 MCH(modified cooper-harper)방법(Wierwille and Casali, 1983), 이를 개량시킨 COMPMCH (Computerized version of MCH), PBMCH (performance based MCH)와 decision tree를 사용하지 않는 NDT(no decision tree)방법 등으로 나눌 수 있다. 이 방법의 장점은 system operator에게 이해가 쉽고, 일반적으로 높은 face validity를 가지는 것이다. 그러나 응답자가 전문가(expert)여야 하며, 특정작업마다 그 작업에 맞는 rating scaling 방법을 따로 강구하여야 한다. 또한 특정한 workload(mental, physical, sensory)를 구분하지 않고 단순화시켰다. 본 실험에서는 채택하지 않는다.
+- Visual workload history
+이 방법은 불량품의 갯수와 눈의 피로는 비례한다는 공식으로 작업에 대한 분석을 실시함으로 작업 대상체에 의해 발생하는 피로를 구하는 방법이다. 이는 작업시 불량품의 비율에 따라 피로가 달라지므로 본 실험방법으로는 적합하지 않다(Matthew, 1982).
+- 생리적인 척도
+피로로 인하여 나타나는 생리적인 현상에 의해 시각적 피로를 측정하는 방법이다. 시각적 피로로 인하여 나타나는 현상인 eye accomodation, eye convergence, visual occlusion을 추적하는 것이다. 이 방법에 대한 연구 사례는 연구결과 primary task performance와 questionaire method에 비해 열등한 것으로 나타났다(Farber et al., 1972).
+- Electro-encephalograph (EEG)
+이는 mental workload를 받은 인체가 고유한 뇌파를 발산한다는 사실에서 착상한 방법이다. 이 graph는 alpha rhythm, theta rhytm, delta rhythm, desynchronization, evoked potentials으로 구성되어 있다 Visual fatigue를 이러한 visual evoked potential을 통해 분석한 사례는 VDT작업에서의 피로측정(Iwasaki, 1988)과 VDT상의 data entry작업에서의 피로현상(Floru et al., 1985)에 대한 연구를 꼽을 수 있다. 
+- Critical flicker fusion frequency (CFF)
+정해진 brightness와 contrast에서 깜박거리는 빛을 바라보았을 때, 깜박거리는 주파수가 어느 이상이 되면, 정지하고 있는 것으로 인식한다. 이때의 주파수를 critical flicker fusion frequency(CFF)라 한다. 이는 정량적으로 시각적 피로를 나타내는데 적합하다. 기존의 실험에 의해 flicker value에 영향을 미치는 요인으로는 작업강도, 작업시간, 작업/휴식주기, 시각적 피로, 작업이 요구하는 집중력 그리고 마약이나 술과 같은 항정신성 약품 등이 있다(Sanders and McCormick, 1987; Coren et al., 1978). VDT 화면 색깔에 따른 피로의 분석에 사용되었다(Osaka, 1984).
+- Primary task performance
+피로가 수행하고 있는 작업에 미치는 영향을 반영하고 있는 작업수행도를 역추적함으로써 피로의 정도를 알아내는 방법이다. 작업수행도를 측정하는 방법으로는 eye movement의 정도를 통해 시각적 피로를 측정한 방법(Mourant et al., 1981)과 장시간동안 chromatic display를 관찰함으로써 나타나는 피로 정도를 연구(Matthews and Mertins, 1989)한 경우, VDT작업자에 대해 작업 전후의 visual acuity를 측정함으로써 피로 정도를 측정한 사례(Dainoff et al., 1989; Tanaka et al., 1982), VEP(visual evoked potential)을 통해 작업부하를 알아본 연구(Ossenblok and Spekreije, 1988; Iwasaki, 1988; Elwany, 1982) 등이 있다. 
+ 표 5  Visual fatigue의 측정법과 대표적 연구사례
+ 2.5. Visual performance에 영향을 미치는 요인 관련연구
+ 표 6  Visual task performance에 영향을 미치는 요인들
+(N.S: not significant *:p<0.05 ; **:p<0.01 ; ***:p<0.001)
+
+ Ⅲ Glare의 효과가 작업수행에 미치는 
+   영향을 알아보기 위한 실험
+
+Glare에 의한 작업 수행도의 저하를 추적하고, glare 광원 차폐시(glare에 노출되지 않을 경우)의 검출력의 저하와 glare에 노출되었을 경우의 검출력의 저하를 비교해 봄으로써 glare가 visibility저하로 뿐만 아니라 fatigue의 원인으로서 검사작업에 미치는 영향을 분석해 보고자 한다.
+본 실험에서 주어지는 task가 실제의 육안투과 검사작업을 재현할 수 있는가에 대하여 다음과 같은 근거로 대답할 수 있다. 
+Blackwell(1969)은 direct한 task의 performance에 의한 결과를 다른 작업에 적용시키는데는 다음과 같은 문제가 있다고 하였다. 
+- Visibilty가 다르다.
+- Eye movement의 pattern이 대상 작업에 따라 다르다.
+- Dynamic situation과 static situation의 경우 실험 결과의 상호 호환성
+  이 없다.
+- Information의 내용과 information을 습득하는 과정이 다르다.
+첫번째의 visibility를 같게 하는 문제는 실제작업의 luminance와 contrast와 size의 상황을 blackwell curve를 통해 실험상황과 보정시켜 주므로써 가능하다. 이때 실제작업에서 defect의 contrast의 측정이 문제이나 이는 원칙적으로 defect의 크기와 모양과 위치에 따라 다른 contrast를 가질 수 밖에 없다. 이에 대한 해결책으로 본 실험에선 실험에 앞서 modeling을 통해 가장 보편적인 원형의 open blister라는 불량을 기준으로 작업대상물의 contrast를 구하여 실험에 사용한다.
+Eye movement pattern의 경우 실제작업과 본 실험의 대상 작업에서 요구되는 방법이 같다. Information의 내용은 불량의 검출로 동일하며 습득하는 과정도 눈에 보이는 불량을 불량으로 처리한다는 점에서 동일하다.
+그러므로 본 실험에서 제시되는 작업이 실제의 육안투과 검사작업을 대표할 수 있다고 가정하였다.   
+본 실험에 대한 실험변수는 다음 표 7과 같다. 분야 별 상세 설명은 3.1-3.4절과 같다.
+
+
+
+
+
+표7
+ 3.1 Glare의 양과 노출시간의 결정
+본 실험의 독립변수는 glare광원의 양과 노출시각이다. Glare양은 광원의 위치(시각선과의 각도)로 변화된다. 이는 시각선과의 각도가 변함에 따라 같은 luminance를 가진 glare광원이라 할지라도 discomfort glare rating이 달라지기 때문이다. 
+종속변수는 검출력의 변화이다. 실험방법은 주어진 glare광원에 일정시간 피실험자를 노출시킨 후 computer monitor상의 화상이 제시되면 이 화상에 대해 표적이 되는 자극이 제시되었는지의 여부를 키보드를 통해 입력시키는 것이다. 독립변수는 glare광원의 노출정도와 광원에 대한 노출시간으로 결정하였다. Glare의 노출정도는 glare의 차폐정도를 통해 주어진다. 
+Glare광원의 조도는 4210 cd/m2(형광등인 경우)로 고정시켰다. 이는 현행 육안검사 작업장의 광원이 형광등이며, 작업장에 대한 일반적인 추천조명 역시 형광등이다(Eastman Kodak Co, 1980).
+Glare가 제시되는 각도는 0도, 45도, 180도의 3가지로 지정하였다. 다음 표 8은 본 실험에서 나타나는 독립변수에 관한 설명을 다룬 표이다.
+          표 8  실험에서 주어주는 glare의 양의 수준
+작업시간을 결정하기 위해 선행연구를 살펴보면, 기존의 광원의 노출시각의 변화에 따른 performance의 변화를 추적하는 유사한 연구로는 VDT작업으로 인한 computer 화면의 luminance에 의한 눈의 피로현상에 관한 Iwasaki(1988)의 연구가 있다. 그는 1시간 동안의 performance를 관찰하였는데 매 4분마다 30초씩 휴식을 주고, 결과는 매 5분마다 sampling함으로써 5분 단위로 분석하였다. 또한 conveyor paced inspection 작업(Elwany, 1982)의 경우, 실험시작 40분에 첫 피로현상(5%정도의 loss)이 관찰되었으며, 4시간 동안의 실험을 수행시에 있어 검출력이 시간당 평균 0.75%가 감소하였음을 알 수 있다. 또한 chromatic display 관찰실험에서는 실험시간을 4시간으로 하여 30분단위의 sampling을 통하여 검출력의 변화를 관찰하였다 (Matthew and Mertin, 1989). 또한 본 작업은 생산현장에서 40/20분의 작업/휴식주기표준을 가진 작업이며, 난이도가 매우 힘들다는 사실을 감안할 때 단시간내에 피로현상이 나타날 것이라 추정된다. 이상의 검토결과를 종합하여 본실험에서는 실험시간을 50분으로 하고, 기존연구에서처럼 sampling주기는 5분으로 하였다.   
+실험을 수행하기 위한 실험조건을 그림으로 나타내면 다음 그림 3과 같다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 그림 3  Glare광원의 위치변화 
+
+ 3.2 측정자료의 결정
+Inspection 작업에 대한 연구에서 검출력(performance)로 사용될 수 있는 지표들은 
+- Percentage detected
+- Percentage correct rated
+- Percentage of false alarm
+- Total cost
+- Time per inspection unit (units inspected per time period)
+이다. (Eastman Kodak Company 1983)
+본 실험에서는 자극을 주는 경우 반응할 비율, 자극을 주어도 반응하지 않을 비율, 자극을 주지 않았는데도 반응할 비율, 자극이 주어지지 않을 때 반응하지 않을 비율을 구한다. 
+본 실험에서 직접적으로 종속변수로 사용될 변수는 피로 발생시간과 피로율이 된다. 이 변수들은 이미 conveyor paced 작업에서의 피로 영향의 측정에서 사용된 바 있다(Elwany, 1988). 이 두 변수는 표7에서 언급한 측정치를 통하여 얻어진다. 
+피로 발생시간은 초기 피로가 나타나지 않을 때의 반응수행도를 어느 정도의 기간까지는 유지할 수 있으나, 피로현상의 발생으로 인하여 어느 수준에서는 그 반응 수행도가 떨어질 때 그 시간을 측정하는 의미를 갖는다. 이 지표의 필요성은 초기 피로 발생시간까지는 반응수행도가 변하지 않으므로 work/rest cycle을 결정하는데 이용될 수 있다. 
+피로율의 측정은 sampling된 결과들에 대해서 시간대별로 plot시켜봄으로써 시간대별로 나타나는 피로정도를 알 수 있다. 
+
+ 3.3 반응실험에 사용되는 실험 setting
+본 실험에서는 예비실험과 현행작업장에서의 조사를 통해, 실험 setting을 결정하였다.
+ 3.3.1 예비실험의 결과
+예비실험의 목적은 
+- Glare에 노출 후 주어질 task의 sampling주기를 결정하고,
+  (실험setting의 결정)
+- 실험조건마다 몇 번의 실험을 반복할 것인가를 결정하는데 있다.
+  (실험횟수의 결정) 
+Glare에 노출된 후 glare의 영향만을 측정하는 것이 본 실험의 목적이므로 task의 결정은 task자체가 task performance(검출력)에 가급적 영향을 주지 않는 선에서 결정되어야 한다. glare를 주지 않고 task만을 수행시킨 경우에 task performance는 다음의 그림과 같이 나타난다. 
+여기서 task performance는 probability of correct response로써 응답한 비율을 나타내고 있으며, 1500개의 실험과정을 연속적으로 나타내기 위하여 가중된 비율 즉, 대상 횟수의 전후에 위치한 20개의 자극에 대해 응답한 비율을 가지고 산출하였다. 단, 처음의 10개(1번에서 10번)와 끝의 10개(1491-1500)는 앞의 10개 또는 뒤의 10개가 전부 available하지는 않으므로 available한 것(예를 들어 1번의 경우는 1번부터 11번, 1495번의 경우 1486-1500번)만을 대상으로 하였다.
+다음의 그림 4는 예비실험에서의 검출율을 그림 5는 반응시간의 변화를 나타낸다.
+
+그림 4  예비실험에서의 검출력의 변화 
+그림 5  예비실험에서의 반응시간 변화양상
+그림에서 알 수 있듯 1500회(50분)의 반복실험 결과 work period가 task performance에 미치는 영향은 거의 없다고 할 수 있다. 이는 통계적인 분석을 통해서도 검증된다. 단 유의할 점은 주기가 일정함을 알 수 있는데 이 주기는 대략 100 - 200회(4-6분)마다 일정한 task performance의 변화주기가 나타남을 알 수 있었다. 본 실험에서는 이러한 주기성 경향을 없애기 위하여 이 주기를 sampling주기로 하였다. 
+또한 150회(5분)마다 예비실험 결과를 sampling하였을 때의 검출율을 측정하였다. 이는 실험횟수를 결정하기 위한 실험이다. 10번의 sampling결과 E(X) = 0.9293 σ(X)= 0.0137로 나타났다.
+실험횟수 공식에 이를 대입하여 보면, α = 0.05로 두면 t(10, 0.05) = 1.812, 실험횟수는 0.5405로 나타남을 알 수 있다. 본 실험에서는 실험결과의 유의성을 중요시하여 2회 실시하도록 하였다. 
+ 3.3.2. 실험방법 및 실험환경의 적합화
+본 실험은 task에 주어진 시간과 task performance와는 서로 trade-off효과가 있으므로(Drury, 1973) 실험의 control이 어렵다. 그러므로, 본 실험에서는 일정 한계시간(3초)을 예비실험으로부터 추출하여, 그 수치를 벗어나는 값은 분석에서 제외하였다. 추출과정을 살펴보면, 한 task에 걸리는 시간을 결정하기 위하여서 예비실험에서 glare를 주어주지 않았을 경우 평균반응시간을 보면 이는 대부분 2초 정도임을 알 수 있다. Blackwell(1968)은 정상 상황에서의 눈이 초당 fix할 수 있는 point의 갯수를 APS(assimilations per seconds)라는 단위를 통하여 나타냈는데 그 결과는 정상인의 경우 5APS라 하였다. 이 APS값은 조명상태와 task의 난이도와 시각적인 피로현상에 따라 줄어든다. 이를 예비실험에서의 reaction time과 matching시키면 본 task에는 10번정도의 assimilation이 필요함을 알 수 있는데, glare를 주어줄 때 조명상황이 악화되는 것을 고려하여 task당 관찰한계시간을 3초로 정하였다.
+본 연구에서는 computer program을 통해 투과검사작업을 연출하였다. 이에 대한 타당성 및 computer program의 설계방법에 대해서는 부록 D에 별도 설명하였다.
+또한 실제작업중 불량의 contrast를 계산하여 실험setting에 이를 보정시켜주어야 한다.
+본 실험의 육안 검사작업과의 재현성을 위하여 이 절에서는 불량의 contrast를 계산한다(부록 B참조). contrast를 잴 수가 없는 이유는 현재의 기기로써 불량의 크기가 너무 작아서 그 측정이 불가능하기 때문이다. 이를 통하여 실험환경과 실제작업장간의 조명환경에 대한 보정이 가능하여 진다. 
+본 실험의 setting을 위하여 보정된 수치를 적용시켜 보면, 즉 실제 작업에서의 luminance는 1250cd/m2(371foorlamberts), contrast는 0.9004 (Blackwell기준)이므로 실험에서 똑같은 visibility를 유지시키기 위하여 size의 경우는 작업장과 같게 하고, luminance는 VDT스크린의 경우 98cd/m2 (28.8foorlamberts)로 고정되므로 contrast를 blackwell curve를 사용하여 보정하여 주면 1.44(Blackwell기준)가 된다. 이는 computer program의 defect부분이 39.92cd/m2 (11.8 foorlamberts)로 되어야한다는 것을 의미한다.  
+
+ 3.4 피실험자의 선정 및 교육
+Visual inspection performance에 영향을 미치는 개인변수는 visual acuity, color vision, eye movement strategy, age, experience, personality, sex, intelligence, subjective preferrence가 있다(Eastman Kodak Company 1983). 
+Visual inspection 작업자의 선발에 관한 연구(Gallway, 1982)를 볼 때 작업자의 시력과 intelligence, 또한 각종 모의 test의 결과에 따라 검출력이 상대적으로 다르게 나타난다. 본 실험에서는 2명의 피실험자를 선정하였다. 
+피실험자에게 Panel을 검사하는데 있어 일정한 search strategy, 즉, panel 상부부터 하부로 훑어 내려가는 방법을 유지하도록 교육시켰다. 또한 피실험자의 학습효과를 방지하기 위하여 예비실험을 검출수준이 일정수준에서 고정될 때까지 반복하였다. 본 실험에 있어서도 실험순서 조합을 random하게 하여 교육효과가 없어지도록 하였다. 
+또한 본 실험에서는 피실험자의 attention을 일정하게 유지시켜 주어야 한다. 그를 위하여 본 실험에서는 incentive를 주었다.
+피실험자의 개인변수 수준을 나타내면 다음의 표와 같다.
+ 표 9  피실험자의 개인변수 수준
+
+ Ⅳ 분석
+본 장에서는 우선 glare의 양을 계산하여 일반적인 guideline과 비교하고, 피로발생시간을 추출하여 glare의 양과 피실험자와의 관계를 해석하며, 계산된 glare의 양과 평균 피로율과의 관계를 정량화하였다.
+ 4.1. DGR(discomfort glare rating), EVB(equivalent 
+    veiling brightness), VCP(visual comfort 
+    probabilities)의 계산 및 일반적 guideline과의 비교
+본 장에서는 실험에 사용된 glare의 양을 DGR(discomfort glare rating), EVB(equivalent veiling brightness)와 VCP(visual comfort probabilities)라는 측정수단을 통해 정량적으로 나타내고, 본 연구의 대상 작업에 대한 일반적인 guideline(IES, 1969)과 비교하여 문제여부를 살펴본다. 이 절차는 다음장에서 disability glare에 의한 fatigue를 추정하는데 사용되기 위함이다.
+ 계산에 의해 구하여진 실험환경별 각종 index치는 다음과 같다(계산과정은 부록 E참조).
+ 표 10  실험환경별 계산된 DGR, EVB, VCP
+위의 표에서 계산된 glare index와 일반적인 guideline을 비교하여 문제점을 지적한다면 실험조건이 0도일경우(음영으로 나타난 부분)에만 개선이 필요하다고 알려져 있다.
+ 4.2. Visual fatigue에 대한 분석기준 설정
+Visual fatigue에 대한 분석기준으로써 
+- 피로발생시간대
+- 피로율
+의 2가지의 지표를 사용하였다. 본 절에서는 각각에 대해 설명하도록 하겠다.
+ 4.2.1 피로발생시간대
+피로가 발생했다는 정의 자체가 앞의 이론적 배경에서 설명한 바와 같이 비정상적인 performance의 저하로 나타날 수 있다. 비정상적인 performance의 저하를 정의하기 위하여 통계적인 개념을 쓰면, 이에 대한 측정방법이 도출될 수 있다. 본 연구에서는 "비정상적 저하"이라는 개념을 구하는데 있어 다음과 같은 절차를 밟는다. 
+먼저 glare가 주어지지 않았을 때의 performance(percentage of correct response)를 기준으로 하여 5분별로 sampling된 결과에 대하여 평균과 표준편차를 구한다. 두번째로 유의수준을 설정한다(본 실험에서는 95%). 다음 평균에서부터 95%의 유의한 구간을 찾아낸다. 이 구간이 정상적인 performance수준을 나타내는 구간이라 할 수 있다. 다음에 조건별 sampling치중에 위의 구간을 벗어나는 구간을 찾는다.
+이러한 비정상적인 performance를 보이는 구간을 본 연구에서는 피로에 의한 것으로 해석한다. 이 구간대가 피로발생시간대가 된다.
+ 4.2.2. 피로율
+피로가 발생하였다면 그로 인한 performance의 변화율을 가지고 간접적으로 피로의 정도를 알아볼 수 있다. performance의 변화율은 측정된 결과를 시간대별로 regression을 시켜서 나온 X coefficient를 측정하였다. 여기서 추출된 피로율은 평균 피로율로만 사용할 수 있으며 피로의 function을 작성할 수는 없다. 또한 측정시간내에서만 유효하다.
+ 4.3. Visual fatigue가 발생한 시간대 분석
+Visual fatigue의 발생유무를 performance의 비정상화로 대변할 수 있다면, 먼저 정상적인 구간을 구하여야 한다. 4.2절에서 언급한 방법에 의해 피실험자별로 추출하면 다음의 표와 같다.
+ 표 11  피실험자별 정상적인 performance의 신뢰구간 (단위: 확률값)
+다음의 그림 6에서 21은 실험결과를 보여준다. 그림에서 criteria라고 명명된 직선은 표 11의 신뢰구간의 하한선으로 이 직선의 아래부분은 비정상적 performance의 저하부분을 나타내며, 이 부분에서 피로가 일어났다고 할 수 있다. 
+
+
+ 그림 6  피실험자 KHS의 glare광원의 위치가 0도일때 첫번째 실험결과
+ 그림 7  피실험자 KHS의 glare광원의 위치가 0도일때 두번째 실험결과
+ 그림 8  피실험자 KHS의 glare광원의 위치가 45도일때 첫번째 실험결과
+ 그림 9  피실험자 KHS의 glare광원의 위치가 45도일때 두번째 실험결과
+ 그림 10  피실험자 KHS glare광원의 위치가 180도일때 첫번째 실험결과
+ 그림 11  피실험자 KHS glare광원의 위치가 180도일때 두번째 실험결과
+ 그림 12 피실험자 KHS glare광원이 주어지지 않았을때 첫번째 실험결과
+ 그림 13 피실험자 KHS glare광원이 주어지지 않았을때 두번째 실험결과
+ 그림 14  피실험자 LCW glare광원의 위치가 0도일때 첫번째 실험결과
+/ 그림 15  피실험자 LCW glare광원의 위치가 0도일때 두번째 실험결과
+ 그림 16  피실험자 LCW glare광원의 위치가 45도일때 첫번째 실험결과
+ 그림 17  피실험자 LCW glare광원의 위치가 45도일때 두번째 실험결과
+ 그림 18 피실험자 LCW glare광원의 위치가 180도일때 첫번째 실험결과
+ 그림 19 피실험자 LCW glare광원의 위치가 180도일때 두번째 실험결과
+ 그림 20 피실험자 LCW glare광원이 주어지지 않을때 첫번째 실험결과
+ 그림 21 피실험자 LCW glare광원이 주어지지 않을때 두번째 실험결과
+그림 6에서 21에 의해 피실험자별 시간대별로 실험결과에 대한 피로의 유무를 판별하면 다음과 같다. 
+ 표 12  시간대별 피로의 발생유무
+       참고사항 1. 가로축의 숫자는 시간대(단위: 분)
+                2. 횟수는 실험반복시 첫번째와 두번째를 구분
+                3.  는 비정상적인 경우,  는 정상적인 경우
+이상의 표에서 일반적인 특징을 도출하기 위하여 연속적으로 비정상적인 performance의 감소가 계속될 때를 fatigue에 의한 performance의 변화로 분석한다.
+이와 같은 경우 피실험자, 요인별 피로발생시간을 알 수 있다. 다음의 표는 피실험자, 조건별 피로발생시간을 나타낸다. N/A는 유의한 연속적인 비정상적인 performance의 저하, 즉 피로가 나타나지 않았음을 말한다.
+ 표 13  피실험자, 요인별 피로발생여부 및 발생시간
+즉, visual fatigue는 어떤 수준치 이상으로 누적된 후 performance의 변화로 나타났다. Task에 의한 fatigue, 작은 glare에 대한 fatigue는 performance의 변화로 직접 연결되지 않았으며, glare rating이 큰 실험조건에 대해서도 일정시간동안 glare의 효과가 지속된 후에만 나타났다. 피로발생여부와 발생시간대에 대한 분석을 통하여 visual fatigue가 performance의 변화로 나타나는 데 일정한 피로누적에 대한 threshold가 존재하는 것으로 판단된다. 
+Threshold는 피실험자별로 다르게 나타난다. 본 실험에서 피실험자 KHS와 LCW는 KHS의 경우 0도(glare rating: 105.56)에 가서야 피로의 현상이 관찰됨에 비하여, LCW의 경우 45도인 경우에도(glare rating: 60.76) 확연히 피로현상이 관찰되었다. 이는 피실험자별 glare resistability가 다르다는 기존의 연구결과와 일치된다.
+또한 VCP(visual comfort probabilities)의 응용에 있어서의 어려움을 보여주고 있다. 일반적으로 제시되는 VCP의 guideline은 70이상으로 제시된다. 그러나 본 연구에서는 VCP가 82(시야선과 glare광원의 각도가 45도인 경우)에서도 visual fatigue에 의한 performance의 저하는 유의하게 나타났다. 이는 본 연구가 대상으로 하는 육안 검사작업의 task difficulty가 상당히 높음을 알 수 있으며, VCP guideline제시에 있어서 작업특성에 따른 서로 다른 기준이 요구된다고 할 수 있다.
+ 4.5. 피로율 분석
+피로율을 분석하는 목적은 glare에 의한 효과를 나타내는 정량적인 지표인 DGR(discomfort glare rating), EVB(equivalent veiling luminance)와 본 실험에서 performance의 변화로 나타난 피로의 정도를 연관시켜 discomfort glare의 양과 veiling luminance의 양이 performance의 변화로 이어지는 관계를 설명하기 위함이다. 
+이들 두가지의 지표는 glare에 의한 psychophysical한 fatigue와 glare에 의한 visibility감소로 인한 fatigue라는 visual fatigue의 발생과정에 대한 독립변수로서의 역할을 할 수 있다. 그러므로, 피로율과 이 두 glare지표에 대한 분석을 통해 discomfort glare와 veiling luminance의 효과중 어떤 효과가 critical하며, 각각 피로현상과 어떤 연관관계가 있는지를 알아낼 수 있다. 
+4.2절에서 설명한 방법에 의하여 피로율을 구하면 다음의 표 16와 같다. 
+ 표 14  실험조건별 glare의 양과 performance 평균변화율(단위: %/hour)
+표 14에서 보듯이 본 실험결과 작업대 후면의 보조조명은(180도 각도) 조명이 없는 조건보다도 좋지 않게 나타났다. 그러므로 보조조명은 양면적인 측면을 가지고 있으며, 설치에 앞서 신중한 고려가 필요하다고 할 수 있다. 피실험자별 횟수별, DGR과 EVB를 각각 performance 평균변화율과의 관계를 알아보기 위하여 피실험자, 횟수별 결과를 plot시켜보면 다음의 그림 22에서 29와 같이 나타난다.
+
+ 그림 22 피실험자 KHS 첫번째 실험에서 DGR과 performance평균변화율
+ 그림 23 피실험자 KHS 두번째실험에서 DGR과 performance평균변화율
+ 그림 24 피실험자 KHS 첫번째실험에서 EVB와 performance평균변화율
+ 그림 25 피실험자 KHS 두번째실험에서 EVB와 performance평균변화율
+ 그림 26 피실험자 LCW 첫번째실험에서 DGR과 performance평균변화율
+ 그림 27 피실험자 LCW 두번째실험에서 DGR과 performance평균변화율
+ 그림 28 피실험자 LCW 첫번째실험에서 EVB와 performance평균변화율
+ 그림 29 피실험자 LCW 두번째실험에서 EVB와 performance평균변화율
+위의 그림에서 알 수 있듯이 glare의 양과 performance의 평균변화율간에는 선형관계로 나타남을 알 수 있다. 그러므로 regression시켜보면 다음과 같은 결과로 나타난다. 이 경우 실험횟수별 차이는 고려하지 않으며, 1,2회 실험의 평균치를 performance변화율로 하였다. 
+ 표 15  DGR, EVB와 performance평균변화율간의 regression결과
+Regression의 결과는 DGR의 경우 performance의 변화와 직접적인 상관관계를 가지며 비교적 선형에 가까운 반비례 관계를 가진다고 할 수 있다. 
+즉, 위의 결과는 피실험자에 관계없이 DGR에 따른 performance rate의 변화는 1시간에 DGR이 1씩 증가할 때마다 0.20-0.32%(95%신뢰구간)감소하는 것으로 표현될 수 있다. 
+Veiling luminance의 경우에는 performance와 음(-)의 상관관계는 가짐을 알 수 있으나, R2의 문제, 즉 실험결과의 일관성이 data별, 피실험자별로 부족하므로, 이의 분석을 실시하지 않았다.
+즉 performance의 평균변화율은 DGR을 통하여 정량적인 회귀식으로 나타날 수 있으며, 이는 DGR이 1만큼 증가할 때의 시간당 visual transmitted inspection의 performance는 -0.025 0.005 %/hr (95% 신뢰구간)의 변화를 보인다고 할 수 있다. performance의 평균변화율은 EVB와도 음의 상관관계를 가지고 있다.
+ Ⅴ 결론 및 추후연구과제
+
+ 5.1. 결론
+Glare의 양과 노출시간이 visual fatigue에 미치는 영향에 관한 연구분석을 통해 다음과 같은 결론을 얻었다. 
+- Task performance의 저하로 나타나는 시각적 피로현상은 glare에 노출 후 performance수준이 유지되다가 일정시간 경과 후 시각적 피로로 인한 task performance저하가 급격히 발생하는 것으로 나타난다.
+- 최초의 피로발생시간은, glare의 양이 증가함에 따라 짧아지며, 개인별 glare resistability에 따라 시간의 크기는 다르게 나타난다. 
+- DGR(discomfort glare rating), EVB(equivalent veiling luminance)로 표현되는 glare index가 크면 클수록 task performance의 저하의 정도 역시 커지며, 특히 DGR과의 관계는 정량적인 회귀식으로 나타낼 수 있다.
+- 육안투과검사 작업장에서 후면의 보조조명은 reflected glare를 유발하여, 바람직하지 못한 것으로 나타난다.
+- VCP(visual comfort probabilities)로 나타나는 일반적인 glare노출 guideline은 본 연구조건에는 적합하지 않은 것으로 나타났으며, 따라서 작업특성에 따른 각기 다른 기준이 요구된다.
+
+ 5.2. 추후연구과제
+본 연구를 통하여 얻어진 연구결과를 토대로 다음의 추후연구과제와 연구방법을 제시하고자 한다.
+- Glare resistability의 정량화
+Glare resistability의 연구에서 연령에 따라 glare resistability가 다르다는 기존의 연구결과(Pulling et al., 1980)가 있으나 본 연구에서는 연령이 같은 피실험자를 대상으로 실험함으로서 연령외에 glare resistability에 영향을 미치는 개인변수-즉, 시력, 시각적 이상, 성별, 인지력 등-가 있음을 알 수 있었다. 따라서 이에 대한 연구를 통한 glare resistability의 정량화가 요구된다. 이는 glare를 수반하는 작업장에서 selection test의 지표로 사용될 수 있을 것이다.
+- 연구방법의 발전
+Glare에 의한 피로발생은 performance관찰외에 physiological index 등을 통한 다각적 연구도 중요하다. 즉 muscle fatigue 연구사례(이면우, 1979)에서 EMG (electromyograph)를 통한 muscle fatigue modelling에서와 같이, ECG (electroencephalograph)와 같은 physiological method를 통해 modelling시킬 수 있을 것이다.
+ Ⅵ Reference
+
+1. 이종수. 1987. 소형부품조립작업의 최적조명 설계절차개발 및 전산화 
+  방안. 서울대학교 석사학위 논문
+
+2. Blackwell, H. R. 1964. Further validation studies of Visual Task 
+  Evaluation and other elements of an earlier illumination specification 
+  system. Illumination Engineering. 
+
+3. Bobjer, O. and L. Carlsson. 1990. A perpectly ordinary car window. 
+  Applied Ergonomics. vol 21.
+
+4. Boynton, R. M. and N. D. Miller. 1963. Visual Performance under 
+  Conditions of Transient Adaptation. Illumination Engineering. 
+
+5. Collins, M., B. Brown., K. Bowman. and A. Carkeet. 1990. Work 
+  station variables and visual discomfort associated with VDTs. 
+  Applied Ergonomics. vol 21.
+
+6. Courtuey, A. J. and H. S. Chan. 1985. Simple measures of 
+  visual-lobe size and search performance. Ergonomics.
+
+7. Dainoff, M. J., A. Happ. and P. Crane. 1989. Visual Fatigue and  
+  Ocuupational Stress in VDT Operation. Human Factors.
+
+8. Drury, C. G. 1973. The effect of speed of working on Industrial 
+  inspection accuracy. Applied Ergonomics. vol 4.
+
+9. Drury, C. G. 1982. Automation, productivity and stress in 
+  inspection. Ergonomics vol 28. no 6.
+
+10. Elwany, M. H. 1982. Conveyor-paced visual inspector efficiency 
+   over short and extended work periods. Ergonomics vol 28.
+
+11. Ferguson, D. A., G. Major. and T. Keldoutis. 1974. Vision at 
+   Work; Visual defect and the visual demand of tasks. Applied 
+   Ergonomics. vol 8.
+
+12. Fry, G. A. 1964. Measurement, Specification and Prediction of 
+   Transient States of Adaptation. Illumination Engineering. 
+
+13. Gallway, T. T. 1982. The distrivution of visual inspection time. 
+   Ergonomics. vol 28. no 6.
+
+14. Gallway, T. J. 1982. Selection tests for visual inspection on a 
+   multiple fault type work. Ergonomics. vol 25.
+
+15. Grandjean, E. 1980. Fitting the Task to the Man - An ergonomic 
+   approach. Taylor & Francis. London.
+
+16. Gunnarsson, E. and I. S derberg. 1983. Eye Strain resulting from 
+   VDT work at the swedish telecommunications administration. 
+   Applied Ergonomics. vol 14.
+
+17. Guth, S. K. 1966. Computing Visual Comfort Ratings for a 
+   Specific Interior Lighting Installation. Illumination Engineering. 
+
+18. Guth, S. K. and J. F. McNeils. 1968. Visual Performance: A 
+   comparison in terms of detection of presence and discrimination of 
+   detail. Illumination Engineering. 
+
+19. Guth, S. K. and J. F. McNeils. 1969. Visual performance 
+   subjective difference. Illumination Engineering. 
+
+20. Floru, R., F. Cail. and R. Elias. 1985. Psychophysiological Changes 
+   during a VDU repetitive task. Applied Ergonomics. vol 21.
+ 
+21. Hicks, T. G. and W. W. Wierwille.  1979. Comparison of five 
+   mental workload assessment procedures in moving-base driving 
+   simulator. Human Factors.
+
+22. Human Reliability in Quality Control. 1973. Proceedings. 
+   Ergonimics Research Society Industrial Committee Meeting at 
+   Birmingham.
+
+23. Hultgran, G. V. and B. Knave. 1974. Discomfort glare and 
+   disturbances from light reflections in an office landscape with CRT 
+   display terminals, Applied Ergonomics vol 5.
+
+24. Hultgren, G. V., B. Knave. and M. Werner. 1974. Eye discomfort 
+   when reading microfilm in different enlarged. Applied Ergonomics. 
+   vol 5.
+
+25. IES(Illuminating Engineering Society of North America) 1947. IES 
+   Illumination handbook. 
+
+26. IES. 1966. Outline of Procedure for Computing Visual Comfort: 
+   Ratings for Interior Lighting - report No.2. Illumination 
+   Engineering. 
+
+27. IES. 1968. Recommandations for lighting, building interiors IES. 
+   York House. London.
+
+28. Iwasaki, T. 1988. Eye strain and changes in accomodation of the 
+   eye and in visual evoked potential following quantified visual load,      Ergonomics. vol 31. no 12.
+
+29. Konz, S. 1984. Work design: Industrial ergonomics. John Willies & 
+   Sons. New York.
+
+30. Kruza, W. Z. 1988. Visual Strain during VDU Work: the effect of       viewing distance and dark focus. Ergonomics. vol 31.
+
+31. Luckiesh, H. and F. K. Moss. 1937. The Science of Seeing. Van  
+   Nostrand. New York.
+
+32. Luria, S. M., D. F. Neri. and C. Schlichting. 1989. Performance 
+   and Preferrence with various VDT phosphers. Applied 
+   Ergonomics. vol 20.
+
+33. Matthews, M. L. 1982. The influence of visual workload history 
+   on visual monitoring performance. Ergonomics.
+
+34. Mourant, R. R., R. Chantadisai. and R. Lakshamanan. 1981. Visual 
+   Fatigue and Cathode Ray Tube Display Terminals. Applied 
+   Ergonomics.
+
+35. Muthews, M. L.  and K. Merins. 1989. Visual performance and 
+   subjective discomfort in prolonged viewing of chromatic displays. 
+   Human Factors. vol 31 no 3.
+
+36. Ossenblok, P. and H. Spekreijse. 1988. Visual evoked potential as 
+   indicators of the workload at visual display terminal, Ergonomics. 
+   vol 31. no 10.
+
+37. Osaka, N. 1984. The effect of VDU color on visual fatigue in the 
+   fovea and periphery of visual field, Displays Technology and 
+   Applications.
+
+38. Pulling, N. H., E. Wolf., S. P. Sturgiz., D. A. Villancourt. and J. J. 
+   Dolliver. 1980. Headlight glare resistance and Driver age. Human 
+   Factors. vol 22.
+
+39. Saito, Y. 1982. The validity of Japanese fatique feeling scale. 
+   Ergonomics. 
+
+40. Salvaldy, G. 1987. Handbook of Human Factors. John Willies & 
+   Sons. New York.
+
+41. Sanders, M. S. and E. J. McCormick. 1987. Human factors in 
+   engineering and design. sixth edition. McGrow-Hill Book Co.
+
+42. Shahnavaz, H. 1982. Visual accomodation changes in VDU 
+   operators related to environmental lighting and screen quality. 
+   Ergonomics.
+
+43. Sheehan, J. J. and C. G. Drury. 1971. The analysis of industrial 
+   inspection. Applied Ergonomics.
+
+44. Smith, A. P. and C, Miles. 1986. The effects of lunch on cognitive 
+   visual tasks. Ergonomics vol 29. no 10. 
+
+45. Spitz, G. and C. G. Drury. 1978. Inspection of sheet material test 
+   of model prediction. Ergonomics. 
+
+46. The Human Factors Section , Health, Safety and Human Factors 
+   Laboratory, Eastman Kodak Company. 1983. Ergonomic design for 
+   people at work vol 1. Workplace, equipment and environmental 
+   design and information transfer.
+
+47. Weston, H. C. 1945. The relationship between illuminance and 
+   visual efficiency The effect of brightness contrast. Industrial 
+   Health Research Board Report No. 87.
+
+48. Williges, R. C. and W. W. Wierwille. 1979. Behavioral measures of 
+   aircrew mental workload. Human Factors.
+ 부록 A. 현행 투과검사 작업장의 배치도
+다음 그림 30은 현행 TV 투과검사 작업의 예로 glare가 노출되어 있는 작업장의 예시이다.
+
+
+
+
+
+
+                          맥에 그림 있음
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 그림 30  현행 투과검사 작업장의 배치도 
+
+ 부록 B. 불량품의 contrast 계산법
+불량의 contrast는 불량이 생기는 위치, 각도, 모양, 종류에 따라 각기 다른 모양을 하고 있다. 그러므로 본 절에서는 유리 투과검사 작업에서 가장 발견의 빈도가 높은 blister중에서도 표면에 생긴 open blister를 대상으로 한다. 아래의 그림은 계산을 위하여 단순화시킨 open blister의 모형이다. 본 계산을 위하여서는 몇 가지의 가정을 필요로 한다. 첫째는 투과검사에 사용되는 빛은 반드시 유리의 정후면에서만 비추어져야 한다는 점이다. 즉 완전한 작업장의 차폐상태로 가정한 것이다. 둘째는 blister의 모양은 원형이라 가정한 것이다. 다음의 그림과 식은 구하는 과정을 나타내고 있다. 결과적으로 불량의 contrast는 주변의 0.5262배인 것을 알 수 있었다.
+
+
+
+
+
+
+ 그림 31   불량품의 contrast계산을 위한 model
+두 매질의 투과계수를 n1, n2라 놓으면, 빛의 굴절율은 다음과 같은 공식을 따른다.
+       n1sin 1 = n2sin 2 (그림 7 참조)------ (1)
+이 때의 불량의 luminance는 그림 7에서 나타난 표면부분에 도달하는 빛의 양으로 구할 수 있다. 가운데의 그림은 빛이 들어 왔을 때의 굴절 현상을 modeling한 것이다. 결국 빛이 표면에 도달하기 위하여서는 (90-X)+2Y=180 (삼각형의 세 내각의 합은 180이여야 하므로)이 되어야 한다. 이를 식1에 대입하면 X,Y라는 표면에 도달하기 위한 임계각을 구할 수 있다. 이때 panel의 굴절계수(n1)은 1.66, 공기의 굴절계수(n2)는 1이므로,
+sinX = 0.6024 sinY (1/1.66   0.6024)
+(90-X)+2Y=180를 대입하면,
+sin(2Y-90) = 0.6024 sinY
+sin[Y+(Y-90)] = 0,6024 sinY
+sinYcos(Y-90)+cosYsin(Y-90) = 0.6024 sinY
+sinYsinY+cosY(-cosY) = 0.6024 sinY
+(sinY)2-(cosY)2 = 0.6024 sinY
+1 - 2(sinY)2 = 0.6024 sinY
+이제 sinY룰 A라 놓고 치환하면,
+1 - 2A2 - 0.6024A = 0
+2A2 + 0.6024A - 1 = 0
+이를 근의 공식을 이용하여 풀어보면, (0.3012)2   0.0907이므로 
+A = 0.3012   (2+0.907)1/2 / 2 
+(2.0907)1/2   1.4460이며, A는 0보다 커야하므로
+A = 0.8736
+sinY = 0.8736
+Y   60.87도 (Y는 0-90도여야 하므로)
+X   31.74도
+sinX   0.5262
+즉, 전체 표면에 도달한 빛의 0.5262배만이 불량부분의 luminance로 남는다. 이를 contrast로 나타내면 52.62%이다.
+ 부록 C. 실험장 배치 및 실험장의 차폐
+본 실험은 glare양에 따른 실험결과를 관찰하는 실험이므로 조명의 control에 매우 신중을 가할 필요가 있다. 이를 위하여 본 실험에서는 실험장 둘레를 스티로폴을 사용하여 외부조명 및 환경과 차폐시켰다. 스티로폴 거푸집은 정육면체의 모양으로 가로, 세로, 높이가 180 180 180cm로 제작되었으며, 거푸집의 내부표면은 빛의 반사를 막기 위하여(천정, 바닥, 벽에의 빛의 반사로 인한 조명을 따로 고려하지 않기 위하여) 검정색 색지를 사용하여 감싸주었다. 그 결과 본 실험에서 주변시야의 luminance는 각도가 180도인 조건일 때만 1.1 cd/m2이었으며, 타 조건에서는 0.6-0.7 cd/m2로 낮아 졌다. 본 실험장의 차폐과정은 다음과 같다.
+1. 길이 180cm의 스티로폴 6장을 준비하여 안쪽에 검정색지를 댄다.
+2. 스티로폴 거푸집을 제작한다.
+3. Computer의 표면(screen제외)을 검정 색지로 감싼다.
+
+ 부록 D. 실험에 사용된 computer program
+Computer program을 이용하여 performance를 측정함으로 나타나는 장점을 설명하면 다음과 같다.
+- 비용: 실제 생산현장이므로 실험에 따라 실제적 제품의 cost가 발생한다.
+- Data collecting의 문제: 현 생산현장에서는 불량으로 판정된 물건은 즉시 폐기처분하고 있으므로, 양품을 불량이라고 할 확률(false alarm)을 측정할 수 없으며, 검출작업뿐만 아니라 물류이동, 계기검사, 불량 data입력 등의 작업도 함께 수행하여야 하므로 순수하게 투과검사에 소요된 시간을 구하는 것이 거의 불가능하다. 본 실험은 투과검사 작업자체만으로 촛점을 맞출 수 있게 해준다.
+그러므로, 실제 작업장에서의 실험은 실험 결과의 validation과정에서나 가능하다. 본 실험에서는 그에 대한 대안으로 모의 검출실험을 행할 수 있는 computer program을 개발하였다. 
+본 program은 조절 가능한 luminance로 주어지는 흰색의 screen background에 지름이 0.3mm인 원형형태의 검정색 대상 자극을 random하게 위치시킨다. 주어진 화상에 defective가 주어질 경우와 주어지지 않을 경우도 random하게 주어지는데 그 비율은 실험횟수가 많아짐에 따라 2:1에 수렴하도록 하였다. 이 비율을 일정하게 정해준 이유는 이 비율 역시 검출력에 영향을 미치는 변수이기 때문에 실험의 control을 위해 현행 생산현장의 월간 불량품 비율과 유사하도록 설계하였다. 이 비율을 2:1로 준 이유는 computer에 의한 모의실험의 경우 실제 작업장보다는 반응의 수를 더 주는 것이 적합하다는 연구(Gillies, 1973)를 채택하여 사용하였다. 피실험자의 응답은 주어진 화상에 대해 반응이 있다고 생각할 때는 y보턴을, 없다고 생각할 때는 x보턴을 눌러서 실시한다. 
+결과의 출력은 전체 제시된 화상 자극의 수, 그 중의 자극이 제시되었을 경우 y라고 응답한 횟수, n라고 횟수와 자극이 주어지지 않았을 경우 y라고 응답한 횟수, n라고 응답한 횟수를 출력한다. 또한 자극이 제시되고, 반응하는데 걸린 시간을 매 자극 제시때마다 측정하도록 하였다. 
+본 실험에서는 현재의 glare에 대한 노출시간이 실험변수이므로, background와 대상자극의 luminance수준은 피실험자의 sensitivity의 threshold치에 가깝게 조정하여 실험결과를 뚜렷하게 나타낼 수 있도록 하였다. 반응하여야 할 대상자극의 크기를 0.3mm로 한 것은 실제 생산현장의 관리수준을 따른 것이다.
+
+ 부록 E. DGR, EVB, VCP의 계산
+(1) DGR의 계산
+이론적 배경에서 소개되었던 DGR계산방식(Guth formula)를 이용하여 본 실험의 조건별 glare rating을 계산하면 다음과 같다.
+M = (LS Q)   (P F0.44)   (1)
+Q = 20.4ws + 1.52ws2 - 0.075   (2)
+F = [Lwww + Lfwf + Lc(wc -  ws) +  LSws]   5 (3)
+
+ 표 16  본 실험조건의 DGR의 계산
+
+ (2) VCP(visual comfort probabilities)의 계산
+VCP는 특정 조명조건에 대하여 편안함(comfort)를 느낄 사람(population)의 비율을 나타내는 것이다. 예를 들어 VCP가 70이라면 70%의 사람들은 이 조명조건에 대해 불편을 느끼지 않는다는 의미이다. 
+VCP는 DGR의 환산표에 의하여 구할 수 있다. 결과는 다음 표 17과 같다.
+ 표 17  본 실험조건의 VCP의 계산
+이를 기존의 guideline과 비교하여 보자. 기존의 guideline(IES, 1969)에서 제시하는 glare에 대한 control은 일반적인 작업의 경우 VCP가 70이상이 되도록 glare를 줄이는 것이다. 본 실험이 대상으로 하는 작업자체가 일반적인 작업보다는 난이도가 높고 눈의 사용이 과다한 작업이므로 그 수치는 80 또는 그 이상으로 높아질 수도 있을 것이다. 이런 측면에서 본 실험에서 제시되는 조건중 시야선과의 각도가 0도일때는 매우 부적합한 조명상태이며, 45도일때도 약간의 영향이 있을 것이라고 추정할 수 있다. 
+ (3) Veiling Luminance의 계산 
+Glare에 의해 떨어지는 visibility를 보상하기 위하여 생기는 fatigue도 본 실험에서 발생하는 fatigue역시 본 실험에서 performance의 저하로 연결되므로 이 관계를 살펴보기 위하여서는 필히 glare가 visibility를 떨어뜨리는 정량적인 기준인 veiling luminance에 대한 조사가 필요하다. 
+공식을 이용하여 실험조건 별 veiling luminance를 구하면 다음과 같다. 본 계산을 위하여선 I(intensity of light) = 5 A2 B2의 보조정리(IES handbook, 1947)와 E = I D2(D: distance from eye to source)의 공식이 사용된다. 
+180도의 경우 glare조명은 reflected glare, 즉, 화면에 반사되어 나타나는 광원의 상에 의한 것이다. 그러므로, veiling luminance는 0.004 ft-L이지만, 긍정적인 조명으로 작용하는 brightness가 1.15 ft-L이므로 veiling luminance로 작용하는 양은 도리어 음의 값인 -1.146 ft-L임을 알 수 있다.
+
+
+</tdmsfiletext>

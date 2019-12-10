@@ -1,0 +1,27 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-8_6.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.8.8  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+4자회담 예비회담 합의없이 끝나
+
+
+
+⊙황수경 앵커 :
+          남북한과 미국 중국이 참석한 가운데 뉴욕에서 열린 4자회담 예비회담이
+일단 합의를 이끌어내지 못한 채 끝났다고 외무부 관계자가 밝혔습니다.
+남북한과 미국 중국은 이에 따라서 다음달 15일쯤 2차 예비회담을 속개하고
+절충을 계속하기로 했습니다. 3 환각상태서 엽총 탈취.난사 서울 노원경찰서는
+오늘 필로폰을 투약한 뒤에 사격장에서 엽총과 실탄을 탈취해서 난사한 서울
+하계동 35살 신영섭씨를 긴급 체포했습니다. 신씨는 지난 6일 오후 3시쯤
+필로폰을 투약한 채 환각상태로 서울 태릉 국제 사격장 안에 있는 한 사설 클레
+이 사격장에 들어가서 관리인 28살 김 모씨를 위협한 뒤 일제 미르고 엽총
+한정과 실탄 21발 을 탈취해서 달아난 혐의를 받고 있습니다. 
+
+</tdmsfiletext>

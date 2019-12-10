@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_208.txt </filename>
+<title> 조선일보  </title>
+<author> 김창기(기자)</author>
+<date> 93.01.01</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0776CSM930610
+{김창기}
+사장된 아파트 쓰레기투입구/다양한 공간활용 가능
+◎종이류 전용­수납­다용도실 등으로※ 「아파트 더스트슈트 공간을
+재활용하자」. 더스트슈트(쓰레기 투입시설)는 쓰레기 분리수거 실시후
+입구를용접으로 밀폐시켜 버린 상태. 최근 주택전문가들 사이에 이 공간을
+사장시킬 것이 아니라 재활용하자는 의견이 활발히 개진되고 있다.※
+더스트슈트는 복도식 아파트의 경우 같은 층의 2~3세대가 공동 이용하는
+것이보통이지만, 계단식�%B
+</tdmsfiletext>

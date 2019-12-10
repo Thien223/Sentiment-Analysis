@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-7_11.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.07 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+우성식품 최종 부도처리
+부산의 대표적인 식품업체인 우성식품이 부산은행 범일동 지점에 돌 아온
+어음 173억원을 결재하지 못해서 오늘 최종 부도처리 됐습니다. 우성식품은
+지난 4월 코카콜라 음료사업 부분을 매각한 뒤에 사업 다각화를 시도했으나
+경기침체로 부채가 천9백 억원에 이르는 등 자금압박을 받아왔습니다. 
+
+
+</tdmsfiletext>

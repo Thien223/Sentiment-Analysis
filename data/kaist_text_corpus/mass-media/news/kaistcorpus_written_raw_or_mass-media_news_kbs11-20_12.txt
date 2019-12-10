@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-20_12.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.19 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+내년 사시 700명 선발 확정
+
+
+
+⊙황수경 앵커 :
+          내년도 사법시험 선발인원이 올해보다 백명이 늘어난 7백명으로
+확정됐습니다. 총무처는 사법시험 선발인원을 오는 2천년까지 한해 천명
+수준으로 늘려나간다 는 세계화 추진위원회의 장기 계획에 따라 오늘 이같이
+확정했습니다. 
+
+</tdmsfiletext>

@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-16_5.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.16 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+시민단체에 공명선거 계도 당부
+김영삼 대통령은 오늘 낮 청와대에서 공명선거 실천운동협의회 대표 들과
+오찬을 함께 하고, 명실상부한 공명선거를 이루기 위해서 국민들이 성숙한
+정치의식을 가지고 올바른 행동과 판단을 할 수 있도록 시민단체들이
+앞장서서 계도해달라고 당부했습니 다.
+
+
+
+</tdmsfiletext>

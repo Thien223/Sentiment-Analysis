@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-12_11.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.11.12 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+교육부, 수석 합격자 비공개 요청
+교육부는 과열 입시경쟁을 막고 학교교육을 정상화시키기 위해서 서 울대 등
+주요대학에 수석합격자와 고등학교별 대학합격자수를 공개하지 않도록 요청하기로
+했습니다. 또 전국의 각 고등학교에도 서울대를 포함한 소위 일류대학 합격자수와
+명단을 공 개하지 말도록 요청할 방침입니다. 
+
+
+</tdmsfiletext>

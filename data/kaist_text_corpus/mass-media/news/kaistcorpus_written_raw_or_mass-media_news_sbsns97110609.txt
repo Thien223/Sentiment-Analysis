@@ -1,0 +1,17 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110609.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.06 </date>
+<publisher> SBS  </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+북:서관희처형
+북한 농업 정책의 최고 책임자로 권력서열 26위까지 올랐던 노동당 비서 서관희가 농업정책 실패의 책임을 지고 지난 9월 평양에서 공개 총살당했다고 일본 <교도>통신이 오늘 보도했습니다. 
+
+교도 통신은 서관희가 평양에서 2, 3만명의 군중이 지켜보는 가운데 처형됐으며, 부정축재로 체포된 사로청 간부 3명등 모두 18명이 함께 총살당했다고 북한 방문자들의 증언을 인용해 보도했습니다. 
+그러나 정부 당국자는 올해 일흔한 살인 서관희가 숙청된 것으로 추정되기는 해도 공개 처형됐을 가능성은 크지 않다고 말했습니다.
+</tdmsfiletext>

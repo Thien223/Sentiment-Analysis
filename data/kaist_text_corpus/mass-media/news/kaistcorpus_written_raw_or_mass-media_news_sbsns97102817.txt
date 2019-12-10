@@ -1,0 +1,17 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102817.txt </filename>
+<title> SBS뉴스 </title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+테러대비 태세 강화
+정부는 오늘 내무부회의실에서 외무부 등 14개 부처 실국장으로 구성된 대테러실무위원회를 열고 테러에 대한 대비태세를 강화하기로 했습니다. 
+
+조해녕 내무장관은 특히 대통령 선거 일정과 월드컵 축구 한일전을 앞두고 북한의 테러도발과 국내 불순분자의 사회혼란 책동이 우려되는 만큼 요인에 대한 신변보호와 공항.항만의 경비를 강화하고 외국공관 등 국가중요시설에 대한 테러방지에 만전을 기해 줄 것을 당부했습니다. 
+
+</tdmsfiletext>

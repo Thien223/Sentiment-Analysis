@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-11_3.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.11 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+토론회 중계 사전 철저 검토
+
+
+⊙류근찬 앵커 :
+          지난 8일 한국논단이 주최한 대통령 후보 사상검증 토론회에 대해서
+주최측의 토론 진행이 공정성과 형평성에서 상당한 문제가 있었다는 그런
+시청자 여러분들의 지적이 있습니다. 저희 KBS는 이같은 지적을 겸허히
+받아들여서 앞으로 토론회 중계는 주최 측의 공정성과 신뢰성 등을 사전에
+철저히 검토해서 방송되도록 하겠습니다. 
+
+
+
+</tdmsfiletext>

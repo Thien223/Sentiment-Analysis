@@ -1,0 +1,41 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-15_2.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-15_2.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.15 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.04</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[PK민심 승부] 이인제바람-이회창조직 대접전, 11-15.hwp/Titleend
+Inf/조선일보, 1997년 11월 15일 /Infend
+Text/
+     11/15(토) 19:24 
+
+
+
+
+                     일, 한국어선 '신명97호' 또 나포 
+
+                     한국 어선 '신명 97호'의 홍철수(33) 선장이 15일 일본 영해 내
+                     불 법 어로 혐의로 체포됐다고 일본 해상보안청(MSA)이
+                     발표했다. 
+
+                     하마다항 해상보안청은 48t급인 이 한국 어선을 시마네현
+                     타이샤읍 연안에서 검문, 선장 홍씨로부터 일본 영해에서
+                     뱀장어를 잡았다는 자백 을 받고체포했다고 주장했다. 
+
+                     해상보안청은 신명호에 대해 하마다항 정박을 명령했으며
+                     선원 7명 은 추후 심문할 예정이다. 
+
+/Textend 
+</tdmsfiletext>

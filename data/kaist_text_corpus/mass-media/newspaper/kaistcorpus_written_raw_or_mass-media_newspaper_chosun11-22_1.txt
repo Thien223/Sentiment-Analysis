@@ -1,0 +1,51 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-22_1.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-22_1.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.22 </date>
+<publisher> 조신일보 </publisher>
+<kdc> news.04 </kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/ 26일 서울서 한일어업실무회의 , 11-22.hwp/Titleend
+Inf/조선일보, 1997년 11월 22일 /Infend
+Text/ 1/22(토) 17:41 
+
+
+
+
+                     26일 서울서 한일어업실무회의 
+
+                     한국과 일본은 제2차 직선기선 전문가회의를 25일부터 이틀간
+                     서울에서 개최하고 올해 제7차 어업실무자회의를 26일부터
+                     사흘간 서울에서 개최키로 합의했다. 
+
+                     柳宗夏외무장관과 오부치 게이조(小淵惠三) 일본 외상은
+                     밴쿠버에서 개최되는아.태경제협력체 각료회의 참석을
+                     계기로 22일 오후 양국 외무장관회담을 갖고 이같이
+                     합의했다고 외무부가 발표했다. 
+
+                     정부는 직선기선 전문가회의에서 일본측이 일방적으로
+                     설정한 직선기선이 한일어업협정 위반이며, 국제법 규정에도
+                     맞지 않는다는 점을 지적하고 이의 시행을 유보해줄 것을
+                     촉구할 방침이다. 
+
+                     한일 양국은 특히 이번 어업실무자회담을 통해 개림호
+                     나포사건으로 교착상태에빠진 양국간 어업협정 개정교섭을
+                     본격화할 계획이다. 
+
+                     그러나 일본측은 어업협정 교섭의 타결을 위한 한국측 의지를
+                     확인한뒤 현행 협정의 연내 파기여부를 결정할 방침인 것으로
+                     알려져 협의결과가 주목된다. 
+
+/Textend 
+</tdmsfiletext>

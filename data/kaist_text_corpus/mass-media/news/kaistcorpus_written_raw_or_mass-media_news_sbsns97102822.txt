@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102822.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+서울 시민의 날
+오늘이 조선시대 서울 천도를 기념해 만든 네번째 맞은 서울시민의 날입니다. 다채로운 행사가 열렸습니다. 강무성기잡니다. 
+
+
+서울 시민의 생일인 오늘 세종문화회관에서는 각 분야에서 노력한 시민들에 대한 표창과 축하공연이 한시간 반가량 진행됐습니다. 
+서울시민대상은 6.25때 전사한 고 최종구대위의 미망인으로 어려운 이웃을 남몰래 도와온 70살 이상흥씨에게 돌아갔습니다. 
+서울시민의 날인 오늘 화관무와 뮤지컬등 다채로운 행사가 펼쳐졌습니다. 궁중무용인 화관무, 뮤지컬 시집가는 날등으로 이어진 축하공연속에 시민들은 하나가 됐습니다. 
+
+오늘 참석자들은 서울, 서울, 서울을 부르며 6백년 민족의 수도 서울의 생일을 다함께 축하했습니다. 
+SBS강무성입니다. 
+</tdmsfiletext>

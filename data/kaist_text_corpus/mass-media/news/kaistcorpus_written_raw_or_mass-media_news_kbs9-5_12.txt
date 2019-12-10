@@ -1,0 +1,20 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-5_12.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.5  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+남의 작품으로 전승공예 대상 의혹
+
+지난달 25일 전승공예 대전에서 대통령상 수상작으로 선정됐던 작품 을
+출품자가 아닌 다른 사람이 제작했다는 의혹이 제기돼서 문화재보호재단이
+조사에 나섰습 니다. 문화재보호재단은 올해 대통령상 수상작인 버섯농이
+출품자인 정권석씨와 함께 농방에 서 일했던 강 모씨의 작품이라는 의혹이
+제기돼서 오늘 정권석씨를 불러서 조사하고 있다고 밝혔습니다. 
+
+</tdmsfiletext>

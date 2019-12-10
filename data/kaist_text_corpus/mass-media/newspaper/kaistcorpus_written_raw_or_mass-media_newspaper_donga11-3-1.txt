@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga11-3-1.txt </filename>
+<title> 동아일보</title>
+<author> </author>
+<date> 1997.11.03 </date>
+<publisher> </publisher>
+<kdc> 070.07</kdc>
+<tdmsfiletext>
+［축구／佛월드컵］멕시코 ２２번째로 본선진출 확정
+멕시코가 북중미카리브지역(CONCACAF)에서는 맨 먼저 98프랑스월드컵축구 본선 티켓을 획득했다.
+멕시코는 3일 새벽(한국시간) 아즈텍경기장에서 12만명의 관중이 지켜보는 가운데 펼쳐진 예선에서 미국과 0-0 무승부를 기록, 승점 16점(4승4무)으로 남은 경기의 결과와 상관없이 최소한 3위를 확보해 본선진출을 확정지었다.
+이로써 멕시코는 32개국이 출전하는 프랑스월드컵 본선에 22번째로 진출하는 나라가 됐다.
+6개팀중 상위 3개팀에 티켓을 주는 CONCACAF에서는 자메이카가 승점 12점(3승3무2패), 미국이 승점 11점(2승5무1패)으로 각각 2-3위를 달리고 있으며 엘살바도르가 승점 9점(2승3무3패)으로 선두권을 추격하고 있다.
+
+</tdmsfiletext>

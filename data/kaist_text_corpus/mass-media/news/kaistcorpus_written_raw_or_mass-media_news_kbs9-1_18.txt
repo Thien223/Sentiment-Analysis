@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-1_18.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.1  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+해외언론인 재교육 프로그램 개회
+
+우리나라의 위상을 세계에 알리고 세계 각국과의 언론 문화교류의 확대를
+꾀하기 위한 해외 언론인 재교육 프로그램 개회식이 오늘 서울대학교에서
+열렸습니다. 서울대 언론정보연구소와 LG상남 언론재단이 주최하는 이번
+교육에는 아시아 지역 7개국 주 요 언론사 기자 12명이 참가하고 있습니다. 
+
+영상취재
+< 경기도 남양주시 조안면 > 
+
+
+</tdmsfiletext>

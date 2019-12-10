@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-2_17.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+미르호 수리준비 美-러 합동 우주유영
+
+오늘 오전 러시아 우주정거장 미르호 수리를 위한 약 5시간의 미국 과
+러시아 우주인들의 합동 우주유영이 이루어졌습니다. 두나라 우주인들은
+이번 작업에서 미르호에 설치됐던 감지기 4개를 회수하고 수리작업에 사용될
+무게 54kg의 마개를 운반했습 니다. 
+
+</tdmsfiletext>

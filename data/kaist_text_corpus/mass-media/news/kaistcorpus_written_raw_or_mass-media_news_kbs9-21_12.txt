@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-21_12.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.21  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+터키에 현대車 공장 준공
+
+현대자동차가 터키의 이즈미지에 연간 6만대의 자동차를 생산할 수 있는
+대규모 공장을 세우고 오늘 준공식을 가졌습니다. 슐레이만 터키 대통령과
+정세영 현대 자동차 명예회장이 참석한 가운데 준공식을 가진 현대자동차 터키
+공장은 현대와 터키의 키 바르 그룹이 5대5의 지분으로 1억5천만 달러를 투자해
+만들어진 것으로 액센트와 그레이스를 생산하게 됩니다. 
+</tdmsfiletext>

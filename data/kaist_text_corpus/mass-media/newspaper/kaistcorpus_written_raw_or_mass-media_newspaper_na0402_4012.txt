@@ -1,0 +1,28 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_4012.txt </filename>
+<title> 조선일보  </title>
+<author> 김호연(기자)</author>
+<date> 93.04.25</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.3967CSM930425    
+［건강메모］                                                                  
+｛김호연｝                                                                    
+감기예방엔  재채기­콧물환자  피하길（건강메모）                              
+  요즘  감기는  사시사철  때를  가리지  않는  것이  특징이다．  그리고  한번 
+걸리면  반드시  ２∼３주  이상  제  값을  톡톡히  치르게  한다．  이런 
+감기는  특별한  치료법이  없기  때문에  예방이  최상책인데，  재채기­콧물  환자를 
+피하는  것이  예방의  첩경임을  강조하고  싶다．※  감기바이러스가  몸에 
+침입하여  ２∼４일이  지나면  재채기와  콧물  증상이  생긴다．  이  시기가  다른 
+사람에게  감기를  전염시키는  능력이  가장  크다는  사실에  유의해야  한다． 
+실제로  재채기  한번에  수만  내지  수십만개의  입자들이  사방  몇ｍ까지 
+퍼져  나간다．※  이  입자들  속에  감기바이러스가  다량  포함되어  있는 
+것이다．  콧물은  입자보다  더  진한  액체  형태이므로  별도의  설명을  필요로  하지 
+않을  정도이다．〈김호연·가톨릭대의대  교수·내과〉※                       
+
+
+</tdmsfiletext>

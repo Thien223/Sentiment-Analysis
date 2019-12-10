@@ -1,0 +1,23 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_6_223.txt </filename>
+<title> 조선일보 </title>
+<author> </author>
+<date> 93.09.09</date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+[NA0402.1840CSM930909
+[신상품]
+자동차용 냉­온수기­카멜12(신상품)
+ 자동차안에서 음료수를 데우거나 차게 해 마실 수 있는 제품이
+나왔다. 내일유통이 판매중인 「카멜 12」는 차량내 라이터소켓에 플러그를
+꽂은 뒤 냉­온 선택스위치를 누르면 된다. 10여분이 지나면 따뜻한
+음료의 경우 80도, 차가운 음료는 3~4도 수준으로 냉각된다.
+0.6ℓ들이 용기에 음료수를 부어 사용하면 되나, ※캔음료나 우유통을 꽂아넣어
+사용할 수도 있다. ※고려기전서 지난달에 개발해 현재 실용신안과
+의장등록특허를
+
+</tdmsfiletext>

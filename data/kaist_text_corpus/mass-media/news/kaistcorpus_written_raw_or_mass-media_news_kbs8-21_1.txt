@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-21_1.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.21 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+⊙류근찬 앵커 :
+          여러분 안녕하십니까? KBS 9시뉴스입니다. 오늘까지 연 사흘 동안
+우리나라 서남해안 일대의 농경지와 가옥이 바닷물에 잠긴 해수 침수피해액이
+90여억원에 이르고 있는 것으로 집계됐습니다. 사전 예방 과 대비가 충분하지
+못해서 피해가 컸다는 그런 지적이 있습니다만은, 이제 사후의 대응과 복 구는
+과연 지금 철저하게 이루어지고 있는지 점검하는 것이 무엇보다 급한 일인 것
+같습니다. 
+</tdmsfiletext>

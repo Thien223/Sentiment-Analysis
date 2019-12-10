@@ -1,0 +1,18 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-8_9.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.8  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+김현철씨 구형 22일로 연기
+
+
+⊙황수경 앵커 :
+          오늘 서울 지방법원에서 열린 김현철씨 비리사건 5차 공판은 박태중씨에
+대한 증인신문만 이루어진 뒤 검찰의 구형은 오는 22일로 늦춰졌습니다. 
+</tdmsfiletext>

@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-15_13.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.15 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+강수연, 호주오픈 여자골프 단독 2위
+
+우리나라의 강수연이 오늘 멜버른에서 열린 호주 오픈 여자골프대회 3라운드에서
+4언더파를 기록해서 3라운드 합계 7언더파 212타로 선두인 남아프리카공화국의
+크레프터에 3타뒤진 기록으로 단독 2위에 올랐습니다. KBS 위성 1텔레비젼에서는
+내일 오전 10시부터 이 대회 4라운드 경기를 생중계방송합니다. 
+
+</tdmsfiletext>

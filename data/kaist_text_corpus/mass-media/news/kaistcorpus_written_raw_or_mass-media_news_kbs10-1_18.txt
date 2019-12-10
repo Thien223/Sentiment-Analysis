@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-1_18.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+⊙황수경 앵커 :
+          서울 은평구는 오늘 오후 서울 구파발 통일로에서 조선시대의
+통신수단이었던 파발을 새롭게 재현한 통일로 파발제를 열었습니다. 오늘
+파발제는 파발대가 평 화와 통일을 기원하는 파발문을 전국에 전달하는
+형식으로 진행됐습니다. 
+
+
+
+
+</tdmsfiletext>

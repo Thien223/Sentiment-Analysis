@@ -1,0 +1,24 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_6_347.txt </filename>
+<title> 조선일보 </title>
+<author> 김석규(기자)</author>
+<date> 93.09.16</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.1965CSM930916
+[미래로뛴다]
+{김석규}
+인도:6·끝(신세계 신전략 「용들의 전쟁」/미래로 뛴다:19)
+◎기술인력 3천만명 “과학선진국”/위성통신 제작­운영
+세계3위/슈퍼컴퓨터도 개발 수출추진※ 인도는 현대과학의 요소기술 대부분을 갖고 있는
+과학의 선진국이다. 인도는 60년대 원자폭탄을 소유했으며,
+노벨물리학상수상자 찬드라세카라 V 라만박사는 인도 과학의 상징으로
+통한다.※○GDP 1% 개발비로※ 독립후 네루정권은 과학 기반구조의 현대화를
+표방,전국의 연구소와 실험기관, 대학을 체인화했다. 1958년3월 채택된
+과학정책결의안(SPR)은 모든 분야의 과학연구를 진작시키기 위한
+
+</tdmsfiletext>

@@ -1,0 +1,68 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-2_3.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-2_3.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.02 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.01</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/ [여야] 휴일없는 '양심수 사면'공방, 11-2.hwp/Titleend
+Inf/조선일보, 1997년 11월 2일 /Infend
+Text/ 
+                     [신한국당] 의원 4명 탈당 
+
+                     신한국당 박범진 이용삼 김학원 원유철의원 등 현역 의원
+                     4명과 김 충근(서울 광진을) 박종선(서울 노원을) 위원장은
+                     2일 신한국당을 탈당했 다. 이들은 지난달 30일 탈당한 이만섭
+                     전국회의장과 함께 3일 국민신당 에 입당한다. 
+
+
+
+                      관련기사
+                         [신한국 4명 탈당회견] 이만섭 전의장등과 신당 입당 
+
+
+
+
+                     이날 이들의 탈당으로 지금까지 모두 8명의 현역 의원이
+                     신한국당 을 탈당했으며, 빠르면 이번주 후반쯤 범민주계
+                     의원 5∼6명이 추가로 탈 당할 가능성이 있는 것으로
+                     알려졌다.<이종원기자> 
+
+     11/02(일) 19:43 
+
+
+   지난기사 
+   기사검색 
+   독자투고 
+   서비스지도 
+ ▼부가서비스
+   테마퀴즈 
+   클럽시네마 
+   가요베스트20 
+   북리뷰 
+   갤러리조선 
+   미팅정보듀오 
+   추천사이트 
+   게임동산 
+   대학위성강좌 
+   사이버인터뷰 
+   2002월드컵 
+   만화모음 
+   인물DB 
+   부동산뱅크 
+   유학세계 
+   산수도인운세 
+   특허검색 
+/Textend 
+</tdmsfiletext>

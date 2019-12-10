@@ -1,0 +1,15 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_mbc11-7-6.txt </filename>
+<title> MBC뉴스데스크  </title>
+<author> </author>
+<date> 1997.11.6  </date>
+<publisher> MBC</publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"김 대통령, 전전자 교환기 천만 회선 개통 기념식 참석" 
+◆ 이인용 앵커 : 
+김영삼 대통령은 오늘 한국통신 본사에서 열린 국산 전전자 교환기 천만 회선 개통 기념식에 참석해 이제 1가구 2전화 시대 정보통신의 대중화가 열렸다고 말하고, 우리 나라를 세계 제일의 정보통신 선진국으로 만들어 나가자고 강조했습니다. 김 대통령은 기념식을 마친 뒤 1층 홍보관에 들러 영상 전화로 최기선 인천 시장을 연결해서 항만 공사와 신공항 건설 공사의 진척 상황을 묻기도 했습니다.  
+</tdmsfiletext>

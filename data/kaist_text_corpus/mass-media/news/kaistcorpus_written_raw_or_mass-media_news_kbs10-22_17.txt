@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-22_17.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+"경영학부.건축공학과 가장 선호"
+
+올해 대입 수험생들이 가장 선호하는 학과는 경영학부와 건축공학과 로
+나타났습니다. 종로학원이 최근 전국의 대입 수험생 40만5천명을 대상으로
+지원 희망학과 를 조사한 결과 인문계열에서는 경영학부 자연계열에서는
+건축공학과에 각각 수험생의 8%가 지원을 희망해서 지난해에 이어서 선호
+학과 1위를 차지했습니다. 
+
+
+</tdmsfiletext>

@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-10_8.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+대입 합격자 수능점수 공개 백지화
+수험생과 학부모들에게 정확한 대입정보를 제공하기 위해서 추진됐 던
+97학년도 대학 합격자의 학생부와 수능시험 평균점수 등 대입 전형자료
+공개가 백지화 됐 습니다. 교육부와 한국 대학교육협의회는 오늘 대입
+합격자 성적을 공개할 경우 대학간의 서 열화를 조장할 우려가 있다고
+밝히고 이를 공개하지 않기로 했다고 밝혔습니다. 
+
+</tdmsfiletext>

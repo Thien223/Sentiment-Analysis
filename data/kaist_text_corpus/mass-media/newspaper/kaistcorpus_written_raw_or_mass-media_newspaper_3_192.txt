@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_192.txt </filename>
+<title> 조선일보  </title>
+<author> 김명환(기자)</author>
+<date> 93.06.09</date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+[NA0402.0760CSM930609
+{김명환}
+국산 컴퓨터게임/개발­외국시장진출 활발
+◎어드벤쳐용 2종 시판… 경쟁가속/「아기공룡 둘리」등 10종은
+미수출계약※ 국산 게임 개발업체들의 움직임이 활발하다. 자체 개발한
+게임들을 잇달아 내놓는가 하면, 외국 시장 진출의 문도 조심스럽게 노크하고
+있다. 가정용 게임 분야에서 이미 「아기공룡 둘리」등 국산품을
+개발했던다우정보시스템과 열림기획은 최근 「토토월드3」과 「코코 어드벤쳐」등
+2종의 어드벤쳐 게임을 개발해 내%B
+</tdmsfiletext>

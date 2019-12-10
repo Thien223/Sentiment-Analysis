@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_14.txt </filename>
+<title> 조선일보  </title>
+<author> 이지훈;박세훈(기자)</author>
+<date> 93.05.11</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.0581CSM930511
+{박세훈} {이지훈}
+모방업체 기성복사/이태리산 모직 수입규제 논란
+◎“덤핑공세… 관세 올려야”/“패션정보등 국제화기여”※ 모직물
+수입관세 인상여부를 둘러싼 공방이 관련업계에 가열되고 있다. 불씨는 국내
+모방업계가 최근 이탈리아산을 비롯한 외국 모직물 수입공세로 경영위기에
+몰리고 있다며 정부에 수입관세율 인상을 건의하면서 생겨났다. 당장
+신사복메이커를 비롯한 수요업체들이 정면 반발하고 나섰다. 관세율 인상을
+둘%B
+</tdmsfiletext>

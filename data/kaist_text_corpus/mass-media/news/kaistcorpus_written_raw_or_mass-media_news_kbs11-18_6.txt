@@ -1,0 +1,32 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-18_6.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.17</date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+"KBS폭파" 협박
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 북한은 어제 관영 평양방송을 통해서 현재 KBS가 제작중인
+귀순한 전 북한 무용수 신영희씨의 체험수기 드라마 '진달래꽃 필때까지'의 제작을
+중단하라고 협박했습니다. 북한은 이 드라마가 악의적인 반북한극이라면서 드라마
+제작을 중 단하지 않으면 KBS 2TV 창작단을 폭파하고 제작진을 살해하겠다고
+협박했습니다. 이에 대 해서 KBS는 북한의 이같은 협박은 방송사의 고유 권한인
+창작의 자유를 침해하는 폭거로 규 정하고 드라마 제작을 예정대로 진행할
+방침입니다. 
+
+
+각당, 北 KBS폭파위협 중지 촉구
+한편 신한국당과 국민회의 또 자민련 국민신당 등은 오늘 북한의 KBS방송국
+폭파위협과 관련해 성명을 내고 북한이 자유민주체제인 우리 사회의 언론자유를
+트집잡고 협박하는 것은 남북간 화해 협력을 위해서도 바람직하지 않다고 지적하고
+북한은 이성을 되찾아 무분별한 위협행위를 즉각 중지하라고 촉구했습니다. 
+
+
+</tdmsfiletext>

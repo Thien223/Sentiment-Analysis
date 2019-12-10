@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_3993.txt </filename>
+<title> 조선일보  </title>
+<author> 박재영(기자)</author>
+<date> 93.04.22</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.3948CSM930422    
+［생활속의환경운동］                                                          
+｛박재영｝                                                                    
+우유팩  깨끗이  분류수거하자（생활속의  환경운동：６６）                      
+◎재활용때  드는  추가비용  소비자가  부담※  우유팩으로  화장지를  만드는 
+부림제지는  수거돼온  팩을  재분류하는데  총  경비의  ２０∼３０％를  쓰고 
+있다．  우유를  먹고난  뒤  물로  헹구지  않아  속이  부패한  것，  접혀있는 
+부분을  손으로  찢지않고  칼로  이리저리  잘라  펄프가  상한  것등을  손질하는데 
+드는  비용이다．  또  부피를  줄인다고  찌그러뜨려  놓은  것은  팩  표면의 
+이중코팅을  벗겨내기  위해  다시  펴야하는  번거로움이  있다．※  이 
+추가비용은  화장지의  가격에  반영되며  어쩔  수  없이  소비자가  부담해야  한다．※ 
+수거만  잘  하면  재활용이  된다고  믿고있는  우유팩．  그러나  우유팩이 
+화장지로  말끔히  재활용되는데는  이처럼  복잡한  절차가  필요하다．  우유팩의 
+원료는  현재  전량이  미국과  캐나다에서  수입되고  있다．〈박재영기자〉※       
+
+</tdmsfiletext>

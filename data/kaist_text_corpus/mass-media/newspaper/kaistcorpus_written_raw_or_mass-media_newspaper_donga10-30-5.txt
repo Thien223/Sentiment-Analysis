@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga10-30-5.txt </filename>
+<title> 동아일보</title>
+<author> 이수형(기자)</author>
+<date> 1997.10.29 </date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+검찰，「ＤＪＰ연합」 지난주초 법률검토 시작
+검찰은  김홍신(金洪信)의원이 28일 DJP합의의 선거법위반을 공식적으로 문제삼기 이전인 지난주 초부터 이 문제에 대해 법률검토를 시작한 것으로 알려졌다.
+검찰 관계자는 『검토결과 두 김총재간의 합의가 개인간의 합의냐, 아니면 정당간의 합의냐에 따라 선거법 위반여부가 달라진다는데 의견이 일치했다』고 말했다.
+이 관계자는 『선거법은 후보자 개인간의 밀실합의를 처벌하려는 것이므로 정당 차원에서 합의가 이루어졌다면 선거법위반 시비를 피할 수 있다』고 말했다.
+이 관계자는 또 『DJP 합의내용 중 내각제 개헌과 개헌 후 국무총리직 제공 등의 부분은 현행 헌법질서와는 무관한 것이므로 선거법 적용대상이 안된다』고 말했다. 검찰은 그러나 『이같은 검토는 어디까지나 이론적인 것이며 법적용과 집행, 즉 수사여부는 DJ비자금 의혹사건의 경우처럼 또 다른 차원의 문제』라고 말했다.
+</tdmsfiletext>

@@ -1,0 +1,63 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-30_10.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-30_10.txt </filename>
+<title>  </title>
+<author>  </author>
+<date>  1997.11.30</date>
+<publisher> 조선일보 </publisher>
+<kdc>news.06</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/중앙일보 '이회창문건' 파문 법정 비화조짐 , 11-30.hwp/Titleend
+Inf/조선일보, 1997년 11월 30일 /Infend
+Text/ 
+     11/28(금) 18:49 
+
+
+
+
+                     [의학] 피부두께 측정해 골다공증 진단 가능 
+
+                     피부 두께를 측정해
+                     골다공증을 진단할 수 있다는
+                     연구 결과가 발 표됐다. 
+
+                     경희의대
+                     김영설(내분비내과)과
+                     성균관의대
+                     한인권(내분비내과),
+                     아주의대 이득주-김광민(가정의학과) 교수팀은 최근
+                     골대사학회에 제 출한 연구논문을 통해 초음파를 이용한
+                     피부두께 측정이 골다공증 진 단에 매우 유용하다고
+                     발표했다. 
+
+                     뼈는 콜라겐이란 단백질이 철근 구실을 하고, 칼슘이
+                     콘크리트가 돼 서로 단단하게 결합돼 있다. 그런데 뼈를
+                     구성하는 콜라겐은 피부 의 콜라겐과 같은 형태로, 사람이
+                     늙어감에 따라 뼈와 피부의 콜라겐 양은 동일하게 감소한다.
+                     피부는 얇아지고 뼈는 물러지는 것이다. 따 라서 피부의 두께,
+                     즉 콜라겐 양을 측정하면 뼈의 강도를 알 수 있다. 이에
+                     사용되는 기계는 이미 90년대초 개발돼 있다. 
+
+                     공동연구팀은 폐경 여성 2백명을 대상으로 팔 피부 두께를
+                     측정한 결과, 정상여성군은 0.93±0.0159㎜, 뼈가 약해진
+                     골감소증군은 0.92± 0.006㎜, 골다공증군은 0.89±0.018㎜로
+                     통계적으로 의미가 있었다고 밝혔다. 연구팀은 "이 검사법의
+                     정확도는 57.8%이며 이는 진단방법으 로서 충분한 가치가
+                     있다"고 말했다. 
+
+                     김영설 교수는 "기존의 골밀도측정으로는 골다공증이 30%
+                     정도 진 행된 뒤에야 진단할 수 있었다"며 "이 검사법의
+                     도입으로 더 빨리 간 편하게 골다공증을 진단할 수 있게
+                     됐다"고 말했다.<임호준기자> 
+
+/Textend
+</tdmsfiletext>

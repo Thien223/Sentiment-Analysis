@@ -1,0 +1,30 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-1_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+과학고 학부모, 내신제 개선요구 시위
+
+되고 있는 가운데, 전국 15개 과학고 2학년생 학부모 8백여명이 오늘 서울
+종로구 광화문 빌 딩앞에서 학생부 내신제도 개선을 요구하며 시위를
+벌였습니다. 한편, 이명현 교육부장관은 오늘 국회 교육위원회의
+국정감사에서 특 맡겨져 있는 만큼 문제해결을 위해서 대학들에게 여러가지
+권고를 하고 있다고 말했습니다. 이명현 장관은 특히 이 문제에 대한
+구체적인 조처는 서울대학교에서 발표할 것으로 보인다 밝혔습니다. 
+
+성균관대 입학예약제 실시
+
+성균관대는 오는 2000학년도부터 고등학교 1, 2학년생들을 대상으로 미리
+입학을 허가하는 입학예약제를 실시하기로 했습니다. 입학예약제는
+고교학년에 관계없 이 수학경시대회 등의 성적 우수자에게 입학허가예약서를
+발급하는 제도입니다. 
+
+
+
+</tdmsfiletext>

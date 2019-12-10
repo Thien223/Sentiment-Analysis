@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-20_15.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+태풍「위니」중국 강타…37명 숨져
+
+
+⊙황수경 앵커 :
+          초대형 태풍 위니가 중국 동부의 절강성 지역을 강타해서 최소한 37명이
+숨지고 80여만명의 이재민이 발생했습니다. 중국정부는 또 15만채가 넘는
+가옥이 침수 됐으며 만7천여 가옥들이 완전히 파괴됐다고 설명했습니다. 
+
+칠레에 대홍수
+칠레의 수도 산티아고 부근 휴양도시인 비나델마루에 지난 나흘 동 안 보통 1년
+강우량의 10배나 되는 엄청난 폭우가 내렸습니다. 이 폭우에 따른 대홍수로 자
+동차가 떠내려가고 선박이 뒤집히는가 하면 350개의 마을이 고립됐습니다.
+</tdmsfiletext>

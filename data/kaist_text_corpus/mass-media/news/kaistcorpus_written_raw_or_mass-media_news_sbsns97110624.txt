@@ -1,0 +1,17 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110624.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.11.06 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+배구선수,신진식 계약 어겨.
+현대자동차써비스 배구단과 맺은 계약을 어기고 삼성화재에 입단한 국가대표 배구선수 신진식씨가 법원의 조정결정으로 현대측에 12억 5천만원을 물어주게 됐습니다. 
+
+서울지법 민사합의 19부는 현대측이 신씨를 상대로 낸 20억원의 위약금 청구소송에서 "신씨는 계약금 10억원을 돌려주고 위약금조로 2억 5천만원을 현대측에 지급하라"는 조정결정을 내렸습니다. 
+
+</tdmsfiletext>

@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-19_14.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.18 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+제주-서귀포간 도로 교통통제
+
+
+⊙황수경 앵커 :
+          한라산에 내린 눈으로 제주와 서귀포를 잇는 산간도로에 차량운행이
+통제되고 있습니다. 제주 지방경찰청은 한라산에 15㎝의 적설량과 함께
+제주와 서 귀포를 잇는 도로에도 2㎝ 가량의 눈이 쌓임에 따라 오늘
+오전부터 체인을 감지 않은 소 형차량의 운행을 통제하고 있습니다.
+</tdmsfiletext>

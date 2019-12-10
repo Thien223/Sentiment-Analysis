@@ -1,0 +1,25 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_1823.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.09.11</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.1872CSM930911    
+겨울모자／종모양­베레모  등  불여성  “애호”                                
+  지난  여름  우리  나라를  휩쓸었던  모자  열풍은  프랑스에서도 
+마찬가지．※  자전거를  타고  들판을  달리는  시골  아가씨들이  즐기던  종（종）모양의 
+캐주얼한  벨벳  모자，  프랑스  전통의  베레모가  멋쟁이  파리  여성들에게  올 
+겨울  빼놓을  수  없는  패션소품으로  인기다．※  비교적  값싼  물건을 
+내놓는  모노프리  슈퍼백화점  등  학생과  젊은  여성들이  많이  찾는  곳에는 
+굽높은  구두와  이  모자들이  꼭  끼여있다．  앞챙을  올려  경쾌한  느낌을  주는 
+종  모자와  남성복  분위기의  요즘  여성복에  어울리는  챙좁은  모자가  인기 
+１위로，  『남성적인  것을  도용하는  것이  아니라  새로운  여성미를  창조하는 
+것』이라고  모자  디자이너  마리  메르시씨는  모자를 
+권한다．〈불렉스프레스지〉※                                                                         
+
+</tdmsfiletext>

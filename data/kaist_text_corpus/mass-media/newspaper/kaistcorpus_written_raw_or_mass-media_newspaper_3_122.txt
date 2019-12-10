@@ -1,0 +1,23 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_122.txt </filename>
+<title> 조선일보  </title>
+<author> 조용민(기자)</author>
+<date> 93.06.02</date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+[NA0402.0689CSM930602
+[과학이야기]
+{조용민}
+시간과 공간의 「시작과 끝」(과학이야기:6)
+◎빅뱅전의 우주­통일장이론으로 설명                
+○상대적인 시공개념                          
+시간이란무엇이며 공간이란 또한 무엇인가.※ 역사이래 수많은 사람들이 얼핏
+보기엔 간단한 이 질문에 대한 해답을 얻으려고 노력해왔다.※ 고대인들은
+시간과 공간을 자연현상을 관찰하는데 필요한 하나의 2차적인 개념으로
+생각했다.※ 그러나 근대물리학의 기틀을 다진 뉴턴은 그 유명한
+「원론%A
+</tdmsfiletext>

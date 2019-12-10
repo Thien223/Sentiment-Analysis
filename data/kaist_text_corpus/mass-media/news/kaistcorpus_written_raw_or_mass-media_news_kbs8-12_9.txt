@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-12_9.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.12 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+변조 문서 공개 권노갑 의원 '무죄'
+지난 95년 변조된 외무부 문서를 언론에 공개한 혐의로 기소된 국민 회의 권노갑
+의원에게 무죄가 선고됐습니다. 서울 지방법원 형사1단독 임종윤 판사는 오늘
+외무부 문서변조 사건과 관련해서 공문서 위조 행사 등의 혐의로 기소돼 징역
+2년이 구형된 권노갑 피고인에게 무죄를 선고했습니다. 한편 검찰은 국민회의
+권노갑 의원에 대해서 1심에 서 무죄가 선고됨에 따라 곧 항소하기로 했습니다. 
+
+금품살포 김화남 의원 벌금 천만원
+대구 고등법원은 오늘 지난 15대 총선에서 금품을 돌린 혐의로 기소 된 경북
+의성지역구 무소속 김화남 의원에 대한 항소심 공판에서 벌금 천만원을
+선고했습니 다. 김 의원은 지난 15대 총선에서 7천3백만원 상당의 금품을 선거
+구민들에게 뿌린 혐의로 구속 기소돼서 1심에서 징역 1년 6개월 집행유예 3년을
+선고받고 대구 고등법원에 항소했습 니다. 
+</tdmsfiletext>

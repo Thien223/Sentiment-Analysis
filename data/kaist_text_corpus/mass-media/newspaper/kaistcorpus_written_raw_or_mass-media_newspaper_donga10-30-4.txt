@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga10-30-4.txt </filename>
+<title> 동아일보</title>
+<author> </author>
+<date> 1997.10.30 </date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+국민회의，노조 정치활동 허용 촉구
+국민회의는 30일 신한국당이 노동조합의 정치활동 보장에 대해 이중적 입장을 보이고 있다며 명확한 입장 표명을 요구했다.
+趙漢天노동1특위위원장과 方鏞錫노동2특위위원장 등은 이날 성명을 내고 『신한국당은 지난 20일 노조의 특정후보 지지와 선거자금 모금 및 기부를 허용하는 등 노조의 정치활동을 크게 확대하는 방안을 국회 정치개혁입법 협상에 반영키로 했다고 대대적으로 선전했으나 실제 국회 협상에선 국민회의와 의 노조 정치활동 허용 요구에 거부로 일관하고 있다』며 이같이 촉구했다.
+<연합>
+
+</tdmsfiletext>

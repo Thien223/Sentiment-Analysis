@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga11-2-17.txt </filename>
+<title> 동아일보</title>
+<author> </author>
+<date> 1997.11.02 </date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+『국민회의 당원 자처 목포출신 １명 월북』…北 중앙통신
+북한은 새정치국민회의 소속 당원을 자처하는 남한인 1명이 얼마전 월북해왔다고 1일 주장했다.
+서울에서 수신된 북한관영 중앙통신은 『이 월북자가 목포 출신의 정민(46)이란 사람으로 그는 남한내의 부패 때문에 월북했다』고 말한 것으로 보도했다.
+이 통신은 『정이 월북전 경기 안산시에서 기업활동을 해왔으며 안산시 체육협회 위원과 새정치국민회의 당원으로 활동했다』고 주장했다.중앙통신은 정이 서울과 일본 호주 등지에서 사업을 했다고 전했으나 월북경위에 관해서는 밝히지 않았다.
+〈AFP연합〉
+
+
+</tdmsfiletext>

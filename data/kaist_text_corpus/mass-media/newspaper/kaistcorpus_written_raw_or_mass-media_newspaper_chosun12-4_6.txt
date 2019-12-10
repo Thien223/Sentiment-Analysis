@@ -1,0 +1,33 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun12-4_6.txt </filename>
+<title> 조선일보</title>
+<author> </author>
+<date> 1997.12.04 </date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+                     일,북 잔류 일인 소재파악 요청 
+
+                     일본당국은 일본의 한반도지배 당시 한국으로 건너갔다가 제
+                     2차 세계대전후 귀국하지 못하고 북한에 잔류한 것으로
+                     알려진 일본인들의 소재파악을 북한측에 요청할 방침이라고
+                     마이니치(每日)신문이 4일 보도했다. 
+
+                     일본 후생성은 이에따라 이달중 북경에서 있을 日-北 적십자
+                     회담을 이용, 이같은 요청을 전달하고 혹 생존자가 있을 경우
+                     이들의 고향방문을 허용토록 北측과 협의할 계획이라고
+                     신문은 전했다. 
+
+                     해방전 북한에 살다 귀국하지 못한 일본인은 모두
+                     1천4백42명인 것으로 집계되고 있으며 그중 1천3백75명은
+                     종전 이후 친지들에 의해 실종선고 등 절차를 거쳐 사망한
+                     것으로 간주되고 있다. 
+
+                     그러나 나머지 행방불명자 67명의 가족과 친지들은 아직
+                     이들이 살아있을 지 모른다는 희망을 버리지 않고 있거나
+                     또는 생존가능성을 보여주는 정보를 입수해 놓고있다고
+                     신문은 전했다. 
+</tdmsfiletext>

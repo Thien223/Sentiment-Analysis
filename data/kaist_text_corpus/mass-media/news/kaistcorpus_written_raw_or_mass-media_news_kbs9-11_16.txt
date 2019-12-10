@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-11_16.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.11  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+테레사 수녀 빈소 추모객 줄이어
+
+가난한 사람을 위해서 한평생을 살다간 마더 테레사 수녀의 빈소가 마련된 서울
+한남동 주한 인도대사관에 추모의 발길이 이어지고 있습니다. 고건 국무총리는
+오늘 오전 주한 인도대사관에 마련된 테레사 수녀의 분향소를 찾아 조문하고
+고인의 명복을 빌었습니다. 한편 정부는 오는 13일 인도 캘커타에서 거행될
+예정인 테레사 수녀의 장례식에 이연숙 정무2장관 등으로 구성된 정부 조문
+사절단을 파견할 계획입니다. 
+
+</tdmsfiletext>

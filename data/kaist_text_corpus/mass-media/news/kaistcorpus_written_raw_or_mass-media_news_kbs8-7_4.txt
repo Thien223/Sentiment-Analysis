@@ -1,0 +1,31 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-7_4.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.8.7  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"엄정한 선거관리 최선 다해야"
+
+
+⊙황수경 앵커 :
+          고건 국무총리는 오늘 지난 5일 개각이후 처음 열린 국무회의에서 새
+내각의 첫번째 과제는 연말 대통령 선거를 공정하게 치뤄서 국정을 차질없이
+다음 정부에 넘기는 일인 만큼 엄정한 선거관리에 최선을 다하라고
+당부했습니다. 
+
+홍사덕 정무장관, 김종필 총재 방문
+자민련의 김종필 총재는 오늘 당사를 방문한 홍사덕 신임 정무1장관 을 맞아서
+환담했습니다. 김종필 총재는 이 자리에서 연말 대통령 선거 결과에 서로 승복할
+수 있도록 역할을 해달라고 당부했습니다. 
+
+
+방송기자 클럽, 李후보 토론회 연기 한국 방송기자 클럽은 오늘 12일 실시할
+예정이었던 신한국당 이회 창 후보 초청 정책토론회를 무기 연기하기로
+했습니다. 한국 방송기자 클럽은 KAL기 추락 사고로 인한 전국민적 애도
+분위기를 고려해서 토론회를 무기 연기하기로 결정했다고 발표했 습니다. 
+</tdmsfiletext>

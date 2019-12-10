@@ -1,0 +1,29 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-9_11.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.9  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+외국인 고용허가제 도입키로
+
+
+
+⊙황수경 앵커 :
+          정부는 외국인 산업연수생이 일정기간의 산업연수를 마치면 필요한 절차를
+거쳐서 국내 근로자와 동등한 신분으로 취업할 수 있도록 하는 것을 골자로 하는
+사 실상의 외국인 고용허가제를 도입하기로 했습니다. 정부는 오늘 강경식
+경제부총리 주재로 경제장관 간담회를 열고 이런 내용의 외국인 인력관리 제도
+개선 방안을 확정했습니다. 
+
+진로그룹 5개사 최종 부도
+
+어제 법원에 화의 신청을 한 진로그룹 6개 계열사 가운데 진로 쿠어 스 맥주를
+제외한 (주) 진로와 진로 종합식품 진로건설 진로 인더스트리스 진로 종합유통
+등 진로그룹의 주력 5개 계열사가 농협과 상업은행 등 9개 금융기관에 돌아온
+어음 32억5천만원 을 오늘까지 결재하지 못해서 최종 부도 처리됐습니다. 
+</tdmsfiletext>

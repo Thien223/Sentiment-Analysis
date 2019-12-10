@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-2_17.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.9.2  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+국민 응원가.축가 제정키로
+
+
+
+⊙황수경 앵커 :
+          총무처는 범국민적인 축제나 월드컵 등 대형 스포츠 행사에서 온국민이
+쉽게 부를 수 있는 국민응원가와 축가를 제정하기로 했습니다. 총무처는 이를
+위해서 오늘 KBS 등 각계 전문가와 관련 부처 공무원들로 구성된 국민응원가와
+축가 제정 추진위원 회를 열고 내년 상반기까지 곡 선정을 매듭짓기로 했습니다.
+
+</tdmsfiletext>

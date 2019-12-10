@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-9_17.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.09 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.06</kdc>
+<tdmsfiletext>
+국제 백신연구소 창립
+
+우리나라가 유치한 최초의 국제기구인 국제 백신연구소 창립 기념식 이 오늘
+서울대학교에서 열렸습니다. 국제 백신연구소는 앞으로 값싸고 효과좋은
+백신을 개 발해서 전세계에 빠르게 보급하기 위한 연구와 기술지원
+개발도상국 봉사 등의 활동에 들어 가게 됩니다. 
+
+
+</tdmsfiletext>

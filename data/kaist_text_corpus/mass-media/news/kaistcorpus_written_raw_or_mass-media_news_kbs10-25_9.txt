@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-25_9.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.25 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+⊙황수경 앵커 :
+          클린턴 미국 대통령이 오늘 한 연주회에 참석했다가 지휘자의 요청을
+받고 즉석에서 교향악단을 지휘했습니다. 잠시 지휘자 클린턴의 모습을
+보시겠습니다. 
+
+
+</tdmsfiletext>

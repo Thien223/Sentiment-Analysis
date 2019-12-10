@@ -1,0 +1,25 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97110611.txt </filename>
+<title> SBS 뉴스</title>
+<author> </author>
+<date> 1997.11.06 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+KBL:최고의 스포츠로 육성
+겨울 스포츠의 새기대주로 각광받고 있는 프로 농구 개막 경기가 사흘 앞으로 다가왔습니다. 
+
+각팀이 다양한 팬서비스를 준비하고 있는 가운데 윤세영 KBL회장은 오늘 기자회견을 갖고 프로 농구 육성계획을 밝혔습니다. 신중섭기잡니다. 
+
+
+윤세영회장은 오는 토요일 개막되는 97-98시즌을 앞둔 기자회견에서 프로농구의 정착을 위해서는 경기력의 향상이 선행돼야한다고 말하고 이를위해 수준높은 외국선수의 도입과 각종 규칙의 개정, 심판의 자질향상을 위해 노력하겠다고 말했습니다. 
+윤회장은 이어 올 시즌도 팬 서비스에 역점을 두겠다고 강조했습니다. 
+
+
+윤세영 한국농구연맹회장은 또 각 구단이 가능한 한 빨리 흑자를 기록할수 있도록 하기 위해 이번시즌에는 지난해 배당금의 두배정도를 예상하고 있다고 말했씁니다. 
+윤회장은 이밖에 늘어난 경기수에 대해서는 2, 3년동안 시행해 보고 문제점이 있으면 개선하겠다고 말했습니다. 
+SBS 신중섭입니다. 
+</tdmsfiletext>

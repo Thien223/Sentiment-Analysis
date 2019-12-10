@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_198.txt </filename>
+<title> 조선일보  </title>
+<author> 김교준(기자)</author>
+<date> 93.06.10</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0766CSM930610
+{김교준}
+정가 관심도 1위/누가 실세냐/청와대수석­친인척­중진 “옛말”
+◎“비공식 보좌기구 필요 못느낀다”/본인이 잘하면 「신실세」※
+정가에서 항상 관심도 1위의 퀴즈는 실세찾기다. 많은 정치인들이 자신들을
+포함한 정가 주변의 인사들에게 『누가 실세냐』를 끊임없이 물으며
+나름대로그림을 그려본다. 권력내부의 역학관계도쯤으로 이름붙일 수 있는
+그림이다.※ 이같은 현상은 질서재편기에 특히 심하다. 집권세력 내부의
+실력자들�%B
+</tdmsfiletext>

@@ -1,0 +1,14 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_donga10-31-9.txt </filename>
+<title> 동아일보</title>
+<author> 정용관(기자)</author>
+<date> 1997.10.30 </date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+이기택씨，『反ＤＪＰ연대 추진 「６인 회의체」만들자』
+ 이기택(李基澤)전총재는 30일 『「反(반)DJP연대」를 성사시키기 위해 과 신한국당, 이인제(李仁濟)전경기지사측에서 각각 실무대표 2명이 참여하는 「6인 회의체」를 구성하자』고 제안했다. 이전총재는 이날 경기 고양을지구당 개편대회에 참석, 축사를 통해 『내각제를 매개로 하는 권력분점 야합을 저지하기 위해 세후보가 단합해야 한다』며 이같이 제안했다.
+</tdmsfiletext>

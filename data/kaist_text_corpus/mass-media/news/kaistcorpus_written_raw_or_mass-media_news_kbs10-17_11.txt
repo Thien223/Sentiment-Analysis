@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-17_11.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.17 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+8大 선거사범 집중 단속
+
+
+⊙황수경 앵커 :
+          정부는 오늘 아침 고건 국무총리 주재로 공명선거 관계장관 회의를
+열어서 유권자 매수 등 8대 선거사범을 집중 단속하기로 했습니다. 정부는
+오늘 회의에서 유 권자 매수행위와 흑색선전 사조직의 불법선거운동과
+선거폭력 등을 8대 선거사범으로 규정하 고 합동단속반을 확대 개편해서
+강력히 단속하기로 했습니다. 
+
+
+
+</tdmsfiletext>

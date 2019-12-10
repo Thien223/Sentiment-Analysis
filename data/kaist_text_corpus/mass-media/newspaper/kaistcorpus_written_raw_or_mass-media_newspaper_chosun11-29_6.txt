@@ -1,0 +1,50 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-29_6.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-29_6.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.29 </date>
+<publisher>조선일보  </publisher>
+<kdc>news.05</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[청와대 가는길] 3대변수 합통토론-부재자투표-투표율 , 11-29.hwp/Titleend
+Inf/조선일보, 1997년 11월 29일 /Infend
+Text/ 
+     11/28(금) 19:20 
+
+
+
+
+                     [문체부] 고가영화 수입자제 유도 
+
+                     문화체육부는 28일 수입사간의 과당경쟁으로 말썽이 끊이지
+                     않고 있는 외국 영화 수입과 관련, 앞으로 수입추천제를
+                     탄력적으로 운영해 고 가의 외국영화 수입을 자제토록
+                     유도하는 한편, 효과가 없으면 대기업의 경우엔 명단을
+                     공개하기로 했다. 
+
+                     또 비용이 10만 달러 이상 드는 고액 외국 초청공연을잠정
+                     유보하 고, 국내 관광업소 공연에 종사하는 외국인들에게는
+                     공연료를한화로 지불 하도록 했다. 
+
+                     문체부의 이같은 조치는 최근 심화되고 있는 경제위기와
+                     관련, 문 화-체육분야에서의 외화 낭비요인을 줄이기 위한
+                     것이다. 
+
+                     이에 따르면, 예술의 전당 등 공익단체의 해외공연도 최대한
+                     억제 토록 하며, 카지노 골프 등의 호화여행 알선업체도
+                     집중관리를 받게 된 다. 
+
+                     동일 종류의 서적에 대한 업체간 과당 수입경쟁도 억제된다.
+                     <김태익기자> 
+/Textend 
+</tdmsfiletext>

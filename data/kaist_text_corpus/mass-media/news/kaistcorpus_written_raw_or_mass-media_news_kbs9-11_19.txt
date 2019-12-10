@@ -1,0 +1,35 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-11_19.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.11  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+첫 지휘 청중 압도
+
+
+⊙황수경 앵커 :
+          세계적인 지휘자 정명훈씨를 새 상임지휘자로 맡게 된 KBS 교향악단이
+오늘 저녁 KBS홀에서 지휘자의 취임을 기념하는 연주회를 열었습니다. 잠시
+연주회 현 장으로 가 보시겠습니다. 이흥철 기자입니다. 
+
+⊙이흥철 기자 :
+          최후 심판의 날 KBS 오케스트라와 백명의 연합합창단이 조화를 이룬
+장중한 음향은 KBS홀을 가득메우며 청중들을 압도했습니다. 음악계 거장
+정명훈씨의 상 임지휘자 취임을 기념하기 위해 마련된 오늘 음악회에는
+소프라노 김영미 바리톤 고성현 등 세계 정상급 성악가들도 함께 무대에 서
+감동을 더했습니다. 
+
+⊙정명훈 (신임 KBS오케스트라 상임지휘자) :
+          노래를 통해서 한국 청중 앞에서 하게 된 그 이상 더 기쁠 수가 없죠. 
+
+⊙이흥철 기자 :
+          심오한 종교세계를 거대한 음향으로 표현해낸 이번 음악회는 내일 예술의
+전당으로 이어지면서 BBC NHK와 함께 세계 3대 공영 방송 교향악단 수준으로
+발돋 움하는 KBS의 교향악단의 새로운 모습을 선보일 것으로 기대됩니다. KBS
+뉴스, 이흥철입니다. 
+</tdmsfiletext>

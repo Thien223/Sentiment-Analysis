@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-23_11.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.23 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+'학교장추전'예상경쟁률 6-7:1
+
+
+⊙황수경 앵커 :
+          서울대학교가 98학년도 입시부터 실시할 학교장 추천제의 평균 경쟁
+
+률은 6-7:1에 이를 것으로 예상됩니다. 서울대 입시관계자는 오늘 수능성적
+상위 10% 이내로 
+          돼있는 수험생 최저자격 기준을 갖춘 수험생이 지난해 보다 늘어나서
+평균경쟁률은 6-7:1 수준이 될 것이라고 내다봤습니다.
+
+
+</tdmsfiletext>

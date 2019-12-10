@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-16_19.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.16 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+외국인 마약 밀매 조직 적발
+
+서울 이태원 일대에서 외국인과 내국인을 상대로 마약인 헤쉬쉬와 대마초를
+팔아온 외국인 밀매조직이 검찰에 적발됐습니다. 서울 지방검찰청 강력부는
+오늘 이란인 사미미 하미드와 파키스탄인 아블파질 등 9명의 외국인과
+한국인 한명 등 모두 10명 을 대마관리법 위반 혐의로 구속했습니다. 
+
+
+
+</tdmsfiletext>

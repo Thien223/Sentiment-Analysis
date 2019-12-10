@@ -1,0 +1,30 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-20_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"비자금 의혹 공명하게 밝혀야"
+
+
+⊙황수경 앵커 :
+          강영훈 전 총리 등 원로급 인사들의 모임인 나라를 걱정하는 모임은
+오늘 대선정국에 대한 우리의 견해와 호소라는 발표문을 통해서 이번 대통령
+선거가 역대 어 느 선거보다 공명한 선거가 돼야 한다고 강조하고 비자금
+의혹은 공정하게 밝혀져야 하며 근 거없는 음해성 인신공격도 없어져야
+한다고 지적했습니다. 
+
+
+검찰, 증권가 악성루머 수사
+서울지검 특수1부는 오늘 최근 특정기업의 부도설을 증권가에 퍼뜨 린
+혐의로 모 증권사 간부를 소환해서 조사를 벌이고 있습니다. 검찰은 최근
+자금악화설로 계자를 소환해서 조사를 벌이고 있다고 밝혔습니다. 
+
+
+
+</tdmsfiletext>

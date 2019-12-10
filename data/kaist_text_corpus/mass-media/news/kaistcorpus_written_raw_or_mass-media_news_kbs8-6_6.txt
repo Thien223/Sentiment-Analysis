@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-6_6.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.8.6  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+새마을금고 직원 7천여만원 털려
+
+오늘 오전 10시쯤 경남 진주시 대안동 차없는 거리에서 125㏄ 오토 바이를 탄
+20대 남자 2명이 국민은행에서 새마을금고 자금 7천9백여만원을 찾아 나오던
+대안 동 새마을금고 직원 30살 최민환씨와 28살 전난씨를 덮쳐서 돈이 든
+손가방을 빼앗아 달아났 습니다. 
+</tdmsfiletext>

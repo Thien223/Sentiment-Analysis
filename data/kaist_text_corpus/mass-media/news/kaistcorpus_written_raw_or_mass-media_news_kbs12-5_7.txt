@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-5_7.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.05 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+고건 총리, 공항까지 지하철 탑승
+
+한편 고건 국무총리는 컨테이너 부두 준공식에 참석하기 위해서 광 화문에서
+김포공항까지 지하철 5호선을 타고 가면서 일부 시민들과 최근의 실업문제
+등에 대 해서 의견을 나누고 정부도 깊이 반성하고 있다고 말했습니다. 
+
+</tdmsfiletext>

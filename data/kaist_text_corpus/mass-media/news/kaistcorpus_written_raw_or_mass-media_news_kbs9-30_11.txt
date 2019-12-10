@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-30_11.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.30  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+주가 22포인트 상승... 647.11
+
+
+
+⊙황수경 앵커 :
+          오늘 주식시장은 지난 9일 동안 지수가 80p 크게 떨어진데 따라
+어느정도 바닥권이라는 인식이 확산되면서 종합주가지수가 어제보다
+22.04p가 오른 647.11p로 마감됐습니다. 
+
+</tdmsfiletext>

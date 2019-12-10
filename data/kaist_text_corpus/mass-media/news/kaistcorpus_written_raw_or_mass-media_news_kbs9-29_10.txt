@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-29_10.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.29  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+8월 경상수지 적자폭 감소
+
+
+
+⊙황수경 앵커 :
+          한국은행이 발표한 지난달 국제수지 동향을 보면, 올들어
+지난달까지의 경상적자 규모는 지난해 같은 기간보다 39억4천만달러나
+감소한 118억3천만달러를 기록했 습니다. 무역수지의 경우 수출이 지난달
+14.5%가 증가하는 등 두달 연속 두자리수 증가율을 보인데 힘입어서 지난
+7월에 3억천만달러 적자에서 1억2천만달러 흑자로 돌아섰습니다. 
+</tdmsfiletext>

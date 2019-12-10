@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-7_15.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.07</date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+中 싼샤댐 물막이 공사 마무리
+
+
+
+⊙황수경 앵커 :
+          세계 최대규모의 다목적댐인 쌴샤댐 건설을 위해서 중국 양쯔강의 물줄기를
+차단하는 물막이 공사가 끝났습니다. 5년만에 끝난 물막이 공사는 쌴샤 하단부의
+양자강 양안을 총길이 2천438미터의 제방 2개로 연결해서 63만평방미터에 이르는
+인공호수를 만들어냈습니다. 
+
+
+</tdmsfiletext>

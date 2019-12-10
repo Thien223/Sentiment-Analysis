@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-8_7.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.12.08 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+'97 문화유산의 해 폐막식
+
+
+
+⊙황수경 앵커 :
+          '97문화유산의 해 폐막식이 문화계 인사와 시민 등 5백여명이 참석한
+가운데 오늘 창덕궁 인정전에서 열렸습니다. 오늘 폐막식에서는 문화유산의
+해 고병익 조 직위원장이 금관 문화훈장을 받는 등 유공자 80여명이 훈장과
+표창을 받았습니다. 
+
+</tdmsfiletext>

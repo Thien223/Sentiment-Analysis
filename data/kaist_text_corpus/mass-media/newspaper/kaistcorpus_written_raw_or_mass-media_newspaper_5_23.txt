@@ -1,0 +1,28 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_5_23.txt </filename>
+<title> 조선일보  </title>
+<author> 박재영(기자)</author>
+<date> 93.07.22</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.1259CSM930722
+[생활속의환경운동]
+{박재영}
+전자파 가전기구 사용 절제를(생활속의 환경운동:89)
+◎미선 전자레인지 안써… TV­전기담요 등도 해당※ 요즘
+미국주부들은전자레인지를 거의 쓰지 않는다고 한다. 전자레인지에서 음식을 넣고
+뺄때마다 주부들의 손이 전자파에 시달린다는 것을 알기 때문이다.
+무선전화기를 사용할 경우 사람의 뇌는 집중적으로 전자파를 받는다.※ 눈의
+망막과 생식샘에 적지 않은 영향이 있다고 한다. 또 TV와 전기담요도
+강력한 전자파를 발생하는 가전제품이다. 전자파로 인한 인체 피해는 아직
+완전히 검증되지 않은 상태다. 그러나 고압선이 지나는 곳과 송신소
+인근지역 주민들이 곧잘 두통에 시달리고 원인모를 병에 잘 걸린다거나,
+레이더기지 근무자들이 녹내장, 백내장을 앓는 경우가 많은데 대해 전자파가
+그 원인이라는 학설이 있다. 전자파를 내는 제품사용을 절제할 필요가
+있다.〈박재영기자〉※
+
+</tdmsfiletext>

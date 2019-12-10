@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-22_11.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"北 고립 벗어나기 위한 조치 취해야"
+방한중인 킹켈 독일 외무장관은 오늘 기자회견에서 한반도는 냉전시 대의
+마지막 잔재라고 지적하고 북한은 스스로 자초한 고립에서 벗어나기 위한
+조치를 즉각 취해야 한다고 경고했습니다. 킹켈 장관은 특히 북한 김정일은
+주민들에게 자유와 식량과 생 활필수품을 제공하고 문호를 개방해야 한다고
+강조했습니다. 
+
+
+</tdmsfiletext>

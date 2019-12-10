@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-11_20.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.11  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+中 주용기, 총리 지명될듯
+
+
+
+⊙황수경 앵커 :
+          중국 공산당의 제15차 전국대표대회가 내일부터 일주일 동안 북경
+인민대회당에서 열립니다. 이번 대회에서는 중국 경제의 연착륙에 큰 기여를 한
+주용기 부총 리의 승진이 확실시 되며 군 원로인 유화청은 퇴임할 것으로
+보입니다. 
+</tdmsfiletext>

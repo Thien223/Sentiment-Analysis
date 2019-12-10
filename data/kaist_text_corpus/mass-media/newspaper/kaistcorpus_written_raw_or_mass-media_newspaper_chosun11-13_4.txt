@@ -1,0 +1,63 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-13_4.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-13_4.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.13 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.03</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[판도변화 조짐] "이회창이 추월한다" 대선길 비상 , 11-13.hwp/Titleend
+Inf/조선일보, 1997년 11월 13일 /Infend
+Text/ 
+     11/13(목) 19:05 
+
+
+
+
+                     [법사위] 형소법 개정안 통과…17일 전체회의 넘겨 
+
+                     국회 법사위는 13일 법안 심사소위를 열어 피의자가 원할
+                     경우에만 법원의 영장실질심사를 받도록 하는 내용의
+                     형사소송법 개정안을 표결 로 통과시켜 17일에 열리는
+                     전체회의로 넘겼다. 
+
+                      관련기사
+                        [형소법 소위통과] 법무부-검찰 "희색"…대법원 초비상 
+
+
+                     이날 표결에서 신한국당과 자민련 의원 5명은 "판사가
+                     필요하다고 인정할 경우 피의자를 심문하도록 한 현행 제도는
+                     수사력의 낭비등을 야기하고 있다"는 이유로 개정안에
+                     찬성했으나, 국민회의 의원 2명은 "개정보다는 운영의 묘를
+                     살려야 한다"며 반대한 것으로 알려졌다. 
+
+                     개정안은 판사가 필요하다고 인정할 경우 피의자를
+                     심문하도록 한 현행 영장실질심사의 요건을 바꿔 피의자나
+                     변호인, 법정대리인, 배우 자,직계친족, 형제자매,호주,
+                     동거인, 고용주 등의 요청이 있고 수사 기록만으로
+                     구속사유를 판단하기 어려울 경우에만 심문할 수 있도록
+                     했다. 
+
+                     한편 대법원은 13일 국회 법사위 법안심사소위의 형사소송법
+                     개정 안 통과와 관련, "법 시행후 1년도 되지 않은 상태에서
+                     제도 개선을 위한 아무런 노력도 기울이지 않은 채
+                     수사편의만을 위해 형사소송법 을 개정하는 것은 잘못"이라고
+                     공식 입장을 밝혔다. 대법원은 개정안 이 법사위와 본회의
+                     심의과정에서 확정될 경우 헌법재판소에 위헌법률
+                     심판제청을 하는 등 강력 대응하는 방안을 검토하고 있다고
+                     밝혔다. 
+
+                     <구성재기자> 
+
+/Textend 
+</tdmsfiletext>

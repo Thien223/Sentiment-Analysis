@@ -1,0 +1,29 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-17_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.17 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+임진란 명량대첩 재현
+
+임진왜란 4대대첩 가운데 하나인 명량대첩이 오늘 전남 해남군 우수 영
+앞바다에서 재현됐습니다. 명량대첩 4백주년을 맞아서 펼쳐진 오늘
+행사에서는 해군함정 2척과 각종 선박 60여척이 동원돼서 7년 동안의
+임진왜란을 종식시키는 계기가 됐던 당시 전 쟁상황을 재현했습니다. 
+
+소방기술 경연대회
+
+각종 재난사고에 대비한 소방기술 경연대회가 오늘 한강 시민공원
+반포지구에서 열렸습니다. 소방관과 소방가족 등 5천여명이 참석한 오늘
+대회에서는 부상자 응급치료술과 교통사고 부상자 구조 그리고
+한강유람선의 화재에 대비한 수상인명구조 등 5 가지 시범훈련이
+실시됐습니다. 
+
+
+
+</tdmsfiletext>

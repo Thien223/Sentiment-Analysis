@@ -1,0 +1,26 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-5_9.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.05 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+관훈언론상 KBS임병걸 기자 선정
+
+
+⊙황수경 앵커 :
+          관훈언론상을 지난해에 이어서 올해도 2년 연속 KBS가 받게 됐습니다.
+관훈클럽은 오늘 제15회 관훈언론상 수상자로 굶주리는 북한동포의 참담한
+실상을 파헤 친 KBS 통일부의 임병걸 기자를 선정했습니다. 임 기자는 지난
+6월 중국 연변 두만강 접경 지대에서 20일간의 잠복 취재를 통해 북한의
+초소경비병과 밀수꾼 탈북여성과 교수 등을 취 재해서 북한의 식량난을
+생생하게 전달했습니다. 관훈클럽은 또 제9회 최병우 기자 기념 국 제보도상
+수상자로 등소평 사망을 세계적인 특종으로 보도한 문일현 중앙일보 베이징
+특파원 과 장승길 북한대사 부부가 잠적한 사실을 최초로 보도한 연합통신
+카이로 특파원 정광훈 기 자를 선정했습니다. 
+
+</tdmsfiletext>

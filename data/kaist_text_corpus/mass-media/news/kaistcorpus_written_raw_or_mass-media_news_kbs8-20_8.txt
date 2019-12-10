@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-20_8.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+부르키나파소 대통령 다음달 방한
+
+
+⊙황수경 앵커 :
+          블레즈 콩파울의 부르키나파소 대통령이 김영삼 대통령의 초청으로 다음달
+2일부터 나흘 동안 우리나라를 공식 방문합니다. 부르키나파소는 지난 62년에
+수교한 서부아프리카 지역 국가로 콩파우레 대통령의 방한은 부르키나파소
+국가원수로서는 첫번째 공식 방문입니다. 
+
+</tdmsfiletext>

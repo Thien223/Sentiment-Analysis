@@ -1,0 +1,53 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-13_5.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-13_5.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.13 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.06</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[판도변화 조짐] "이회창이 추월한다" 대선길 비상 , 11-13.hwp/Titleend
+Inf/조선일보, 1997년 11월 13일 /Infend
+Text/ 
+     11/13(목) 19:48 
+
+
+
+
+                     이동전화 가입자 전파사용료 인하…시티폰은 면제 
+
+                     내년 1월1일부터 발신전용휴대전화(시티폰)를 비롯한
+                     이동전화 가 입자들이 내는 전파사용료가 대폭 인하되거나
+                     면제된다. 
+
+                     정보통신부는 13일 시티폰 단말기의 전파사용료를 현행
+                     분기당 2천 5백원에서 내년부터 면제해 주기로 했다. 
+
+                     또 셀룰러폰과 PCS 가입자가 내는 무선국 전파사용료는
+                     분기당 8천 원에서 5천원으로, TRS(주파수공용통신)의
+                     전파사용료도 4천원에서 3천원 으로 각각 인하한다. 
+
+                     대중교통 이용자의 편익 증진을 위해 설치한 이동무선
+                     공중전화 무 선국에 대한 전파사용료의 경우 지금까지 분기당
+                     8천원을 부과해 왔으나 내년부터는 면제해 주기로 했다. 
+
+                     사업자용 무선국의 경우 건물의 지하-터널 등의 전파음영지역
+                     해소 를 위해 설치된 이동전화 지하중계기의 전파사용료(현행
+                     분기당 39만원) 도 면제된다. 
+
+                     그러나 내년에 정통부가 거둬들일 전파사용료 수입 목표는
+                     올해 목 표치인 1천5백62억원보다 1천억원이나 늘어난
+                     2천5백60억원에 이를 전망 이다.< 임정욱기자 > 
+
+/Textend 
+</tdmsfiletext>

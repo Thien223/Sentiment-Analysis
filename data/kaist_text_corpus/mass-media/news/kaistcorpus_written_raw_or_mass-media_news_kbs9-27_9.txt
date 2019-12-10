@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-27_9.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.27  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+이탈리아 아시시 성당 지진으로 붕괴
+
+가톨릭계에서 가장 중요한 성당 가운데 하나로 꼽히는 이탈리아의 아시시
+성당이 어제 일어난 지진으로 붕괴됐고 신도 2명이 숨졌습니다. 아시시
+성당은 평화 의 사도 성 프란체스코 아시시의 무덤위에 지어진 13세기의
+대표적인 고딕건물입니다. 
+
+</tdmsfiletext>

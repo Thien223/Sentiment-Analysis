@@ -1,0 +1,30 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-26_13.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.26  </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+이신행 의원 벌금3백만원 선고
+
+
+⊙황수경 앵커 :
+          서울 지방법원 남부지원 형사합의1부는 오늘 신한국당의 이신행 의원과
+국민회의 정한용 의원에 대한 선거법 위반 제정신청 사건 선고공판에서 이신행
+의원에 대해서 벌금 3백만원 정한용 의원에 대해서는 벌금 50만원을 각각
+선고했습니다. 
+
+
+국가이미지 제고 해외 TV광고 추진
+정부는 오늘 중앙부처 관계관과 민간단체 위원들이 참석한 가운데 제2차
+대외홍보 실무위원회를 열어서 해외 경제홍보를 강화하고 국가이미지를 높이기
+위한 해외 텔레비전 광고를 추진하기로 했습니다. 오늘 회의에서는 또
+관광진흥을 위한 해외 홍보 활동과 우리나라에 대해서 잘못 서술하고 있는
+해외문헌의 시정 작업도 강화하기로 했습니다. 
+
+
+</tdmsfiletext>

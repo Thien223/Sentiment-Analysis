@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_4292.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.05.29</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.4247CSM930529    
+색  줄무늬  여름  패션                                                        
+  색색의  줄무늬  옷이  한창  유행의  중심으로  날리고  있다．  올해 
+패션주제로  등장한  줄무늬와  화려한  원색을  강조하는  민속풍，  인디언풍의  인기가 
+겹쳐지면서  물감에  있는  모든  색을  총동원한  듯한  색색의  줄무늬가  특히 
+여름옷  디자인에  많이  등장하고  있다．세계  유명디자이너들마다  블라우스와 
+치마，  바지，  목도리  등  갖가지  패션품목에  이  유행을  최대로  활용， 
+화려한  조화를  경쟁하듯  보여주고  있다．〈불  마담  피가로지〉※             
+
+</tdmsfiletext>

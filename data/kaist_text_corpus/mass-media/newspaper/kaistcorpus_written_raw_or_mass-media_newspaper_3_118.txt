@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_118.txt </filename>
+<title> 조선일보  </title>
+<author> 이연홍(기자)</author>
+<date> 93.06.02</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0685CSM930602
+{이연홍}
+「박태준 비자금」/포철방풍 부터 「아이언계」 관리까지
+◎민정계에 「수장촌지」 정기지급/총선땐 등급나눠
+“수천만~수억”/경선국면 총력… 타파에도 송금※ 민자당에는 한때
+「아이언(iron·철)계」로 불리는 의원집단이 있었다.박태준 당시 최고위원을 따르는 의원들을
+일컫는 말이었다.※ 그들은 줄잡아 20여명 정도가 됐다.※ 그러나
+이들의결집력은 그리 강하지 않았다.※ 뚜렷한 정치적 목적을 함께하는
+정치세력은 아니었기 때문
+</tdmsfiletext>

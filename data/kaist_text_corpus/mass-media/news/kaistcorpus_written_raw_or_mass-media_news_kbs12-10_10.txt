@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-10_10.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.12.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+피랍'러'여객기 146명 무사 구출
+오늘 시베리아 동부의 노리에스크시 상공에서 공중납치된 러시아 여 객기의
+승객과 승무원 146명이 모두 무사히 풀려났습니다. 러시아 연방 보안국은
+모조 폭발 물을 가지고 있던 60살 겐나디코프를 현장에서 체포했습니다. 
+
+</tdmsfiletext>

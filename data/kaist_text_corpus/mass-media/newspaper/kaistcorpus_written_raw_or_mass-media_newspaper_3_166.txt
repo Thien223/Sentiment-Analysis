@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_166.txt </filename>
+<title> 조선일보  </title>
+<author> 김창기(기자)</author>
+<date> 93.06.06</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0734CSM930606
+{김창기}
+「월 화 수 목 금 금 금」 김 대통령의 24시
+◎새벽 5시기상… 밤12시쯤 취침/각료­수석비서관­지사까지 불시
+전화호출/퇴청후 TV­미리 배달된 조간 훑으며 여론살펴/낮엔 가급적
+많은사람만나 현장소리 들어※ 5일은 김영삼대통령의 취임후 1백1일째가 되는
+날이었다. 현충일을 하루 앞둔 이날, 그는 오전에 국립묘지 참배로
+공식일정을 시작했다. 낮시간의 일정은 매일 바뀌지만, 아침 저녁 일정은
+대개 비슷하게 지난 1백일을 보냈다.※ 김대통�%C
+</tdmsfiletext>

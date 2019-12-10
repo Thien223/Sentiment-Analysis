@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-26_16.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.26  </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+경수로근로자, 모레부터 KBS 시청
+
+
+
+⊙황수경 앵커 :
+          경수로 기획단의 한 관계자는 오늘 우리측이 지난 7월 북한에 보냈던
+위성방송 수신장치에 대한 북한측의 통관 절차가 내일쯤 마무리될 예정이어서
+빠르면 모 레부터 우리 경수로 근로자들이 함경북도 금호지구에서 KBS의
+위성방송을 시청할 수 있게 될 것으로 보인다고 발표했습니다. 
+
+</tdmsfiletext>

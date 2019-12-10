@@ -1,0 +1,29 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-9_9.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.09 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+이효계 장관, 식량안보 강조
+
+
+
+⊙이한숙 앵커 :
+          이효계 농림부 장관은 이태리 로마에서 열리고 있는 제29차 유엔
+식량농업기구 총회 기조연설에서 세계 식량수습의 불균형을 해소하기
+위해서는 최소한의 국내 생산기반을 보장해주는 방향으로 농산물 협상이
+이루어져야 한다고 강조했습니다. 
+
+"독도 접안시설 철거 않겠다"
+
+조정재 해양수산부 장관은 오늘 오전 KBS 정책진단 프로그램에 출 연해
+독도는 엄연히 한국영토이기 때문에 일본이 접안시설 철거를 요구하는 것은
+부산항에 건설된 부두를 철거하라고 요청하는 것처럼 무리한 요구라고
+답했습니다. 
+
+</tdmsfiletext>

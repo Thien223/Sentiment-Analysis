@@ -1,0 +1,42 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun12-5_13.txt </filename>
+<title> 조선일보</title>
+<author> 박정훈(기자)</author>
+<date> 1997.12.05 </date>
+<publisher> </publisher>
+<kdc> 070.06</kdc>
+<tdmsfiletext>
+                     [일 NTT] 손목시계형 휴대전화 개발 
+
+                     앞으로 2년뒤면 휴대전화를 손목에
+                     차고 다니 면서 통화를 할 수 있는
+                     시대가 온다. 
+
+                     NTT(일본전신전화)는 3일 세계
+                     최경량의 손목시계형 휴대전화를 개
+                     발했다고 발표했다. 무게 45g에 담뱃갑
+                     크기의 절반도 채 안되는 새 제품은
+                     아직 시제품 단계. 
+
+                     NTT는 일단 40대의 시제품을 만들어
+                     내년 2월 나가노 동계올림픽
+                     시험사용토록 할 계획이다. 하지만 2년
+                     안에 대량생산이 가능해 일반 인들에도 판매할 수 있다고
+                     NTT는 밝혔다. 
+
+                     다이얼은 손가락이 아닌 음성으로 거는 방식. 
+
+                     상대방 이름과 번호를 미리 입력해둔 뒤 이름을 부르거나,
+                     아니만 전화번호를 부르면 전화가 걸린다. 
+
+                     한번 충전하면 60분동안 통화할 수 있으며, 통화 대기시간은
+                     최장 1백시간. 이어폰을 꽂아 사용할 수도 있다. 
+
+                     NTT는 "양산체제가 갖춰지면 현재의 일반 휴대전화와 비슷한
+                     가격 대에 판매될 수 있을 것"이라고 밝혔다. 
+
+                     【동경=박정훈기자】 
+</tdmsfiletext>

@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-21_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.21 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+김 대통령, 을지연습 순시
+
+
+⊙류근찬 앵커 :
+          다음 소식입니다. 김영삼 대통령은 오늘 을지 포커스 연습이 실시되고 있는
+국가 전쟁지도본부와 서울시청을 순시하고 국가 비상대비태세의 확립을
+강조했습니 다. 김영삼 대통령은 국가 전쟁지도본부에서 올 후반기는 대통령
+선거 등 국내 정세 변화에 편승해서 북한이 어떤 도발을 시도할지 모르는
+안보상의 취약시기라면서 한미 연합작전 능력 을 더욱 강화할 수 있도록
+군사작전 계획을 발전시키는데 만전을 기하라고 지시했습니다. 
+
+</tdmsfiletext>

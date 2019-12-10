@@ -1,0 +1,28 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_4_42.txt </filename>
+<title> 조선일보  </title>
+<author> 박재영(기자)</author>
+<date> 93.06.24</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0915CSM930624
+[생활속의환경운동]
+{박재영}
+살충제 과다사용 억제를(생활속의 환경운동:82)
+◎먹이사슬에 치명타… 큰 피해 부를수도※ 50년전 인도네시아의
+보루네오섬에서는 한때 고양이가 전멸한 적이 있었다. 창궐하던 바퀴벌레를
+박멸하기 위해 섬 전역에 과다한 DDT를 뿌렸는데, 이 살충제에 중독된
+바퀴벌레를 고양이가 잡아먹었던 것이다. 얼마후 보루네오섬에는 쥐가
+극성을부리게 됐다고 한다. 최근 한 발표에 의하면 우리나라에 패혈증환자가
+늘고있다. 패혈증을 옮기는 중간숙주는 들쥐다. 농약때문에 메뚜기나
+개구리 수가 줄고, 이들을 잡아먹는 뱀 역시 감소했다. 천적인 뱀이
+사라지면 들쥐는 늘게 마련이다. 생태계의 먹이사슬은 이와같이 한쪽만
+무너져도금세 가시적인 피해를 낳는다. 농가나 화원에서 농약및 비료를 주거나
+도시 방역사업을 할때 과다한 살충제 사용을 삼갈 필요가
+있다.〈박재영기자〉※
+
+</tdmsfiletext>

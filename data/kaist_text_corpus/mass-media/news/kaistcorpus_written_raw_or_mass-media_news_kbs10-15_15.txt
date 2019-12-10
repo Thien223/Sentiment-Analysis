@@ -1,0 +1,30 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-15_15.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.15 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+마샬군도 대통령 방한
+
+
+
+⊙황수경 앵커 :
+          중앙태평양에 위치한 마샬 공화국의 키부아 대통령 일행이 관광산업
+개발계획을 협의하기 위해서 오늘 오후 김포공항을 통해서 우리나라를
+비공식 방문했습니다. 
+
+이탈리아 중부에 또 지진
+
+이탈리아 중부 아시시 근처 운구리아 지역에 어제 오후 또다시 리히 터
+규모 4.9의 지진이 발생해 15세기에 지어진 폴리그노 시의회 건물의 종탑이
+무너져 내렸습 니다. 이날 지진은 150여㎞ 떨어진 로마에서도
+감지됐습니다. 
+
+
+
+</tdmsfiletext>

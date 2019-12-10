@@ -1,0 +1,32 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun12-3_6.txt </filename>
+<title> 조선일보</title>
+<author> </author>
+<date> 1997.12.03  </date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+                     창덕궁.화성 세계문화유산 지정 
+
+                     유네스코 세계유산위원회는 3일 한국의 창덕궁과 수원화성을
+                     세계문화유산으로 지정했다고 외무부가 발표했다. 
+
+                     창덕궁은 동아시아 궁궐 건축 및 정원 디자인의 뛰어난
+                     원형으로 자연환경과 조화를 이룬 형식의 탁월함을
+                     인정받았고, 화성은 근대 초기의 군사건축으로
+                     동서양의과학을 통합해 발전시킨 건축물로서 평가를
+                     받았다고 외무부 관계자는 말했다. 
+
+                     창덕궁과 화성의 세계문화유산 지정은 석굴암, 불국사,
+                     팔만대장경 장경판고,종묘에 이어 우리나라에서는
+                     5번째이다. 
+
+                     세계유산위원회는 역사적 미적 과학적 관점에서 인류공동의
+                     자산으로 보호할 필요가 있는 문화재를 세계유산으로
+                     지정해오고 있으며, 현재까지 지정된 세계문화유산은
+                     이집트의 피라미드, 그리스의 아크로폴리스, 중국의 만리장성
+                     등 3백80여건이다. 
+</tdmsfiletext>

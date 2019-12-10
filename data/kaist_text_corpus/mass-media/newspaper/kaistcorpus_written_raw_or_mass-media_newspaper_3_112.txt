@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_112.txt </filename>
+<title> 조선일보  </title>
+<author> 박선이(기자)</author>
+<date> 93.06.01</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0679CSM930601
+[아가미안해]
+{박선이}
+두살 이내 아기 맡길 곳 드물다(“아가,미안해…:15)
+◎맞벌이시대… 탁아시설을 위한 현장특집/현유아교육­시설 3세이상에
+집중/「가정탁아」형 별도프로그램 필요※ 지난 달 아이를 낳은
+김영진씨(회사원.29.서울 영등포구 문래동 유원아파트)는 앞으로 한달 안에 아기
+봐줄 사람을 구하지 못하면 무급 산후 휴가를 신청하지 않을 수 없는
+처지다.※ 노사간 단체협약에 육아 휴가 1년(유급 2개월 포함)이
+명문화돼있긴 하지만%
+</tdmsfiletext>

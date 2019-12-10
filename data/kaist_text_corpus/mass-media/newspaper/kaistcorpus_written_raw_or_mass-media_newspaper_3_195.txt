@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_195.txt </filename>
+<title> 조선일보  </title>
+<author> 윤영신(기자)</author>
+<date> 93.06.09</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0763CSM930609
+{윤영신}
+냉커피 만들기/강하게 볶은 원두커피가 적당
+◎얼음 녹기전 원액부어야 제맛※ 『차가운 냉커피 한 잔!』을
+연발하는계절이다. 생크림을 넣고 설탕시럽을 타는지 설탕시럽을 먼저 타고
+생크림을 붓는지, 커피를 가루상태로 타는지 원액을 만들어 넣는지…. 어느
+것이 더 맛이 나는가에 대해 사람마다 의견이 다르다. 커피전문가
+장영봉씨(한국외식산업서비스 대표)에게 맛있는 냉커피 만드는 법을
+알아본다.※냉커피는 마시는 동안 얼음물에 %
+</tdmsfiletext>

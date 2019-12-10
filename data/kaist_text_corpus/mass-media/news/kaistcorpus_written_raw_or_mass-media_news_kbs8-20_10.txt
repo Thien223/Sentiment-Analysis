@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-20_10.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+오늘 北도발 대비 민방공 훈련
+북한의 기습도발에 대비하기 위한 민방공 훈련이 오늘 오전 10시 50 분 부터
+20분 동안 전국에 걸쳐서 실시됐습니다. 내무부는 불시에 훈련 공습경보를
+발령해서 실제 상황과 똑같이 15분 동안 주민과 차량에 대한 대피훈련을
+실시한뒤 5분 동안 경계경보 를 내렸습니다. 
+</tdmsfiletext>

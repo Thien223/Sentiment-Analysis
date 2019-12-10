@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_163.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.06.05</date>
+<publisher> </publisher>
+<kdc> 070.11</kdc>
+<tdmsfiletext>
+[NA0402.0731CSM930605
+[조선다이제스트]
+이스마엘(조선 다이제스트)
+◎환경보호운동 철학적 뒷받침/대니얼 퀸 지음/이상영옮김 포도원간
+3백46쪽 5천5백원※ 지난 91년 미 CNN방송의 창업자 테드 터너가
+마련한 「터너미래기금」(상금 50만달러)의 수상작. 「이스마엘」이란
+제목은 구약성서에서 따온 것이지만, 여기서는 아프리카에서 미국으로 끌려온
+고릴라의 이름이다. 그러나 그 고릴라는 환경파괴로 죽어가는 지구를
+살리기 위해 나타난 령적 스승 또는 현자의 껍데기이다.※녹색문학의
+</tdmsfiletext>

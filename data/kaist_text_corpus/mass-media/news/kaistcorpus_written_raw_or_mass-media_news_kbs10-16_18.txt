@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-16_18.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.16 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+학교폭력 추방 결의
+
+
+
+⊙황수경 앵커 :
+          김태정 검찰총장은 오늘 충북 청주시 무심천변에서 열린 자녀
+안심하고 학교보내기 첫 자원봉사자 발대식에 참석해서 검찰의 학교폭력
+근절 의지를 강조했습니 다. 오늘 발대식에는 충북지역 자원봉사자와 시민
+등 3천여명이 참석해 학교폭력 추방을 결 의했습니다. 
+
+
+
+</tdmsfiletext>

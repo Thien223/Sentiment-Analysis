@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_3062.txt </filename>
+<title> 조선일보  </title>
+<author> 김형석(기자)</author>
+<date> 93.12.29</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.3017CSM931229    
+［건강메모］                                                                  
+｛김형석｝                                                                    
+뼈：９／１０∼１５세  무릎통증  부목치료  효과（건강메모）                    
+  ２０세  전후  남자들  중  양쪽  무릎앞  아랫부분에  뼈가  두드러져  운동을 
+하거나  꿇어  앉을  때  심한  통증을  느끼는  사람들이  더러  있다．  오스굿 
+스레트씨병이라는  이  병은  성장시  무릎을  너무  많이  사용한  것이  원인． 
+무릎관절  바로  아랫뼈의  끝이  떨어져  뼈조각이  생긴  것이다．※  대개 
+성장기인  １０∼１５세때  이  부위에  통증이  있으면  무릎을  굽히지  못하게 
+부목을  대고  잘  치료하면  병의  진행이  정지되어  다  큰  후에는  통증이 
+없어진다．  그러나，  잘못  치료하면  뼈조각이  남아  움직일  때마다  통증을 
+부른다．  이때에는  조각난  뼈에  뼈를  이식해  붙여  주든지，  두드러진  뼈조각을 
+제거하는  수술을  해야  한다．〈김형석·서울위생병원  의무원장·정형외과〉※ 
+
+</tdmsfiletext>

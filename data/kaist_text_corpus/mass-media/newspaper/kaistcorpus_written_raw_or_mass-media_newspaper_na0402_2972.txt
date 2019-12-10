@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2972.txt </filename>
+<title> 조선일보  </title>
+<author> 김형석(기자)</author>
+<date> 93.12.20</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2928CSM931220    
+［건강메모］                                                                  
+｛김형석｝                                                                    
+뼈：７／골수염  쉽게  발견안돼…  방치하면  평생고생（건강메모）              
+  뼈에  생기는  질병  중  흔히  간과하기  쉬운  것이  골수염이다．  뼛속 
+골수에  염증이  생기는  이  병은  처음에는  염증부위가  붓고  붉어지면서  통증이 
+생기고  몸에  열이  난다．  그러나，  Ｘ．ｒａｙ검사나  특수검사를  해도 
+별다른  이상이  없어  쉽게  감별되지  않는다．  이  때문에  의사들  사이에 
+진단소견이  다른  수도  적지  않다．※  그렇다고  방치하면  만성골수염이  되어 
+고름이  나오는  증상이  지속된다．  실제로  어려서  생긴  골수염을  방치하여 
+평생  고생하는  사람들을  가끔  본다．  따라서  골수염으로  의심되는  증상이 
+나타나면  바로  치료를  하면서  ２４시간  정도  경과를  관찰해야  한다．  그래도 
+증상이  사라지지  않으면  수술을  해야  고름이  두고두고  흐르는  것을 
+방지할  수  있다．〈김형석·서울위생병원  의무원장·정형외과〉※                   
+
+</tdmsfiletext>

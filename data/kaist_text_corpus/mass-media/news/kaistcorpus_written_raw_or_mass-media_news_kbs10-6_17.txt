@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-6_17.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.06 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+제26회 전국 투우대회
+
+전국에서 백여마리의 황소가 동원된 제26회 전국 투우대회가 오늘 경남
+진주에서 열렸습니다. 오늘 대회에서는 김해시에 사는 김두만씨의 소가
+730㎏ 이상의 갑종급에서 영예의 우승을 차지했습니다. 
+
+
+
+</tdmsfiletext>

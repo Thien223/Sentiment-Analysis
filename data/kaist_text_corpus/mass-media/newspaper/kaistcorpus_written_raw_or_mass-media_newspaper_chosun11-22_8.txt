@@ -1,0 +1,62 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-22_8.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-22_8.txt </filename>
+<title>  </title>
+<author>  </author>
+<date> 1997.11.22 </date>
+<publisher> 조신일보 </publisher>
+<kdc>news.08</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/ 26일 서울서 한일어업실무회의 , 11-22.hwp/Titleend
+Inf/조선일보, 1997년 11월 22일 /Infend
+Text/ 1/22(토) 17:41 
+     11/21(금) 19:13 
+
+
+
+
+                     [교육부] 초등교 `수우미…'완전폐지 
+
+                     내년부터 전국 초등학교에서 수 우 미 양 가로 매기는 등급제
+                     성적 평가가폐지되고 학생 개개인의 학습성취도를 글로 쓰는
+                     서술형 성적평가 가 이뤄진다. 
+
+                     지금까지는 초등학교 1-2학년과 서울 일부 초등학교의
+                     전학년에 서 술식 평가제를 적용해왔다. 
+
+                     교육부는 21일 전국 시-도 교육감회의를 열어 이같은 내용의
+                     '인성 교육 강화 방안'을 시달했다. 
+
+                     이에따라 교사들은 매 학습단원이 끝날 때마다 학생들의 학습
+                     성취 도를 점검해 문장으로 기술하는 방식으로 기존의 평가를
+                     대체하게 된다. 
+
+                     서술평가 내용은 1-2학년의 경우 학교생활기록부의
+                     '종합의견'란에, 3학년 이상은 '세부 능력및 특기사항'란에
+                     기재된다. 
+
+                     교육부는 또 공동생활과 체험교육의 확대를 위해 야영대회,
+                     학생예 술제 등 단체활동과 봉사활동을 활성화하고 이같은
+                     활동내용을 학교생활 부에 기록토록 했다. 
+
+                     이와함께 출석이 인정되는 도시-농어촌간 교류학습(1개월
+                     이내)과 가족동반 여행학습(6일 이내)도 적극 실시해나가기로
+                     했다. 
+
+                     교육부는 아울러 초등학생들의 논리적 사고능력을 키우기
+                     위해 토 론식 수업과 논술교육을 강화하는 한편 예절교육,
+                     교통안전교육, 경제교 육, 환경교육 등 생활과 연관된
+                     유기적인 체험학습에 힘써달라고 교육감 들에게
+                     당부했다.<김형기기자> 
+
+/Textend 
+</tdmsfiletext>

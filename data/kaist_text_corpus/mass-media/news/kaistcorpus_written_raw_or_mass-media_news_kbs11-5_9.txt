@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-5_9.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.05 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+수류탄 가진 승객 공항검색대 통과
+수류탄을 휴대한 대한항공 탑승객이 김포공항을 거쳐서 캐나다로 입 국한 사실이
+뒤늦게 알려져 공항의 보안검색에 허점이 많은 것으로 드러났습니다. 김포공항
+경찰대는 지난달 31일 수류탄을 휴대한 아르메니아 국적의 남자 한명이 필리핀과
+김포공항을 통과해서 캐나다로 입국하려 했다는 캐나다 프라린스 신문의 보도와
+관련해서 현재 진상을 조사하고 있습니다. 
+
+</tdmsfiletext>

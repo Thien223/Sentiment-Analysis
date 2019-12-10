@@ -1,0 +1,31 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-4_8.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.12.04 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+한국노총, 특정후보 지지 취소
+
+
+
+⊙황수경 앵커 :
+          한국노총의 박인상 위원장은 오늘 오후 서울 올림픽공원
+역도경기장에서 열린 전국 노조대표자 대회에서 우리가 지지해야 할 후보가
+누구인지는 명백하지만 이 를 공표하지는 않겠다고 밝혀 공표에 따른 선거법
+위반 시비를 피했습니다. 이에 대해 일부 노조원들이 지지후보를 공표할
+것을 요구하며 단상 위로 뛰어오르는 등 소동을 벌여서 오늘 집회는
+한시간여만에 무산됐습니다. 
+
+부재자 투표용지 발송 시작
+
+이번 15대 대통령 선거에 참여할 80만여 부재자용 투표용지 발송작 업이
+오늘 부터 시작됐습니다. 부재자 투표용지 발송 작업은 각 구시군
+선거관리위원회별로 오는 8일까지 마치게 되며 부재자 투표는 오는 11일부터
+13일까지 전국 423개 부재자 투표소 에서 이루어집니다. 
+
+</tdmsfiletext>

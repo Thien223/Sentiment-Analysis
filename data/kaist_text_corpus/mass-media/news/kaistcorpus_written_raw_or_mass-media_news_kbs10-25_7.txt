@@ -1,0 +1,25 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-25_7.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.25 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"4자 본회담 12월 개최 협의중"
+
+
+
+⊙황수경 앵커 :
+          남북한과 미국은 최근에 다음달 중순쯤 뉴욕에서 3차 예비회담을 열어
+이 회담이 성공할 경우 오는 12월초 제네바에서 4자회담 본회담을 개최하는
+방안을 협의 중인 것으로 알려졌습니다. 외무부 당국자는 오늘 최근에
+미국과 북한이 비공개 실무접촉을 통해 이같은 회담일정에 관해 의견을
+나눴다고 발표했습니다. 
+
+
+
+</tdmsfiletext>

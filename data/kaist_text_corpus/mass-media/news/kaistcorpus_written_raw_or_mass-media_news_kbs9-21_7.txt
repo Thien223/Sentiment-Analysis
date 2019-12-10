@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-21_7.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.21  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+내일 구형
+
+
+⊙박대석 앵커 :
+          김현철씨 비리사건 6차 공판이 내일 오전 10시 서울지방법원 417호
+법정에서 열려 결심과 함께 검찰 구형이 내려집니다. 검찰은 김현철씨에 대해서
+특정범죄 가 중처벌법상 알선수재와 조세포탈 혐의를 적용해 중형을 구형할
+것으로 알려졌습니다. 
+
+</tdmsfiletext>

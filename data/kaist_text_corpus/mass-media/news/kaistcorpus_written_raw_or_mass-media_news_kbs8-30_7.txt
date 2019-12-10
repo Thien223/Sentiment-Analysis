@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-30_7.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.08.30 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+불안한 무승부
+
+
+⊙황수경 앵커 :
+          프랑스 월드컵 아시아 지역 최종예선의 마지막 시험무대인 한.중 축구
+정기전에서 우리나라가 중국과 득점없이 비겼습니다. 3만여 관중이 열광하는
+가운데 벌어 진 이 경기에서 우리나라는 전후반 4차례의 결정적인 득점기회를
+살리지 못하고 중국의 기습 속공에 말리는 등 월드컵 최종 예선을 일주일 앞두고
+공수 양면에서 적지 않은 불안감을 드 러냈습니다.
+</tdmsfiletext>

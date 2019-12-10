@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102819.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+'수퍼'미꾸라지 개발
+몸길이가 30센티미터를 넘는 미꾸라지를 보신적이 있습니까? 부산의 한 대학 연구소에서 성장호르몬을 투입하는 방법으로 일반미꾸라지보다 30배나 크고 30배나 빨리 자라는 수퍼미꾸라지를 세계최초로 계발했습니다. 부산방송 이오상기자가 보도합니다. 
+
+생후 6개월 된 미꾸라지들이 몸무게 약 3백그램. 일반 미꾸라지의 30배나 됩니다. 
+몸길이도 35센티미터, 일반 미꾸라지의 3배를 넘었습니다. 부산 부경대 해양산업개발연구소와 한양대 생물학과 김철근 교수팀이 약 3년간의 연구끝에 개발에 성공한 수퍼 미꾸라지입니다. 
+일반 미꾸라지에서 추출한 성장호르몬 유전자를 미꾸라지의 알에 투입하는 방법을 사용했습니다. 
+
+수퍼미꾸라지 개발법이 성공함으로써 우리의 양식산업은 비약적인 발전의 계기를 마련한 것으로 보입니다. 
+PBS뉴스 이오상입니다. 
+</tdmsfiletext>

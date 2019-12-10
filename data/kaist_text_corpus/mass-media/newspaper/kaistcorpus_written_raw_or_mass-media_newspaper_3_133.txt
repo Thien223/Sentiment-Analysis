@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_133.txt </filename>
+<title> 조선일보  </title>
+<author> 윤희영(기자)</author>
+<date> 93.06.03</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0700CSM930603
+{윤희영}
+「남미 개혁바람」 주도 일본계 2세/어제 방한 후지모리 페루대통령
+◎경제난­테러­마약 3대악 척결나서/“페루 희망” “독재자”
+“평가속65% 지지※ 「알베르토 켄야(겸야) 후지모리(등삼) 후지모리」.※
+페루가 스페인통치로부터 해방된 독립기념일인 7월 28일 출생한
+일본인이민 2세.그로부터 꼭 51년뒤인 7월 28일 대통령 취임.※
+김영삼대통령의 초청으로 2일 방한한 알베르토 후지모리 페루대통령(54)의
+본명과출생관계다.※ 생일과 독립�
+</tdmsfiletext>

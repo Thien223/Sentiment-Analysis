@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-2_8.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"국면전환위해 무리한 야당 사정"
+
+국민회의의 정동영 대변인은 김종배 의원 소환조사는 검찰이 국면을 바꾸기
+위해서 무리하게 야당 사정에 나선 것이라고 주장하고 법무장관과 검찰총장은
+가혹행 위를 한 검찰 수사관들을 밝혀내서 문책하라고 촉구했습니다. 
+
+"혐의 사실이라면 김 의원 처벌 마땅"
+
+신한국당의 이윤성 대변인은 김 의원의 검찰 소환 조사에 대해서 국 회의원의
+국정감사와 관련해서 금품이 오갔다는 것은 극히 유감스런 일이라면서 만약
+혐의가 명백한 사실로 드러난다면 법에 따라 처벌받는게 마땅하다고
+말했습니다. 
+</tdmsfiletext>

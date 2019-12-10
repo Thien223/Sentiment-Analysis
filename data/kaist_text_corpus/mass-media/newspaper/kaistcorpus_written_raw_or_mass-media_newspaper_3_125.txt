@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_125.txt </filename>
+<title> 조선일보  </title>
+<author> 박성희(기자)</author>
+<date> 93.06.02</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0692CSM930602
+{박성희}
+“우리춤 뿌리찾기” 기획공연 잇따라
+◎중견무용수 인간문화재 전통춤 배우기 바람※ 한국 무용계에 우리
+춤의뿌리찾기 움직임이 활발하다.※ 창작에 전념해 오다가 인간문화재의
+이수자로 들어가 전통 춤사위를 익히는 무용수가 하나 둘 느는가 하면,
+전통춤의 뿌리를 캐는 크고 작은 기획 공연이 풍성하게 마련되어 전통춤의
+무대화에도 크게 기여하고 있다.※ 한국무용계의 최근 이같은 전통
+회귀현상은 특히 단단한 경력의 중견 무용수들
+</tdmsfiletext>

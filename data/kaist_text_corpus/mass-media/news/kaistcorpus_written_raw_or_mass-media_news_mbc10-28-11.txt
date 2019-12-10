@@ -1,0 +1,15 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 20019or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_mbc10-28-11.txt </filename>
+<title> MBC뉴스데스크 </title>
+<author> </author>
+<date> 1997.10.28  </date>
+<publisher> MBC  </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"김 대통령 '저축의 날' 수상자 격려" 
+◆ 이인용 앵커 :
+김영삼 대통령은 오늘 저축의 날을 맞아 연예인 김용림 씨 등 저축 유공자와 이관우 한일은행장 등 원로 금융인을 청와대로 초청해 점심을 함께 하면서 이들의 수상을 축하하고 격려했습니다. 이에 앞서 김 대통령은 레온 브리튼 EU 집행 위원회의 부위원장을 접견하고 한국과 EU간 관계 증진 방안을 논의했습니다.  
+</tdmsfiletext>

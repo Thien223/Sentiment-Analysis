@@ -1,0 +1,23 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102902.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+세계증시 회복세
+뉴욕증권시장의 주가가 대폭락한지 하룻만에 다시 반등하면서 홍콩과 도쿄 유럽등 세계 증권시장의 주가가 회복세로 돌아섰습니다. 
+
+
+오늘 미국 뉴욕의 다우존스 공업 평균지수는 어제보다 3백37.17포인트 오른 7천4백98.32에 폐장돼 하룻만에 4% 올랐습니다. 
+
+
+일본 도쿄의 닛케이 평균주가도 뉴욕증시 회복에 따른 안도감이 확산되면서 어제보다 3.5% 올랐고 홍콩 증권시장도 폭락한지 하룻만에 항생지수가 어제보다 18.8% 오르는 가파른 상승세로 돌아섰습니다. 
+
+
+유럽 증시도 뉴욕시장의 회복세에 힘입어 투자자들이 다소 안정을 되찾으면서 하락폭이 어제보다 줄어 진정국면을 보였습니다. 
+</tdmsfiletext>

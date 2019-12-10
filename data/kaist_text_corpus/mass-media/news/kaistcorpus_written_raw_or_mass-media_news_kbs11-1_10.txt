@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-1_10.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.11.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+韓.美연합 상륙훈련
+
+
+
+⊙황수경 앵커 :
+          한미 연합군의 지휘체계와 전술을 점검하기 위한 한미연합 상륙훈련이 오늘
+경북 동해안 지역에서 펼쳐졌습니다. 훈련에 참가한 두나라 해병대는 실전을
+방불케 하는 상륙작전을 감행해서 가상 적군을 일망타진하면서 확고한
+연합방위태세를 과시했습니 다. 
+
+</tdmsfiletext>

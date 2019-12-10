@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_193.txt </filename>
+<title> 조선일보  </title>
+<author> 변재란(기자)</author>
+<date> 93.06.09</date>
+<publisher> </publisher>
+<kdc> 070.08</kdc>
+<tdmsfiletext>
+[NA0402.0761CSM930609
+[일본육아기행]
+{변재란}
+「반쪽이」 만화가 부부(일본 육아기행:17)
+◎다른나라 엄마들은 어떻게 키우나/“부모­교사 「교육상담」 기회…
+가정방문 활용※ 마쓰오는 집에서는 장난꾸러기로 부모의 속을 태우는
+아이다. 그런데 유치원에서는 바라보기만 할 뿐 놀이에 끼어드는 법이 없고
+어쩌다 함께 어울리더라도 금방 싫증을 낸다. 마쓰오의 부모는 『외동
+아이인데다 우리가 모두 바빠 혼자지내는 시간이 많아서인지 자기 중심적인
+면이 강하고
+</tdmsfiletext>

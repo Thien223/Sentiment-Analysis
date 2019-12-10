@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-2_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.02 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"시국선언 중령 국민신당 사전접촉"
+
+
+⊙황수경 앵커 :
+          현역 육군 중령 손대희씨의 시국선언 사건을 수사하고 있는 육군은
+오늘 중간 수사결과 발표를 통해서 손 중령이 시국선언문을 발표하기 직전
+국민신당 관계자 와 만나서 선언물 발표와 거취 문제 등을 상의한 것으로
+나타났다고 밝혔습니다. 육군은 이 에 따라 손 중령의 시국선언 발표를 도운
+것으로 나타난 국민신당 관악 갑 지구당 이지문 위 원장과 안재휘 언론특보
+등 관련자들을 소환해서 사실 확인조사를 벌이고 있다고 말했습니다. 
+
+</tdmsfiletext>

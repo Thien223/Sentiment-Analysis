@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-1_6.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.11.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+어업교섭 취소
+
+
+⊙류근찬 앵커 :
+          외무부 유광석 아태국장은 오늘 일본측이 나포한 계림호 선장 이몽구씨를
+검찰에 송치하는 등 법집행 절차에 들어감에 따라서 오는 5일부터 일본 도쿄에서
+열 릴 예정인 한.일 어업협의를 취소하기로 했다고 밝혔습니다. 
+
+</tdmsfiletext>

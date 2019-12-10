@@ -1,0 +1,45 @@
+<project>  </project>
+<class> Corpus </class>
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process>  raw </process>
+<version>  </version>
+<serialnumber> 97-kaist_corpus_97_news_raw_chosun11-14_9.txt </serialnumber>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_chosun11-14_9.txt </filename>
+<title> </title>
+<author>  </author>
+<date> 1997.11.14 </date>
+<publisher> 조선일보 </publisher>
+<kdc>news.06</kdc>
+<ddc>  </ddc>
+<typist>  </typist>
+<inputstatus>  </inputstatus>
+<note>  </note>
+<tdmsfiletext>
+Title/[국민신당 초조] 이수성-이부영-이철 교섭 성과없어 , 11-14.hwp/Titleend
+Inf/조선일보, 1997년 11월 14일 /Infend
+Text/ 
+     11/14(금) 05:41 
+
+
+
+
+                     [LG반도체] 64메가 램버스D램 개발 
+
+                     LG반도체는 기존 PC의 메모리를 대체해나갈
+                     차세대고속메모리로 각광받고 있는 64메가 램버스D램을
+                     개발했다고 13일 밝혔다. 
+
+                     이 제품은 램버스D램의 2세대 제품으로 세계에서 가장 빠른
+                     7백M㎐의 동작속도를 가지고 있으며 1초에 무려 신문
+                     4만3천7백50장 분량에 해당하는 7백메가바이트의 데이터를
+                     전송할 수 있다고 LG반도체는 설명했다. 기존 PC에 장착되고
+                     있는 EDO램메모리의 경우 속도가 33M㎐급이다. 
+
+                     이 제품은 초고속, 고집적의 장점을 가지고 있어 내년부터
+                     워크스테이션 및 서버, 디지털TV 등의 대용량
+                     그래픽메모리용으로 우선 채용되기 시작해 오는 99년부터는
+                     개인용 컴퓨터(PC)의 주기억장치로 채택될 것으로
+                     LG반도체는 예상했다.< 임정욱기자 > 
+/Textend
+</tdmsfiletext>

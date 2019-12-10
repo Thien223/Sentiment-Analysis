@@ -1,0 +1,18 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102806.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.10.28 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+경제정책 전면 수정
+국회는 오늘 이틀째 경제분야 대정부 질문을 벌여 금융시장 안정화 대책과 기업부도 방지대책 등을 집중적으로 추궁하고 경제위기를 극복하기 위한 구체적 대안을 물었습니다. 
+
+여야의원들은 현재의 경제난을 총체적 위기로 규정하고 "현 정부가 시장경제원칙 만을 내세워 대기업의 연쇄부도사태 등을 방치하고 있다"면서 경제정책의 전면 수정을 촉구했습니다. 
+
+신한국당 김운환 의원은 질의에서 "은행감독원이 지난 9월 자신의 예금계좌를 비밀리에 조사했다"고 주장하면서 해명과 처벌을 요구했습니다.
+</tdmsfiletext>

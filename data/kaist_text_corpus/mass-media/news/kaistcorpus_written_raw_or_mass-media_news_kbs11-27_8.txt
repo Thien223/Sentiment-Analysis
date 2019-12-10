@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-27_8.txt </filename>
+<title> KBS 9시 뉴스</title>
+<author> </author>
+<date> 1997.11.26 </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+권오기 부총리, 아라파트 예방
+
+
+
+⊙황수경 앵커 :
+          이스라엘을 방문하고 있는 권오기 통일부총리는 어제 우리 정부
+각료로는 처음으로 아라파트 팔레스타인 자치정부 수반을 예방하고 4자회담
+등 한반도 평화정 착을 위한 우리 정부의 노력을 북한 지도부에 전해달라고
+요청했습니다. 
+
+
+</tdmsfiletext>

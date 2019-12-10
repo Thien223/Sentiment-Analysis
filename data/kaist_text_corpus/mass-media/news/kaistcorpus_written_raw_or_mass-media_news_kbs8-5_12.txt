@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-5_12.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.8.5  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+독립유공자 유해 5위 봉환
+
+
+⊙황수경 앵커 :
+          일제 침략에 항거해서 해외에서 독립운동을 하다 순국한 정양태 선생 등
+애국선열 5분의 유해가 오늘 오후 김포공항을 통해서 국내로 봉환됐습니다. 애
+국선열 5위의 유해는 서울 국립묘지 영현 봉현관에 안치됐으며 내일 대전
+국립묘지 애국 지사 묘역에 안장될 예정입니다. 
+</tdmsfiletext>

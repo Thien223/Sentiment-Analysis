@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_116.txt </filename>
+<title> 조선일보  </title>
+<author> 유용원(기자)</author>
+<date> 93.06.01</date>
+<publisher> </publisher>
+<kdc> 070.03</kdc>
+<tdmsfiletext>
+[NA0402.0683CSM930601
+{유용원}
+전투기 탄 첫 「여성장교」/항공의학 적성연 장정숙소위
+◎항공간호병과… 「조종사 체험」 교육일환※ 31일 오후 강원도 횡성
+모전투비행단 활주로.※ 한시간의 비행끝에 검은 연기를 뿜으며 사뿐히
+내려앉은 제트 전폭기 A 37기의 2인승 조종석에는 남성 조종사 옆에
+이례적으로 여성 장교가 타고 있었다.※ 지난 3월 국군간호사관학교를
+졸업, 임관한 우리나라 최초의 항공간호장교 7명 가운데 한사람인
+장정숙소위(22).※ 장소위는 이날 우리나�%F
+</tdmsfiletext>

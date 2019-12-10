@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_194.txt </filename>
+<title> 조선일보  </title>
+<author> 김영달</author>
+<date> 93.06.09</date>
+<publisher> </publisher>
+<kdc> 070.05</kdc>
+<tdmsfiletext>
+[NA0402.0762CSM930609
+“싫어하는 김치” 친근하게/어린이용 요리 3선
+◎속을턴 김치 잘게썰어 볶은다음 만다/김밥/통깨­참기름에 무친뒤
+피자고명으로/피자/삶은 달걀가루­참치 살코기등과 섞어/튜나샌드위치※
+우리나라 국민학생들이 가장 싫어하는 음식이 김치라는 한 조사가 많은
+사람에게 충격을 주고 있다.김치는 6·25때 처음 외국에 알려진 이래
+서울올림픽을 치르면서 세계적인 음식으로 발돋움했다. 지금은 진공 포장,
+통조림 포장의 가공 식품으로 발전, 일?B
+
+</tdmsfiletext>

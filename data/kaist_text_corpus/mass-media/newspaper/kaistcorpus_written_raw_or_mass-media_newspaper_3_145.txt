@@ -1,0 +1,23 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_145.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.06.04</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0713CSM930604
+하스불라토프 의회 의장에/옐친측,제헌의회참석 요청
+ 【모스크바=로이터 연합】 보리스 옐친 러시아대통령의 최대 정적인
+루슬란 하스불라토프 최고회의 의장은 3일 새헌법 초안을 확정할
+오는5일의제헌회의에 의회대표로 참석해주도록 요청을 받았다고 말했다.※ 그는
+이날 최고회의 대의원들에게 『러시아 연방 회원들과 다수의 인민대표대회
+대의원들은 제헌회의에 최고회의 의장이 참석해야 한다는 입장을 명백히
+했다』면서 『이같은 임무를 나에게 부여해준다면 (제헌회의에) 참석할
+것』이라고 밝혔다.※ 이와 관련해 옐친대통령의 측근들은 제헌의회에 참석하는
+것을 환영한다고
+
+</tdmsfiletext>

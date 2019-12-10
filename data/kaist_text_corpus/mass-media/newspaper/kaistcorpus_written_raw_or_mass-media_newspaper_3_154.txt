@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_154.txt </filename>
+<title> 조선일보  </title>
+<author> 김교준(기자)</author>
+<date> 93.06.05</date>
+<publisher> </publisher>
+<kdc> 070.01</kdc>
+<tdmsfiletext>
+[NA0402.0722CSM930605
+{김교준}
+「6·10 항쟁」/새롭게 “부각”
+◎YS 「국민대회」주도… 민주화 기폭/6공서 「6·29」부각위해
+“평가절하”/문민시대 불구 요란한 재평가는 않을듯※ 87년 6월10일.
+당시 민주당 김영삼총재는 「6·10국민대회」를 주도했다. 「국민대회」는
+민정당의 4·13호헌조치에 철회를 요구하는 직선제 개헌 쟁취
+투쟁이었다. 김총재는 민주당과 민추협을 이끌고 서울시내에서 최루탄을 맞으며
+시위를 벌였다. 재야도 가세했다. 같은날 노태우민정당대표위원
+</tdmsfiletext>

@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-1_6.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.12.01 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+'병역관련'특정 후보 사퇴 주장
+현역 대대장인 육군 손대희 중령은 오늘 기자회견을 열어 한나라당 의
+이회창 후보는 두아들이 병역과 관련한 의혹이 있어서 국군 통수권자가 될
+자격이 없다면 서 대통령 후보에서 사퇴해야 한다고 주장했습니다. 군
+당국은 이와 관련해서 그동안 정치적 중립을 지키도록 여러차례 지시가
+있었는데도 손 중령이 자신의 정치적 견해를 밝힌 것은 유 감이라고 말하고
+손 중령을 근무지 무단이탈과 군형법상의 정치 관여 금지규정 위반 혐의로
+구속해서 조사하고 있다고 밝혔습니다. 
+
+
+</tdmsfiletext>

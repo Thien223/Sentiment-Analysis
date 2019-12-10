@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-24_14.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.24  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+독일 함대, 인천항 첫 입항
+
+
+
+⊙황수경 앵커 :
+          최신예 함정 4척으로 구성된 독일함대가 독일 해군장교와 하사관 그리고
+해군사관생도 등 모두 650명을 태우고 오늘 오전 인천항에 입항했습니다.
+이들은 오는 28일까지 한국에 머물면서 선상 리셉션 등을 통해서 한국과 독일
+해군간의 친선을 도모할 계 획입니다. 
+</tdmsfiletext>

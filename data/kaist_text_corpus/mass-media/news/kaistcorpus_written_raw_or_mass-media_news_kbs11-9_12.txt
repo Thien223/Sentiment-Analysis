@@ -1,0 +1,26 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-9_12.txt </filename>
+<title> KBS 9시 뉴스 </title>
+<author> </author>
+<date> 1997.11.09 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+88고속도로 사고…5명 사상
+
+
+⊙이한숙 앵커 :
+          오늘 오후 4시쯤 전라북도 순창읍 백산리 88고속도로에서 35살
+남궁철용씨가 운전하던 승용차가 맞은편에서 오던 승용차 3대와 잇따라
+부딪혔습니다. 이 사고로 남궁씨의 부인 31살 김명옥씨와 딸 6살 남궁민양이
+그 자리에서 숨지고 광주시 동명동에 사 는 임산부 32살 안용미씨 등 3명이
+크게 다쳤습니다. 입장권 못 구한 칠레 축구팬 난동 남미 칠레의 수도
+산티아고에서는 어제 프랑스 월드컵 진출권이 걸 린 볼리비아와의 예선전
+경기 입장권을 구하지 못한 수천명의 축구팬들이 난동을 부려서 경 찰이
+물대포를 동원해 군중을 해산시켰습니다. 
+
+
+</tdmsfiletext>

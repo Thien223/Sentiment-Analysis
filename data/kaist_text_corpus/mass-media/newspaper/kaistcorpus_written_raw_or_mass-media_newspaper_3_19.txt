@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_19.txt </filename>
+<title> 조선일보  </title>
+<author> 김영하(기자)</author>
+<date> 93.05.12</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0586CSM930512
+[영국은지금]
+{김영하}
+환경­첨단산업 “유럽 최고수준”(영국은 지금…:하)
+◎환경조직 「통합공해관리」 추구/전국 재활용망… 쓰레기 방기
+징역형도※ 산업혁명을 주도했던 영국의 잠재력은 두세기의 격동을 지나면서
+적지않게 소진되었지만 첨단산업과 환경산업에서는 여전히 강력한 기초와
+경쟁력을확보하고 있다. 특히 80년대이후 본격적으로 대두되고 있는 범지구적
+환경보호 물결과 때맞추어 영국의 첨단적인 환경관련 선언들이 새삼
+%C
+</tdmsfiletext>

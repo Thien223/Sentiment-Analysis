@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-23_15.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.23 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.09</kdc>
+<tdmsfiletext>
+ABU 서울총회 폐막
+
+ABU 즉 아시아 태평양 방송연맹 서울총회가 오늘 폐막식을 끝으로 사흘
+동안의 공식행사를 마쳤습니다. 오늘 폐막식에서 다토 자파르 카민
+ABU회장은 21세기 디지털 시대를 앞두고 아태지역 방송사들이 위성방송과
+인터넷 방송 등 새로운 방송시스템 개발에 힘을 기울여줄 것을
+당부했습니다. 
+
+
+</tdmsfiletext>

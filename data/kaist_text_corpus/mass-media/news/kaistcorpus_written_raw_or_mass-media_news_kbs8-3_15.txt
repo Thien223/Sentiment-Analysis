@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-3_15.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.04 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.06</kdc>
+<tdmsfiletext>
+컴퓨터 범죄 수사대 발족
+경찰청은 오늘 오전 10명의 수사대원과 해커추적용 서버 등 최신장 비로 구성된
+컴퓨터 범죄수사대를 발족하고 본격적인 활동에 들어갔습니다. 컴퓨터 범죄수사
+대는 앞으로 국내외의 컴퓨터 통신망에서 벌어지는 각종 불법행위와 전산망
+침해에 대해서 24시간 감시체제를 갖추고 수사를 펴게 됩니다. 
+</tdmsfiletext>

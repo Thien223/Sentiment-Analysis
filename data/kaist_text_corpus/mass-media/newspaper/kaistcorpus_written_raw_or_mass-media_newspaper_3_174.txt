@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_174.txt </filename>
+<title> 조선일보  </title>
+<author> 정해영(기자)</author>
+<date> 93.06.08</date>
+<publisher> </publisher>
+<kdc> 070.04</kdc>
+<tdmsfiletext>
+[NA0402.0742CSM930608
+{정해영}
+클린턴/파월/서로 “끌어안기” 의존적 관계로
+◎군부입장 정책반영… 충성과시/파월/군내위상 확보 파월도움
+필요/클린턴/「통수권」­「전력약화 방지」사이서 균형 모색※
+【워싱턴=정해영기자】금년 1월 중순 부시 당시 대통령이 퇴임을 앞두고 백악관에서 딕
+체니국방장관, 콜린 파월 합참의장 등 군 수뇌부와 마지막으로 자리를
+함께했다. 부시는 파월에게 『콜린, 이제 당신은 젊은 친구들(클린턴과
+그측근들 지칭)을 모시게 됐�
+</tdmsfiletext>

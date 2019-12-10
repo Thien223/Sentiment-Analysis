@@ -1,0 +1,27 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_1625.txt </filename>
+<title> 조선일보  </title>
+<author> 윤영신(기자)</author>
+<date> 93.08.28</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.1662CSM930828    
+｛윤영신｝                                                                    
+“날씬한  배  만듭시다”／유럽여성  체조법                                    
+  여성들의  옷매무새를  돋보이게  하는  데는  날씬한  배가  무엇보다  큰 
+역할을  한다．  배가  살쪄  튀어나오면  우선  둔해  보이면서  나이가 
+들어보인다고  미용전문가들은  복부의  중요성을  강조한다．  나이든  여성들의  경우는 
+특히  배가  날씬하면  경쾌하면서  건강해보이는  효과가  크다는  것．  어떻게 
+배를  날씬하게  가꿀  것인가．※  적절한  다이어트와  운동으로  제거할  수  있는 
+복부표면  지방의  양은  ８０％．  이  ８０％를  「공략」하는  ４가지 
+복부체조를  프랑스의  르  피가로지가  소개했다．  배근육은  그냥  놔두면  금새 
+지방이  자리를  잡기때문에  적절한  식이요법과  함께  복부체조가  필수적이다． 
+복식호흡을  자주해도  뱃살은  빠진다．복부운동의  원리는  복부근육의  긴장과 
+이완을  반복함으로써  소화흡수기관과  배설기관의  지방을  자극하는 
+것이다．〈윤영신기자〉※                                                                   
+
+</tdmsfiletext>

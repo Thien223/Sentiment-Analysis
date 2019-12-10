@@ -1,0 +1,22 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_233.txt </filename>
+<title> 조선일보  </title>
+<author> 변재란(기자)</author>
+<date> 93.06.13</date>
+<publisher> </publisher>
+<kdc> 070.08</kdc>
+<tdmsfiletext>
+[NA0402.0801CSM930613
+[일본육아기행]
+{변재란}
+반쪽이 만화가 부부(일본 육아기행:18)
+◎다른나라 엄마들은 어떻게 키우나/엄마직업 파트타임으로 …“일과
+육아조화” ※ 동경에 사는 가와시마 부인은 일본 주부들 사이에 흔한
+「파트 타이머」다. 화장품회사 직원이던 그는 아이를 낳은지 3년만인
+지난해주 사흘 근무로 일을 줄였다.※ 결혼 후 분가했던 가와시마씨 내외가
+다시 부모와 살림을 합친 것은 아기 양육 때문이었다. 처음에는 『퇴근
+후에는 우리가 아이를 돌보
+</tdmsfiletext>

@@ -1,0 +1,24 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-15_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.15 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"원산.남포 내년 개방" 시사
+
+
+⊙황수경 앵커 :
+          홍콩에서 열리고 있는 세계 경제포럼 동아시아 태평양 경제
+정상회의에 참석중인 북한 대외경제위원회의 김문성 부위원장은 오늘
+기조연설을 통해 북한은 나진 선봉지대를 자유무역지대로 개방한데 이어서
+원산과 남포를 보세가공 수출지대로 지정해서 내년쯤 개방할 것이라고
+밝혔습니다. 
+
+
+
+</tdmsfiletext>

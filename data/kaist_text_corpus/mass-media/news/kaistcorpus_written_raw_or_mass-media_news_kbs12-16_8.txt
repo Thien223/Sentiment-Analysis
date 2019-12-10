@@ -1,0 +1,17 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-16_8.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.16 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+北, 또 KBS위협
+북한은 오늘 평양방송을 통해서 KBS TV드라마 진달래꽃 필때까지 의 제작을
+지지하는 북한 주민의 편지가 KBS에 전달됐다는 보도와 관련해서 이는
+허위날조 라고 주장하며 KBS에 대해서 협박공세를 다시 폈습니다. 
+
+</tdmsfiletext>

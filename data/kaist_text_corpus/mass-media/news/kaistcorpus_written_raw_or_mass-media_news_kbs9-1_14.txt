@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-1_14.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.1  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+연세대 성적 증명서 위조 유학 시도
+연세대학교는 오늘 올해 미국에 있는 대학에 입학원서를 낸 우리나 라 학생
+4명이 현지 유학 알선업체를 통해서 성적증명서를 위조해서 연세대학교를
+졸업한 것 처럼 속여 지원서를 작성한 것으로 드러났다고 밝혔습니다.
+연세대학교 박영필 교무처장은 미국 남가주 대학이 신원확인을 의뢰해온 연세대
+출신 입학지원자 7명에 대한 신원확인 결과 이 가운데 4명이 위조한
+성적증명서를 사용했다고 밝혔습니다. 
+
+</tdmsfiletext>

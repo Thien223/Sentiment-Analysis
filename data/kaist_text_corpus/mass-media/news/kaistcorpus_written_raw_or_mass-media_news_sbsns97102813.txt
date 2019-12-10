@@ -1,0 +1,16 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97102813.txt </filename>
+<title> SBS 뉴스 </title>
+<author> </author>
+<date> 1997.10.28  </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+김대통령, 저축의날 오찬
+김영삼 대통령은 오늘 제 34회 <저축의 날>을 맞아 연예인 김용림씨 등 저축유공자와 원로금융인 60여명을 청와대로 초청해 오찬을 함께 하면서 수상을 축하하고 노고를 치하했습니다. 
+
+김 대통령은 이 자리에서 "최근의 어려운 경제여건을 극복하기 위해 모든 국력을 결집해 나가야 한다"면서 "우리 기업들이 고질화된 고비용.저효율 구조를 조속히 타파하고 국민들도 건전한 소비생활과 저축하는 기풍을 일으켜주기 바란다"고 당부했습니다..
+</tdmsfiletext>

@@ -1,0 +1,23 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_sbsns97103014.txt </filename>
+<title> SBS 뉴스</title>
+<author> </author>
+<date> 1997.10.30 </date>
+<publisher> SBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+김치가 힘의 원천
+월드컵 한일전을 앞두고 요즘 일본에서는 한국팀이 왜 강한지를 놓고 여러가지 분석이 나오고 있습니다. 
+재미있는것은 한국인들이 즐겨 먹는 김치에 그 비밀이 있다는 분석 내용이 입니다. 도쿄에서 김성우 특파원 전해드립니다. 
+일본의 한 방송사는 한국축구가 왜 강한가를 분석한 특집방송에서 김치를 한 원인으로 꼽았습니다. 
+한국선수들은 물론 원정 응원단들도 김치를 갖고 다니면서 먹습니다. 
+일본 사람들은 와사비라고 부르는 고추냉이를 우리의 김치처럼 먹습니다. 
+그래서 당연히 김치와 고추냉이의 비교가 일본에서는 화제가 되고 있습니다. 
+실제로 우리나라 선수들은 김치를 빼놓지않고 먹습니다. 
+일본에서는 요즘 한국축구와 함께 김치까지 새롭게 붐을 이루고 있습니다. 
+
+됴쿄에서 김성웁니다. 
+</tdmsfiletext>

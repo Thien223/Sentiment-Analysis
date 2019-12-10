@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-11_17.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.11  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.03</kdc>
+<tdmsfiletext>
+사랑의 장기이식 6명 연쇄수술
+
+만성 신부전증 환자와 가족 등 6명이 릴레이식으로 신장을 주고받는 연쇄
+이식수술이 국내에서 처음으로 시도됐습니다. 오늘 오전 서울 한양대병원에서는
+서울 하계1동 45살 정여임씨의 신장이 만성 신부전증을 앓고 있는 경주시 시래동
+37살 최상곤씨에 게 이식된데 이어서 최씨의 누나 37살 최상복씨가 서울 신림동
+41살 이종선씨에게 신장을 기 증했습니다. 내일 오전에는 이씨의 동생인 37살
+이장현씨가 42살 왕원기씨에게 신장을 기증 할 예정입니다. 
+</tdmsfiletext>

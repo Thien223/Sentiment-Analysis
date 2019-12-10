@@ -1,0 +1,30 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-10_9.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+고려大 특차 수능성적만으로 선발
+
+
+⊙황수경 앵커 :
+          고려대학교는 오늘 발표한 98학년도 입시요강에서 그동안 수능과
+학생부를 반영해서 신입생을 뽑던 특차 선발 방식을 바꿔서 내년부터
+수능성적만으로 선발한다 고 밝혔습니다. 또 특차모집시 2지망 지원을
+허용해서 1지망에서는 특차 모집인원의 80%를 2지망에서는 나머지 20%를
+선발하기로 했습니다. 
+
+
+덕성여대 재단이사장 승인 취소
+교육부는 지난 6월 덕성여대에 대한 감사에서 박원국 재단이사장의 학사행정
+간섭이 지적돼 총장과 합의해서 시정 방안을 제출하도록 했지만 박 이사장은
+그동 안 오히려 총장의 권한을 침범해서 학내 분규를 유발한 책임을 물어
+임원 취임 승인을 취소 한다고 발표했습니다. 
+
+
+</tdmsfiletext>

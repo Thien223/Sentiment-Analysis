@@ -1,0 +1,22 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs12-16_11.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.12.16 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+이시윤 감사원장 퇴임
+
+
+
+⊙황수경 앵커 :
+          이시윤 감사원장이 오늘 4년간의 임기를 마치고 퇴임했습니다. 이시윤
+감사원장은 오늘 이임식에서 새로 들어설 정부의 국정운영 방향에 따라
+사정업무를 총괄 해 나가는 명실상부한 국가 최고 사정기관으로써 감사원에
+부여된 소임을 다할 수 있도록 모 두 열과 성을 다해달라고 당부했습니다. 
+
+</tdmsfiletext>

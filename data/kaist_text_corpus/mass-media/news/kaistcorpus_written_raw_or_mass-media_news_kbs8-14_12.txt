@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-14_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.08.14 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+"고의로 체중 줄여 군 면제판정 의혹"
+
+
+⊙황수경 앵커 :
+          국민회의의 정동영 대변인은 오늘 신한국당 이회창 대표의 장남 정
+질의하는 등 병역 공세를 다시 시작했습니다. 이와 관련해서 신한국당의 이사철
+대변인은 전 혀 근거가 없는 그야말로 의혹제기에 불과하다고 반박하고 이 대표
+장남의 체중 감소는 미국 유학중에 정신적 육체적인 피로가 누적됐기
+때문이라고 말했습니다. 
+</tdmsfiletext>

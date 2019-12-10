@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-16_16.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.16 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+국산 구축함 2호 '을지문덕함'진수
+
+
+⊙황수경 앵커 :
+          한국형 구축함 건조사업에 따라서 순수 우리 기술로 만들어진 국산
+구축함2호 을지문덕함의 진수식이 오늘 오전 경남 거제의 대우
+옥포조선소에서 열렸습니다. 을지문덕함은 만재 톤수가 3천8백여톤에 길이
+135미터 그리고 최대시속 56㎞로 운항할 수가 있습니다. 
+
+
+
+</tdmsfiletext>

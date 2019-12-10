@@ -1,0 +1,24 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_1725.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.09.04</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.1772CSM930904     
+「코주부」  돌아온다／작가  김용환씨，후계자에  집필허락                      
+  추억의  만화  주인공  「코주부」가  되살아나게  됐다．  해방직후부터 
+７０년대말까지  우리나라  만화문화를  이끌었던  원로  만화가  김룡환씨는  자신의 
+「코주부」  집필권을  수제자인  이원수씨에게  허락했다．  이에따라  이씨는 
+코주부라는  명칭과  고유한  캐릭터를  사용할  수  있다．  만화주인공이  대를 
+잇게  된  것은  우리나라에서는  처음이다．※  둥근  코에  대머리로  선량하게 
+생긴  코주부는  전형적인  서민가정의  가장으로  해방직후의  혼란과  한국전쟁의 
+폐허  속에서도  웃음과  희망을  선사했던  주인공이다．※  이씨는  지난  ５６년 
+김씨의  추천으로  등단한  만화가로  현재  한국만화공방  대표로  있다． 
+이씨의  「코주부」가  연재될  매체는  아직  정해지지  않았다．※                   
+
+</tdmsfiletext>

@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_4_48.txt </filename>
+<title> 조선일보  </title>
+<author> </author>
+<date> 93.06.25</date>
+<publisher> </publisher>
+<kdc> 070.09</kdc>
+<tdmsfiletext>
+[NA0402.0921CSM930625
+[새영화]
+드래곤(새영화)
+◎액션스타 이소룡의 삶※ 무술인이자 「용쟁호투」의 액션스타였던
+이소룡의 삶을 그렸다. 무술을 격투기가 아닌 정신적 수련으로 본 그는
+쿵후를현대화한 절권도를 창시하고 이를 영화에서 선보여 전세계에 폭발적인
+선풍을 일으키나 32세의 나이로 요절한다. 이소룡이 갖고 있었던 무술에
+대한 정열, 주변 사람들과의 이야기 등을 일대기 형식을 탈피해
+담아냈다. 이소룡역은 중국계 미국인 배우 제임스 스코트 리, 감독은 로브
+코헨. 그의 아들 브랜든 리가 사망한 직후인 지난 5월초 미국에서
+개봉됐다.(UIP직배)※
+
+
+
+</tdmsfiletext>

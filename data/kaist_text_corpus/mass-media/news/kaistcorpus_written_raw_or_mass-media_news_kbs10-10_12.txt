@@ -1,0 +1,29 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-10_12.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.10 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.11</kdc>
+<tdmsfiletext>
+간추린 소식
+
+
+쌍둥이 자매 행정고시 동시 합격
+
+
+
+⊙황수경 앵커 :
+          총무처가 오늘 발표한 지방 고등고시와 행정고등고시에 부산의 쌍둥이
+자매가 나란히 합격해서 화제가 되고 있습니다. 영광의 주인공들은 지방
+고등고시 행정직 2차에 합격한 부산 괴정 2동에 사는 30살의 언니
+오미희씨와 행정고시에 합격한 동생 진희씨 입니다. 서 원인이 확인되지
+않은 불이 나 건물 2백여평을 태우고 이 시간 현재 계속 번지고 있습니 다. 
+
+
+
+
+</tdmsfiletext>

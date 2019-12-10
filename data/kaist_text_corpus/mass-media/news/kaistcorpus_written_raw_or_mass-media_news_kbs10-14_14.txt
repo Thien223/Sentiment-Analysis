@@ -1,0 +1,31 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-14_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.14 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.05</kdc>
+<tdmsfiletext>
+한우 챔피언
+오늘 경기도 안성군에서는 전국에서 힘세고 싸움 잘하는 소들이 모 여서
+한판 대결을 벌인 민속 소싸움 대회가 열렸습니다. 엄경철 기자가
+취재했습니다. 
+
+⊙엄경철 기자 :
+          몸무게 730㎏ 이상의 각종 한우 결승전 상대방을 잔뜩 노려보는
+눈초리가 예사롭지 않습니다. 뿔을 맞대고 있는 힘을 다해 밀어부치지만
+좀처럼 승부가 나지 않습니다. 잠시 숨을 고르다가도 틈만 생기면 뿔로
+후려칩니다. 팽팽히 맞선 10분 이제 승 부를 갈라야 할 순간입니다. 한번
+뒷모습을 보인 소는 싸움을 포기하고 깨끗하게 패배를 인 정합니다. 오늘
+챔피언은 경남 김해에서 올라온 싸움 경력 8년의 백두산 호랑이 우승 상금
+8 백만원을 받고 의기양양하게 돌아갑니다. KBS 뉴스, 엄경철입니다. 
+
+
+영상취재
+< 재활용품 작품전시회 > 
+
+
+</tdmsfiletext>

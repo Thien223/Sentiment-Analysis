@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_1079.txt </filename>
+<title> 조선일보  </title>
+<author> 이경희(기자)</author>
+<date> 93.07.11</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.1086CSM930711    
+｛이경희｝                                                                    
+눈병땐  양손중지  끝부분  자극／수지침：５（건강메모）                        
+  여름철  날씨가  더운  관계로  세균이  극성을  부리고，  덥고  나른하기 
+때문에  청결하지  못하게  된다．  그러다  보면  눈다래끼，  결막염  등이  많이 
+발생한다．  이들  질환은  약물요법으로  잘  치료되기도  하나  수지침을 
+이용하면  효과가  더  빠르고  우수하다．  ３일간  치료하면  안  낫는  것이  없을 
+정도이다．※  중지는  사람의  중심부위이고  중지  끝부분에  얼굴，  그리고  눈 
+부위가  있다．  눈병이  있을  때  양손  모두  눈의  상응점（가장  아픈 
+부분）을  찾아  수지침을  놓고  ２０∼４０분  정도  그대로  둔다．  압봉을  붙이고 
+하루  정도  잠을  자면  １회만  시행해도  효과가  당장  나타난다．  ３회  정도 
+시술하면  ８０％  이상  치유효과가  있다．  〈이경희·서울 
+한도한의원장·의학박사〉※                                                                     
+
+</tdmsfiletext>

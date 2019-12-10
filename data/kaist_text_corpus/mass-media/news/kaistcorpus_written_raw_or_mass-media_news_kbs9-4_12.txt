@@ -1,0 +1,18 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw</process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-4_12.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.4  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+체첸서 살인범 2명 공개 총살
+
+체첸공화국의 수도 그루지니에서 살인혐의로 유죄판결을 받은 살인 범 2명이
+수백명의 관중들이 지켜보는 가운데 총살됐습니다. 이번 처형은 범죄와의
+전쟁을 선포한 아슬란 마스카도프 체첸공화국 대통령의 명령에 따른 것입니다. 
+
+</tdmsfiletext>

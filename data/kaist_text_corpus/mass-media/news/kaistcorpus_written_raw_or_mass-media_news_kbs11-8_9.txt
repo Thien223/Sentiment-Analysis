@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-8_9.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.11.08 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+세계 최대 산샤댐 물막이공사 완공
+
+공사가 착공 5년만에 오늘 완공됐습니다. 오늘 오후 중국 호북성 현지에서 거행된
+준공식에 는 장쩌민 중국 국가주석과 니붕 총리 등 천여명의 인파가 참석했습니다.
+
+
+</tdmsfiletext>

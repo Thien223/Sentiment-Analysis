@@ -1,0 +1,26 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_na0402_2742.txt </filename>
+<title> 조선일보  </title>
+<author> 김형석(기자)</author>
+<date> 93.11.22</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.2805CSM931122    
+［건강메모］                                                                  
+｛김형석｝                                                                    
+뼈에도  나이가  있다／뼈：１（건강메모）                                      
+  유골이라는  물질에  칼슘이  잘  결합된  복합체인  뼈는  태아  ６∼８주에 
+세포가  분화되어  연골기질을  형성하고  골화（골화）중심이  생겨  만들어지고 
+성장한다．  장골（사지를  이루는  뼈）은  １６∼１７세까지  자란다．  따라서 
+Ｘ레이를  찍어서  손목의  수근골이나  주관절  또는  고관절부의  골화중심을 
+확인함으로써  유년기나  학동기의  연령을  구별할  수  있다．또  장골의  양측에는 
+뼈가  가로로  분리되어  보이지  않는  성장판을  확인함으로써  키의 
+성장여부를  알  수  있다．  특히  척추는  ２５∼６５세까지  이  성장판을  볼  수  있어 
+연령을  추정하는  데  큰  도움이  된다．〈김형석·서울위생병원 
+의무원장·정형외과〉※                                                                     
+
+</tdmsfiletext>

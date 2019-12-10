@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-22_12.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+"「상사 질책 돌연사」업무상 재해"
+직장상사의 질책으로 인한 정신적인 스트레스가 원인이 된 돌연사도 업무상
+재해에 해당된다는 판결이 나왔습니다. 서울 고등법원 특별11부는 오늘
+의료기구 제 조업체에서 기능직으로 일하다 갑자기 숨진 송 모씨의 유족이
+근로복지공단을 상대로 낸 소 송에서 유족 급여와 장의비를 지급하지 않은
+것은 부당하다고 판결했습니다. 
+
+
+
+</tdmsfiletext>

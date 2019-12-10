@@ -1,0 +1,23 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-17_16.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.10.17 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.07</kdc>
+<tdmsfiletext>
+LG, 한국시리즈 진출
+
+
+⊙황수경 앵커 :
+          LG트윈스가 프로야구 한국시리즈에 진출했습니다. LG는 오늘 잠실에서
+열린 삼성과의 프로야구 플레이오프 5차전에서 6회말에 한꺼번에 6점을
+뽑으면서 7대2 로 대역전승을 거뒀습니다. 이로서 LG는 3승2패로
+한국시리즈에 올라 해태 타이거스와 모레 부터 7전4 선승제의 한국시리즈를
+치르게 됐습니다. 
+
+
+</tdmsfiletext>

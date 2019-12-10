@@ -1,0 +1,21 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-18_15.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.18  </date>
+<publisher> KBS  </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+강경식 부총리 오늘 출국
+
+
+
+⊙황수경 앵커 :
+          강경식 부총리겸 재정경제원 장관은 내일 방콕에서 열리는 아시아 유럽
+재무장관회의와 오는 21일부터 25일까지 홍콩에서 열리는 국제통화기금 IMF와
+세계은 행 연차총회에 참석하기 위해서 오늘 오후 출국했습니다. 
+
+</tdmsfiletext>

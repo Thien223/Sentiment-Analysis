@@ -1,0 +1,21 @@
+<language> Korean</language>
+<textcode> KSC-5601-1988</textcode>
+<process> raw</process>
+<version> 2001</version>
+<filename> kaistcorpus_written_raw_or_mass-media_newspaper_3_190.txt </filename>
+<title> 조선일보  </title>
+<author> 최홍섭(기자)</author>
+<date> 93.06.09</date>
+<publisher> </publisher>
+<kdc> 070.02</kdc>
+<tdmsfiletext>
+[NA0402.0758CSM930609
+{최홍섭}
+유통업계 개방 “비상”/“남대문 시장까지 넘본다”
+◎7월부터 3단계 시행/외국사 천평내 점포 20개 운영가능/일 대형
+가전업체등 상륙준비/미사도 식품­완구전문점 노려/“물류선진화”
+국내업계대응 골몰※ 오는 7월1일로 다가온 유통시장 3단계 개방을 앞두고
+국내 유통업계가 바짝 긴장하고 있다. 3단계 개방조치로 외국기업들은
+면적1천평(3천㎡)이내의 점포를 최대 20개까지 운영할 수 있어 외국
+유통전문업체들의 활발한 진출이 예상되%B
+</tdmsfiletext>

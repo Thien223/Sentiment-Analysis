@@ -1,0 +1,19 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs11-12_14.txt </filename>
+<title> KBS 9시뉴스</title>
+<author> </author>
+<date> 1997.11.12 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.04</kdc>
+<tdmsfiletext>
+이라크 제재결의안 안보리 상정
+
+미국과 영국이 오늘 이라크에 대한 제재결의안을 유엔안전보장이사 회에
+상정했습니다. 이 결의안은 미국인 사찰단원을 추방한 이라크에 대한 비난과 유엔
+무기 사찰단의 활동을 방해한 이라크 관리들의 해외여행 금지조치 그리고
+무기사찰단의 보고서가 제출된이후 6개월간 대이라크 제재조치 해제검토 중단
+등으로 이루어진 것으로 알려지고 있 습니다. 
+</tdmsfiletext>

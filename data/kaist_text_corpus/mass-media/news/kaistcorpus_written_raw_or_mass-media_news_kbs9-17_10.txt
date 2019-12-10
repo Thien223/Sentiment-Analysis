@@ -1,0 +1,18 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs9-17_10.txt </filename>
+<title> KBS 9시 뉴스  </title>
+<author> </author>
+<date> 1997.9.17  </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.02</kdc>
+<tdmsfiletext>
+최종현 전경련 회장 귀국
+
+미국 뉴욕의 실로원 메모리얼 캐터린 병원에서 폐암 수술을 받은 뒤 뉴욕 북부
+코네티컷 주에서 요양을 받던 최종현 선경그룹 회장이 오늘 오후
+대한항공편으로 귀국했습니다. 
+
+</tdmsfiletext>

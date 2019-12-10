@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs10-22_13.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.10.22 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.01</kdc>
+<tdmsfiletext>
+'인재 지역할당제' 법률안 제출키로
+부산 등 전국 12개 시도의회 의장과 경북대 등 15개 대학총장으로 구성된
+인재 지역할당제 추진위원회는 오늘 국회의원회관에서 공청회를 열고
+국가고시와 주 요 자격시험 합격자를 지역별 인구비례로 뽑는 가칭 국가
+인재의 지역간 균등 등용을 촉진하 기 위한 법률안을 국회에 제출하기로
+했습니다. 
+
+
+</tdmsfiletext>

@@ -1,0 +1,20 @@
+<language> Korean </language>
+<textcode> KSC-5601-1988 </textcode>
+<process> raw </process>
+<version> 2001(or)</version>
+<filename> kaistcorpus_written_raw_or_mass-media_news_kbs8-20_12.txt </filename>
+<title> KBS 9시뉴스 </title>
+<author> </author>
+<date> 1997.08.20 </date>
+<publisher> KBS </publisher>
+<kdc> 070.42.08</kdc>
+<tdmsfiletext>
+「아리안 스페이스」, 무궁화3호 발사
+
+
+⊙황수경 앵커 :
+          한국통신은 오는 99년 8월에 발사예정인 무궁화 3호 위성의 발사용역협상
+업체로 선정된 유럽연합의 아리안 스페이스사와 최종 계약을 체결했습니다.
+아리안 스페이스사는 입찰에 응한 미국의 록히드 마틴사 등 3개의 발사용역회사
+가운데 기술규격과 가격평가를 통해서 우선협상 대상자로 선정된바 있습니다. 
+</tdmsfiletext>
